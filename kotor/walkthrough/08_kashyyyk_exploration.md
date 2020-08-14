@@ -1,0 +1,325 @@
+
+# Kashyyyk
+
+- Vision
+	- It looked like the Star Map was on the forest floor.
+- SAVE
+- Zalbaar + Carth -> **Mission Instead ???**
+	- What services does 100 credits get me?
+	- Is the price negotiable?
+	- [Persuade/Lie] I represent wealthy clients. You should let me pass.
+	- That will not be necessary.
+- Level Up Zalbar
+
+![KOTOR Guide-3](../resources/images/screenshots/KOTOR%20Guide-3.png)
+
+- Fodo Medo -> Pazaak * 10 -> LATER
+- Loot around -> IF MISSION -> Interface Visor !!!
+- Komad -> from Taooine !!!
+	- Why did you leave your home on Tatooine?
+	- Whose permission are you looking for?
+	- What are you doing to gain their trust?
+	- What do you know of Kashyyyk?
+	- I'm looking for a Star Map here. Have you heard anything?
+	- If not Czerka, who would you prefer to deal with?
+	- I have to leave. Goodbye.
+- Talk to Czerka people
+- Zaabar
+	- Prepared me? What do you mean?
+	- Why were you forced to leave?
+	- Why didn't your father believe you?
+	- Time has passed. Things will have changed.
+	- We'll deal with that if we have to. Let's go.
+- Matton Dasol
+- Eli Gand -> Mission + Carth Banter
+	- What do you know of Kashyyyk?
+	- What do you mean by that?
+	- I want to go back to my other questions.
+	- Do you always enslave your debtors?
+	- Do your debtors have a habit of running off?
+	- How much debt buys a man's life?
+	- Perhaps I could settle some of his debt?
+- Czerka
+	- Scientist
+		- You work on Kashyyyk and don't understand the language?
+		- Why would a Wookiee leader do that?
+		- That knowing Basic just makes his people better slaves.
+		- Why don't you do anything to stop it?
+		- How convenient. All the benefits with no guilt.
+		- What is your job here?
+		- I want to ask questions about this planet.
+		- Goodbye
+	- Janos
+		- Tell me about the planet. You called it G5-623 before.
+		- //What else is on this planet?
+		- Allow it more liberties? What do you mean?
+		- Zaalbar is no slave. He has pledged a life-debt to me.
+		- Why do the Wookiees tolerate you doing this?
+		- [Persuade] Tell me about it. I might be more understanding if I know. (easy)
+		- What is this leader's name?
+		- What about it, Zaalbar? What's the matter?
+		- Other questions
+		- I need supplies. What is available here?
+		- What weapons do you have available?
+		- …
+		- I'm looking for something called a Star Map.
+- Aller vers la sorie
+- Czerka Guard Captain
+	- What do you know about the Wookiees?
+	- So the Wookiees are fighting back?
+	- What can you tell me about Czerka Corporation?
+	- Maybe I should just let him rip your arms off.
+	- [Persuade] I'm just trying to get my bearings. I don't mean any harm. (Easy)
+	- That's all. Goodbye.
+
+**# Great Walkway
+**
+![KOTOR Guide-4](../resources/images/screenshots/KOTOR%20Guide-4.png)
+
+- Kill the Kinrath
+- Zalbar talk
+	- Is there anything I can help you with?
+	- We'll deal with that when the time comes.
+- Droid -> full repair ? -> **8 parts**
+- + 910px
+- Czerka -> Zaalbar needs to be CLOSE
+	- Just hurry up and tell me what happened.
+	- **Does this make you mad, Zaalbar? I bet it does.**
+	- Control yourself. Let me take care of this.
+	- Do your superiors approve of you killing Wookiees?
+	- **I won't allow you to enslave or kill another Wookiee. +4PCL**
+	- It doesn't matter. You won't enslave another Wookiee!
+- Kill
+- Loot
+- Get mines
+- Go assist the droid
+- Wait for droid -> kill others
+- Go on left (not toward the Wooke guard)
+- Go to console + use ID
+	- Interface VISOR !!! -> Computer, Demo, Sec +4
+- Continue -> Sith
+- Talk to Cookie
+	- What does he mean, Zaalbar? What taint?
+- Bastila + Mission
+	- A nice nest of lies you have constructed.
+	- What do you want? Why drag us here?
+	- I would not abandon Zaalbar to you.
+	- He's standing against you. The first of many, perhaps?
+	- Lets go back…
+	- I want to ask about the Shadowlands.
+	- I won't do this. Do your own dirty work.
+	- I need Zaalbar with me as a guide
+	- Who are you talking about, Zaalbar?
+	- Play along, Zaalbar. I will see what I can do.
+- Longer sur la droite
+- Porte **Woorwill**
+	- Jarak
+		- I wanted to ask you about Kashyyyk.
+		- I must leave.
+	- Woorwill
+		- I understand you. I'm not here as a slaver.
+		- Can I ask you some questions?
+		- Who was Rorworr?
+		- When did Rorworr go missing?
+		- Goodbye.
+- BANTER !!! Bastila + Mission
+- Continuer -> descendre -> porte -> lawyer
+- Loot
+- Vers sortie : Proposition Bastila -> 7/9
+	- I'd like to talk about what you said before. About giving in to your emotions.
+	- No, I disagree!
+	- You're doing your best, I'm sure.
+	- You're being too hard on yourself.
+	- How did you expect me to be? -> sinon gros lourd
+- go exit
+
+- Kill mobs
+- Wookiee Guard -> talk
+- Left -> kill mobs
+- Go back -> Right
+- Kill mobs
+- (SAVE!!!!)
+- Help Wookies 
+	- I don't mean you any harm.
+	- I am Name, and I act for Chuundar.
+	- Explain what you meant by that.
+	- **[Persuade] Just a few questions. I'm a friend. (Medium)**
+	- Do you know of a crazed Wookiee in the Shadowlands?
+	- How long has he been down there?
+	- What do you think of Chuundar?
+	- How will Bacca decide? What does that mean?
+	- Could a blood relative of Chuundar challenge him?
+	- How has Kashyyyk fared under the Czerka Corporation? (Mission Banter -> more interesting than Carth)
+	- I seek an ancient Star Map. Have you seen it?
+
+![KOTOR Guide-5](../resources/images/screenshots/KOTOR%20Guide-5.png)
+
+- Descendre
+	- I have a few questions, Gorwooken.
+	-  I want to ask if it's dangerous down there.
+	- Has anyone else been allowed down recently?
+	- What outsiders are below? -> Jolee !!
+	- Just unlock the thing and lower me down.
+
+**# Upper Shadowlands
+**# 
+
+- Kill
+- Loot corpse -> ZABRAK MARK III
+- Jolee
+	- Who are you? What are you doing here?
+	- You use a lightsaber in battle. Are you a Jedi?
+- Corpse -> Again good stuff
+- Go right
+- Jolee
+	- Yes, I feel there is much you can tell me.
+	- I want to ask about you.
+	- **You muttered something about fighting Sith?**
+	- You are difficult to deal with. It worries me.
+	- I want to ask you some questions.
+	- **I need information about problems on Kashyyyk.**
+	- What do you know of Chuundar?
+	- You don't have a recommendation?
+	- Have you seen a crazed Wookiee in the Shadowlands?
+	- Do you know a missing Wookiee called Rorworr?
+	- You aren't being very helpful.
+	- **Have you any knowledge of Star Maps?**
+	- If you have…
+	- I don't understand. Can you be more specific?
+	- Why should I trust you, you crazy old coot?
+	- Why do you care if they are here?
+	- Well, I'll try to learn from this humble task.
+	- Where are they? How many men?
+	- Why would you want to join up with me?
+	- Why not just go get rid of them yourself?
+	- I will look into it.
+- Go to south -> droid ?
+	- Salvage what parts you can from this droid
+- Right -> nothing for now -> corpse
+- Left -> kill all
+- Level up
+- Loot 2 corpses
+- Next room on the right vers Jolee
+- Continuer vers Czerka -> kill -> loot gravas + Wookie !
+- Déminer -> average flash
+- Commander Dern -> job contre jolie…
+	- Are you the poachers Jolee told me about?
+	- I want to ask you a few questions.
+	- Is there anything odd down here?
+	- You aren't safe with blasters?
+	- Are you part of the slaving operation?
+	- Questions Shadow
+	- If the Shadowlands are so dangerous, how do you survive? -> EMITTER
+	- I'm leaving.
+- Guard
+	- I'd rather ask about you. Why are you here?
+	- I want to ask you some questions.
+	- What do these emitters do?
+	- So only the emitters are keeping you here?
+	- Maybe you could help me shut it down? For, say, 200 credits? -> sinon
+		- [Persuade] So , if someone shut them down, you could leave. (EASY)
+- Emitter
+	- Access Primary functions
+	- Enter Czerka guard code. Terminate sonic emission.
+- Guard
+	- I'd rather ask about you. Why are you here?
+	- Let’s talk…
+	- Maybe you could help me shut it down? For, say, 200 credits? -> sinon
+- Emitter
+	- Access Primary functions
+	- Enter Czerka guard code. Terminate sonic emission.
+- Cinematic
+- Loot + go back (unlock w mission)
+- Jolee
+	- I have made certain the poachers are gone.
+	- There was nothing to gain by killing them.
+	- You mentioned eliminating barriers? Could we get to it?
+- Take Bastila with Jolee -> Banter
+- Level up + equip + script
+- Retourner au village absolument !!! -> pour rendre quête (surtout à coté ebon -> slave -> after too late)
+- A pied !
+- Kill mobs
+- Woorwill House
+- Woorwill
+	- Do you know whose bolt casing this is?
+	- This bolt casing was found on Rorworr's body.
+	- Rorworr was dealing with slavers. Do you know anything about this? -> Bastila
+	- What do you have to say about it?
+	- Very well. I will speak with you, Jaarak. Goodbye, Woorwill.
+- Jaarak
+	- Don't you want a chance to defend yourself?
+- Go to other house
+- Worrroznor
+	- Do you know who owns this bolt casing?
+	- Tell me something. What's the penalty for murder?
+	- I found Jaarak's bolt casing on Rorworr's corpse.
+	- …
+	- Is there no alternative to death as punishment? + 2PCL
+	- Jaarak, won't you say anything in your own defense?
+	- Jaarak, I won't let you do this. Rorworr was dealing with slavers. + 6PCL
+	- If that is what you want.
+	- No, I won't let this happen.
+	- Rorworr dealt with slavers. The datapad I found on his corpse proves it.
+	- My reward? What reward?
+	- Can I ask you if anything is happening now?
+	- Goodbye to you.
+- 400c + 1600px
+- Ebon à pied -> useless -> TP -> unless banter near the door of the village ?
+
+# Back Ebon
+
+- Improve LS for Jolee + Carth weapon + **Take short LS in left hand ?? -> RED !**
+- Canderous (Xbox ok but leviathan first ?) 5/6
+	- Tell me more about the Mandalorian Wars.
+	- But what about the Sith?
+	- But you eventually lost.
+	- Why didn't you retreat?
+- Juhani (3/6)
+	- Is something wrong?
+	- I am sorry, Juhani.
+	- **I do not remember seeing any of your race on Taris…**
+	- **How could such a government last?**
+	- **Decent humans are hard to find.**
+	- Your parents?
+- Bastila 8/8 -> LAST -> ROMANCE !
+	- When we last talked you said you needed time to think. So?
+	- Yes, I think so.
+	- **What is it supposed to be like?**
+	- Are you interested in me or in my ability to use the Force?
+	- **You could leave, if you had to.**
+	- …
+	- So what does this mean for us?
+	- So that's it? It's all over?
+	- Great - you learn a lesson and I get dumped!
+	- **So I was just a stepping stone to you becoming a Master?**
+	- Difficult for you? What about me?
+	- I'm going to stop Malak, Bastila. But I want to do it with you at my side.
+	- You know I'm right, Bastila.
+	- **I love you Bastila. And I know you love me.**
+	- It didn't feel wrong to me.
+
+![KOTOR Guide-6](../resources/images/screenshots/KOTOR%20Guide-6.png)
+
+- NOW NEVER SPEAK TO BASTILA AGAIN!!! -> 
+	- She returns to the cockpit. Do not talk to her again about what happened between you, or this ends your romance and later dialog options are not unlocked
+- Go out with Jolee and Carth -> for banter + Dustin
+- Fodo Medo -> Pazaak * 10 -> NOW -> BECAUSE GONE WHEN WOOKIE TAKE POWER
+	- What do you do for Czerka ?
+- Level up carth
+- Ask Merchant
+	- I found this droid head. Can I ask you about it?
+	- It recorded an ambush. Someone yells Eli's name.
+	- **Don't act rashly, Matton. Eli is through. Violence won't help.** +6PCL + 638px
+- Reask
+	- He won't last long hiding in the Shadowlands.
+	- His reputation's shot. Someone honest could take over. 
+		- //I suppose that closes his little outpost here.
+	- In that case, let's see what's for sale.
+
+![KOTOR Guide-7](../resources/images/screenshots/KOTOR%20Guide-7.png)
+
+- Carth
+	- You're a friend of Carth, I take it?	
+	- I understand. We'll go as soon as possible.
+- Switch Carth with Canderous
+- Go back at Jolees house

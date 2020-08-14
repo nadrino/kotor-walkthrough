@@ -1,0 +1,210 @@
+
+# Kashyyyk Star Map
+
+- Recover mines past the Czerka base
+- Czerka door
+	- Why place this thing here?
+	- Whatever. Just shut it down.
+	- Very well. Why did Czerka put this here?
+	- Have you gone past it …
+	- I trust …
+- …
+- Meet mandalorians
+	- What happened here?
+	- I have the means to heal you. Here.
+	- What can you tell me about your attackers? -> Canderous ?
+	- I'll look into it.
+- Loot + remove weapons -> Mandalorians popup
+- Go to droit
+- Ambuscade -> Focus sur 1
+- Continuer vers les Kinrath
+- Go left next intersection (right is the swoop bikes)
+- Go sous la bûche
+	- Après cookie mort -> ambuscade -> remove weapons
+- Remonter vers les swoop bikes -> Boucle -> kill last mob
+- Bike -> module -> last mands
+- Equip cancerous with belt
+- Level up and and jolly ?
+- Go back to wookie
+	- The Mandalorian hunters are dead. I killed them all.
+	- I hope it does. Goodbye.	
+- + Echani Vibroblade (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Melee_weapons#Echani_Vibroblade_)
+- Prendre l’autre passage
+- Suivre à gauche/kill
+- Freyrr
+- Attack
+	- I'm not here to kill you. Just listen!
+	- Do you know Zaalbar and Chuundar?
+	- My name is Name. I came to Kashyyyk with Zaalbar.
+	- No, he follows because of a life-debt.
+	- Go over exactly what happened with Zaalbar.
+	- So Zaalbar was exiled. When did you learn the truth?
+	- Back to my other questions.
+	- Why would Chuundar want you dead now?
+	- Well, what happens now?
+	- How? Everyone is on his side.
+	- Where might I find it?
+	- Describe the creature. Where can I find it?
+	- I will try to find it. Can you give me any direction?
+- Tuer kinrath devant Freyr
+- Go south right where you’ve seen mobs
+- Next intersection en face -> kill Kinrath -> corpse
+- Go back right -> south
+- See gravas
+- Attacher Kinrath
+- Kill monster
+- Go back Freyrr
+	- I have other questions.
+	- I'm looking for something called a Star Map.
+	- …
+	- I have found the blade of Bacca's sword.
+	- Here, take it. I'm sure it is the one.
+	- We should proceed carefully.
+- Go to Star Map
+- Get mines
+	- What is your purpose?
+	- What do you mean by behavioral reconfiguration?
+	- And I don't fit that pattern?
+	- That seems very helpful. Why have I been allowed access?
+	- Do you not know why, or are you restricted from saying?
+	- I want to ask questions about you and this installation.
+	- Who built this installation in the first place?
+	- If this place was built 30,000 years ago it predates the Republic.
+	- Why was agricultural reformation needed?
+	- That is a short period for adaptation of native creatures.
+	- …
+	- Who installed this holo-interface?
+	- Who last accessed this installation?
+	- Five years ago is about the time Revan passed this way.
+	- But there was an entry at some time?
+	- Was there any further contact with the installer of this interface?
+	- …
+	- What's the current function of this installation?
+	- Defense of what?
+	- 
+	- I want to go back to my general questions.
+	- What limitations have been placed in your programming?
+	- What gaps are missing?
+	- 
+	- I seek information about a Star Map.
+	- Original system memory? So the map is as old as this installation?
+	- What do I need to do to get access to the Star Map?
+	- How can I match them when I don't know what they are?
+	- What do you mean by that?
+	- What if I fail?
+	- You may begin evaluation.
+	- 
+	- How did you know Zaalbar's name?
+	- Can I confer with someone else?
+	- **I trust Zaalbar. I would say nothing, and neither would he. -> Wrong but LS**
+	- Then I will change my answer.
+	- Continue your evaluation then.
+	- I subtly reinforce the city while preparing to attack.
+		- I evacuate my people from the city. +2PCL -> NO FAIL
+	- **I prepare my forces to attack in ten days. I do nothing in the city.**
+	- **The victory is irrelevant. Stopping the war saved many more people. + 2 LS**
+	- I do nothing so I can attack their weak spot later and save more lives.
+	- **I stop the attack. I will appear to be a hero.** + 2PCL
+- Full buffer + Echani shield + Krath double sword -> easy with powers of droid++ with Jolee
+- Retalk
+	- What did your scan during the battle reveal?
+- Level up
+- Go back
+- Kill Wookiie
+- Go Up
+- Talk Chorrawl
+	- Why should I follow you ?
+	- 
+	- Quiet down. We'll use this to our advantage.
+	- Do you have to fight? Talk it through! + 6 PCL
+- Kill all
+
+![KOTOR Guide-8](../resources/images/screenshots/KOTOR%20Guide-8.png)
+
+- Freyr
+	- I have a few questions about Kashyyyk, Freyyr.
+	- What will you do about the slavers?
+	- I think it's time I was leaving.
+	- That would be fitting, I think.
+	- + 6 PCL
+- Group select -> Bastila + Jolee -> NO no trigger -> Zaalbar + Jolee
+- Go back à pied -> kill Czerka
+- EBON
+
+# Back to Ebon
+
+- Improve melee + small LS
+- Canderous
+	- Tell me more about the Mandalorian Wars. 6/6
+	- How much did you lose?
+	- And you eventually came to Taris.
+	- **Opponents who could easily kill us.**
+- HK-47 -> 14 repair ?
+	- I would like to try restoring some of your memory.
+	- Let’s get started.
+	- What now?
+	- That makes sense. Did the Hutts build you?
+	- **Don't you care about all those lives lost?**
+	- But you *have* killed on your own accord before.
+	- So another master gone because of you.
+	- No doubt.
+	- You would have preferred to stay on Sleheyron?
+	- You would have been found out eventually.
+	- I should dismantle you!
+	- How very self-sacrificing of you.
+	- Do you remember anything else?
+	- [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 6 seconds, in addition to his other abilities.]
+- Next 17 in repair -> need improvement
+- Jolee
+	- Ask for med
+- Zaalbar
+	- Have anything more about..
+	- Bacca’s Sword ?
+	- Sorry can’t stay more ? -> not sure
+- Juhani
+	- Talk
+	- Tell me more about your past.
+	- **There were no Cathar on Taris that I saw.**
+	- Why did they flee?
+	- Near the world your species comes from?
+	- How did it happen?
+	- Why did the Republic not help you?
+	- What about your family?
+	- **Taris is not a nice place to raise a child.**
+	- How did he die?
+- Carth
+	- Do you want to talk ?
+- Go to Yavin
+
+# Yavin - 3rd star map
+
+- Cinematic -> Calo nord is dead -> Malak
+- Canderous + HK-47
+- Talk -> no sound on Xbox
+	- What's going on here, Suvam?
+	- I think you guys better leave.
+	- Or I will ask you again. Very politely.
+- Sell minor mines + short LS + 
+- Buy for HK ?
+	- // Composite Heavy Plating -> latter
+	- Baragwin Ion-X Weapon
+- Buy for Zaalbar
+	- Baragwin Assault Blade
+	- Advanced Bio-Stabilizer Implant -> NOT NECESSARY ? -> poison immunity in Sith Base Manaan ?
+
+![KOTOR Guide-9](../resources/images/screenshots/KOTOR%20Guide-9.png)
+
+- Back to Ebon
+	- Jolee (0/8)
+		- Why did you decide to come with me?
+		- So you wanted a ride on my ship?
+		- No, seriously, tell me.
+		- Is this a comment on my breath?
+		- I never heard of him.
+		- You're making all of this up!
+		- How young are we talking?
+		- Andor killed Kraat, I take it?
+		- You're kidding…
+		- But how can you even be sure Andor was responsible?
+	- Juhani -> nothing new
+- Go to Manaan

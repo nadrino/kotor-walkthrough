@@ -258,6 +258,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 
 # Bastilla Joins
 
+
 - Bastilla
 	- We were trying to find you, remember?
 	- **Both of you settle down! This isn't helping.**
@@ -305,12 +306,10 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Mission take mission for her demolition skills -> Level 7
 - **Goto base**
 
-**
-**
-**
-**
-**# Sith Base
-**
+
+# Sith Base
+
+
 - Try persuade -> fail
 - Say she can leave but not kill
 - Go to the console ? NOT NOW -> and with T3
@@ -343,8 +342,9 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - kill the sith loot go back
 - return to hideout
 
-**# Escaping Taris (HOW MANY SPIKES ? 1+1)
-**# 
+
+# Escaping Taris (HOW MANY SPIKES ? 1+1) 
+
 
 - Improve new items
 	- equip aura amplifier to bastilla
@@ -386,8 +386,9 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - battle sky
 	- **I think Carth has a point. We should keep moving.** -> voice+ and more coherent
 
-**# Dantoine - Meeting the Jedi Concil
-**# 
+
+# Dantoine - Meeting the Jedi Concil
+ 
 
 - pause immédatement après conversation avec bastilla
 	- quitter tout me stuf -> épée, casque, prendre vetement normal
@@ -540,8 +541,8 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- Matale
 - Sortir
 
-**# Dantoine - Trails in the Plains
-**# 
+# Dantoine - Trails in the Plains
+ 
 
 - Meet Nemo
 	- I have been given a task by the Council...
@@ -983,10 +984,10 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- You never tried to get in touch with your father again?
 	- You sound very sad when you say that.
 
-**
-**
-**# Tatooine
-**
+
+# Tatooine
+
+
 - **Bastilla**
 	- **Maybe Tatooine wasn't always a desert.**
 - Zalbar -> talks -> go to food chest

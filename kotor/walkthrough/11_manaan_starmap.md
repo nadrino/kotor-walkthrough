@@ -1,0 +1,637 @@
+
+# Sith Base on Manaan
+
+![KOTOR Guide-14](../resources/images/screenshots/KOTOR%20Guide-14.targa)
+
+- 1
+	- Equip disruptor pistol for T3 -> physical damage (Mandalorian ?)
+	- Get Mine -> Equip Awareness++
+	- Right
+- 2
+	- I have a passcard.
+	- Kill + loot -> NE PAS MONTER DANS L’ASCENSEUR
+- 3
+	- Sith
+	- Equip -> Awarness++++
+	- Open porte nord -> constater le champ magnétique
+- 4
+	- Water room -> kill all
+	- Level up Bastila and T3
+	- Pass through water channels -> lire
+		- Commander Hasek:
+			- In regards to the system in place to cycle water from the ocean to the thermal heaters:
+			- What were you thinking?!? What made you put that airlock mechanism on the only other path to the north side of the base?? Now everyone has to know how to cycle the water out of one room and into the adjoining one for each of the three rooms in sequence without accidentally flooding the room they're in. We lost seven troopers just this week!
+			- Next time I'm there you better show me how to do it properly! I can't afford to lose any more of my aides while trying to get to the Selkath!
+		- Adjutant:
+			- Sorry, sir, but we had to change the pump mechanism since one of those fish people swam into one of the intakes outside.
+			- The **external flow controls** push the water into the chambers **north and south** only now. The flow controls on the **inside wall switches** the water between **sides east and west**.
+			- The trick now is to push the water to the north and south extremes, then switch the water east-west and walk through. The meters by the flow control panels show if there is water in the adjacent room. We've also installed lifeform detection sensors, so there shouldn't be any more aide problems...
+			- We're trying to get the system passed as quickly as possible, sir, but the Selkath authorities monitoring our base have made this much more difficult.
+	- Left -> vider
+	- Porte droite
+		- Panel en face -> broken
+		- Panel on left -> ok
+		- Ok out
+	- Right -> fill
+	- Porte gauche
+		- Panel droite
+		- En face
+		- Droite
+		- En face
+- 5
+	- kill Siths -> WARNING -> MINES LEFT -> Awareness +++
+	- Equip Demolition ++ -> Deadly
+	- T3 -> unlock
+- 6
+	- Kill all -> WARNING Deadly MINE
+	- Go to the PC (Computer Dead if exploded)
+		- Kill in 9 (450 + 75 + 320 px !)
+		- Disable field
+		- Kill in 6 (sabotage)
+		- Disable steam
+- 7
+	- Loot
+- 8
+	- Prendre double blade -> Krath Double Vibroblade ? -> robots
+- 9
+	- Child dying -> take what he gives -> useful in 13
+- 10
+	- Kill Sith -> Focus sur celui du milieu -> hard
+	- Level up
+	- Loot next room -> WARNING DEADLY MINE
+
+![KOTOR Guide-15](../resources/images/screenshots/KOTOR%20Guide-15.png)
+
+- 11
+	- I am Name. Shaelas has me investigating the disappearance of young Selkath.
+	- The Sith are evil! What they told you was a lie.
+	- If the Republic is defeated, the Sith will enslave your planet! -> BASTILA BANTER !
+	- The Sith are evil, Shasa. They will use you to conquer Manaan for the kolto.
+	- I found a young Selkath dying from torture here. He gave me this...
+	- [Persuade] The Sith tortured him to death, Shasa. You know it's true. -> need FAIL -> BASTILA SAVE
+- 12
+	- Repair droid
+	- Foncer sur le Grandier !!! (Gris)
+	- No mines
+	- Good stuff for T3
+		- Computer use +6 and security +4
+- 13
+	- Kill all
+	- Ouvrir porte avec player -> cinematic
+	- T3 -> ouvrir porte -> Console à gauche
+		- Security Room ? -> sabotage +340px
+	- Don’t deactivate steam on console on the right -> no XP
+- 14
+	- EXIT
+
+# Court
+
+- Interpellation
+	- What? Why?
+	- …
+	- Get me out of here!
+	- Arbiter?
+	- I don't need anyone to represent me!
+	- What have I been charged with?
+	- It's all the Sith's fault!
+	- How will you get me free?
+	- **I had authorization to enter.**
+	- I have no prior association.
+	- Um... Don't you need to ask more questions?
+	- How can you expect to defend me without getting more information?
+	- **I think I'd rather represent myself.**
+	- No, I'll represent myself.
+	- …
+	- Not guilty.
+	- **I was investigating the disappearances of young Selkath.**
+	- I have this datapad as proof that the Sith are up to no good!
+
+![KOTOR Guide-16](../resources/images/screenshots/KOTOR%20Guide-16.png)
+
+- Jolee + Juhani
+- Juhani (5/6) -> WARNING will trigger the next event near Ebon
+	- I was wondering if we could talk.
+	- What happened after your father died?
+	- What happened?
+	- Did she die?
+	- You were enslaved?
+	- And they freed you?
+	- What was the dream?
+	- You became a Jedi.
+
+![KOTOR Guide-17](../resources/images/screenshots/KOTOR%20Guide-17.png)
+
+- Shaelas
+	- I have information for you, Shaelas.
+	- The Sith are training the Selkath youth in the ways of the Dark Jedi.
+	- I've convinced your daughter to turn her back on the Sith ways.
+	- I hope so.
+	- **Keep your credits, Shaelas. A Jedi has no need of such rewards.** +2PCL sinon 500c -> PCL vont être important…
+- Elora (SAVE)
+	- [Persuade] Was Sunry having an affair? -> NEED SUCCEED -> otherwise fail -> Jolee saves -> but NO XP
+	- He has killed many Sith before.
+	- I’ll save him (other already)
+- Open prison door -> closed
+- Talk to selkath -> unlocked
+- Sunry
+	- There's a few things we have to clear up.
+	- The judges said you left after the shot was fired.
+	- … (clear up)
+	- There was a Rodian who planted evidence at the murder scene.
+	- I know you're guilty, Sunry. I've got the Republic's data recording.
+	- But the Sith found out the truth, didn't they?
+	- **I don't know.**
+	- Killing your lover while she sleeps is murder - even if she is a Sith!
+	- These are just excuses, Sunry. We both know you have to own up to your crimes.
+- Talk to other prisoner
+- Selkath Warden
+	- **I want to begin Sunry's trial now.**
+	- Yes, let's begin the trial.
+- **Court (**_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Sunry_Murder_Trial_**)**
+	- **I will find Sunry innocent.**
+	- (Firith Me)
+		- Objection, your Honors!
+		- **Did you actually see the murder happen?**
+		- **Elassa is a Dark Jedi, isn't she?**
+		- **Was the medal left at the crime scene not a little too obvious?**
+		- I have no additional questions.
+		- (Yes.) -> Judges poll -> does not make sense -> Cut
+	- (Gluupor)
+		- **Did you see Sunry kill Elassa?**
+		- **Isn't the medal at the crime scene too obvious a clue?**
+		- **Did you plant the medal on Elassa?	**
+		- I have no additional questions.
+		- (Yes.) -> Judges poll -> does not make sense -> Cut
+	- (Elora)
+		- **Was it true your husband was having an affair with Elassa? -> no bonus but needed**
+		- I have no additional questions.
+		- (Yes.) -> Judges poll -> does not make sense -> Cut
+	- (Sunry)
+		- **How could Elassa have got a hold of your medal?**
+		- **You were going there to end the affair. Would the Sith object?**
+		- I have no additional questions.
+		- (Yes.) -> Judges poll -> does not make sense -> Cut
+	- (Closing)
+		- **No one actually witnessed the murder.**
+		- **Sunry was ending the affair, so the Sith killed her.**
+	- My arguments are complete.
+- INNONCENT !! -> 500px (the max) -> saved the republic -> + Sith guilty
+- Jolee
+	- So what do you think of Sunry's verdict?
+	- No, not really.
+- Jolee (3/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
+	- You mentioned something about your wife before?
+	- I don't want to pry, but...
+	- Is that why you went to Kashyyyk?
+	- Well...
+	- **What's this? Love advice from an old Jedi?**
+	- **Not even a Jedi? You mean not anymore, right?**
+	- You seem to have all the abilities of a Jedi...
+	- So what happened between you and your wife, then?
+- Juhani -> not yet for last talk
+- Go to the Republic Embassy -> East !
+- Roland Wann
+	- Yes, here it is.
+	- What has the Republic done?
+	- **This is dangerous...**
+	- **What happened down there?**
+	- How will I get down there?
+- Go back to central place
+- Teleport to Ebon
+- Improve -> agains blaster shots
+- Go out with T3
+- Out of the embassy -> Solo mode T3
+- Kill prisoner 
+- Hulas
+	- Lorgal is dead.
+	- Vorn ?
+		- Any tips for this mission?
+	- Rulan
+		- So how do I find someone who look like anyone ?
+	- Ithorak
+		- Sure. I'll just tell him I want to kill his boss and book an appointment.
+	- Anything else ?
+	- Back later
+- -> Poison blade !
+- Back to Ebon
+
+![KOTOR Guide-18](../resources/images/screenshots/KOTOR%20Guide-18.png)
+
+- Jolee (4/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
+	- Why did you leave the Jedi?
+	- You did. You said you weren't a Jedi any longer.
+	- So are you a Jedi or not?
+	- So you're just some rogue Jedi. Big deal.
+	- I certainly don't think that.
+	- So the Jedi wronged you in some way, I take it?
+	- **Is this going to have a point?**
+	- **And? I don't get it.**
+	- So... you knew this Master Hortath? Or the Padawan?
+	- I don't understand...
+
+# Go to Dantooine (LAST TIME)
+
+- Incoming Fighters !!! (Even with the mod ?)
+- Buy
+	- Calrissian's Utility Belt ? -> On Xbox not present…
+- Stowaway
+	- There is a stowaway on my ship by the name of Sasha.
+	- Yes, I am. She only speaks a smattering of Mandalorian, but I was able to figure it out.
+	- Certainly. I'll bring you to my ship.
+	- Lur Arka na bads. Nuh-gisen laesfa, Sasha.
+- Take Canderous + HK-47
+- Speeder
+	- [Slice into the speeder and activate its alarm system.] [1 spike]
+	- I don't know who set off the alarm. I was just passing by.
+- Kill 2 droids first
+- Then auto stop
+	- You must pay for your crimes, Zuulan.
+	- That's a small price to spare your life.
+	- I can't just let you go. You are a slaver.
+- Back to Ebon
+	- Jolee (5/8)
+		- What do you know about the Sith?
+		- You must know more than that.
+		- You're being elusive on purpose.
+		- You did. You said you fought them.
+		- **Are these the same Sith that we're fighting now?**
+		- Who is this Exar Kun?
+		- And he was killed?
+		- **So tell me what you know about the Sith.**
+		- **What happened during the war with Exar Kun, then?**
+		- But you exterminated all the traitors, right?
+
+![KOTOR Guide-19](../resources/images/screenshots/KOTOR%20Guide-19.png)
+
+# Go to Tatooine (need to grind up for last talk with Juhani -> can’t go to Kashyyyk : meet Bandon too soon)
+
+- Go out with Canderous and Mission
+- Level up -> Mission equip with thunder bowcaster
+- Czerka -> Griff
+	- **// I’m not giving you the gland until I see some credits!**
+	- Here's the tach gland. Take it.
+	- You already promised me a few thousand credits.
+	- **I've done more than enough for you already!**
+	- **I don't need business advice from you, Griff.**
+- Talk to Mission (Griff gone)
+- Renvoyer Mission pour Zalbaar -> non trop chaud pour Z -> HK
+- Dunes (SAVE) -> 1800pX + px du suicide lol !! sinon 50 +30 +30 en kill c’est tout
+	- You talk too much and do little.
+	- I think you both need to calm down.
+	- Why do you need to fight him, Canderous?
+	- You sent your own men to die, Canderous?
+	- **[Persuade] People die in war, Jagi.** HARD
+	- He may have saved other lives by doing what he did.
+	- No!
+
+![KOTOR Guide-20](../resources/images/screenshots/KOTOR%20Guide-20.png)
+
+- Kill rodians
+- Talk Canderous -> need time
+- Kill Wraids (still 300px * 4) but a lot easier
+- Level Canderous + HK ?
+- Go toward San People Enclave
+- Behind dune 
+- Sand people -> kill -> easy with stasis
+- -> droid -> kill
+	- -> could add frag grenade to bike ? -> no less XP
+	- Re-prog droid -> HK -> 18 -> **8 parts **(WARNING 7 PARTS LEFT FOR MANAAN STAR MAP)
+	- I've reprogrammed your droid, Vorn.
+- Rather hard to kill -> privilégier push++
+- -> get data pad 
+
+![KOTOR Guide-21](../resources/images/screenshots/KOTOR%20Guide-21.png)
+
+- Back to Ebon -> à pied
+- Kill raids -> level up group (16)
+
+![KOTOR Guide-22](../resources/images/screenshots/KOTOR%20Guide-22.png)
+
+- Czerka -> Gaffi Sticks -> Yavin ?
+- Hunter lodge -> sell wraids 24c -> no, Yavin
+- Ebon
+	- Canderous -> ask again
+	- Jolee (6/8)
+		- Do you want to talk about the war now?
+		- **[Persuade] No time like the present? -> easy**
+		- Um... no, I don't remember.
+		- What does your wife have to do with the war?
+		- The war...?
+		- And what did she think of all this?
+		- So what happened?
+		- **So she had fallen to the dark side?**
+		- You killed her?
+		- But... she was a Sith then, right?
+		- They put you on trial?
+		- So that's the source of all this bitterness? They found you guilty?
+		- I don't understand...
+		- And you still believe love is worth the risk?
+
+# Back to Manaan
+
+- Go out alone -> see Hulas
+- Hulas
+	- Zular Sentar is dead. (Dantooine) + Blaster + 500px
+	- Vorn (Tatooine) + 1000px + Stealth 
+- Back to Ebon
+
+# To The Manaan Star Map
+
+- Bastila + T3 -> level
+- Transit Back
+
+![KOTOR Guide-23](../resources/images/screenshots/KOTOR%20Guide-23.png)
+
+# Hrakert Station
+
+- Repair parts needed : 5 + 5 - 3 - 3 
+
+![KOTOR Guide-24](../resources/images/screenshots/KOTOR%20Guide-24.png)
+
+- 1
+- Loot
+- 2 
+- Open door -> Mercenary
+	- Why? What happened?
+	- **I have to find the Star Map.**
+	- The Selkath?
+	- Let's get you back to the surface.
+	- Wait here while I go into the station.
+	- You call yourself a mercenary?
+- 3
+- Go to the computer -> T3 (SAVE)
+	- **Central Storage** -> Gas -> NO !!! Bug -> No XP for that -> not even the Selkath dead… -> En fait si…
+	- **West Storage **-> ok -> XP (should level up to 18)
+	- Don’t corrupt droid -> no XP -> items lost
+	- **Security Room** -> Deactivate Shield on Sentry Droid -> 170px (180px is level 18)
+- 4
+	- Kill droids
+	- On the left -> EXIT door
+	- Deadly mine -> equip -> get
+	- Footlocker
+	- Go door -> sealed from other side (18)
+	- A droid can be repaired -> LATER
+	- Go back to 4
+	- Kill Selkath -> Get Master Jedi Robe + Crystal + 3 parts
+- 5
+	- Repair droid (5p)
+	- Kill droids next room -> shield -> bastila use destroy droid
+	- Suivre droid -> kill the last droid
+	- Go back door on the right -> DEADLY MINE -> coffre avec anti requin + datapad
+- 6
+	- Loot (locked -> T3)
+	- Crazy man in closet
+		- I'm Name and I've been sent by the Republic to investigate what's happened here.
+		- What made the Selkath insane?
+		- [Persuade] Come out - we'll protect you from the Selkath. -> Always fail
+		- If you don't come out, I'll just leave you in there.
+	- Loot everywhere
+	- Next room -> mine near chest -> again anti shark device + memo scientist
+	- **SAVE HERE** -> the droid can walk here
+	- Next -> corridor -> see on the left -> droids -> send T3 in solo mode
+	- SAVE 
+	- -> attention aux 2 mines -> mettre Awarness a fond avec Bastila et Revan
+	- Ouvrir la porte avec le T3 -> locked -> droid juste derrière 
+	- Avancer avec Revan 1er droid -> contrôler B pour ne pas marcher sur les mines !! -> 2nd droid
+	- Déminage -> commencer par la mine vers T3 et le droid réparé -> sinon le droid réparer va marcher dessus
+	- Disable solo mode
+	- Rejoindre T3 -> salle avec les Selkath -> kill loot
+	- faire les salles dans l’ordre 
+		- 1 ere -> une mine + sortie -> pour le retour
+		- 2 : locked -> loot
+		- 3 -> autre sortie -> ATTENTION MINE + ENNEMY -> solo with player -> 3 selkath sur XBOX ??? -> peut etre side effect of level up
+		- Back to 1 -> exit
+
+# Underwater
+
+- Left 
+	- Door -> locked
+	- Footlocker -> 2 mines in it
+- Meet the guy
+	- Who are you?
+	- What are you doing in the underwater section of the facility?
+	- You wait here - I'll go check it out.
+- Follow him -> nothing to loot around
+- Take the more far door -> better -> gas mask
+
+![KOTOR Guide-25](../resources/images/screenshots/KOTOR%20Guide-25.png)
+
+# Facility 2
+
+- Kill Zelkath behind the mine
+- Get mine loot
+- Breath mask -> republic soldier
+- Meet guys en face -> will try to kill you
+- Take breath mask -> go to console -> abort
+	- Calm down... everything will be okay.
+	- **You tried to kill me!**
+	- How about I ask the questions.
+	- What was the Republic doing here?
+	- Did this have something to do with a Star Map?
+	- What happened?
+	- **Turned on you?**
+	- **And no one knew about this thing?**
+	- **I have to get to the kolto machinery.**
+	- So what can I do about it?
+	- What does this compound do?
+	- What else could I do?
+	- OK. I'll vent the toxin into the Rift to kill the giant shark.
+	- **I am not so sure...**
+	- I will try to destroy the harvesting machine.
+- Go left -> kill Selkath -> WARNING MINE -> TAKE EQUIPMENT -> level up
+- Go right -> loot
+- Retalk ? NO -> bug
+- Go outside
+
+![KOTOR Guide-26](../resources/images/screenshots/KOTOR%20Guide-26.png)
+
+# Manaan Star Map
+
+- Kill 2 Firaxan
+- Computer
+	- Access fuel tank pressure control.
+	- Display pressure status.
+	- Fill container pod.
+	- Transfer from container to injector.
+	- Dump injector pod.
+	- Transfer from container to injector.
+	- Fill container pod.
+	- Transfer from container to injector.
+- Star map
+
+![KOTOR Guide-27](../resources/images/screenshots/KOTOR%20Guide-27.png)
+
+# Back to Surface
+
+- Sith Lord happened !
+- Darth Bandon -> the guy who killed Trask Hulgo at the beginning of the game !!!!
+	- **How did you get down here? -> good infos !**
+	- You were on the Endar Spire! You killed Trask. You'll pay for that! -> not on Xbox ?
+		- You're Malak's apprentice? Can't say I'm impressed. -> else
+- Take belt -> immunity mind affect -> found underwater
+- Take double LS + armor
+
+![KOTOR Guide-28](../resources/images/screenshots/KOTOR%20Guide-28.png)
+
+- Take ship
+- Republic talk
+	- **The Selkath went insane.**
+	- They killed almost everyone on the Station.
+	- Your construction woke something up.
+	- A gigantic firaxan shark that drove all the Selkath insane.
+	- **A few scientists have survived.**
+	- The harvesting machine was destroyed.
+	- Yes I did!
+- Outside -> Selkath
+	- Very well. I will come peacefully.
+	- …
+	- The explosions were at the research station both our governments set up there.
+	- **The entire station had been driven mad.**
+	- The machinery had woken up a giant firaxan shark. // or similar…
+	- I destroyed the machinery to save it.
+- Go to the bar -> Nilko Bwaas
+	- Yes - they're sending them down to a secret base on the Hrakert Rift.
+	- They couldn't. They had lost contact with the science facility.
+	- They awoke a creature which fed on the kolto.
+- Replay paazak -> 1 time -> le mec va redire triche
+- Teleport back to Ebon
+	- Jolee (7/8)
+		- So when did you go to Kashyyyk?
+		- The Jedi just let you go?
+		- **With good reason, I imagine.**
+		- So that's when you went to Kashyyyk?
+		- You survived a crash-landing on Kashyyyk?
+		- Why didn't you just fix your ship and keep going?
+		- So you crashed... and stayed?
+		- How did you survive in the Shadowlands?
+		- It couldn't have been easy.
+		- You're completely insane, you know that?
+		- And the Wookiees didn't mind your presence?
+		- You seemed on fairly peaceful terms with them.
+		- You helped them?
+		- Why didn't you stop the slavery of the Wookiees, then?
+		- It sounds like you enjoyed being a god.
+		- A few bruises?
+		- Wasn't it all a bit primitive for you?
+		- You spent two decades living like that?
+		- The Wookiees?
+		- **You sound quite fond of them.**
+		- Gardeners?
+
+	- Juhani (6/6) -> now level 18 ! -> NO ???? FUCK
+		- I was wondering if we could talk.
+		- Tell me more about your past.
+		- **Why would I react badly?**
+		- Of course I remember.
+		- Well what?
+		- Revan?! You mean…
+		- Why did you tell me now?
+
+- Ithorak Quest
+- Go to Cantina (Est)
+- Sith intercept
+	- This is a public street!
+- Talk to Sith
+	- Could I ask you a few questions?
+	- You mentioned the races.
+	- There are no racers you like?
+	- I have to leave. Goodbye.
+- Go to droid shop
+	- I'm interested in buying something.
+- Sith Base Entrance
+- Droid
+	- I heard the Embassy was attacked ? -> LOL response du droid
+- BUG : still can go in the Sith base
+- Go to swoop
+- Ithorak (SAVE)
+	- Who are you?
+	- You're wearing a Sith uniform. Are you with the Sith?
+	- Don't you think the Sith might take exception to that?
+	- Yes, I can see how it would be very stressful.
+	- …
+	- I need to meet with Ithorak Guldar. Can you set it up?
+	- [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
+- Queedle
+	- I just want to ask a few questions.
+	- I want to ask about you and racing.
+	- Is Manaan a good course for racing?
+	- How long have you been at this?
+	- What do you mean by that ?
+	- How much do you think you need?
+	- There's no way you can earn the money?
+	- **Here, I can give it to you.** +4PCL
+- When save/load -> il va vouloir rendre l’argent -> faire première race -> save load -> reparler -> no keep it. +2PCL
+- Go to console -< see times
+- Swoop -> Persuade -> 50c -> best at 22:50 then 22:48 -> if Ithorian helped
+
+![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
+
+- EZ Swoop ?
+	- 500 - 50c
+	- 2500 - 100c
+- Queedle
+	- You keep it. Use it for more upgrades. +2PCL (not tried on XBOX ?-> yes workd + get 500c back never mind)
+- Swoop last
+	- 5000 - 100c
+- Back to Ebon
+- Go out with T3 and HK -> go next hangar
+- Ithorak
+	- You don't need to do that. I won't cause any trouble.
+	- Personal feelings? Do you mean you don't like Ithorak?
+	- Okay, let's go in and see Ithorak.
+	- My buyer wishes to remain anonymous.
+	- Nothing specific. I'm just browsing on behalf of my patron.
+- Kill them all -> take geonosian sword for the droid
+- Loot le datapad -> sortir -> ranger armes -> renvoyer T3 et HK
+
+![KOTOR Guide-30](../resources/images/screenshots/KOTOR%20Guide-30.png)
+
+- Go rendre quête
+	- Ithorak Guldar is dead. -> gands -> strength +4
+	- Back later + 1000px
+
+- Back to Ebon
+	- Go to Tatooine -> Mission + Canderous + Hunter
+	- Fighters on XBox…
+- Tatooine
+
+	- Go back to Manaan -> NO need to go back to dantooine before leviathan !
+
+- Go out alone -> rendre quêtes
+- Hulas
+	- Vorn Daasraad is dead.
+	- + 1000px + stealth unit +8
+- Back to Ebon -> improve and Talk with Jolee
+
+		- NOW READY WITH JOLEE !
+- Go out with Bastila and T3 -> level up 
+	- -> or **Juhani instead **?? -> meet guy
+- Go by foot
+- Xor -> Break last Juhani discussion if not done (6/6)
+	- Just ignore him, Juhani.
+	- We should just leave, Juhani.
+	- She is her own person.
+	- Calm down, Juhani.
+	- You bought Juhani?
+	- She is not for sale!
+	- There is no emotion… 
+- Renvoyer Juhani -> “se reposer”
+
+
+# Ebon Hawk - 4th SM
+
+
+- Improve -> Take now bigger red LS 
+- Juhani -> comment
+- Jolee (8/8) -> REVEAL!
+	- So if you liked Kashyyyk so much, why did you want to leave?
+	- I find it hard to believe you left the Wookiees just for some adventure.
+	- Oh, no, not another story!
+	- This is a very long story.
+	- Am I supposed to be the snake?
+	- **Are you saying you're frightened of me?**
+	- **Thank you, Jolee. I'm glad you came.**
+- Carth -> Talk
+- OPTIONNAL : Make everyone look great for the next cut scene !
+	- Carth -> Use armor of Bandon
+- Go to Koriban

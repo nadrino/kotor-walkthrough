@@ -1,0 +1,399 @@
+
+# Dune Sea
+
+- Marlena Venn
+	- What do you mean by "you old boys"?
+	- Anniversary gift? What are you talking about?
+	- Um, all right? What if he has a message for you?
+	- You sound like you're planning to kill him.
+	- I have to go.
+- Soutien Jedi all
+- Equip armure de Davik
+- Go toward the garbage slight right
+- Ambuscade ! -> Astuce : Prendre Canderous avec des rapids shots et laisser les Jedis auto
+	- Very tough…
+- See the 3 guys
+	- I would assume this was done by the Sand People?
+- Easier here… but a lot. Take Canderous to rapid shoot + both party focus on the same target
+	- I've agreed to try and stop the Sand People attacks.
+	- Do you know anything about the Sand People?
+	- The Sand People are using turrets?
+	- I have other questions about the desert.
+	- I have to go.
+- (Heal pendant talk)
+- Seconde ambuscade -> toujours pas de robes ?
+- Kill Wraids -> toujours avec Canderous en tir
+- Kill Sand People Group (easier)
+- Récupérer les déguisements
+- Disable mines (equipment : Bothan Sensory Visor (+immunity coups critiques) + Stabilizer Gauntlers)
+- Ambuscade Gamoreans
+	- And if I refuse to pay you anything?
+	- Perhaps I could persuade you not to do this?
+	- Who are you to threaten me? I could be dangerous.
+	- That’s it.
+- Kill all with Canderous
+- Loot and disable mines
+- Wraids ?
+- Go near next garbages -> Ambuscade
+- Level 13 !?
+- Avancer vers next garbages -> Ambuscade
+- Tanis
+- Talk to a droid before
+- Talk
+	- What happened here?
+	- You sit back and let your droids do the hunting?
+	- It just doesn't seem very sporting.
+	- Why would she do this?
+	- You don't seem too concerned about what triggered this.
+	- What do you want me to do?
+	- All right, I'll try and help out. Hold on.
+- Start with droid “A”
+	- Playback: A special message from Marlena.
+	- Status of total Battle Droid group.
+	- Get system specifications.
+	- Previous system options.
+	- **Access system status and repair functions.**
+	- Enter diagnostic mode to try manual repair.
+	- **Node 2 is reporting accurately.**
+	- Exit.
+- Droid B
+	- The missing value is 7.
+- Droid C
+	- Allocate 120 large pulses.
+- Droid D
+	- 31-13-12-14 * 23-41-12-14
+- Tanis
+	- That will be fine
+- Back Anchorhead ? -> no just swap group
+- Take HK instead of Canderous
+- Go to the previous mines path
+- Disguise
+
+# Sand People Enclave
+
+- Déminer
+- Suivre les débris
+- 6 mines
+- Go in the Enclave
+	- Quickly, tell him we are not a threat!
+	- Apologize for being here. Say we want peace.
+	- Tell him we want a peaceful solution
+	- Ask what it is that he wants.
+	- Will he also tell us about any captives he has?
+	- Tell him we will get his vaporators.
+- Re-equip
+- To Ebon Hawk
+- Replace HK with Mission
+- Go to Czerka
+- Greeta Holda (save)
+	- What do you have available for purchase?
+	- Do you have any moisture vaporators?
+	- **That's not really your concern, is it? -> Czerka don’t want peaceful**
+	- **Could you be persuaded to lower the price?**
+	- [Persuade] Czerka's costs, not yours. Who cares about their money? (Medium 50%)
+	- 200 for the moisture vaporators sounds fine to me.
+- Sell batons
+- Go to the gate guard
+- Bastila -> HK
+- Go kill raids (on the right first ? -> Only 1 group will spawn now) -> WARNING Still HARD
+- Go tout droit
+- Récupérer mines restantes (2 ?)
+- Try enter Enclave
+	- Ask him if we can enter.
+	- Tell him we have the moisture converters.
+- Enter
+	- Tell him the deal is off unless the attacks stop.
+	- Tell him that we have his vaporators.
+	- I have a few questions for him.
+	- **Ask about the Star Map.**
+	- A krayt dragon? What is that? How do I pass it?
+	- **Ask about captives.**
+	- Ask if he knows about Mission's brother Griff.
+	- Ask if he knows about the Jawas Iziz told us about.
+	- Tell him farewell
+- Save prisoners
+	- (Triple left)
+	- Jawa
+		- The Sand People said you can go. Run to Anchorhead.
+	- Griff
+		- The Sand People said you can go. Run to Anchorhead.
+		- **Don't be so sure.**
+		- **Sorry, I don't have any credits to spare.**
+- **Loot in isolated rooms (next door left) + Take Banta fodder ?**
+- Go back for history to chief**
+**
+	- ** I want information on Sand People culture.**
+	- Why are they so hostile to outsiders?
+	- What do you mean, "raise myself above" the land?
+	- Ask why he bargained for vaporators when they are "unnatural"?
+	- How does he have contact with the land while completely covered?
+	- Never? Not even in death?
+	- **Tell me the history of your clan.**
+	- Ask if we could meet this Storyteller.
+	- **How could I prove I am a worthy warrior?**
+	- Where could I find a krayt dragon?
+	- **What is a dragon pearl?**
+	- **Farewell**
+- Exit
+
+# Dragon
+
+- Disable mine
+- Monter la dune
+- Loot Twilek mort -> Thermal Detonator ?
+- Go to other path
+- Disable mines 2
+- Take Canderous and Bastila
+- Go to the Dragon
+- Go see Komad
+	- I thought
+	- Why should we kill ?
+	- Why do you want me and not another hunter?
+	- Why would I want to do this?
+	- Rumored? You don't know?
+	- I'll help. Give me more information about how.
+	- How will we lead the banthas here?
+	- That seems very easy. What aren't you telling me?
+	- They posed no real threat to me before.
+	- Why am I doing most of the legwork?
+	- **Look, I have your fodder. -> LOOTED IN ENCLAVE**
+	- I'll see what I can do.
+- Go to Bantas
+- Kill Sand Peoples
+- Go back see bantas
+- SAVE !!! => Dragon model will disappear
+- Talk Komad
+	- Ready
+	- Thanks. We did what had to be done.
+- Loot (holocron à coté star map ?)
+- Open star map
+- Calo Nord
+	- Hold on, Calo… maybe we can work out a deal here.
+- Thermal detonator
+- Xbox calo have sound effects of cow…
+
+# Sand People Slaughter
+
+- Go to Enclave
+	- History -> Chief
+	- I've killed a krayt dragon. Does that prove my worth?
+	- Here is a dragon pearl.
+	- Farewell
+- Story Teller
+	- He will speak it? They don't write it down?
+	- What topics can I choose from?
+	- Oral histories are often inaccurate.
+	- That's a good question. Ask him that.
+	- **Begin the history.**
+		- I want to ask questions about what I've heard.
+		- I want to ask something about the ancient times.
+		- Is there anything in the galactic record that would verify this?
+		- Can he clarify how long ago Tatooine was "green with life"?
+		- Ask him if these "Builders" resemble any modern species.
+		- Ask if they have an image we could compare with current species.
+		- **Let's return to my other questions.**
+	- Continue the history from where we left off.
+		- I want to ask something about the time of enslavement.
+		- **How many of his people were taken off-world?**
+		- Why would the invaders have done this?
+	- Continue the history from where we left off.
+		- I want to ask something about the great war.
+		- How could they survive such an attack?
+		- **What kind of weapon could do so much damage?**
+	- Continue
+		- No, I want to hear it all.
+			- -> BUG ? Will tell the next story -> CUT
+		- I want to ask something about the long walk.
+		- We'll have to discuss this impudence, HK-47.
+	- Continue
+		- I want to ask something about the outsiders.
+		- Is it a physical or societal similarity?
+	- Continue
+		- I'll return later.
+- OK!
+- Go back ebon on foot
+- Kill raids
+- Back to Ebon
+	- Improve Calo -> remove other improvements
+	- Improve Canderous blaster -> Take from Carth
+	- + LS -> VIOLET !!
+- Go outside
+- Kill Raids
+- **Near Chief**
+	- **Canderous -> Shield agains bludgeoning  **
+	- **+ stimulants**
+- **Level Up during fight ? -> COOL**
+- **When Chief are dead -> Wait heal -> Take back Jedi robe**
+- **Outside kill all + 2 ambush**
+- Dunes -> 1 sand people 
+- Kill Wraids
+	- Ask Canderous
+		- More war stories
+		- **Yeah, yeah, you were a great warrior.**
+		- **These Althiri don't seem too bright.**
+		- **You disobeyed your orders?**
+- Back to ebon.
+
+# End Tatooine
+
+- Mission + Bastila**
+**
+- Czerka (SAVE)
+	- Gaffi sticks
+	- Yes, here it is.
+	- **[Persuade] For a bit more I could maintain my vigilance in the future.**
+	- Gafifi again
+	- Goodbye.
+- **Griff**
+	- Come on, Griff, get to the point.
+	- So you want to open a bar?
+	- **That's what you get for dealing with the Exchange.**
+- Resell the evaporator
+	- Buy mesh underlay -> armor improvement
+	- All life support packs -> les moins chers avec ceux au spatioport (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Medical_items_)
+- Outside
+	- Talk with Mission
+		- **You can't turn your back on your own brother!**
+		- No one can teach him this lesson, Mission. He has to learn it himself. (2-PCL)
+- Go sell wraids to the Hunters
+	- Buy armor reinforcement
+	- + scope
+	- Sell also mines
+- Speak to Dorak -> new line
+- Go toward the cantina
+- Senni Vek (Twilek)
+	- I didn't drop anything.
+	- I'm sorry, there must be some mistake.
+	- What is this, some kind of con game?
+	- I don't want it.
+	- Fine. Give me the stupid datapad!
+- Bastila’s Mother
+	- Maybe you should listen to what she has to say.
+	- It sounds like you've already made up your mind.
+	- Treasure hunting is a dangerous occupation.
+	- I'll do my best.
+- Bastila’s proposition
+	- So do you feel better now?
+- Banter with Mission ?
+- Iziz
+	- I think I should ask for more.
+	- **[Persuade] You know the rescue was worth more. (Medium 50%)**
+- 500c ! Sinon juste un bouclier Echani lol
+
+# Swoop Tatooine
+
+- Nico -> NO NOT NOW AFTER MOTTA -> NO SENSE OTHERWISE
+	- Anything I could help you with? What's bugging you?
+	- I raced on Taris.
+- Zoriis Bafka
+	- I wanted to ask a few questions, if you have the time.
+	- I want to ask about you and racing.
+	- Is this the best place for racing?
+	- If this track is so small, why bother?
+	- How long have you been at this?
+	- Why did you change your racing name?
+	- What can you tell me about the other racers?
+	- What makes you say that?
+	- What do you think about that?
+	- I have to leave. Goodbye.
+- **Motta (Bastila + Mission)**
+	- I'm looking for information. Can you help?
+	- **I raced on Taris. I won the season opener there.**
+	- **I have my own bike stored on my ship.**
+	- I can't pay that much.
+	- [Persuade] Why not drop the fee? No racers means no crowds. (Medium)
+	- I can't pay that amount either.
+	- I'll pay the 50 credits.
+	- **What sort of business do you need help with?**
+	- Why won't he sign? -> If Mission in group
+		- Why would he listen to me? -> if Carth
+	- Let’s go back
+	- Why would he listen to me?
+	- …
+	- What will you pay me?
+	- What are racing bonds?
+	- …
+	- Aren't there other racers? Why him?
+	- …
+	- I think you should give him a better deal.
+	- [Persuade] Treat him fairly or I'll start rumors your races are rigged. (HARD ?)
+	- I'll see what I can do.
+	- SAVE ?
+	- Do first race + PERSUADE -> no fees > 75 PX
+- Nico
+	- **I talked to Motta about you.**
+	- How long have you been racing?
+	- Are you any good?
+	- Where is the best place to get bike upgrades around here? (DELETED CONTENT)
+- Run again > 150px
+- Run again 22:51 VERY HARD -> ok -> one max speed -> tout droit !!!! Sinon on ralentit -> 525 px
+- Level up mission and Bastila ?
+- Nico
+	- I talked to Motta about you.
+	- I convinced Motta to give you a better contract.
+	- When do you think you'll be leaving?
+	- Goodbye then. Good luck.
+- Go back to Ebon
+
+# Ebon Hawk - 2
+
+- Buy all life support packs at ebon + implants contre coups critic
+- Upgrade everything
+- Canderous
+	- I was wondering if you had any more war stories. (4th)
+	- **You had the choice not to destroy them.**
+	- You could have found another way.
+	- How did they redeem themselves?
+- HK-47
+	- You don't need to call me master, you know.
+	- 'Organic meatbags?'
+	- You just called me a meatbag *again*!
+	- Neither do I, come to think of it…
+	- I survive. Somehow.
+	- …
+	- I would like to try restoring some of your memory. (2 - Repair 11+)
+	- Lets get…
+	- …
+	- What's so intriguing?
+	- **It seems you've been around, HK. -> le plus fun et interessant**
+	- **So we're not talking about a nice senator, I see.**
+	- **You can do that?**
+	- And why would he do that?
+	- **So his wife was cheating on him.**
+	- Well, it appears he got a conscience at the end.
+	- So that's two out of two masters killed.
+	- What happened to you then?
+	- Have you recovered any other memories?
+- Mission
+	- Brother
+	- + spike
+- Juhani
+	- What are you thinking about?
+	- And how are things different now?
+	- We are all in this together.
+	- …
+	- I was wondering if we could talk. (1)
+	- Tell me more about your past.
+	- Invigorating?
+	- Tragic?
+	- The Jedi are not gods.
+	- **Did they leave?**
+	- All species are capable of intolerance.
+	- It is alright.
+	- …
+- Bastila
+	- Why did the Council send me with you on this mission?
+	- It just seems odd they would send me off without a Master to guide me. -> Sinon harcèlement lol
+	- I get the feeling that there's more going on than I know.
+	- I'm still not convinced.
+	- **Me? You're the one who thought this was her big audition for 'Masterhood'!**
+	- **What can I say? It's fun.**
+	- **Hey, you brought this on yourself.**
+	- Careful. Remember your self-control.
+	- I'm not so bad. You just have to learn to accept me for what I am.
+- Carth
+	- Do you want to talk? You got pretty upset the last time we spoke.
+	- Why don't you return to the front lines, then?
+	- Don't worry about it, Carth.
+	- **Only if you agree to work with me, for once. -> Sinon fin quete !!**
+- Go to Yavin ! -> sur la route ! -> ensuite Dantoine -> la fille -> ensuite Kashyyk
