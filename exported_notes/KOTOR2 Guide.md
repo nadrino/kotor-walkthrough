@@ -1,0 +1,1788 @@
+# KOTOR2 Guide
+
+Site : _http://assiste.free.fr/kotor_2/index.html_
+
+Levels : _http://assiste.free.fr/kotor_2/Progression_de_l_Exilee.html_
+
+Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords_
+
+## To check :
+
+- Items with stealth++ ?
+- Make mod for Samhan Dobo -> Telos
+	- Jal Shey
+	- Sith combinaison
+	- Gants main nus (unarmed)
+	- gloves / jal shey
+	- belt / exchange shadow
+	- helm / Bothan Perception Visor
+- TODO : T3 Improvement after first time in Ebon Hawk in non-linear (Info > 20 + Repair > 20)
+
+## Talking Skills :
+
+- () HK50 (level 4) : *(Condition : Intelligence > 14 ou Informatique > 7 ou Persuasion > 4)*
+- (41) Corrun Falt avec quete pour Chodo Habat (level 12) : (*Vigilance > 10 && Persuasion > 6*)
+- (49) Kreia "*Qu'êtes-vous au juste, Kreia ? Une Jedi ou une Sith ?*" (level 15) : (*Intelligence > 13 ou Sagesse > 17*)
+- (51) Atris / premiere discution (level 15) : (*Vigilance > 14 && Persuasion > 3*)
+- (52) Servantes / à propos des reliques jedi (level 15) : (*Persuasion > 6*)
+- (52) Servantes / idem (level 15) : (*Intelligence > 12*)
+- (54) T3-M4 / avant de quitter Telos (level 15) : (*Informatique > 20*)
+- (54) T3-M4 / avant de quitter Telos (level 15) : (*Réparation > 20*)
+- (54) Kreia / "*Vous mentez.*" (level 15) : *(Vigilance : > 10)*
+- (57) Kreia / à propos de Visas (level 15) : (*Vigilance > 14 ou Intelligence > 14*)
+- (57) Visas / "*A moins que la faim le rende encore plus désespéré...*" (level 15) : (*Sagesse > 15*)
+- (59) Tarn / accueil de Dantoine (level 18) : (*Persuasion > 9*) (*vigilence > 11*)
+- ()
+
+## Tips :
+
+- Disable mines
+	- 10px(15px) /level/mine in normal(TSLRCM)
+- Add item ?
+	- Composants -> astuce XBox duplication -> HARD -> vrai bug du moteur
+		- **Le personnage qui conduit la manipulation doit être en mesure de monter de niveau.**
+		- **Trouver un lieu particulier**
+			- 1. L'atelier des robots à Khoonda sur Dantooine. Vous n'y avez accès que de deux manière :
+				- 1. Légalement, après avoir déclenché la première partie de la bataille de Khoonda, ce qui peut poser un problème si vous souhaitez faire du PX dans la grotte aux cristaux tout en menant à terme la mission bonus conduisant à l'éradication de la matriarche kinrath.
+				- 2. Illégalement, en utilisant une astuce pour pénétrer dans un endroit inaccessible. Ceci permet d'entrer dans ce local sans être obligé de déclencher la première partie de la Bataille de Khoonda. Au prix de cette gymnastique pour y pénétrer, ce lieu est alors plus intéressant que le second lieu que nous avons découvert, également sur Dantooine, car il est à une carte de distance de l'Ebon Hawk ce qui signifie que vous pouvez modifier les membres de votre groupe actif, ce qui n'est pas le cas lorsque vous êtes à plus d'une carte de l'Ebon Hawk or, en début d'aventure, il est fréquent d'avoir besoin d'appeler un compagnon pour utiliser ses compétences à l'établi.
+			- 2. Un lieux inconnu très important puisqu'il apparaît assez tôt dans l'aventure, à un moment où nous en avons bien besoin pour équiper Kreia et Atton, nos deux seuls compagnons à ce moment là : le Hangar de Péragus dès le début du jeu. La position de celui qui conduit la séance de duplication est très délicate à trouver.
+			- 3. Un autre lieux inconnu : l'atelier dans l'enclave sur Dantooine. Un lieu très important également car il permet de faire de la duplication tout en n'engageant pas la première partie de la Bataille de Khoonda si vous souhaitez progresser dans l'aventure dans un ordre différent de visite des planètes. Toutefois ce lieu est à plus d'une carte de l'Ebon Hawk donc, si vous avez besoin de changer de compagnon durant votre séance de duplication, il faut ressortir de l'enclave puis y retourner. La position de celui qui conduit la séance de duplication est également plus délicate à trouver.
+		- **Il faut un établi et, à la droite de l'établi, un contenant que l'on peut fouiller mais qui ne comporte pas de séquence d'ouverture (donc cela ne peu pas être un cylindre en plastacier ou une cantine etc. ...). Il doit donc s'agir d'un droïde détruit.**
+	- http://assiste.free.fr/kotor_2/astuce_duplication_objets.html
+- (049 -> prestige class -> come back later Conditions : Niveau de Jedi ≥ 15 et alignement de l'Exilé(e) nettement choisi (≥ 75 si LS ou ≤ 25 si DS))
+
+## Parameters :
+
+- Disable "Tutorial Popups"
+
+## Prologue (TSLRCM : jusqu'au bout) :
+
+- tester porte
+- ouvrir porte
+- salle principale / gauche -> kreia / loot 
+- NOT YET bash container
+- go right -> dormitory
+- go storage -> droid -> locker -> equip armor -> loot -> train
+- go hyperdrive door / garage door
+- to elevator
+
+- explore garage side -> exposed wires
+- explore mines side -> don't forget quad turrets
+- go back
+
+- heal
+- bash container
+- hack -> status
+- solo -> droid in doors
+- computer
+- see the carfting table -> loot the flame thrower
+- go back
+- KEEP solo mode (interfer in cinematic)
+- go near other droid -> equip
+- go hyperdrive
+- go map
+
+## Peragus Administrative Level :
+
+- Go to left -> look at window
+- computer -> logs
+- life signs -> treatements -> treat injury -> STOP
+- functions -> cameras ->unlock 2 doors
+- loot
+- go to morgue -> plasma
+	- I thought you were dead.
+	- A little disoriented... was it your voice I heard in the kolto tank?
+	- Enough with the false concern - what do you want?
+	- Last thing I remember, I was on board a Republic ship, the Harbinger... what happened to it?
+	- If you think I'm a Jedi, you're mistaken. (reponse de Kreia pas logique sinon)
+	- The Jedi Order and I have a... troubled history.
+	- All right - what's going on? How did we get here?
+	- Care to explain why you're in such a hurry?
+	- **[Awareness] You seem nervous, worried. Is something wrong?**
+	- We'll see. There's got to be someone left alive around here.
+	- **[Persuade] The patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?**
+	- I wasn't. I got the same dose, but I survived for some reason.
+	- You seem to know a lot about Jedi techniques.
+	- And maybe when I return you'll actually answer my question.
+	- **I'll return soon to make sure you're all right. (PCL)**
+- Go to door -> security -> no -> equip -> bash
+- loot -> equip vibrocutter
+- kill 4 droids (loot)
+	- Good items examples :
+	- Interface optimisée pour droïde (NivObj 1) (+2 en Informatique)
+	- Sous programme de stabilisation (NivObj 2) (+4 en Démolition)
+	- Interface machine pour droïde (NivObj 3) (+4 en Réparation)
+- EXIT on LEFT -> talk with K
+	- Kreia?
+- first -> computer (loot after -> discuss about the loot)
+- camera -> security storage -> holding cells
+- loot -> equip (TSLRCM ? -> nothing in normal)
+- Go to next room
+	- Kreia? Wh-?
+	- [With Kreia's help, you have gained the passive Precognition power. When this power is triggered, you should save your game.]
+- Kill droid with sword ? (should level up after 2 ?)
+	- I feel strange...like the sedatives are wearing off.
+	- It has been almost a decade - I had forgotten. **(donne info du temps !)**
+- **Level up**
+- Kill last droid
+- loot -> equip belt
+- Stealth -> KILL 7 DROIDS not 8
+- 1 on right + 1 tunnel (or near consoles admin)
+- 2 left
+- go door -> atton -> kreia talk
+- go other side -> 1 droid
+- go up tunel -> 2
+- kill one near console if needed
+- go to console -> deactivate
+- examine last droid -> computer... + help defend myselft
+- repair -> recup
+- loot go to atton
+	- Who are you? (not other -> PCO)
+	- Care to explain why you're locked up?
+	- What is this place?
+	- Blowing yourself up?
+	- How big of an explosion are we talking about?
+	- This facility's deserted. What happened?
+	- The Exchange?
+	- Why would they offer a bounty on Jedi?
+	- Did the Exchange wipe them all out?
+	- I had heard rumors of a war - but a war between Jedi? (-> talk about kotor1 here -> logical)
+	- I've been... away since the Mandalorian Wars.
+	- **I was led to believe that Revan saved the Jedi - and the Republic.**
+	- **How long have you been in that cage? Revan was a man, not a woman.**
+	- This discussion about Revan is pointless. I need to know what happened here.
+	- Stop playing dumb - you must have seen what took place.
+	- Seems to me you were locked up for a reason.
+	- How can you help?
+	- Do you have some plan for getting out of here?
+	- [Persuade/Intimidate] The miners in the med bay were murdered. Know why?
+	- Wanted to know if you knew anything - and you don't.
+	- I trust you. And if we work together, we may be able to get out of this mess.
+	- All right, let's go.
+	- Sounds like you're about to tell me something I don't want to hear.
+	- Did someone do it on purpose?
+	- There must be some way to end the lockdown from here.
+	- Can we contact the miners?
+	- Let's see if we can try and reach someone on the comm.
+- Check logs
+- Comm
+	- Can you read me?
+	- Are you operational?
+	- We're trapped up on the administration level. Can you unlock the turbolifts?
+	- Is there some other way out of here besides the turbolifts?
+	- I'd rather risk it than be trapped up here.
+
+## Peragus Storage Room (T3-M4) :
+
+- Collect first room
+- go downstairs
+- Loot in the fuel room
+- go back
+- equip Droid ion stricker -> disable shields
+- open storage door with mine -> loot
+- go bridge -> loot
+- repair console
+	- emergency control cmds -> repair
+	- see logs first -> 2 firsts 
+	- Transmit vectors -> impossible -> download it
+	- last log
+	- comm system -> burned out
+	- emergency control cmds -> computer -> open fuel depot door ONLY
+- +210px
+- kill droids
+- loot broken droid -> deflector -> equip
+- save before new hangar -> _000_RareItemChance__ = 98_
+- go console
+	- cameras
+	- logs
+	- 3rd
+
+## Peragus Mining Tunnels :
+
+	- Ce n'est pas pire que d'avoir à supporter votre présence, toujours là à me reluquer la poitrine...
+	- On dirait bien. Mais il ne nous a pas contacté, c'est étrange.
+	- Les turbo-élévateurs sont verrouillés manuellement. Je lui ai demandé d'ouvrir l'écoutille d'urgence.
+	- Si ces tunnels sont dangereux, c'est vous qui allez y aller, pas moi.
+	- Vous avez raison, j'y vais. Ce serait stupide qu'on mette tous les deux notre vie en danger. (pcl+)
+	- Compris. A bientôt.
+- *Go back to med computer AFTERRRR*
+	- *treatment -> request -> 34-103 (150px)*
+- Go to new door (save)
+	- Pas très bien. Il y a des parasites.
+	- Je serai prudent. Si vous remarquez quoi que ce soit d'anormal, dites-le moi.
+- loot
+	- On dirait un attirail de mineur - et un uniforme.
+	- Il y a aussi un bouclier d'énergie, dans cette caisse.
+	- Ça peut toujours servir. Comment ça marche ?
+	- Compris. Autre chose ?
+	- Vous savez comment détruire ces droïdes ?
+	- De boucliers ?
+	- Je peux les éviter ?
+	- Ok, je m'en souviendrai. Autre chose ?
+- equip
+- get mines on right ? NOOOO -> wait for level 4 (+2 levels) !
+- loot
+- sneak
+- near heat tunnel
+	- Compris. Exilée (Meetra Surik). Terminé.
+- mines
+	- Pourquoi y a-t-il autant d'explosifs ici ?
+	- Compris. Exilée (Meetra Surik). Terminé.
+- go thru
+- near the control room
+	- Je peux les éviter ?
+	- Il n'y a pas que des droïdes mineurs, ici. J'aperçois des radars sphériques.
+	- Compris. Exilée (Meetra Surik). Terminé.
+- WARNING -> last droid on the way -> can detect you -> do not give alarm if not hit you
+- go on bridge -> loot corpse
+- don't loot cylinder -> after leveling up!!
+- Computer
+	- Fonction de commande des droïdes
+	- Schematics
+	- Raise temp...
+	- Continue
+	- camera -> Unidentified -> log
+	- shutdown fields
+	- logout
+- Now : have to optimize a bit (full optimization involves kill balls first the all droids, then mines)
+	- Go in the right direction -> kill droids (NO MINE)
+	- message Atton -> will explode -> ok but will be back cause of XP!
+		- C'est à dire ?
+		- J'ai combien de temps ?
+	- Kill all droids until the end of the corridor (level up ?)
+	- go back -> get MINES on the way back
+	- kill all droid in big room (with mines if any)
+	- kill droids in the sneak tunnel (NO MINE) -> level up -> 4 ! -> now 7 in repair (can't be faster)
+	- Get mines + repaire DROID -> reason why did it like that
+	- Loot / unlock everything else + get mines
+	- save before elevator
+
+## Peragus Fuel :
+
+	- Comment se fait-il que vous me connaissiez ? Je ne suis pas votre maître.
+	- Qui était votre précédent maître ?
+	- Que s'est-il passé ?
+	- Pour un droïde, vous ne prenez pas très bien les ordres. Maintenant, dites-moi ce qui s'est passé.
+	- Et où est-ce que je me trouvais pendant tout ce temps ?
+	- Comment ça, neutralisé ?
+	- Drogué !? Qu'entendez-vous par drogué !?
+	- Pourriez-vous m'expliquer comment j'ai été enfermé dans la soute ?
+	- Donc je ne me suis pas retrouvé piégé dans la soute, quelqu'un m'y a enfermé.
+	- D'accord. Et après ?
+	- Une idée de ce qui a attaqué le petit cargo ?
+	- Quel était ce cargo que transportait le Harbinger ?
+	- Une prime ?
+	- Mais quel intérêt ce vaisseau pouvait-il avoir à venir me capturer sur le Harbinger ?
+	- Comment ça ?
+	- Pourquoi quelqu'un voudrait me capturer ?
+	- Comment ont-ils découvert que j'étais Jedi ?
+	- Cette information n'aurait jamais dû se trouver dans la base de données centrale, mais uniquement dans les archives des Jedi.
+	- D'éventuels agresseurs ?
+	- Je vois. Continue.
+	- Alors, que s'est-il passé ?
+	- Alors, qu'est-il arrivé au reste des mineurs ?
+	- Comment ça, hélas ? Que voulez-vous dire ?
+	- Est-ce qu'il y a des survivants ?
+	- Alors, il faut que j'aille les secourir. (2pcl)
+	- Est-ce qu'on peut les contacter à l'aide d'un comlink ?
+	- Il doit bien exister un autre moyen ?
+	- Ces mineurs sont peut-être blessés ou en danger. Nous devons nous assurer qu'ils vont bien. (+2 PCL)
+	- Encore une suggestion de ce genre et je te transforme en tas de ferraille.
+	- De mieux en mieux. Qui le détient, ce fichu code, alors ?
+	- Laisse-moi en juger.
+	- Voiceprinted ?
+	- Mais tu connais le code.
+	- Evite d'être condescendant à l'avenir, ça vaut mieux.
+	- Donc, comment puis-je contourner ce problème d'empreinte vocale ?
+	- Laisse tomber, je m'en vais.
+- Loot maintenance officer
+- Talk again to HK50
+	- Parlez-moi de ce corps.
+	- Il a dit quelque chose, à la fin ?
+	- Attends ! Si tu es capable de reproduire sa voix, tu dois bien pouvoir prononcer le code de reconnaissance vocale, non ?
+	- Believed to possess
+	- [Persuasion] Je comprends que tes fonctions limitées t'empêchent de reproduire la voix de l'officier de maintenance avec précision.
+	- Tu peux me suivre et répéter ça ?
+	- OTHER
+	- 
+	- What are you ?
+	- menace voilée ?
+	- Qu'est-ce qu'un droïde traducteur fabrique sur Péragus ?
+	- Et à quelle conclusion êtes-vous arrivé ?
+	- Attends tout ce que tu veux, moi, je m'en vais par mes propres moyens.
+	- OTHER
+	- 
+	- Vous n'auriez pas vu une unité T3 ?
+	- Cette unité a été aperçue pour la dernière fois non loin du hangar.
+	- Alors vous allez pouvoir répondre à une autre question...
+	- Vous êtes sûr de ne pas avoir vu d'unité T3 ?
+	- STOP
+- Loot the room en face -> magnétophone
+- Go back to HK
+	- Répète-moi comment je peux accéder au hangar.
+	- Reparle-moi du protocole de reconnaissance vocale.
+	- Mais tu connais le code.
+	- Comment contourner le système de reconnaissance vocale ?
+	- Tu peux imiter les voix, toi. Tu ne peux pas prononcer le code ?
+	- [Persuasion + Capteur sonique]
+	- OTHER
+	- 
+	- D'où est-ce que vous me connaissez, déjà ?
+	- Tell me everything
+	- ...
+	- -> il reste des gens en vie ? -> changer
+	- Are you responsible for all this ?
+	- Et moi, je crois que vous êtes responsable.
+	- Vous savez qui a administré des sédatifs dans les cuves de kolto de l'infirmerie, tuant les mineurs invalides ?
+	- Ce ne serait pas de la fierté que j'entends dans votre voix ?
+	- END
+- Kill 4 droids corridor -> left
+- Go to the smooking door -> cutscene -> kill
+- Hack next door -> kill droid
+- -> other droids appear
+- kill last droid
+- first door -> mines flotantes -> ouvrir -> equip fusil -> kill distance -> test door locked
+- other room -> cylindre
+- back to administrative level -> Aton
+	- J'ai trouvé un droïde de protocole très... bavard dans le dépôt de carburant.
+	- Non, mais j'y ai pensé.
+	- *Je dois ouvrir un sas qui est verrouillé. Il ne peut être déclenché que par l'empreinte vocale de l'officier de maintenance.*
+	- *J'en ai bien peur.*
+	- *J'ai un capteur sonique. Il peut servir d'enregistreur.*
+	- Les mineurs sont peut-être encore en vie, ils sont enfermés dans les dortoirs.
+	- Je n'en connais pas.
+	- Je ne vais pas les laisser enfermés dans ce complexe, sans défense. (pcl)
+	- Je reviens dès que je trouve quelque chose.
+- go to Kreia
+	- Je voulais juste m'assurer que tout allait bien.
+	- Venons-en au fait. Je ne suis pas un padawan, je me trompe ?
+	- REASK
+	- J'apprécie vos conseils, mais vous n'avez pas mieux pour vous rendre utile ?
+- MEDICAL HERE ----
+	- treatment -> request -> 34-103 (150px??)
+- Go back to Fuel center console
+	- Check ID
+	- Logs
+	- check containment fuel -> breach -> way out after !!
+	- cameras -> T3!
+	- voiceprint
+	- open
+	- 950px
+- equip space suit ? if possible...
+
+## Peragus Dortoirs :
+
+- atton
+	- Vos informations sont correctes. Rien à signaler ?
+	- Je dois rejoindre le dortoir des mineurs. Et c'est le seul moyen d'y arriver.
+	- Je fais aussi vite que je peux, vous pouvez me croire.
+	- Pourquoi les conduits d'aération ont-ils été installés dehors, aussi prêt de l'échafaudage ?
+- Enter -> kill droids -> left then left -> etabli
+- level up ? (5)
+- upgrade sword and armor ?
+- open next door -> extinctors -> stay out of the room
+- nettoyer corridor avant console + droid canons
+- go console
+	- repair
+	- info
+	- camera
+		- dormitory -> cut 210 px
+	- end dormitory... (open door) NOT YET
+- continuer le corridor (pas entrer dans dortoirs -> fouiller cafette avant -> loot log -> cache secret)
+- cylndre frigo -> mine
+- porte fond du frigo
+- grande salle -> kill loot
+- -> elevator -> loot coorta -> log -> plug in computer
+	- elevator ? lock !
+	- log
+	- aller aux dortoirs
+- unlock ?
+	- end dormitory... (open door)
+- droite
+	- LOOT + mine for door
+- left
+	- loot
+	- console -> logs
+	- admin -> code -> last digits ??
+	- check the code
+- improve items
+- Go to elevator
+	- manual
+		- 7 - 5 - 13 - 17 - 3
+
+## Peragus Administrative Level (2) :
+
+- Kreia on the other way
+	- Notre ennemi ?
+	- Attendez... qui est cet ennemi, exactement ?
+	- 'Nous' ? C'est qui, 'nous' ?
+	- Alors ne perdons pas de temps.
+- Level up Kreia
+- Equip blaster + script -> Stationary
+- Meetra -> Jedi support
+- Go with Kreia to the lab -> create retinal combat implant -> Immunity Critical Hits -> equip Meetra
+- Go to administrative consoles
+	- Pas le temps de vous expliquer, Atton. Prenez une arme et suivez-moi.
+- HK50
+	- Non, tu t'es montré on ne peut plus clair. C'est moi qui n'ai pas pour habitude d'écouter les droïdes assassins, c'est tout.
+	- Quel que soit le terme qu'on utilise, un meurtre reste un meurtre, à mes yeux.
+	- Donc, tu as reproduit la voix de l'officier de maintenance pour prendre le contrôle des droïdes et tuer tous les mineurs de l'infirmerie ?
+	- Donc, tu as ordonné aux droïdes mineurs de me tuer ?
+	- Pourquoi voulais-tu me capturer ?
+	- C'est toi qui m'as trouvé. Moi, je n'ai manifestement pas fait ce qu'il fallait.
+	- Bon, alors, qui est ton client ?
+	- Et maintenant ? Tu vas me tuer ?
+	- Je n'ai pas l'intention de me battre contre toi, mais je le ferai si tu ne me laisses pas le choix.
+- Level up Atton
+- Put immobile atton
+- kill all spheres
+- kill HK50 A DISTANCE -> explose à la fin
+- Go to établi
+	- **WISH : BONUS STEALTH ? -> Kreia is 11 -> 12 better ! -> nothing in the lab -> loot ?**
+	- Meetra : Vibrosword -> better stat (less for droids)
+	- Kreia : Biorestorative Mark II
+
+## Peragus Harbinger :
+
+- Go to Harbinger
+	- Nous n'avons nulle part où aller. Toutes les entrées du complexe sont verrouillées.
+	- Il est possible de contourner le champ de force du hangar en accédant à la salle des réacteurs du vaisseau et en sortant par la conduite de carburant.
+	- Si vous avez une bonne idée, au lieu de vous plaindre tout le temps, je suis tout ouïe...
+	- C'est lui qui a commencé !
+	- Attendez- Comment ce vaisseau a-t-il réussi à se poser ici ?
+	- Je crois qu'on doit pouvoir accéder à l'ordinateur de navigation. Ça paraît bon pour tout le monde ?
+- Kreia immediatement
+	- "Pardonnez-moi cet instant de distraction, Kreia. Je ferai plus attention, dorénavant." **+1 Inf. Kreia**
+- Go to nav computer
+	- Repair if more repair parts...
+	- Download
+	- Logs
+- Continue way -> kill assassins / loot -> until savety capsules
+- Level 6 ?
+- Porte magnétiquement scellée en face
+- Escape pods -> all locked -> go back
+- unlock door near entrance
+- Kill sith / go left -> door -> logs
+- go south / kill sith -> XBox -> found exchange work gloves!! Computer +1 Demo 3 Secu +3, Dex +1
+- **SAVE change map**
+- loot quarters
+	- I just need a second - this was ....
+	- Before I lost consciousness...
+- loot + equip bracelet
+- avancer kill sith
+- go left -> continue corridor -> loot -> open door -> siths pops
+- go back -> continue corridor -> loot -> open door -> siths pops
+- infirmerie -> loot
+- kolto -> heal
+- computer -> data pad -> then logs -> the cameras -> get chelicals
+- repair droid -> only 3 parts -> nothing to improve
+- take the opposite door -> loot cadavre go left -> siths
+- go to armurerie -> loot
+- corridor -> end -> go back -> lock -> sith -> log
+- **Turboelevator**
+	- Qu'est ce qui ne va pas ?
+	- Comment savez-vous cela ?
+	- Alors nous devrons être prudents. Mais il nous faut continuer d'avancer.
+- Unequip Kreia
+- Go corridor
+- Cinematic
+- Go left -> crafting table -> improve -> equip for droid if needed
+- Loot everywhere
+- Go room en face -> loot -> console -> slice NOOOOOO better NOO -> computer less used -> used just after !!
+- Go to other console in motors -> open > Save ?
+- Atton
+	- Atton, vous devez me faire confiance.
+	- Kreia... Elle a été gravement blessée.
+	- Je... crois que... c'est la Force qui me l'a dit.
+	- Je vais bien. On peut continuer.
+
+## Peragus Fuel Facility (3) :
+
+- Meet T3M4
+	- Je sais. Nous sommes tombés sur le droïde protocolaire un peu plus tôt et il nous a attaqué, nous aussi.
+	- Comment as-tu fait pour survivre ?
+	- Il t'a balancé dans cette canalisation de carburant ?
+	- On dirait qu'il voulait t'écarter le temps de trouver le moyen de quitter la station... avec nous.
+	- Tu n'as rien à te reprocher. Si tu ne nous avais pas sorti du niveau administratif, on ne serait pas arrivé si loin.
+	- Alors viens. Il ne faut pas traîner.
+- RETALK -> improve intelligence !
+	- On dirait que tu as subi d'importants dégâts au fil des ans.
+	- Quoi, comme dégâts ?
+	- Donc, tu as perdu la majorité des programmes de ton centre du comportement, en plus des dommages subis par ton châssis ?
+	- Ne t'en fais pas, ça reviendra. En attendant, ça me fait plaisir de t'avoir avec moi. (+1 influence T3)
+- quit
+	- [Informatique] Je peux peut-être améliorer ton centre de la mémoire...
+	- [Informatique] Eteins-toi, j'en ai juste pour une seconde.
+	- Voilà qui devrait augmenter la vitesse de ton processeur.
+	- Tout va bien, je n'ai pas arrêté de travailler sur toi.
+- reask
+	- [Réparation] Tu m'as tout l'air d'avoir besoin d'une vérification de routine...
+	- [Réparation] Bien. Je vais commencer par m'occuper de ton châssis.
+	- Ça y est, j'ai fini. C'était un peu plus long que je le pensais.
+	- Tu plaisantes, ou quoi ? Je te rappelle que tu étais éteint.
+- level up -> SAVE/LOAD on XBOX -> XP not updated !!
+- Meetra -> take mines
+- clean first floor -> DONT STEP ON THE RAMP YET !! -> trigger
+- 
+
+## Peragus Docking Bay (2) :
+
+- kill droids
+- Console
+	- Hein ? La console ?
+	- Il dit qu'il peut ouvrir la porte, à condition d'accéder au terminal situé sur la plate-forme du hangar.
+	- J'ai eu l'occasion de faire équipe avec des droïdes utilitaires, il y a... longtemps.
+- T3M4 go to console
+	- Use spike (Always first option) -> fail -> replace je sais pas quoi -> ouvre la porte
+- Kill droids -> mines -> meetra stealth
+- Console -> T3
+	- Repair 1
+	- Camera -> disable gas -> **5 SPIKES**
+	- Open door (can't open security -> too low skill! even with T3 + module (15))
+	- quit 325 px
+- Loot near ebon
+- PUT EVERYONE in Immobile -> after solo mode to loot all sith
+- SAVE
+
+## Ebon Hawk (1):
+
+- Tourelle -> LAISSER TOUT LE MONDE ENTRER
+- Solo mode -> kill all (save between each group) -> identify a "no loot" group -> to terminate with (reload save)
+- Kreia
+	- Kreia ? Votre main ! Que... que s'est-il passé ?
+- cinematic
+	- Essayez de les maintenir à distance.
+	- Et si on passait en hyperespace ?
+	- Essayez de garder vos distances. On n'est pas tirés d'affaire.
+	- Non. Il y a peut-être des survivants, là-dedans.
+- cinematic
+	- Le Harbinger se dirigeait vers Télos ?
+	- Vous pouvez m'expliquer comment vous êtes arrivée jusqu'à moi ?
+	- C'est étrange, je ne me souviens de rien.
+	- Ces coïncidences sont très troublantes.
+	- Comment avons-nous réussi à atteindre Péragus ?
+	- Il dit que c'est lui qui a réparé le vaisseau et qu'il nous a amené sur Péragus.
+	- Pourquoi les Siths me cherchent-ils ?
+	- Mais j'ai été banni de l'Ordre Jedi.
+	- Le *dernier* des Jedi ? C'est impossible.
+	- Qu'en est-il des Jedi de Dantooine ? Et de ceux de Coruscant ?
+	- S'il y a encore des survivants, il faut les prévenir. (PCL)
+	- Alors comment arrêter les Siths ?
+	- Si nous ne les arrêtons pas, ils seront toujours plus nombreux.
+	- Que voulez-vous dire ?
+	- Ce n'est pas une guerre, c'est de la légitime défense.
+	- La vie d'un Jedi est basée sur le sacrifice. C'est le prix à payer. (PCL)
+	- C'est vrai, elle a peut-être besoin d'aide. Je vous laisse vous occuper de tout. (PCL)
+	- Qu'est-ce qui vous fait dire ça ?
+	- De quoi parlez-vous ?
+	- C'est une supposition très hasardeuse.
+	- Vous êtes toujours aussi perspicace ? (sensitive)
+	- Bien, je vais aller la voir.
+- *Go to HK47 -> or later ? -> can ask T3 what he knows -> influence not enough now -> but this launches the quest -> may be required to get more parts of HK -> TESTING AFTER*
+	- *Repair -> vocabulator*
+- Talk with Kreia
+	- Quand vous avez perdu votre main, je l'ai ressenti.
+	- J'ai ressenti la perte de votre main, mais que se serait-il passé si vous n'aviez pas survécu ?
+	- Plus graves ? J'ai eu l'impression qu'on me plongeait la main dans de la carbonite.
+	- Plus rapides ? Je pourrais y laisser la vie ?
+	- Que pouvons-nous faire ? Je ne voudrais pas vous mettre en danger par mes actions.
+	- Comment ce lien a-t-il pu se créer ?
+	- J'en ai assez entendu.
+	- L'imbécile a un nom. Vous pouvez l'utiliser.
+- Talk with Atton
+	- Toujours aussi mystérieuse. (criptic)
+	- Pour connaître l'avenir, il faut se connaître soi-même.
+	- Pour pouvoir enseigner, il faut être disposé à apprendre.
+	- Je ne crois pas que Kreia soit un Jedi.
+	- Une vie difficile ?
+	- Gardez vos insultes ! Elle a été blessée en *nous* venant en aide, ne l'oubliez pas !
+	- Pour le moment, concentrons-nous sur le fait de rejoindre Télos.
+	- Très bien, je vais faire ça.
+	- To what ?
+	- Mon sabre laser m'a été... confisqué. Par le Conseil.
+	- C'était une lame simple.
+	- Le cristal et la lame étaient uniques.
+	- C'était une lame viridienne. L'ordre Jedi n'en avait jamais vu de pareille.
+	- Si je l'avais conservé, ils me chasseraient avec encore plus d'empressement.
+- -> may be another discution about astro nav with TSLRCM
+- ask spikes to T3
+- Kreia
+	- I had other questions for you
+	- Pouvez-vous me dire ce qui s'est passé depuis les guerres mandaloriennes ?
+	- Parlez-moi des guerres mandaloriennes.
+	- Seuls quelques chevaliers Jedi ont répondu à l'appel... **J'étais de ceux-là.**
+	- Mais Revan et Malak ont refusé d'attendre.
+	- Jusqu'à ce que nous les éradiquions... à la bataille de Malachor V.
+	- De nombreux Jedi sont morts sur Malachor V... et le conflit a divisé l'Ordre Jedi.
+	- **J'ai ressenti leur chute. La guerre les avait anéantis.**
+	- **C'est ce qui déclencha la Guerre Civile des Jedi.**
+	- **Comment Malak et les Siths ont-ils été vaincus ?**
+	- Qu'est devenu Revan ?
+	- Si je comprend bien, Revan a sauvé la République.
+	- Alors, il faut faire tout notre possible pour lui laisser la possibilité de se reconstruire suite à la guerre.
+	- Que peut-on faire pour aider la République ?
+	- Cette menace est dirigée contre *moi* ?
+	- Ça fait beaucoup à intégrer d'un seul coup. J'ai besoin de temps pour y réfléchir.
+	- D'accord. Je vais aller le voir.
+- Reask
+	- J'ai de nouveau senti la Force quand nous étions sur Péragus.
+	- C'était comme un murmure, à peine audible.
+	- **Je ne crois pas les Jedi capables de faire une chose pareille.**
+	- Il est impossible de couper quelqu'un de la Force. Ce serait comme le rendre sourd... ou aveugle.
+	- Je ne pensais pas que les Jedi puisse punir quelqu'un de la sorte. C'est... trop cruel.
+	- **Je pensais l'avoir perdue. Par mes actions... Et en oubliant les enseignements des Jedi.**
+	- Est-il possible de rétablir mon lien avec la Force ?
+	- Mais vous avez dit que c'était possible. Comment ? -> KREIA IS NOW OR MASTER
+	- Mais il ne reste plus aucun Jedi.
+	- **Votre aide sera la bienvenue. (PCL + infl)**
+	- Votre aide sera la bienvenue.
+	- Ça fait beaucoup à intégrer d'un seul coup. J'ai besoin de temps pour y réfléchir.
+- REASK
+	- **Il faut que j'en sache davantage sur les Siths qui nous traquent.** -> just appeared
+	- La première scission ?
+	- **Ces Sith semblent... différents. -> plus naturel -> parle de dark Sion etc...**
+	- Je n'ai jamais rencontré de Sith semblables à ceux qui étaient à bord du Harbinger.
+- REASK
+	- Alors, que faisons-nous, maintenant ?
+	- Y a-t-il un endroit où nous pouvons nous réfugier ? -> IT IS THE JOURNEY THAT MATTERS
+	- Où allons-nous déjà ?
+	- Where are we bound again ?
+	- Et si nous ne trouvons pas de traces des enseignements Jedi sur Télos ?
+	- Ça fait beaucoup à intégrer d'un seul coup. J'ai besoin de temps pour y réfléchir.
+- Go improve items
+- Go to Telos
+
+## Telos - Welcoming comity  :
+
+	- Sommes-nous en état d'arrestation ?
+	- C'est scandaleux. Vous n'avez aucune preuve.
+	- Compris.
+	- Non. Pourquoi tout ce cirque ?
+	- Je refuse de me laisser faire. Je me moque des FST. Nous partons, et tout de suite. Compris ?
+	- Je vais partir... Mais tôt ou tard, vous le regretterez.
+- Jail
+	- Une cage de force ? C'est ridicule !
+	- Attendez, j'ai quelques questions à vous poser.
+- Agression
+	- Qu'est-ce que vous racontez ?
+	- Nous sommes sur une station des FST. Comment comptez-vous vous enfuir ?
+	- Je n'ai pas envie de vous affronter.
+- Fight -> levelup + SAVE (pour la pioche si besoin)
+- kill
+	- Non, c'était un assassin. Heureusement que je n'ai pas à me reposer sur vous pour assurer ma protection...
+	- Dommage que personne ne s'en soit aperçu *avant* qu'il n'ait essayé de me tuer.
+	- 'Une enquête très poussée' ? C'est pas très rassurant.
+	- Conduisez-moi à mes quartiers.
+- quarters
+	- Combien de temps vais-je rester ici ?
+	- Pourquoi devons-nous partir ?
+	- Kreia, qu'en pensez-vous ?
+- TELEPHONE
+	- Qu'est-ce qu'il veut ?
+	- Très bien, qu'il entre.
+- Moza
+	- Pourquoi n'est-il pas venu en personne ?
+	- C'est à quel sujet ?
+	- Non. Pouvez-vous m'en parler ?
+	- Non. Quel est le problème ?
+	- En quoi la Czerka nuit-elle au projet de Restauration ?
+	- Quel intérêt la Czerka peut-elle avoir à faire ça ?
+	- Comment se sont-ils emparés des zones de restauration ?
+	- En quoi puis-je vous aider ?
+	- Que voulez-vous dire ?
+	- Je parlerai avec votre chef quand je serai libre.
+- refuser appel
+- Atton Kreia talk
+- Freed
+	- Pourquoi la République envoie-t-elle un vaisseau ?
+	- Combien de temps vais-je devoir rester ?
+	- L'Ebon Hawk est toujours sous le coup d'une réquisition ?
+	- Et mon droïde T3 ?
+- Atton
+	- Vous avez l'air de savoir de quoi vous parlez.
+	- Pourquoi devrions-nous partir ?
+	- Pourquoi Télos est-elle condamnée ?
+	- Kreia, qu'en dites-vous ?
+	- Si nous restons ici pour explorer Télos, il nous faut un vaisseau. Essayons de retrouver l'Ebon Hawk.
+- Sortir de l'appart
+- Parler à Atton immédiatement -> you seem pretty calm
+	- Que voulez-vous dire ?
+	- Je vais bien. En fait, je ne m'étais pas senti aussi bien depuis longtemps.
+	- Non, rien. Laissez tomber.
+- Fouiller les appart (C)
+- on the right -> B
+	- Qu'est-ce que l'Echange vous veut, exactement ?
+	- Vous avez des pièces de droïdes ?
+- right -> A -> first(left) **Harra**
+	- Qui êtes-vous ?
+	- Que faites-vous ici ?
+	- Laissez-moi deviner... Vous avez une dette de jeu à rembourser.
+	- Quel est le problème alors ?
+	- Vous ne devriez jamais miser plus que ce que vous pouvez vous permettre de perdre.
+	- Je pourrais peut-être apporter mon aide.
+	- Je vais voir ce que je peux faire.
+- Go to elevator near A
+- Agression
+	- Qu'est-ce qui se passe, ici ?
+	- J'aimerais bien entendre sa version de l'histoire.
+	- Je ne vous laisserai pas lever la main sur lui. -> PCL
+	- Je n'ai pas envie de me battre contre vous.
+- Kill -> force push
+	- Pourquoi les laisse-t-on faire ça ?
+	- Vous devriez partir, au cas où leurs amis viendraient les chercher.
+	- Gardez votre argent, aucune récompense n'est nécessaire. -> PCL
+- 75PCL -> cinematic
+- Go to teleport module -> first one -> will go back to residential module by foot -> fix inventory of merchants
+- Go to TSF
+	- C'est le lieutenant Grenn qui m'envoie. Je dois reprendre possession de l'Ebon Hawk et de tous mes effets personnels.
+	- Volé ? Comment cela est-il possible ?
+	- Le système contenait-il quoi que ce soit sur notre vaisseau ?
+	- Est-ce que je peux au moins récupérer mes affaires ?
+	- Que suis-je censé faire, maintenant ?
+	- Que savez-vous à propos de l'Echange ?
+	- Et il n'y a rien que les FST puissent faire ?
+	- Je m'en vais.
+- Get inventory / equip
+- keep miner suit -> jedi robe for kreia
+- Grenn
+	- Comment allez-vous faire, maintenant que le complexe minier de Péragus a été détruit ?
+	- A quel point ?
+	- La République ne peut pas augmenter le budget de la station ?
+	- Est-il possible de faire quelque chose à ce sujet ?
+	- Si je peux vous être utile, ce sera avec plaisir.
+	- Vous pensez toujours que c'est de ma faute ?
+- Grenn -> bounties
+	- Tell me about the bounties
+	- Parlez-moi de Batono.
+	- Pourquoi avez-vous besoin de mon aide ? Ça m'a tout l'air d'être une enquête pour les FST...
+	- Donc, vous avez besoin de moi pour remettre un peu d'ordre dans cette affaire ?
+	- Cela vous pèse sur la conscience ?
+	- Avez-vous des pistes ?
+	- Je vais voir ce que je peux découvrir.
+	- I have other questions
+	- Parlez-moi des criminels.
+	- Croyez-vous que quelqu'un soit responsable de leur fuite ?
+	- Que savez-vous au sujet des criminels ?
+	- Je vais voir ce que je peux découvrir.
+	- J'aimerais vous parler d'une autre prime.
+	- Other
+	- Parlez-moi de Batu Rem.
+	- Vous êtes sûr que ce n'était pas le vrai Batu Rem ?
+	- Savez-vous comment l'assassin est arrivé ici ?
+	- Je vais voir ce que je peux découvrir.
+	- Je dois y aller.
+- Go console
+	- slide (0spike)
+	- -> republic
+	- -> ebon hawk -> nothing
+- Go to spatioport
+- teleport console
+- go right -> czerka (for batono)
+- talk with twilek first
+	- Je cherche un homme appelé Batono.
+	- Vous ne savez pas ? Mais c'est lui qui supervisait ces docks !
+	- Un employé de la Czerka ? Alors vous connaissez Batono.
+	- Je file.
+- Duros
+	- Qu'est-ce qui se passe, ici ?
+	- J'aurais des questions à vous poser au sujet d'un passager qui a dû passer par ici.
+	- Votre souci de confidentialité protège un tueur.
+	- Il n'a pas laissé la moindre preuve derrière lui.
+	- [Persuasion] Ne vous inquiétez pas, je conduirai mon enquête avec la plus grande discrétion. Et puis, le tueur est mort, de toute façon.
+	- Combien côutent de telles recherches ?
+	- Va pour 25, alors.
+	- Batu Rem.
+	- Il faut que j'y aille.
+- Talk with ithorian -> nothing interesting
+- Talk with TSF once -> nothing interesting
+- go back to divertissment module
+- go fix inventory of duros (Samhan Dobo)
+
+*On peut, par exemple, s'arrêter sur un inventaire qui contiendrait au moins deux de ces trois bures ou armures :*
+	- *Une armure d'initié Zeison Sha ou, de préférence, une armure de néophyte Jal Shey (pour l'Exilée) et*
+	- *Une bure d'apprenti Mutaki (pour Kreia) et*
+	- *Une combinaison de combat Sith (pour Atton puis on la passera à Bao-Dur à la surface de Télos)*
+
+*et l'une ou l'autre des pièces suivantes, en fonction de ce que l'on a déjà trouvé :*
+	- *Implant de puissance*
+	- *Diffuseur d'ombres de l'échange*
+	- *Capteur de pilote spatial*
+	- *Gants de précision sans arme*
+	- ***Gants de perception de Jal Shey****
+*
+	- *Amplificateur de force physique Eriadu*
+	- *Générateur de camouflage Eriadu*
+	- *Gantelets de Karakan*
+	- *Augmentateur de force CNS*
+	- *Visière sensorielle Bothan*
+	- *Système de combat amélioré*
+	- *Serre-tête de méditation*
+	- *Visière royale*
+
+*
+*
+*Dans cet exemple d'aventure, je retiens un inventaire offrant :*
+	- *Armure de néophyte Jal Shey*
+	- *Combinaison de combat Sith*
+	- *Augmentauer de discrétion (que je n'avais pas encore trouvé)*
+
+33 
+- gands jal shey / aware1, dex1, wisdom1 **-> useless -> CHODO HABAT**
+
+34
+- belt / Eriadu -> Stealth 6, detx 2
+- belt / Exchange Shadow -> Aware 2, stealth 4, dex 1
+
+35
+- glvoes / unarmed accuracy -> +2 phys, +1 unarmed, reflex -> GOOD for echani combat
+- belt / eriadu
+- belt / cardio -> fort 1, const 1
+
+36
+- helm / bothan perception -> aware3, demo2 sec2
+- gloves / karakan -> save ALL3, dex1
+
+**37 +3 awareness (XBox)**
+- **gloves / jal shey -> useless -> chodo can give it to you (1/5 chance)**
+- **belt / exchange shadow**
+
+- fixer l'inventaire -> MOD
+- Improve items
+- Go back in apt C
+
+## Telos Czerka :
+
+- Virer Atton
+- Kreia
+	- Il y a bien assez de souffrance dans la galaxie. Si je peux la diminuer ne serait-ce que chez une personne, j'aurai servi à quelque chose.
+	- Si vous essayez de faire en sorte que je cesse d'aider les gens en jouant sur ma culpabilité, c'est peine perdue.
+	- Alors, je vais désormais vous considérer comme une quantité négligeable.
+- Go to Czerka -> + Atton
+	- Pourquoi avez-vous essayé de me joindre ?
+	- Qu'est-ce qu'elle me veut ?
+	- Qu'avez-vous à m'apprendre sur la Czerka ?
+	- Je dois partir.
+- Criminels (TSLRCM -> après premiere conversation)
+	- Wait ! ....
+- Jana Lorso 
+	- Le nom de Batono vous dit quelque chose ?
+	- Grenn et ses FST le recherche. Il m'a demandé de lui mettre la main dessus.
+	- Une récompense ?
+	- Combien ?
+	- Comment comptez-vous mettre un terme à son enquête ?
+	- Alors comment comptez-vous le convaincre d'abandonner son enquête ?
+	- S'il n'y a aucune vérité derrière ses accusations, je vous le dirai peut-être.
+- Talk again ? -> YES -> after seeing Ithorians -> not all possibilities
+	- Les Ithoriens se plaignent. Qu'avez-vous à dire à ce sujet ?
+	- Vous comptez utiliser les ressources de la planète elle-même ?
+	- Très bien, que puis-je faire ?
+	- Attendez ! Vous voudriez que je vole le droïde des Ithoriens ?
+	- Si vous voulez que je le fasse, ce ne sera pas donné.
+	- [Persuasion] Il va falloir faire mieux que ça.
+	- Il faut que j'y réfléchisse.*
+*
+- Go see exchange guy
+- Ithorian -> console transit
+- open ithorian door
+	- Quel est cet endroit ?
+	- Savez-vous comment va se passer la restauration ?
+	- Moza m'a envoyé parler à Chodo Habat.
+- DONT TALK TO ITHORIANS -> walk everywhere ->stop walking
+- Go right (left is vivarium -> later)
+- Moza
+	- Que faites-vous ici ?
+	- Que ferez-vous une fois votre projet terminé ?
+	- Je dois y aller.
+- Chodo
+	- Mais vous n'avez pas jugé nécessaire de venir me voir en personne.
+	- Vous dites avoir senti mon arrivée ?
+	- Moza a dit que vous pouviez me 'guérir'. Qu'entendait-il par là ?
+	- Oui, je ressentais la Force autrefois... Et ça revient tout doucement.
+	- J'aimerais connaître votre point de vue à ce sujet.
+	- Pourquoi est-ce que le gouvernement télosien autorise cela ?
+	- Qu'avez-vous l'intention de faire ?
+	- Disparu ? Comment ?
+	- Quel est mon intérêt dans tout ça ?
+	- Que voulez-vous dire par 'm'aider' ? -> same speach for kreia -> but last sentance
+	- Le vaisseau à bord duquel je suis arrivé vient d'être volé. Ça ne vous dit rien ? 
+	- Et si vous commenciez par m'aider à retrouver mon vaisseau ?
+	- Je vais vous aider.
+	- Je reviendrai avec le droïde de contrôle.
+- Faire sans blanc de partir -> reask
+	- Un dénommé Batono, ça vous dit quelque chose ?
+	- J'ai pensé que vous pourriez le connaître. Vu la haine qu'il voue à la Czerka...
+	- Vous en êtes sûr ? Lorso a dit qu'il avait séjourné dans ce complexe.
+	- [Persuasion] C'est le lieutenant Grenn qui m'envoie. Si je le retrouve, les jours de la Czerka seront comptés.
+	- Vous avez ma parole, Chodo.
+	- Je dois partir.
+- Onderon
+	- Qui êtes-vous ?
+	- Qu'est-ce que vous faites ici ?
+- Loot crate (using the console)
+- TSLRCM -> Go back to Czerka now ? -> to see the dialog with criminals
+- Go to spatioport -> transit NO -> transit to divertissement -> take elevator
+- cutscene
+	- Non. Et si vous n'avez rien d'autre à me dire, écartez-vous.
+	- Qu'est-ce que c'est ?
+	- Ça ne m'intéresse pas.
+- Go Ithorien
+	- Chodo Habat sent me to help deliver the replacement restoration droid
+- SAVE -> LOOT can be good -> XBox : Unarmed Accuracy Gloves...
+- Kill guys
+	- [Awareness] It looks as though the blaster has been heavyli modified
+	- Yes, I'll give...
+- Loot + Level up ? (9)
+- talk to FST -> paper to fill
+- SAVE -> recompense aléatoire de CHODO
+- talk to droid -> go to ithorians
+	- J'ai trouvé ce blaster sur l'un des assaillants.
+	- Merci. Et maintenant ?
+	- Il faut arrêter la Czerka et l'Echange.
+	- Je vous ai dit que je n'étais pas un Jedi.
+	- Je vais lui sn toucher deux mots.
+- récompenses possibles
+	- **« Gants de perception de Jal Shey » -> awareness**
+	- « Gantelets de Karakan »
+	- « Gants de guerre gamorréens »
+	- « Gantelets de puissance sith »
+
+## Kill Exchange + Czerka
+
+- go to exchange
+	- I'm representing Chodo...
+	- The how do -> appointment
+- go in direction of the Cantina
+- Kreia talk before exiting the map
+	- Je n'ai pas besoin de votre approbation, Kreia.
+	- Je n'ai pas l'impression qu'il nous veuille du mal.
+	- Il n'empêche que Chodo a besoin de notre aide et que je vais la lui proposer. -> plus logique -> more naive (no infl no PCL -> can be changed) -> ce que l'on fait est pas vraiment nécéssaire
+-  Go in C1 to save Batono
+	- Vous êtes Batono, n'est-ce pas ?
+	- Le lieutenant Grenn m'a envoyé vous chercher.
+	- Si vous ne vous présentez pas, je vous livrerai à Lorso.
+	- C'est pourquoi vous devriez vous présenter.
+	- Si vous vous inquiétez pour votre sécurité, il n'y a pas de quoi. Ils n'oseront plus bouger le petit doigt lorsque la Czerka sera dans le pétrin.
+	- Les FST peuvent mieux vous protéger que vous ne le feriez vous-même.
+	- Vous voulez vivre dans la peur pour le restant de vos jours ?
+	- J'en sais plus que vous ne l'imaginez. Riposter est la seule façon de vous protéger.
+	- Les officiers des FST patrouillent dans les modules. Je ne crois pas qu'il y ait de crainte à avoir.
+	- Venez avec moi.
+- force buffer
+- sortir de C
+	- Je vais le mettre sous la protection du Lieutenant Grenn, et ce n'est pas vous qui m'en empêcherez.
+- Kill
+	- TP to grenn
+	- Pardon de vous interrompre, mais s'il n'y a rien d'autre, j'y vais.
+
+**## Blaster bricolé
+**
+- save
+- Grenn
+	- Jetez un oeil sur ce blaster, ça devrait vous intéresser.
+	- Il appartenait à l'un des voleurs qui m'ont tendu une embuscade dans le module d'appontage.
+	- 'Troublant' ? Tout le monde ou presque est armé, sur la station Citadelle !
+	- Votre enquête avance ?
+	- Je pourrais vous aider à découvrir d'où vient la marchandise.
+	- Je vais voir ce que je peux faire.
+- Grenn
+	- Bounties
+	- Batu Rem
+	- Batu Rem, l'assassin.
+	- Il est arrivé de Nar Shaddaa par le hangar d'appontage 3, à bord d'un cargo sans signe distinctif.
+- TSLRCM -> mission with assasins in fixed ->don't have to lie to Grenn (no talk)
+- should have to kill a guy before going to the cantina
+- can go loot near C
+- Improve items
+- equip awareness + persua
+- enter cantina
+- race
+	- info
+	- temps
+	- persuade
+	- run
+	- ask for prize -> 500c
+- Pazaak -> 3 times -> reask -> gold card x2
+- Other room -> auto talk
+	- Je ne suis pas un Jedi.
+	- Puis-je vous aider ?
+	- Quelqu'un qui a une haute opinion de lui-même ?
+	- Elle a raison. Vous prenez des risques en vous embrouillant avec moi.
+- See Luxa
+	- Que savez-vous sur ce blaster ?
+	- Merci quand même.
+	- C'est ce que je préfère.
+	- Quel est le rapport avec moi ?
+	- **[Mensonge] Oui, je suis un Jedi. -> read emotions**
+	- Quel est le rapport ?
+	- C'est quoi votre problème avec Slusk ?
+	- Vous voulez que je tue votre chef ? Vous êtes folle !
+	- C'était un vaisseau de l'Echange ?
+	- Si j'accepte, quel est votre plan ?
+	- Marché conclu.
+- Go close to Onderon guy
+- Corun falt
+	- Que faites-vous à la Czerka ?
+	- *Que pouvez-vous me dire sur la Czerka ? -> DONE AFTER COMING BACK*
+	- *Le truc sur Télos' ? Vous voulez parler de la restauration de la planète ?*
+	- *En quoi est-ce que la Czerka tire profit du Projet de Restauration ?*
+	- *Parlez-moi de Lorso.*
+	- *On dirait que vous êtes jaloux.*
+	- Je dois y aller.
+- SAVE -> pazaak
+- Doton Het
+	- Qui êtes-vous ?
+	- Qu'entendez-vous par bricoles en tous genres ? (odds and ands ?)
+	- Je peux y jeter un œil ?
+	- C'est Harra qui m'envoie.
+	- Donnez-moi la fille ou je vous tue.
+	- Cette histoire va se régler au blaster.
+	- Combien en voulez-vous ?
+	- Pourquoi ne pas la mettre en jeu lors d'une partie de pazaak ?
+	- ...
+	- Je vous ramène auprès de Harra.
+	- Allons-y.
+- TP
+	- Vous êtes libre, Ramana. Vous pouvez partir avec Harra.
+	- Dans ce cas, faites ce que vous voulez.
+
+## Assault in the Exchange
+
+- Go to Exchange
+	- Je représente Chodo Habat. (SI PAS DIT AVANT ?)
+	- ... -> Luxa veut sa mort...
+	- C'est Luxa qui m'envoie.
+- SAVE
+- Exchange
+	- Je n'ai pas de rendez-vous.
+- Kill
+- DONT TALK BACK TO VULA  on XBox -> Will be usefull for Mandalore -> en XBox -> ok en TSLRM -> can talk
+- Talk to Ithorian (left)
+	- No Why...
+	- How to I set you...
+	- I'll see
+- go right
+	- Je ne suis pas un Jedi.
+	- Attendez ! Je vaux plus cher en vie, non ?
+	- Tout ce que je veux, c'est récupérer mon vaisseau.
+	- Dans ce cas, je n'ai aucune raison de vous laisser en vie.
+- Go next room -> Gamorean
+- Kill droids
+	- Je veux juste que vous laissiez les Ithoriens tranquilles.
+	- Est-ce qu'on ne pourrait pas en discuter, voir s'il nous est possible de trouver un accord ?
+	- Je préfère décliner votre offre, Slusk. Au revoir.
+- Kill
+	- Ecoutez. Tout ce que je veux, c'est que l'Echange déguerpisse de la station Citadelle.
+	- Dans ce cas, j'imagine que nous n'avons plus rien à nous dire.
+	- OR
+	- L'Echange déguerpit de la station Citadelle, ou vous irez rejoindre Slusk.
+	- J'ai besoin que vous disparaissiez, et j'espère que cela va pouvoir se faire pacifiquement.
+- Atton
+	- Vous avez changé d'avis, Atton ?
+	- Vous êtes aussi concerné que moi par cette histoire.
+- Loot 3 containers
+- free ithorian
+
+## Prepare for Czerka destroy
+
+- Go see Chodo
+	- J'ai trouvé ce blaster sur l'un de mes agresseurs du hangar.
+	- L'Echange ne vous gênera plus.
+	- Je ne peux pas accepter cela de votre part, Chodo. Considérez ça comme mon investissement dans la restauration de Télos.
+	- Comment la Czerka a-t-elle réussi à s'infiltrer au départ ?
+	- D'accord. Je vais vous aider.
+	- [Ordinateur] On ne peut donc pas le pirater à distance ?
+	- Quelle méthode préconisez-vous pour récupérer ces fichiers ?
+	- Vous avez essayé de verser des pots de vins à un employé de la Czerka ?
+	- Peut-être qu'il faudrait essayer autre chose...
+	- Et si je m'infiltrais dans leurs bureaux pour les voler ? (sealth)
+- ** -> ARME ILLEGALE ?**
+- Go back to the Cantina
+- Corun Falt
+	- Que pouvez-vous me dire sur la Czerka ?
+	- Parlez-moi de Lorso.
+	- Et comment pourrait-elle se planter, d'après vous ?
+	- Je peux peut-être vous aider.
+	- Je cherche des informations que je pourrai remettre au Conseil de Télos pour la dénoncer.
+	- J'ai juste envie de semer un peu la zizanie, rien de plus.
+	- Un système clos ?
+	- Alors comment faire pour s'y introduire ?
+	- Non, je ne plaisante pas. Comment puis-je m'y introduire ?
+	- D'accord, jouons. Alors, combien pour couvrir les risques que vous prenez ?
+	- Ne bougez pas, je reviens.
+- Go back to CHODO
+	- J'ai besoin de 1000 crédits pour corrompre un haut fonctionnaire de la Czerka.
+	- Merci. Je reviendrai plus tard.
+- Go back
+	- [Vigilance > 10] C'est bon. 300 crédits suffiront. ([Persuasion > 6][Succès])
+	- Vous voulez dire que B-4D4 pourrait entrer sans problème.
+	- C'est tout ? On ne peut pas vraiment dire que vous me soyez d'un grand secours...
+	- D'accord. Je dois y aller maintenant.
+- Go Oppo Chano
+	- J'ai besoin de vos papiers. (technician credentials)
+	- J'ai besoin d'emprunter le droïde administratif de la Czerka.
+	- Je dois accéder à certains fichiers de l'ordinateur central de la Czerka et prouver aux autorités télosiennes que la Czerka est corrompue.
+	- Et pourquoi ça ?
+	- ...
+	- Dites donc, j'ai répondu à *toutes* vos questions !
+	- Slusk et Luxa sont morts et l'Echange est en plein désarroi. Ils ne vous demanderont rien.
+	- Dites simplement qu'on vous a volé vos papiers.
+	- Essayez. Vous verrez, c'est très facile.
+	- Je ne vous crois pas. Vous mentez.
+	- Je rachète votre emprunt.
+	- Je reviendrai quand j'aurai des crédits.
+- Go CHODO
+	- I found...
+	- REASK
+	- I need 2500
+- Back
+	- Si, tenez : 2500 crédits.
+	- **[TSLRCM/PC] Vous pouvez garder l'argent si vous me donnez vos papiers. -> (peut les rembourser mais bien plus tard) **
+- B4D4
+	- Ce blaster est-il un modèle de la Czerka ?
+	- Par quel mystère une arme de la Czerka peut-elle se retrouver dans les mains d'un assassin ?
+	- REASK
+	- Je veux que vous m'accompagniez.
+	- J'ai tous les papiers avec moi.
+	- Allons-y.
+- CHODO
+	- No, I do not
+	- [Mensonge] Je ne comprends pas.
+	- Je voulais simplement voir si j'étais un bon menteur.
+	- Je reviendrai lorsque j'aurai récupéré les fichiers.
+- Lorso
+	- Il faut que j'accède à certains fichiers de l'unité centrale, maîtresse Lorso.
+	- ...
+- T1N1
+	- [Mensonge] Maîtresse Lorso m'a demandé de vérifier certaines données de l'unité centrale.
+	- ...
+- Computer
+	- Download
+	- Erase
+- Lorso
+	- [Mensonge] Tout de suite, Maîtresse Lorso.
+- Oppo CHano
+	- ...
+	- +20c
+- Module 126 -> droid
+	- ...
+- Chodo
+	- Oui. Je les ai transférés vers ce bloc de données.
+	- [Lie] I assure... LOL
+- Meetra -> LevelUP ? + Rappeler Team [XBox]
+	- Je suis ravi d'avoir apporté mon aide.
+	- **Bao-Dur ? Où est-il ?**
+	- Est-ce qu'il acceptera de m'aider ?
+	- Pourquoi est-il parti là-bas ?
+	- Comment puis-je le rejoindre ?
+	- Merci
+	- -> Kreia
+	- Quoi qu'il en soit, si vous pouvez me rendre la Force, je voudrais que vous le tentiez.
+
+## Save Ithorians
+
+- SAVE
+- MINES : chaque coté accueil
+	- droite coin du carré contenant la fontaine (1 droid)
+	- entre deux carrés vers fenetre -> devant table (2 merc)
+	- gauche same -> dans carré (frontière+haut) (1)
+	- gauche juste devant sièges entre deux carés (1)
+	- centre -> 1 de chaque coté des sieges deriere la fontaine (deriere sièges)(2)
+	- carré 4 sièges gauche au fond -> entre fentre et sieges
+- Go transit
+	- Comment ça s'est passé, Moza ?
+- Go back
+- kill
+- Vivarium
+- Mozza
+	- I'm on my way.
+	- N'en faites pas une habitude.
+- CHODO / kill
+	- La Czerka ?
+	- Vous avez assez donné, Chodo. Mais je dois partir maintenant.
+- +PCL (beaucoup 6)
+
+**## Sahman Dobo
+**## 
+
+- Ask Dendis about the weapon
+- Samhan
+	- Vous pouvez me parler de ce blaster ?
+	- J'essaye de remonter à la source des marchandises vendues au marché noir.
+	- Je veux savoir qui a vendu l'arme qui a servi à m'attaquer.
+	- Vous devriez peut-être faire plus attention à l'identité des gens qui achètent vos armes...
+	- J'ai entendu dire qu'il y avait un marché noir florissant à bord de la station Citadelle. J'aimerais en être.
+	- Vous êtes bête, ou quoi ? Vous venez juste de vous incriminer vous-même. Je vais vous dénoncer aux FST.
+	- En quoi est-ce la Czerka est impliquée ?
+	- J'aimerais vous aider pour vos opérations de contrebande.
+	- Que puis-je pour vous ?
+	- Pourquoi cette question ?
+	- D'autres usages ?
+	- Il suffit que j'aille là-bas et que je ramène une plante, c'est ça ?
+	- Vous avez des suggestions à me faire ?
+	- Je reviens dès que je les ai.
+- Improve ITEMS -> next step -> dans la pampa -> et à la fin les HK -> against DROID improvements
+	- + against blaster -> Energy Shielding Mark 2
+	- Atton -> will come back for droids (ion) -> equip 2nd hand with vibrosword -> echani
+	- Kreia -> BLASTER!!!
+	- Bao-Dur -> EPEE -> organique (+ blaster mais NUL EN DEXTERITE !!)
+- Go back to Grenn
+	- Samhan veut que je lui procure trois choses, après quoi il enverra une cargaison.
+	- Des feuilles de plante de Bachani, le prototype de bouclier des Ithoriens, et des fournitures médicales.
+	- Je comprends, mais veillez bien à être là.
+- Droid FST
+	- Nothing new.
+- Samhan
+	- J'ai les objets que vous cherchiez.
+	- J'ai d'abord quelques préparatifs à faire.
+- ACHETER CE QUI VOUS INTERESSE -> dernière chance
+- Samhan
+	- Letsgo
+- Arrestation
+	- C'est un plaisir d'avoir pu vous aider, lieutenant.
+- Kill
+	- Il était nécessaire de mettre ce criminel hors d'état de nuire.
+
+- Go quai d'appontage
+- B4-D4
+	- Qu'est-ce que vous faites là ?
+	- Un vaisseau ? Pour quelle destination ?
+	- Quoi ? Vous avez l'intention de disparaître ?
+	- Vous m'accompagnez à la station des FST, un point c'est tout.
+	- Il vient avec nous.
+- Go to shuttle
+
+## Telos Surface
+
+- Meeting Bao-Dur
+	- Ma tête... j'ai l'impression qu'elle a explosé.
+	- Général ?
+	- Je ne tiens pas à parler de la guerre.
+	- Comment vont les autres ?
+	- Je cherche mon vaisseau.
+	- Qu'est-ce qui nous a abattus ?
+	- Pourquoi une station de recherche serait-elle équipée d'une tour de défense antiaérienne ?
+	- Allons-y. Il faut retrouver notre vaisseau.
+	- Alors, que faire ?
+	- Pourquoi ?
+	- Les cannoks ? Qu'est-ce que c'est ?
+	- Je n'ai pas vu d'herbivores dans le coin.
+	- Mettons-nous en route.
+- Levelup Bao
+	- Equip with +dexterity max (WARNING -> not the Jal Shey gands -> awareness necessary after -> will not be available) 
+	- -> Equip eye mask (cosmetic) -> will explain why he check the energy fluctuation without looking at the console -> before entering the base
+- deriere le vaisseau -> cache -> Bao-Dur extrait les mines -> brute de compétences -> + un truc à dire à l'exilé sur les caches
+- Tuer les Cannoks
+- Kreia level up ?
+- Go mercenaries
+- Avancer -> droid sentinel -> ATTENTION -> solo mode après pour les mines -> mettre tout le monde en stationnaire
+- Avancer sur la plage (Kreia et Bao pas très loin)
+	- Un murmure, peut-être. Comme la caresse d'une douce brise.
+	- Longeons la côte.
+	- Tuer Cannoks
+	- contourner par la gauche -> assault par deriere
+- double cache en revenant sur nos pas
+- vérifier s'il reste pas un Cannok par là ou on est arrivé
+- champ de mines
+	- *Kreia -> discretion -> go between mines -> kill turrets*
+	- Prendre flingue -> tout le monde -> distance -> kill turrets
+	- Bao -> mines
+- Rester en "Distance" pour la suite
+- SAVE
+- map suivante
+- Kill devant mines -> ATTENTION grenable + tough -> raprocher Meetra -> shock -> shield sur la fille dead
+- Bao -> mines
+- DONT switch to melee -> otherwise bao will continue the combat lol -> le mettre en STATIONNAIRE
+- aller vers les mercenaires
+	- Qui êtes-vous ?
+	- Vous vous en êtes plutôt mal sorti, jusqu'à présent.
+- Kill SBIRES D'ABORD!!
+- A DISTANCE
+- Go back to recover
+- Kill the isolated guy in the middle
+- se coller à droite -> pour kill les gens au corp à corp
+- kill reste
+- looter partout
+- desamorcer les mines (avec Meetra -> Bao vas s'insurger de rentrer si tot)
+- Go to console
+	- Les FST ont déclaré que l'Ebon Hawk ne se trouvait sur aucun des lieux d'atterrissage autorisés. Qu'est-ce qui vous fait croire qu'on peut le trouver ?
+	- Qu'est ce que c'est ?
+	- Comment faire pour se rendre dans la région polaire ?
+	- Alors on ne sait pas si la navette est toujours là-bas ou du moins en état de marche ?
+	- Qu'attendons-nous, alors ?
+	- Allons-y.
+- Go base
+
+## Telos - Base
+
+ -> MODDED -> ceinture Czerka -> somewhere...
+- Se prendre les pieds dans le gaz (aller tout droit à fond)
+- Distance
+- Ouvrir champ
+- Kill tourelles -> Stationnary mode pour tout le monde (Kreia vous heal quand même)
+- Passer sur un coté (groupé) -> loot
+- sac -> solo -> masque à gaz
+- Solo -> tout le monde devant porte -> porte -> désequiper Bao ?
+- kill droids de l'autre coté du second champ de force -> Attention pas aller dans la piece en face encore
+- couloir à droite -> droid
+- gauche -> restes -> admiral card 
+- *solo -> go back to console -> disable gaz ???? -> NON ! -> que dal*
+- level up ?
+- Contourner le gaz piece après (RIEN)
+- Ouvrir porte -> 3 droid
+- level up Bao ?
+- Kill all tourelles + droid in next room -> attention 
+- Placer Meetra à gauche (pour cinematique) Open with Baodur -> avancer avec Bao
+	- Why is that ?
+- Droite -> tester la grande porte
+- Allez à gauche -> Baodur solo -> gauche -> porte champ de force -> desactiver le gaz
+- -> desactiver solo -> loot avec Bao -> les deux autres reviennent
+- -> mettre tout le monde en attaque / soutien
+- Go en face -> tester la console -> inactive !
+- couloir
+- droite -> droid -> sac -> porte locked
+- salle suivante -> 1 droid à gauche
+- Intersection
+	- Qui êtes-vous ?
+	- Donnez-moi une raison de perdre mon temps avec vous.
+	- Donnez-moi ça.
+	- Suivez-moi jusqu'à la sortie.
+- Enmener jusqu'à la dernière salle -> pas mode SOLO -> PCL pour Bao-Dur aussi
+- kill le droid au fond du couloir
+- Loot cylindre -> mine faible
+- continuer
+- kill dans la salle des droids
+- pas aller aux consoles
+	- look vers les droid en recharge à droide
+- continuer -> couloir à droite -> droid HK -> reparer -> il explose -> aller le plus loin possible avant la cutscene
+- droite -> porte close -> usine HK
+- loot après
+- les droids sont desactivés
+- Activer le reacteur
+- kill tourrelles
+- kill droids dans la salle recharcge -> surcharge apres -> inutile en TSLRCM
+- kill big droid
+- loot
+- computer -> open hangar
+- Aller à l'établi -> améliorer l'armure de Meetra
+- Bao-Dur
+	- De quoi parlez-vous ?
+	- Ma source d'inspiration, c'est votre bras
+	- *Quand on est en contact avec la Force, elle peut se manifester de façon visible.-> not on XBox*
+- Reask
+	- Vous n'avez vraiment pas besoin de m'appeler général, vous savez...
+	- Vous avez l'intention de rester ?
+	- J'ai fait de même au cours de mon exil.
+	- **La vérité était trop dure à supporter, hein ?**
+	- Je pense que nous en prendre seuls à la Czerka serait peut-être un peu ambitieux...
+	- // -> normal conversation now
+	- Où est-ce que vous avez trouvé ce droïde télécommandé ?
+	- Ça doit être agaçant, non ?
+	- //
+	- Que pensez-vous de la situation de Télos ?
+	- //
+	- Comment est-ce que vous avez perdu votre bras ?
+	- Mais je ne plaisantais pas.
+- Kreia -> (049 -> prestige class -> come back later *Conditions : Niveau de Jedi ≥ 15 et alignement de l'Exilé(e) nettement choisi (≥ 75 si LS ou ≤ 25 si DS)*)
+	- Je voudrais que vous m'en appreniez davantage au sujet de la Force.
+	- Je voudrais fabriquer un sabre laser.
+	- Le sabre laser est le symbole des Jedi. Il inspire les autres et leur redonne l'espoir.
+	- Mais comment faire pour en fabriquer un ?
+	- //
+	- I had other...
+	- [Intelligence > 13] Alors, qu'*étais*-vous ? ([Influence > 85 ou < 15] -> OK here ?)
+	- Si le passé est aussi important que vous le prétendez, le vôtre m'intéresse.
+	- CUTSCENE
+	- **Il me faut plus que ça, Kreia.**
+	- Stop + 1000PX
+- Reask
+- *Conditions : l'influence de l'Exilé(e) sur Kreia doit être ≤ 30 ou ≥ 70 (voir "**_Guide de l'Influence_**")*
+	- Savez-vous quelque chose au sujet des Siths qui nous poursuivent ?
+	- Celui qui se nourrit de douleur... Sion.
+	- Qui est le traître ?
+	- ***Et celui qui est habité par une faim dévorante ? -> XBox bug -> need to ask before ?***
+- Prendre navette
+
+## Plateau de glace
+
+	- Il y a une raison pour que vous ayez abattu mon vaisseau ?
+	- Qu'est-ce que des droïdes assassins fabriquent ici ?
+	- Mais combien vous êtes ?
+	- Détruire l'un d'entre vous ne m'a pas posé le moindre problème. A trois, vous allez peut-être m'obliger à m'employer un peu, mais j'en doute.
+- levelup Atton + equip ?
+- kill / loot
+- Talk Atton
+	- Que voulez-vous dire ?
+	- Je ressens la Force plus que jamais.
+- put max awarness
+	-  "Vigilance" soit > à 14 et votre "Persuasion" > 3.
+	- Retinal Combat Implat +1
+	- Survey Gear +1 (ou Bothan Perception Visor +3! -> but ugly)
+	- Jal Shey Gloves +1
+	- Exchange Shadow cCaster +2
+- switch weapon Atton -> épée -> animation!
+
+## Academy
+
+	- Qui êtes-vous ?
+	- Très bien. Je ne suis pas ici pour me battre.
+- //
+	- Commencez par me dire ce que vous avez fait de mes amis.
+	- Je n'avais pas l'intention de venir ici, Atris. Ni de vous revoir un jour.
+	- C'est la Force qui m'amène ici.
+	- Rafraichîssez-moi la mémoire... pourquoi le Conseil a-t-il décidé de me chasser ?
+	- Mais la République avait demandé l'aide des Jedi...
+	- Mon châtiment aurait pu être bien pire, et je vous en remercie.
+	- C'est mon sabre laser !
+	- Je veux gagner le droit de porter mon sabre laser à nouveau.
+	- Je n'avais pas d'autre choix que de partir en guerre !
+	- Si j'ai décidé de partir en guerre, c'est pour protéger les autres, pas pour me battre.
+	- Les Mandaloriens ravageaient des mondes innocents, que nous avions prêté serment de protéger.
+	- Ce sont Revan et Malak qui vous ont trahis, pas moi.
+	- Alors, vous n'avez rien compris de ce qui me motivait... ni de ce qui motivait Revan.
+	- Dites-le aux millions de morts qu'a fait le conflit. Quand je pense que ces vies auraient pu être sauvées si les Jedi avaient consenti à agir plus tôt...
+	- Les Mandaloriens eux-mêmes reconnaissent que c'est Revan qui les a repoussés.
+	- ... dans la reddition ? Le triomphe du pacifisme ?
+	- Si nous n'avions pas agi, des milliers de mondes auraient été pillés, leur population massacrée.
+	- Si les Mandaloriens avaient été victorieux, les Jedi les auraient-ils affrontés ? Ou bien se seraient-ils contentés de méditer afin de décider de la marche à suivre ?
+	- **[Vigilance (Condition : Vigilance > 14) Votre colère est-elle due au fait que vous auriez bien voulu me suivre sur la voie de la guerre ?**
+	- Je lis en vous comme dans un livre. Vous vouliez vous battre à mes côtés, mais vous aviez trop peur de défier le Conseil.
+	- Je suis à la recherche mon vaisseau, afin de pouvoir quitter Télos.
+	- Bon, écoutez... vous avez mon vaisseau, oui ou non ?
+	- [Réparation] Bonne chance avec l'ordinateur de navigation, mais je peux vous dire que vous perdez votre temps.
+	- Tous les mineurs étaient déjà morts !
+	- Si vous refusez de me rendre mon vaisseau, je le reprendrai par la force.
+	- Je ne reconnais rien du tout.
+	- Je sais que cela a mis Télos en danger, mais je n'avais pas le choix.
+	- Que voulez-vous dire ?
+	- Vous me connaissez... vous savez bien que je n'aurais jamais commis intentionnellement un tel acte.
+	- *Mon* crime ? Mais ce sont les Siths qui ont détruit Péragus, pas moi !
+	- les Siths sont venus me chercher sur Péragus. Ils voulaient ma mort.
+	- I don't know. Perhaps they were
+	- Ils sont plus forts que vous le croyez. Ils ont au moins un Seigneur Sith avec eux, et ils se battent différemment des Siths de la Guerre Civile.
+	- En quoi puis-je vous être utile ?
+	- [Persuasion - Condition : Persuasion > 3] les Siths ont l'avantage du nombre. Vous avez besoin de tous les alliés que vous pourrez trouver, fussent-ils Jedi ou non.
+	- Je vais voir ce que je peux faire.
+
+- Ask servante - juste à coté (avant de libérer vos amis)
+	- Je cherche mes amis.
+	- Donc, ils sont prisonniers.
+	- Qui ? Atton?
+	- Vous faites sûrement erreur.
+	- Où aurait-il pu apprendre ces techniques ?
+	- Oublions ça. Je vais vous laisser.
+- alller à droite puis gauche chercher amis
+	- [Sagesse] Ça dépend ? Qu'aurais-je dû trouver, en théorie ?
+	- Elle faisait partie du Conseil qui a décidé de m'exclure de l'Ordre. Elle voulait même me punir davantage.
+	- Cette femme est un Jedi. Atris. Elle fait partie du Conseil.
+	- Vous voulez dire qu'elles ne perçoivent pas la Force ?
+	- Those who cannot ... ?
+	- Comment le savez-vous ? Vous avez lu leurs pensées ?
+	- Atris a l'intention de reconstruire l'Ordre après avoir guéri la galaxie.
+	- *Aren't the Gandmaidens students*
+	- *Comment le savez-vous ? Vous avez lu leurs pensées ?*
+	- Partons. Nous poursuivrons cette conversation en marchant.
+	- Atton va bien ? Il a l'air évanoui.
+	- Je vais ouvrir les cellules et vous tirer d'ici.
+- Bao
+	- Vous n'avez pas à vous excuser. Ça va, c'est sûr ? (PCL + INF)
+	- Une Académie Jedi, cachée au pôle nord de Télos...
+	- Est-ce que votre état vous permet de voyager ? (PCL + INF)
+	- Venez avec moi, je pourrais avoir besoin de vous. (PCL + INF)
+- take atton and kreia
+- **TALK TO ATTON -> the second talk with give infl + PCL but some same sentences -> what to do ? -> écourter ?**
+	- Grâce à quoi ? Votre entraînement Echani ?
+	- Quand nous avons rencontré ces servantes à l'entrée, vous avez aussitôt pris une posture de combat Echani. Où avez-vous appris ça ?
+	- Ça va ? Vous avez l'air hors du coup.
+	- Si vous voulez savoir si nous sommes désormais alliés à eux, alors, oui.
+	- Vous en avez assez fait, Atton. Vous pouvez partir, si vous voulez.
+	- Vous me surprenez. Moi qui pensais que vous chercheriez à vous débiner à la première occasion...
+	- Très bien, allons-y.
+- Continuer chemin pour discuter avec servantes
+	- Atton + Kreia Bounty
+	- The Ebon ?
+	- J'ai d'autres questions à vous poser.
+	- Je voudrais en savoir plus sur Atris.
+	- Où est Atris ? Je voudrais lui parler à nouveau.
+	- Vous pouvez me parler d'elle ?
+	- Et comment compte-t-elle s'y prendre ?
+	- Si j'ai fait la guerre, c'était par choix. Ma formation n'a rien à voir là-dedans.
+	- Et qu'est-ce qu'une formation adéquate, selon Atris ?
+	- Atris ne sait rien. Et elle va transmettre son ignorance à ceux qu'elle va former.
+	- Other
+	- Que pouvez-vous me dire à propos de cet endroit ?
+	- Mais pourquoi Atris est-elle ici ?
+	- Pourquoi les reliques ont-elles été transportées ici ?
+	- **Comment Atris a-t-elle su que Dantooine serait détruite ?**
+	- Des reliques ? (artefacts ?)
+	- Parlez-moi d'Ossus.
+	- Je voudrais voir ces reliques Jedi.
+	- [Persuasion] Atris m'a autorisé à me déplacer librement. Ça signifie qu'elle me fait confiance... -> TALK ABOUT LAST OF HANDMAIDEN
+	- La dernière des servantes ?
+	- Pourquoi occupe-t-elle ce rang ?
+	- Quels genre de questions ?
+	- //
+	- Quelle est votre fonction ici ?
+	- Quels Jedi servez-vous ? Je n'en ai pas vu beaucoup ici.
+	- J'espère qu'Atris pourra m'enseigner à nouveau les préceptes des Jedi.
+	- Vous voulez devenir un Jedi ?
+	- Pourquoi vous sentir insultée ?
+	- J'ai du mal à vous suivre.
+	- Plutôt sévère comme attitude...
+	- Vous surveillez les Jedi ?
+	- Et si je me montrais agressif, vous m'attaqueriez ?
+	- Mais Atris est votre maîtresse, et c'est un Jedi.
+	- Le petit cercle que vous formez me semble totalement corrompu.
+	- Tout comme Atris - Corrigez-moi si je me trompe, mais il n'y a plus aucun Jedi ici.
+	- Atris a autant de pouvoir qu'une mouche dekk. Elle ne risque pas d'attirer des Jedi ici...
+	- //
+	- Pourquoi vous ressemblez-vous toutes ?
+	- Mais la servante qui nous a défiés à notre arrivée semblait pourtant différente.
+	- Elle avait donc des parents différents
+	- Toutes mes excuses.... Je ne voulais pas vous manquer de respect.
+	- end
+- Go left to the main circle
+- Talk to the Handmaiden (TSLRCM -> may already be on the circle pit !) -> Name only "Handmaiden" not "H... sister"
+	- Vous êtes la dernière des servantes Echani ?
+	- Les autres m'ont dit qu'il était facile de vous déconcentrer et de vous détourner de votre entraînement.
+	- Que voulez-vous dire ?
+	- Si vous craignez que le savoir des Jedi se perde, pourquoi ne pas essayer d'en apprendre une partie ?
+	- Vous observez les Jedi ?
+	- [Persuasion] Observer les Jedi ne consiste pas seulement à les regarder. Il faut également examiner leur enseignement et leur entraînement. Pratiquer n'est pas nécessaire, mais il faut tout noter avec attention.
+	- Pourquoi le savoir des Jedi vous intéresse-t-il, s'il vous est interdit ?
+	- Et vous souhaitez le préserver ?
+	- **Le combat n'est pas la vérité que révèle l'enseignement des Jedi. Je crois même que c'est tout le contraire (PCL)**
+	- Leur dévotion ?
+	- **Le combat n'est pas le meilleur moyen de communiquer avec les autres (PCL)**
+	- Je serais vous, je n'accorderais pas trop de poésie à leur haine et à leur violence.
+	- Laissez tomber. Je m'en vais.
+- // YOU HAVE TOUCH THE FORCE
+	- *C'est difficile à décrire. -> THE FORCE IS PRESENT*
+	- *C'est comme un courant qui vous parcourt le corps et qui vous emporte vers tous les endroits qu'il effleure.*
+	- *Si vous avez d'autres questions à l'avenir, n'hésitez pas à venir me les poser.*
+	- *//*
+	- Tout ce que je sais, c'est ce qu'on ressent quand on la perd.
+	- Imaginez que vous vous réveillez et que tous vos sens sont éteints.
+- Reask
+	- Vous êtes la dernière des servantes Echani ?
+	- Laissez-moi vous poser une autre question.
+	- Vous êtes... différente des autres femmes qui se trouvent ici.
+	- Donc, vous avez toutes le même père, mais pas la même mère ?
+	- **Toutes mes excuses. Je ne voulais pas vous offenser (PCL)**
+	- S'agit-il d'un sujet sensible ?
+- //
+	- Et qu'a dit Atris ?
+	- **J'ai pris part à la guerre pour protéger les autres, pas pour me battre (PCL)**
+	- Je n'ai jamais choisi la voie du côté Obscur.
+	- Si c'était le cas, j'aurais pris part à la Guerre Civile des Jedi.
+	- Je n'ai pas suivi Revan, car tel était mon choix.
+	- Est-ce qu'Atris vous a dit autre chose ?
+	- Ses sentiments ?
+	- Que dit le coeur d'Atris, à votre avis ?
+	- **Je n'ai nullement envie de l'affronter (PCL)**
+- **//**
+	- J'ai entendu dire que vous saviez des choses sur les reliques stockées par Atris.
+	- Où sont-elles ?
+	- [Persuasion] Son accès ne peut pas être interdit aux Jedi. Et ça tombe bien, je suis un Jedi !
+	- D'où proviennent ces reliques ?
+	- **[Intelligence - Condition : Intelligence > 12] Vous dites que la plupart viennent de Dantooine. Et les autres ? -> SITH LOL**
+	- Avez-vous déjà vu ces reliques ?
+	- Que pouvez-vous me dire au sujet de celles que vous avez vues ?
+	- Des questions ?
+- //
+- Go to Atris door
+	- Quand j'ai croisé Atris pour la première fois, elle sortait de cette pièce.
+- **Talk AGAIN to Atton**
+	- J'aurais pensé que votre entraînement Echani vous permettrait de récupérer bien plus rapidement.
+	- **Ne le prenez pas mal, c'était juste une question comme une autre. Je pensais que ça pourrait nous être utile, c'est tout. (infl)**
+	- Ça va ? Vous avez l'air hors du coup.
+	- Ils nous ont dit de partir sans attendre.
+	- Jusqu'à ce qu'il n'y ait plus le moindre être vivant dans la galaxie, oui.
+	- Vous en avez assez fait, Atton. Vous pouvez partir, si vous voulez.
+- Entraintement echani
+	- I'm looking for a fight
+	- Un peu d'entraînement, ce n'est pas de refus...
+	- //
+	- Il faut que je reste là à me geler dans ma combinaison, j'imagine, non ?
+	- Je comprends. On reste sur le tatami, pas d'armure, et défense de frapper pour tuer.
+	- Laissez-moi me préparer et je reviens.
+- SAVE -> EQUIP GANDS mains nus (Unarmed Accuracy Gloves)
+	- FONCER VERS ELLE -> elle peut nous ejecter du ring
+	- Fight (~Hard)
+- Recover + loot arround
+- Save
+	- Again + sword (easier)
+- Save -> ALWAYS NO ARMOR !!
+	- +Force
+- Pair...
+- Full = VERY HARD
+	- Hyper Stimulants + Mandalorian Shield (very effective) + Slashing weapon + Bludge armor + Implants against Critical
+- T3-M4
+	- Ça va, T3 ?
+	- Ce n'est pas de ta faute s'ils ont pris le vaisseau, T3.
+	- Attends un peu... de quoi est-ce que tu parles ?
+	- Pourquoi voudrait-elle ce qu'il y a dans ta mémoire centrale ?
+	- On parlera de ça plus tard... laisse-moi d'abord te tirer de là.
+- Loot last crate
+
+## Ebon Hawk
+
+	- Qu'est-ce que tu as, T3 ?
+	- Tu as fait *quoi* pendant que tu étais connecté ?
+	- Tu as téléchargé les archives d'Atris ?
+	- Il dit qu'il y avait un enregistrement holographique de mon procès dans les archives d'Atris.
+	- //
+	- Quelles que soient vos raisons, énoncez-les ou laissez-moi partir.
+	- Je sais que le fait de suivre Revan à la guerre allait à l'encontre du code des Jedi. Et je l'ai quand même fait, sachant pertinemment que j'allais à l'encontre des vœux du Conseil.
+	- //
+	- Les minutes qui ont suivi mon procès... jamais je n'aurais cru...
+	- Je sais que ça te prendra sûrement du temps, mais continue d'analyser les archives d'Atris.
+	- Une petite minute... qu'y avait-il d'autre dans les archives ?
+	- Rien au sujet d'artefacts ? De sabres lasers ?
+	- Elle est obsédée par les registres. Pourquoi n'en tiendrait-elle pas la liste ?
+	- Pardon, je réfléchissais à voix haute.
+	- Très bien, passe-moi les Jedi disparus.
+	- //
+	- Tous ces Jedi faisaient partie du Conseil qui a pris la décision de m'exiler.
+	- Nous n'avons pas le choix. Ces Jedi savent ce qui m'est arrivé.
+- LOAD
+- Bao-Dur
+	- Atris et le Conseil des Jedi me l'ont pris.
+	- Je ne veux rien des Jedi.
+	- Je ne sais pas où trouver les pièces nécessaires, maintenant que toutes les enclaves Jedi ont été détruites.
+	- Depuis quand êtes-vous expert en sabres laser ?
+- TSLRCM... -> pazaak
+	- A quoi jouez-vous ?
+	- Vous pouvez vous calmer les gars ? Ca commence à bien faire, vos gamineries.
+- Bao+Atton
+- Bao+T3
+	- Peut-être qu'il s'inquiète pour ce qui est de vos compétences.
+	- Ça m'a l'air d'être une bonne idée.
+- FREE!
+- See Bao
+	- Oh. Vous voulez en parler, maintenant ?
+	- Manifestement, oui.
+	- Qu'est-ce que c'est ?
+	- L'inaction des Jedi n'a aidé personne.
+	- Alors, vous vouliez vous venger ?
+	- Les Jedi sont formés à résister aux émotions intenses.
+	- Qu'est-ce que vous faites ?
+- Bao-Remote
+	- De l'eau a coulé sous les ponts depuis la guerre. Mais, à ma grande surprise, vous êtes encore en état de fonctionnement.
+- Open HK door
+	- Repair
+	- x2 steps now
+- T3
+	- ASK FOR HK (TSLRCM?) -> not on XBox
+	- //
+	- T3, peux-tu me redonner la liste des maîtres Jedi ?
+	- Oh, non, je ne t'en veux pas. Mais j'aurais préféré que tu effaces les bases de données avant ton départ. (PCL+infl)
+	- Il n'y avait que ça dans les bases de données d'Atris ?
+	- Laisse tomber, il faut que j'y aille.
+	- //
+	- Comment va l'Ebon Hawk ?
+	- Excellente nouvelle ! Beau travail. (PCL + infl)
+	- //
+	- [Informatique] J'aimerais apporter encore une amélioration à ton unité centrale.
+	- [Informatique] Très bien. Laisse-moi jeter un oeil...
+	- Là, ça y est. Comment tu te sens ?
+	- Quoi, mon regard ? Je n'ai pas arrêté de travailler sur toi.
+	- //
+	- [Réparation] Prêt pour une opération de maintenance de routine ?
+	- [Réparation] Laisse-moi ouvrir ton panneau frontal et me mettre au travail.
+	- Ça y est, tes systèmes de réponse sont terminés. Fais-les tourner, pour voir...
+	- Il faut que je me concentre sur toi, ce qui veut dire que je ne dois pas du tout me préoccuper du reste du vaisseau.
+- TODO : T3 Improvement after first time in Ebon Hawk in non-linear (Info > 20 + Repair > 20)
+- Kreia
+	- Qu'est-ce qui ne va pas, au niveau de vos yeux ?
+	- Il est peut-être possible de vous rendre la vue.
+	- //
+	- Avez-vous connu Atris ? (influence > ...)
+	- Que voulez-vous dire ?
+	- Vous avez suivi la même voie qu'elle ?
+	- Vous avez formé Revan ?
+	- ECHEC infl.
+	- //
+	- If the conscil...
+	- [Vigilance : > 10] Vous mentez.
+	- Vous utilisez cette technique avec moi ?
+	- Je crois que vous me mentez et que vous ne m'avez pas tout dit.
+	- *En êtes-vous sûre ? -> not on XBox*
+
+## Dantooine
+
+- Déscendre (avec T3+Kreia)
+	- De quoi vous parlez ?
+	- Les ferrailleurs ? J'ignore de quoi vous parlez.
+	- Je suis en visite, c'est tout. J'ai vécu ici, autrefois.
+	- Je ne suis pas revenu depuis mon départ pour les guerres mandaloriennes. -> not on  xbox ?
+	- Où est Khoonda ?
+	- Qui est l'Administratrice Adare ?
+	- Pourquoi y a-t-il autant de mercenaires, ici ?
+	- Est-ce que les mercenaires causent des problèmes ?
+	- Combien de personnes ont disparu ?
+	- Pourquoi faut-il une autorisation pour pénétrer dans l'Enclave ?
+	- Il faut que j'y aille.
+- Levelup T3
+- Parler au Droid
+	- Quelles facultés d'observation, T3 !
+	- Qu'est-ce qui t'a endommagé, droïde ?
+	- L'invasion des Siths ?
+	- [Ordinateur] Droïde, faites un auto-diagnostic et faites-moi part des résultats.
+	- [Réparation] Réparer la mémoire du droïde. -> droid call jedi -> Tarn's coming
+		- -> Kreia intervient ? -> XBox non
+		- Vous devriez conserver votre identité secrète pour l'instant. Essayez de convaincre cet imbécile que vous n'êtes pas un Jedi.
+	- Non, vous devez vous tromper.
+	- [Persuasion] De toute évidence, le droïde connaît des problèmes de fonctionnement. J'ai l'air d'un Jedi ?
+	- *Mais les Jedi sont les protecteurs des gens ordinaires comme vous. (PCL -> not needed !!)*
+	- Why do you hate the Jedi ?
+	- Can you be more specific ?
+- Pato Ado (Ithorian)
+	- Why were you exploring...
+	- How can it be corrected ?
+	- Kinrath ?
+	- Why are you so anxious to go ?
+- Win pazaak X2 -> no reward -> he as k for changing the rules -> OK -> 750c
+- 4x750c + armor components!
+- loot next to him
+- Come back to the droid
+	- Pourquoi m'avez-vous qualifié de Jedi ?
+	- Parlez-moi de l'invasion.
+	- Que savez-vous de moi, au juste ?
+	- Et c'est tout ?
+	- Je vous écoute.
+	- *-> lust of power LOL*
+	- *//*
+	- Que savez-vous sur Dantooine ?
+	- Que savez-vous sur ces ruines ?
+	- //
+	- *What are the local... interest... ?*
+	- *Why is that ?*
+	- *Where is the Koonda ?*
+	- //
+	- On peut y trouver du travail ?
+	- De la récupération ? (salvage)
+	- Alors comme ça vous allez fouiller dans les ruines et vous prenez ce que bon vous semble ?
+- Tarn
+	- Pourquoi pensez-vous que je suis un ferrailleur ?
+	- Je suis venu voir l'enclave.
+	- Que savez-vous de l'enclave ?
+	- -> not saying "Who are they yet ?"
+	- J'aimerais parler d'autre chose.
+	- //
+	- Parlez-moi des ferrailleurs.
+	- J'aimerais parler d'autre chose.
+	- //
+	- Que font les mercenaires ici ?
+	- **Il y a un Jedi ici ?**
+	- A qui faites-vous référence ? -> Who are "they" ??
+	- //
+	- Qu'êtes-vous en train de faire ? (Why so busy ?)
+	- [Vigilance (condition : vigilence > 11)] On dirait que vous avez la pression.
+	- **[Persuasion (condition : persuasion > 9)] Vous devriez essayer d'évacuer toutes ces frustrations. -> infl Kreia**
+	- *[Persuasion par la Force (condition : pouvoir de "Persuasion par la Force)] Dites-moi. -> no influence on Kreia*
+	- Vous avez des problèmes avec les droïdes ?
+	- Quel problème vous posent les portes ?
+	- Que savez-vous des tourelles ?
+- Don't LOOT deriere ? -> un cylindre demande trop de compétences
+- 
+
