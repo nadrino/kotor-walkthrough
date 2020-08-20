@@ -1,8 +1,23 @@
 The Search for Bastila
 ======================
 
+
+
 # Upper Taris
 
+- Carth talks to you
+  - **I had a strange dream. Like a vision or something.**
+  - **I guess I owe you my life. Thanks.**
+  - Bastila? She's the one from the Endar Spire, right?
+  - How do you even know Bastila's still alive?
+  - So what do you suggest we do next?
+  - If Bastila's a Jedi, she can probably look after herself.
+  - Any idea where we should start looking for Bastila?
+  - What can you tell me about this planet we're on?
+  - What do you know about Malak and the Sith?
+  - A Jedi? What do you mean?
+  - I'd like to know some more about you, Carth. or similar
+  - The sooner we start looking for Bastila the sooner we find her. Let's go.
 - Beginning talk to Carth the first time
 - In the appartements convince the woman to tell about her bounty
 - Loot around and talk to the old man -> tells you about the Cantina and Weapons
