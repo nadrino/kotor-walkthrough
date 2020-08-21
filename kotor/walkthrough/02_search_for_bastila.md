@@ -3,7 +3,7 @@ The Search for Bastila
 
 
 
-# Upper Taris
+# Upper Taris - Safe Room
 
 - Carth talks to you
   - **I had a strange dream. Like a vision or something.**
@@ -18,18 +18,132 @@ The Search for Bastila
   - A Jedi? What do you mean?
   - I'd like to know some more about you, Carth. or similar
   - The sooner we start looking for Bastila the sooner we find her. Let's go.
-- Beginning talk to Carth the first time
-- In the appartements convince the woman to tell about her bounty
+- Loot and improve your sword
+- **Talk to Carth about him (0/12)**
+  - I'd like to know some more about you, Carth.
+  - You're talking like it's your fault. Like you failed somehow.
+  - Them? Do you mean the people of your home world?
+- Go out
+
+
+# Upper Taris - South Apartments
+
+- Kill the Sith and 2 droids -> You gonna meet the victim again later
+  - Won't someone come searching for this patrol?
+- Level Up! (3)
+- First door on the right -> Loot -> **SAVE** -> Talk to the woman
+  - I'm sorry. I was just investigating the area.
+  - Holdan? Who's that?
+  - What do you mean?
+  - **[Persuade] You can trust me. Maybe I can help.**
+  - I want to ask you some questions.
+  - I'll be going now.
+- Talk to the Twi'lek Larrim
+  - Pleased to meet you, Larrim. My name is Name.
+  - What's so great about these energy shields?
+  - Why do you have a kiosk set up here?
+  - You mentioned something about illegal aliens living here.
+  - Aren't you worried about getting caught?
+  - I want to ask you some questions.
+  - Let me see what you've got for sale.
+- He has nothing interesting (or too expensive!)
 - Loot around and talk to the old man -> tells you about the Cantina and Weapons
-- (ranger ses armes) Go out to the weapon store and talk to Carth (automatic) (2) -> who are you, doubts
-- Talk with droid, Sith...
-- Talk with the weapon girl -> do ask for the store -> **do she have repair parts ?**
-- Go to the cantina talk to the old man an buy the paazaak deck and make the tutorial
-- Talk to the girl or **Yun Genda** (sith on permission) in the next room on the right. try to persuade her. -> new quest -> party** (NO DONT DO THAT, LESS XP)**
-- Talk to other people
+  - Sorry, I didn't mean any disrespect.
+  - I want to ask you some questions.
+  - Tell me about Taris.
+  - Where can I get some equipment?
+  - What do you think of the Sith and this quarantine?
+  - I'll be going now.
+
+  
+# Upper City South
+
+- Take-off your weapons (let's be RP!)
+- Talk to a Sith / People
+- Talk to s Droid
+  - What can you tell me about the Sith?
+  - Is there some way I can get a shuttle off this planet?
+  - Do you know anything about the gangs in the Lower City?
+  - How come there are hardly any aliens around?
+  - Who do you work for?
+  - I don't need anything right now.
+- Cross the street, in direction of the Equipment Emporium / Cantina
+- **Proposition to talk with Carth (1/12)**
+  - Is this a good time to ask you some more questions?
+  - I just would like to know you better.
+  - This isn't an interrogation. I never said that.
+  - Like you said when we first met: Bastila didn't have time to use her powers.
+  - I'm a scout. I was recruited into the fleet for my skills, if you must know.
+  - **You'd rather I wasn't?**
+  - Are you implying *I* had something to do with the crash?
+  - Why would Bastila request my transfer?
+  - I'm telling you, Carth, I had nothing to do with the crash.
+  - Are you always this suspicious?
+  - I consider this important.
+- Go to the Equipment Emporium and talk to Kebla Yurt
+  - I want to ask you some questions.
+  - I was wondering how you feel about the Sith?
+  - I need some general information on Taris.
+  - Swoop gangs? What can you tell me about them?
+  - What do you know about Davik?
+  - Is Davik working with the Sith?
+  - Do you know anything about those escape pods that crashed here on Taris?
+  - I'll be going now.
+- We will discover her inventory later -> she has rather good weapons we gonna need later
+
+
+# Upper City Cantina
+
+- Go to the cantina talk to the old man (Garouk) an buy the paazaak deck (and make the tutorial)
+  - Who are you?
+  - You're giving up gambling? Why?
+  - I can't afford that.
+  - Sure, I'll buy your deck.
+  - (I'd like a Pazaak lesson.)
+- Talk to the girl (Yun Genda) on the right (Sith on permission) in the next room on the right.
+- If you're a woman, you can talk to a guy in the other room
+- _DONT try to persuade her. -> new quest -> **Sith party (BUT LESS XP)**_
+  - You're from the military base? You don't look like one of the Sith.
+  - So why do you do it?
+  - You can't really blame people... you did conquer the planet.
+  - You seem pretty touchy about this. Maybe you feel a little guilty about what you do.
+  - Sorry – I'm not trying to judge you.
+  - I'm not actually from Taris. I'm just stuck here until the quarantine ends.
+  - Being stuck on Taris isn't so bad... but the locals aren't much fun.
+- Talk to other people around
+- Go to the bar room
 - Gana Lavin : Be rude -> more XP -> guy to kills after the cantina
-- Watch the match, talk to evrybody
-- do the 2 first match
+  - Sorry, I'm not your waiter.
+  - **I don't even work here!**
+- Go to the Dueling Ring room
+- Watch the match, talk to everybody
+- Deadeye Duncan
+    - Who are you?
+    - You're the number five ranked duelist? Out of how many?
+    - Dueling chambers?
+    - Goodbye.
+- Gerlon Two-Fingers
+    - I want to ask you some questions.
+- Ice
+    - Wow – that was cold!
+- Marl
+    - Do I know you?
+    - Tell me more about these duels.
+    - I want to ask you about the duelists here.
+        - Tell me about Duncan.
+        - Tell me about Gerlon.
+        - Tell me about Ice.
+        - Tell me about yourself.
+        - Tell me about Twitch.
+        - Tell me about Bendak Starkiller.
+    - I want to ask you some questions.
+    - I just want some general information on Taris.
+    - Do you know anything about the crashed Republic escape pods?
+- Do the first match (Talk to Ajuur)
+    - I just want to ask you some questions.
+    - 
+    - That's a terrible name!
+    - 
 - Go pazaak with Niklos near the entrance
 - Talk with bendark starkiller
 - Reveal weapon store
