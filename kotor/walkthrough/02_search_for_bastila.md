@@ -1,9 +1,7 @@
 The Search for Bastila
 ======================
 
-
-
-# Upper Taris - Safe Room
+## Upper Taris - Safe Room
 
 - Carth talks to you
   - **I had a strange dream. Like a vision or something.**
@@ -25,8 +23,7 @@ The Search for Bastila
   - Them? Do you mean the people of your home world?
 - Go out
 
-
-# Upper Taris - South Apartments
+## Upper Taris - South Apartments
 
 - Kill the Sith and 2 droids -> You gonna meet the victim again later
   - Won't someone come searching for this patrol?
@@ -55,8 +52,8 @@ The Search for Bastila
   - What do you think of the Sith and this quarantine?
   - I'll be going now.
 
-  
-# Upper City South
+
+## Upper City South
 
 - Take-off your weapons (let's be RP!)
 - Talk to a Sith / People
@@ -91,8 +88,7 @@ The Search for Bastila
   - I'll be going now.
 - We will discover her inventory later -> she has rather good weapons we gonna need later
 
-
-# Upper City Cantina
+## Upper City Cantina
 
 - Go to the cantina talk to the old man (Garouk) an buy the paazaak deck (and make the tutorial)
   - Who are you?
@@ -145,33 +141,182 @@ The Search for Bastila
     - That's a terrible name!
     - 
 - Go pazaak with Niklos near the entrance
-- Talk with bendark starkiller
-- Reveal weapon store
-- Go back to house and talk with Carth (3) -> dont trust anybody
-- Go outside and save
-- Go to medicine facility -> first general info taris -> discover undercity -> serum quest
-- save before republic question -> LS point
-- Kill Davik men, give credits
-- Go back to home, talk with Carth (4) -> reveal past
-- Go to the new appartement -> begin on the left
-- Kill Siths, talk with guy, learn about hidden becks
-- Largo -> Davik bounty ->** don't tell**
-- Go back to home, talk with Carth (5)
-- Continue road to lower city, 3 guys -> aggress them -> PCO but 150 PX (instead of 60) and loot
-- Droid store -> buy crapy droid (XP) -> get refund, not more (DSP +25cred)
-- ***Buy 7 parts in her shop (sell if needed)***
-- Go to the lower city entrance, sith talks with you, go to the military base door, go back equip You (not carth, conversation with the sith will not make sense) with the armor
+    - Who are you?
+    - Let's play.
+- Talk to the girl near the entrance (Christya)
+    - 20 credits? That seems expensive for a couple of drinks.
+    - Sorry, not interested.
+- Talk with Bendak Starkiller
+    - Autoprints? What are you talking about?
+    - How come you don't hang around with the other duelists?
+    - I want to ask you some questions.
+    - I'll be going now.
+- Leave the Cantina
+    
 
-# Lower Taris
+## Exploring Upper Taris
 
-- Kill guys, kill the other on the right (WARNING : they are though)
-- Go first at the cantina
-- **don't buy pazaak ? 200 c +/-1 ? +/-6 cheaper ->50 ? -> save 6 to check**
-- Gelrood -> Infinite pazaak -> 3 times
-- see Calo North , go see Holdan -> learn about ebon hawk -> wait for force persuade to pull off the bounty (+4PCL 125PX instead of 50+105)
+- Go towards your apartment -> you will meet Gana Lavin (the angry rich woman in the cantina) with two body guards. Kill the body guards and loot the swords.
+- **Go back to your house and talk with Carth (2/12)**
+    - I want to discuss something with you.
+    - We didn't finish our conversation last time.
+    - Why are you so hostile? What did I do to deserve this?
+    - Of course it won't happen again if you never trust anyone!
+    - **Right. And how am I supposed to know that *you* won't betray us?**
+    - Why not you? Accusing other people is a good cover for a traitor.
+- Go back outside and follow the street
+- Go to the clinic on the right
+
+**_TEMPSAVE_** : Easy Persuade (Level 3 -> 50%)
+
+- Talk to the doctor (Zelka Forn)
+    - Medical facility? Is this some kind of hospital?
+    - I want to ask you some questions. / I want to ask you something else.
+    - How do you feel about the Sith?
+    - I just want some general information about Taris.
+    - Tell me about Upper Taris.
+    - Tell me about the Lower City.
+    - What do you know about Davik?
+    - Tell me about the Undercity.
+    - Outcasts?
+    - Is there no cure?
+    - Maybe I could find a way to get my hands on that serum for you.
+    - Don't worry, Zelka – I'll get that serum for you!
+    - **Do you know anything about the Republic escape pods that crashed in the Undercity?**
+    - You seem awfully defensive about this.
+    - **[Persuade] Don't worry, I'm not with the Sith. I won't betray your secret if you tell me.** (EASY - 50%)
+    - **Is there anything I can do to help?** (LSP +2)
+- Leave the medical facility: Gurney intervenes
+    - An offer? What are you talking about?
+    - Davik Kang? Who's that?
+    - You mean Davik's a crime lord?
+    - Why does Davik want the cure so badly?
+    - Where can I find Davik if I want to give him the cure?
+    - Why do you care who gets the cure?
+    - What if I tell Zelka you're helping Davik get the cure?
+    - I'll keep your offer in mind.
+- Go near the entrance of the North street
+- Bounty Hunters racketeering a Merchant
+    - **Leave this man alone or you'll have to deal with me!** (LSP +2)
+- Kill
+    - Maybe I can help you.
+    - **Here's 100 credits. Take them.** (LSP +2)
+- Loop (50c on each corpse)
+- Go back to home, talk with Carth (3/12)
+    - I just want to talk with you.
+    - I just want to know why you distrust me so much.
+    - But we have to work together, Carth, so it has plenty to do with me.
+    - I suppose you can't. That must have been hard to take.
+    - You say that with such… hatred.
+- Go to back to the North Apartments
+
+
+## Upper City North
+ 
+- Cross the street and go to the North Apartments
+- Begin on the left (it's a circle)
+- Loot everywhere
+- 3 Sith are arresting a guy
+    - What's going on in there?
+    - **Stop the interrogation right now!**
+    - **I won't let you kill a defenceless prisoner!** (LSP +2)
+- Kill them and talk to the Alien Prisoner
+    - The Hidden Beks? Who are they?
+    - What are the Hidden Beks planning?
+    - Can you take me to Gadon?
+    - Can I get one of those uniforms from you?
+    - I should be going now.
+- Loot the Sith corpse -> take the uniforms
+- Go to Largo's Apartment
+    - Don't worry – I'm not going to hurt you.
+    - I'm just looking around. 
+    - -> come back later for the bounty -> 200c again -> need the money at the moment
+- Continue the north street
+- **TEMPSAVE** 3 guys -> agress them ? NO -> PCO but 150 PX instead of 60 (+90PX, is it necessary ?) and loot
+    - **[Persuade] Hey, guys, we can all be friends here. Let me buy you a drink.** (LSP +2)
+- Talk to the racist man (Gorton Colu)
+    - Vermin and scum? What are you talking about?
+    - I see... well, good luck in your crusade.
+- On the left: the Droid store
+- Talk to Janice
+    - What do they have against Twi'leks?
+    - Utility droids? What do they do?
+    - Let me see your droids.
+    - **Tell me about that top-of-the-line T3-M4 droid.**
+    - I'll take the T3-H8 unit. Here's 50 credits.
+- Go out -> the droid explode -> go back
+    - It blew up. I came to get my money back.
+    - No hard feelings.
+    - Let me see what you've got for sale.
+    - Let me see your inventory.
+- ***Buy 7 parts in her shop (sell if needed)*** ???
+- Go to the elevator
+- Sith talks with you
+- (Visit the military base door)
+- Go back home
+- **Talk with Carth (4/12)**
+    - I want to continue our discussion from before.
+    - Don't you think you'd feel better if you discussed it?
+    - That name sounds familiar.
+    - **How could you have not seen through that?**
+    - Do you really believe that?
+    - **I'd do the same thing in your shoes.**
+- Equip you (not carth, conversation with the sith will not make sense) with the Sith armor
+- Go back to the elevator with the uniform (by foot ! -> funny talks)
+- North street near the swoop bikes: meet the drunk men again!
+- Talk to the racist guy!
+**_SAVE_**
+- Take the Elevator
+
+## Lower Taris
+
+- Kill guys on the left (Use PC to tank, and Carth to shoot)
+- Kill the other on the right near the Vulkar base door (WARNING : they are though -> launch grenade + all fire poser on one)
+- Go first at the Cantina -> Get rejected with the uniform
+    - I'm not on duty right now.
+- Go to the hidden beck base (next door) -> Get rejected with the uniform
+- Continue and kill the Vulkars
+- Level Up! (4)
+- Loot and remove your Sith uniform
+- Continue your path until you meet Canderous
+- Go back to the Cantina
+- _don't buy pazaak ? 200 c +/-1 ? +/-6 cheaper ->50 ? -> save 6 to check_ -> NO, expansive
+- Gelrood -> Infinite pazaak -> not a lot of money each time
+    - Why were you banned?
+    - I want to ask you some questions.
+    - I'll be going now.
+- Meet Calo Nord
+- Talk to him before he leaves
+    - I saw how you mopped those Black Vulkars. Nice work.
+    - I'm not looking for a fight. I just want to talk.
+    - Okay, I see your point. I'll be off then.
+- Go see Holdan in the music room -> wait for force persuade with Bastila to pull off the bounty (+4PCL 125PX instead of 50+105)
+    - Who are you?
+    - I want to ask you some questions.
+    - You work for Davik?
+    - You're pretty open about what you do.
+    - Do you think Davik could get me off Taris?
+    - I'll be going now.
 - Discover mission
 - dancing girl -> sometimes fail
 - talk to Zax -> don't pay for infos
+
+- Talk to Gadon Thek
+    - You have problems with the Sith?
+    - I need information on those Republic escape pods that crashed in the Undercity.
+    - Don't worry… I'm not working for the Sith.
+    - Bastila's a slave? What will happen to her now?
+    - Swoop race? What does that have to do with it?
+    - But I don't even have a swoop bike.
+    - How do I know I can trust you?
+    - How do I know you'll live up to your end of the bargain?
+    - How am I supposed to get inside the Vulkar base?
+    - Where can I find Mission?
+    - I got past the Upper City guard no problem.
+    - What do you want with the Sith uniforms?
+    - Okay - I'll trade the uniforms for the papers.
+    - I'll be back when I get the prototype accelerator.
+
 - Kill the respawned vulkar in Lower City
 - go to hidden beck -> talk to Gadon -> learn Bastilla
 - Go out and follow the path to Under City -> enemies -> throw grenade
@@ -179,7 +324,7 @@ The Search for Bastila
 - continue toward the Undercity (no apartement yet -> need mission for the mine)
 - Carth should be near level 5 -> 
 
-# Undercity
+## Undercity
 
 
 - Take the elevator
@@ -240,13 +385,13 @@ The Search for Bastila
 
 - Si continue vers les sewers -> 50 /100 px ? sinon après moins ?
 
-# Sewers
+## Sewers
 
 - **12 parts needed -> got 10, some inside ?**
 - save Zalbar
 - GO OUT (don't go to the vulkar entrance -> not much sence) take the ladder
 
-# Back in Upper Taris
+## Back in Upper Taris
 
 - Go to appartements, meet calo
 	- first appartement : 2 guys, kill them, solo mode, then hide in the corner -> Mission in FUFU -> 2 MINES -> wait for the 3 guys walking arround to enter the room
@@ -256,7 +401,7 @@ The Search for Bastila
 	- Kill Seleven
 - **Go see Zax for the bounties if persuade is OK**
 
-# Back in Upper Taris
+## Back in Upper Taris
 
 - Talk w/ Mission
 	- I want to talk to you about your brother.
@@ -290,21 +435,21 @@ The Search for Bastila
 - See Zax for Bendak -> PERSUADE
 - Go back to undercity and save the sick outcasts
 
-# Back to the Camp
+## Back to the Camp
 
 - Save guys
 - Talk to the chef
 - Go back to the camp gives the promised lands
 - back to vulkar base (kill ratgoules)
 
-# Sewers 2
+## Sewers 2
 
 - Go on the right -> loot around ladder
 - kill -> levelup
 - meet the rancor
 - stealth -> go to corpses -> put grenade ->odor
 
-# Enter the Vulkar Base
+## Enter the Vulkar Base
 
 - kill the droid on the right (first corridor)
 - Aller en face de l'entrer (faire le tour du bar)
@@ -320,7 +465,7 @@ The Search for Bastila
 **
 - Talk to ada in the bar to tell her she can go
 
-# Enter the Garage
+## Enter the Garage
 
 - Go to the garage, use pass card
 - Solo mode -> go near the droid -> place zalbar and mission to kill droid near the big door of the garage
@@ -343,7 +488,7 @@ The Search for Bastila
 - 2000 c + 4parts 
 - Go out to lower city and go to appartment
 
-# Preparing for the Race
+## Preparing for the Race
 
 - Improve Carth Blasters
 - Talk to Mission ?
@@ -363,7 +508,7 @@ The Search for Bastila
 - Bounty Quest : Permacrete Detonator
 - Go the swoop race
 
-# Swoop Race
+## Swoop Race
 
 - Talk to everyone
 - See bastilla
