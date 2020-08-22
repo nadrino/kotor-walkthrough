@@ -34,7 +34,9 @@ Attack on the Endar Spire
    - Clothing
    - Medpac (2)
  - Equip what you can (sword)
+ 
  ![](../resources/images/screenshots/firstLootInventory.png)
+ 
  - Talk to Trask -> Joins
  - Take Trask to open the 2 doors
  - Kill the two Siths with PC
