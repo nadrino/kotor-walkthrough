@@ -43,6 +43,9 @@ Attack on the Endar Spire
  - Loot the republic soldier in the room if there is something
  - Next room : Kill the two Siths + Loot
     - should have a better sword (and armor?)
+
+ ![](../resources/images/screenshots/killSithOnEndar.png)    
+
  - Next room : Grenade
  - Launch grenade on the Sith in the middle -> 72% chance to kill everyone
  - Go toward the Sith -> 2 others should spawn
