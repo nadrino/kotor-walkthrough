@@ -17,10 +17,6 @@ The Search for Bastila
   - I'd like to know some more about you, Carth. or similar
   - The sooner we start looking for Bastila the sooner we find her. Let's go.
 - Loot and improve your sword
-- **Talk to Carth about him (0/12)**
-  - I'd like to know some more about you, Carth.
-  - You're talking like it's your fault. Like you failed somehow.
-  - Them? Do you mean the people of your home world?
 - Go out
 
 ## Upper Taris - South Apartments
@@ -32,7 +28,7 @@ The Search for Bastila
   - I'm sorry. I was just investigating the area.
   - Holdan? Who's that?
   - What do you mean?
-  - **[Persuade] You can trust me. Maybe I can help.**
+  - //**[Persuade] You can trust me. Maybe I can help.** -> Easy -> Level 3 = 50% (Keep it ? Not necessary -> no XP and not much sense while seeing Holdan later)
   - I want to ask you some questions.
   - I'll be going now.
 - Talk to the Twi'lek Larrim
@@ -65,18 +61,10 @@ The Search for Bastila
   - Who do you work for?
   - I don't need anything right now.
 - Cross the street, in direction of the Equipment Emporium / Cantina
-- **Proposition to talk with Carth (1/12)**
-  - Is this a good time to ask you some more questions?
-  - I just would like to know you better.
-  - This isn't an interrogation. I never said that.
-  - Like you said when we first met: Bastila didn't have time to use her powers.
-  - I'm a scout. I was recruited into the fleet for my skills, if you must know.
-  - **You'd rather I wasn't?**
-  - Are you implying *I* had something to do with the crash?
-  - Why would Bastila request my transfer?
-  - I'm telling you, Carth, I had nothing to do with the crash.
-  - Are you always this suspicious?
-  - I consider this important.
+- **Proposition to talk with Carth (0/12)**
+  - I'd like to know some more about you, Carth.
+  - You're talking like it's your fault. Like you failed somehow.
+  - Them? Do you mean the people of your home world?
 - Go to the Equipment Emporium and talk to Kebla Yurt
   - I want to ask you some questions.
   - I was wondering how you feel about the Sith?
@@ -157,14 +145,7 @@ The Search for Bastila
 ## Exploring Upper Taris
 
 - Go towards your apartment -> you will meet Gana Lavin (the angry rich woman in the cantina) with two body guards. Kill the body guards and loot the swords.
-- **Go back to your house and talk with Carth (2/12)**
-    - I want to discuss something with you.
-    - We didn't finish our conversation last time.
-    - Why are you so hostile? What did I do to deserve this?
-    - Of course it won't happen again if you never trust anyone!
-    - **Right. And how am I supposed to know that *you* won't betray us?**
-    - Why not you? Accusing other people is a good cover for a traitor.
-- Go back outside and follow the street
+- Follow the street
 - Go to the clinic on the right
 
 **_TEMPSAVE_** : Easy Persuade (Level 3 -> 50%)
@@ -202,12 +183,6 @@ The Search for Bastila
     - Maybe I can help you.
     - **Here's 100 credits. Take them.** (LSP +2)
 - Loop (50c on each corpse)
-- Go back to home, talk with Carth (3/12)
-    - I just want to talk with you.
-    - I just want to know why you distrust me so much.
-    - But we have to work together, Carth, so it has plenty to do with me.
-    - I suppose you can't. That must have been hard to take.
-    - You say that with such… hatred.
 - Go to back to the North Apartments
 
 
@@ -254,13 +229,18 @@ The Search for Bastila
 - Sith talks with you
 - (Visit the military base door)
 - Go back home
-- **Talk with Carth (4/12)**
-    - I want to continue our discussion from before.
-    - Don't you think you'd feel better if you discussed it?
-    - That name sounds familiar.
-    - **How could you have not seen through that?**
-    - Do you really believe that?
-    - **I'd do the same thing in your shoes.**
+- **Talk to Carth (1/12)**
+    - Is this a good time to ask you some more questions?
+    - I just would like to know you better.
+    - This isn't an interrogation. I never said that.
+    - Like you said when we first met: Bastila didn't have time to use her powers.
+    - I'm a scout. I was recruited into the fleet for my skills, if you must know.
+    - **You'd rather I wasn't?**
+    - Are you implying *I* had something to do with the crash?
+    - Why would Bastila request my transfer?
+    - I'm telling you, Carth, I had nothing to do with the crash.
+    - Are you always this suspicious?
+    - I consider this important.
 - Equip you (not carth, conversation with the sith will not make sense) with the Sith armor
 - Go back to the elevator with the uniform (by foot ! -> funny talks)
 - North street near the swoop bikes: meet the drunk men again!
@@ -290,17 +270,50 @@ The Search for Bastila
     - I saw how you mopped those Black Vulkars. Nice work.
     - I'm not looking for a fight. I just want to talk.
     - Okay, I see your point. I'll be off then.
-- Go see Holdan in the music room -> wait for force persuade with Bastila to pull off the bounty (+4PCL 125PX instead of 50+105)
+- Go see Holdan in the music room -> wait for force persuade with Bastila to pull off Dia's bounty (+4PCL 125PX instead of 50+105?)
     - Who are you?
     - I want to ask you some questions.
     - You work for Davik?
     - You're pretty open about what you do.
     - Do you think Davik could get me off Taris?
     - I'll be going now.
-- Discover mission
-- dancing girl -> sometimes fail
-- talk to Zax -> don't pay for infos
+- Discover Mission and Zaalbar -> talk to her -> +60 PX!
+    - That's weird: a Twi'lek who speaks galactic Basic!
+    - How do a Wookiee and a Twi'lek street urchin end up as best friends?
+    - I want to ask you some questions.
+    - Tell me about Davik.
+    - Tell me about the Lower City gangs.
+    - Why did Brejik leave the Hidden Beks?
+    - Tell me about Calo Nord.
+    - I'll be going now.
+- Go to the Bounty office
 
+**_TEMPSAVE_**
+
+- Dancing Girl (Starlight Entertainers) -> Don't FALL or reload save
+    - What are you talking about?
+    - Why don't you have a partner?
+    - Maybe I could be your partner.	
+    - **[Persuade] I'm good enough to get you through your audition.** or **[Persuade] What other choice do you have?** (EASY 75%)
+    - [Join Lyn by dancing very close and face to face.]
+    - [Join Lyn by dancing close beside her.]
+    - [Join Lyn by dancing very close and face to face.]
+- Talk to Zax -> don't pay for infos
+    - You work for Davik?
+    - Davik posts bounties in a government office? Is that even legal?
+    - Tell me about the bounties.
+    - There's two government contracts. One's an assassin named Selven, the other is Bendak Starkiller. He's a famous death-match duelist. Between them they've killed hundreds of people.
+    - How do I collect the credits for these contracts?
+    - Tell me about this girl Dia.
+    - Tell me about Bendak Starkiller.
+    - Tell me about the merchant Largo.
+    - Tell me about the assassin Selven.
+    - Tell me about Matrik.
+    - I need some information.
+    - I'm not going to pay just to ask you some questions.
+- Talk to the other clients
+- Leave the Cantina
+- Go to the Hidden Bek base
 - Talk to Gadon Thek
     - You have problems with the Sith?
     - I need information on those Republic escape pods that crashed in the Undercity.
@@ -316,22 +329,26 @@ The Search for Bastila
     - What do you want with the Sith uniforms?
     - Okay - I'll trade the uniforms for the papers.
     - I'll be back when I get the prototype accelerator.
+- Visit the area / Loot
+- Kill the respawned Vulkar in Lower City near the Upper City elevator
+- Go back to your apartment in the Upper City (fast travel)
+- **Talk to Carth (2/12)**
+    - I want to discuss something with you.
+    - We didn't finish our conversation last time.
+    - Why are you so hostile? What did I do to deserve this?
+    - Of course it won't happen again if you never trust anyone!
+    - **Right. And how am I supposed to know that *you* won't betray us?**
+    - Why not you? Accusing other people is a good cover for a traitor.
+- Go back to the Lower City by foot -> new speach with the Sith
 
-- Kill the respawned vulkar in Lower City
-- go to hidden beck -> talk to Gadon -> learn Bastilla
-- Go out and follow the path to Under City -> enemies -> throw grenade
-- meet Canderous
-- continue toward the Undercity (no apartement yet -> need mission for the mine)
-- Carth should be near level 5 -> 
 
 ## Undercity
 
-
-- Take the elevator
-- Give 20 c (+2 PCL)
+- Take the elevator with the Sith papers towards the Undercity
+- Challengend by two Outcast Beggars
 	- Who are you? What are you doing here in the Undercity?
-	- You poor wretches. Here's 20 credits to buy some food and clothing.
-- Shaleena
+	- **You poor wretches. Here's 20 credits to buy some food and clothing.** (LSP +2)
+- Shaleena arrives
 	- My name's Name. Who are you?
 	- The surface is a beautiful place.
 	- Rukil? Who's that?
@@ -341,7 +358,7 @@ The Search for Bastila
 	- Do you know anything about the escape pods that crashed into the Undercity?
 	- Have any other up-worlders come through here recently?
 	- Where can I find Gendar?
-- talk with the doctor
+- Talk with the doctor
 	- Who are you?
 	- Danger and suffering? What are you talking about?
 	- There must be something someone can do!
@@ -349,10 +366,30 @@ The Search for Bastila
 - Gendar
 	- Who are you people? Why do you live here in the Undercity?
 - Rukil -> learn about Malya her apprentice
+    - Uh... okay, then. Could I ask you some questions?
+    - I'm Name. What do you want from me, Rukil?
+    - **The true path? What does that mean?**
+    - Prove myself? How can I do that?
+    - I will help you with this, Rukil.
+    - I'll be back if I find anything out.
 - Meet Igear -> merchant -> good seller but not rebuyer
+    - How do you manage to run a store here in the Undercity?
+    - I want to ask you some questions.
+    - Why doesn't Gendar like you?
+    - That's why Gendar's mad at you? There has to be more to it than that!
+    - I'll be going now.
 - Go to the gate -> save the guy -> go back to talk
-- Mission enters the group -> level up
-- talk to mission ? or a bit later
+    - Open the gate... I will kill the rakghouls.
+- Talk again to the people
+- Go away from the camp
+- Mission runs towards you
+    - You're Mission Vao, right? Gadon Thek said you could help me.
+    - Calm down, Mission. Take a deep breath and tell me what happened.
+    - Do you know where they took him?
+    - Why don't you ask Gadon and the Beks to help you?
+    - If I help you get Zaalbar back you have to get me inside the Vulkar base.
+    - **[MISSION has joined your party.]**
+- Level up Mission
 - first go see the republic soldier
 - go left from the camp, meet canderous
 - kill the ratgoules -> grenade !
@@ -373,13 +410,6 @@ The Search for Bastila
 	-  How did you survive before you met Zaalbar?
 	- We should get back to the task at hand.
 	- I didn't know you had a brother.
-- Talk w/ Carth
-	- I want to continue our discussion from before.
-	- Don't you think you'd feel better if you discussed it?
-	- That name sounds familiar.
-	- How could you have not seen through that?
-	- Do you really believe that?
-	- I'd do the same thing in your shoes.
 - Transit Back
 - Kill respawn mobs
 
@@ -411,6 +441,12 @@ The Search for Bastila
 	- Pretty handy skills to have, Mission.
 	- Why did he leave?
 	- Who's Lena?
+- **Talk to Carth (3/12)**
+    - I just want to talk with you.
+    - I just want to know why you distrust me so much.
+    - But we have to work together, Carth, so it has plenty to do with me.
+    - I suppose you can't. That must have been hard to take.
+    - You say that with such… hatred.
 - Improve scope for mission + armor
 - Go sell the serum (+200px)
 - go to the ring and kill Ice +300c
@@ -488,10 +524,18 @@ The Search for Bastila
 - 2000 c + 4parts 
 - Go out to lower city and go to appartment
 
+
 ## Preparing for the Race
 
-- Improve Carth Blasters
 - Talk to Mission ?
+- Improve Carth Blasters
+- **Talk with Carth (4/12)**
+    - I want to continue our discussion from before.
+    - Don't you think you'd feel better if you discussed it?
+    - That name sounds familiar.
+    - **How could you have not seen through that?**
+    - Do you really believe that?
+    - **I'd do the same thing in your shoes.**
 - Go back to the lower city with Carth and Mission -> BANTER ?
 - Buy enough repair parts (8needed)
 - Go t lower city appartment
@@ -507,6 +551,7 @@ The Search for Bastila
 		Activate Ashana sixth.
 - Bounty Quest : Permacrete Detonator
 - Go the swoop race
+
 
 ## Swoop Race
 
