@@ -37,39 +37,40 @@ Attack on the Endar Spire
  
  ![](../resources/images/screenshots/firstLootInventory.png)
  
- - Talk to Trask -> Joins
- - Take Trask to open the 2 doors
- - Kill the two Siths with PC
- - Loot the republic soldier in the room if there is something
- - Next room : Kill the two Siths + Loot
+- Talk to Trask -> Joins
+- Take Trask to open the 2 doors
+- Kill the two Siths with PC
+- Loot the republic soldier in the room if there is something
+- Next room : Kill the two Siths + Loot
     - should have a better sword (and armor?)
-
- ![](../resources/images/screenshots/killSithOnEndar.png)    
-
- - Next room : Grenade
- - Launch grenade on the Sith in the middle -> 72% chance to kill everyone
- - Go toward the Sith -> 2 others should spawn
- - Loot everywhere
- - Next room : Jedi!
- - Kill two Sith + loot
- - Loot the Jedi -> Sword improvement!
- - Next room: Bridge
- - Kill two firsts Sith -> Trask intervention
- - Should level up (2)
- - Loot everywhere
- - Next room Trask sacrifice
- - Take Elevator
+- Next room : Grenade
+- Launch grenade on the Sith in the middle -> 72% chance to kill everyone
+- Go toward the Sith -> 2 others should spawn
+- Loot everywhere
+- Next room : Jedi!
+- Kill two Sith + loot
+- Loot the Jedi -> Sword improvement!
+- Next room: Bridge
+- Kill two firsts Sith -> Trask intervention
+- Should level up (2)
+- Loot everywhere
+- Next room Trask sacrifice
+- Take Elevator
+ 
+![](../resources/images/screenshots/traskSuicide.png)
  
 ## Looking for Carth
- - Kill one Sith at the end of the corridor
- - Next room : 2 siths -> Loot everywhere !
- - Maximizing XP tip
-   - Go to the droid -> repair all you can
-   - Quickly go to the console -> destroy the power conduit
- - Loot all Sith -> get the prototype vibroblade -> the best for a long time
- - Next room -> Carth
-   - Who are you?
- - Take an escape pod
+- Kill one Sith at the end of the corridor
+- Next room : 2 siths -> Loot everywhere !
+- Maximizing XP tip
+    - Go to the droid -> repair all you can
+    - Quickly go to the console -> destroy the power conduit
+- Loot all Sith -> get the prototype vibroblade -> the best for a long time
+- Next room -> Carth
+    - Who are you?
+- Take an escape pod
+
+![](../resources/images/screenshots/meetingCarth.png)
 
  
   

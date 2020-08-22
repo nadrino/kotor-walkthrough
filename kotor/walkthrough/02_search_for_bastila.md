@@ -1,27 +1,35 @@
 The Search for Bastila
 ======================
 
+
+![](../resources/images/screenshots/escapingEndarSpire.png)
+
 ## Upper Taris - Safe Room
 
 - Carth talks to you
-  - **I had a strange dream. Like a vision or something.**
-  - **I guess I owe you my life. Thanks.**
-  - Bastila? She's the one from the Endar Spire, right?
-  - How do you even know Bastila's still alive?
-  - So what do you suggest we do next?
-  - If Bastila's a Jedi, she can probably look after herself.
-  - Any idea where we should start looking for Bastila?
-  - What can you tell me about this planet we're on?
-  - What do you know about Malak and the Sith?
-  - A Jedi? What do you mean?
-  - I'd like to know some more about you, Carth. or similar
-  - The sooner we start looking for Bastila the sooner we find her. Let's go.
+    - **I had a strange dream. Like a vision or something.**
+    - **I guess I owe you my life. Thanks.**
+    - Bastila? She's the one from the Endar Spire, right?
+    - How do you even know Bastila's still alive?
+    - If Bastila's a Jedi, she can probably look after herself.
+    - So what do you suggest we do next?
+    - Any idea where we should start looking for Bastila?
+    - I want to ask you some questions.
+    - What can you tell me about this planet we're on?
+    - What do you know about Malak and the Sith?
+    - A Jedi? What do you mean?
+    - I would like to ask you something else.
+    - I'd like to know some more about you, Carth.
+    - The sooner we start looking for Bastila the sooner we find her. Let's go.
 - Loot and improve your sword
-- Go out
+- Leave the room
+
+![](../resources/images/screenshots/tarisSafeHouse.png)
+
 
 ## Upper Taris - South Apartments
 
-- Kill the Sith and 2 droids -> You gonna meet the victim again later
+- Kill the Sith and 2 droids -> You gonna meet the victim again later (XBox -> different voices ??)
   - Won't someone come searching for this patrol?
 - Level Up! (3)
 - First door on the right -> Loot -> **SAVE** -> Talk to the woman
@@ -34,6 +42,8 @@ The Search for Bastila
 - Talk to the Twi'lek Larrim
   - Pleased to meet you, Larrim. My name is Name.
   - What's so great about these energy shields?
+  - Where did this technology...
+  - ... Else?
   - Why do you have a kiosk set up here?
   - You mentioned something about illegal aliens living here.
   - Aren't you worried about getting caught?
@@ -44,9 +54,13 @@ The Search for Bastila
   - Sorry, I didn't mean any disrespect.
   - I want to ask you some questions.
   - Tell me about Taris.
+  - Where is the cantina?
+  - I want to ask you something else.
   - Where can I get some equipment?
   - What do you think of the Sith and this quarantine?
   - I'll be going now.
+
+![](../resources/images/screenshots/tarisSouthApartments.png)
 
 
 ## Upper City South
@@ -65,6 +79,9 @@ The Search for Bastila
   - I'd like to know some more about you, Carth.
   - You're talking like it's your fault. Like you failed somehow.
   - Them? Do you mean the people of your home world?
+  
+![](../resources/images/screenshots/carth0.png)
+  
 - Go to the Equipment Emporium and talk to Kebla Yurt
   - I want to ask you some questions.
   - I was wondering how you feel about the Sith?
@@ -76,6 +93,9 @@ The Search for Bastila
   - I'll be going now.
 - We will discover her inventory later -> she has rather good weapons we gonna need later
 
+![](../resources/images/screenshots/tarisUpperCityViewCantina.png)
+
+
 ## Upper City Cantina
 
 - Go to the cantina talk to the old man (Garouk) an buy the paazaak deck (and make the tutorial)
@@ -84,17 +104,21 @@ The Search for Bastila
   - I can't afford that.
   - Sure, I'll buy your deck.
   - (I'd like a Pazaak lesson.)
-- Talk to the girl (Yun Genda) on the right (Sith on permission) in the next room on the right.
-- If you're a woman, you can talk to a guy in the other room
+- Talk to the girl (Sarna) on the right (Sith on permission) in the next room on the right.
+- If you're a woman, you can talk to a guy in the other room (Yun Genda)
 - _DONT try to persuade her. -> new quest -> **Sith party (BUT LESS XP)**_
   - You're from the military base? You don't look like one of the Sith.
-  - So why do you do it?
+  - Nice to meet you...
+  - //So why do you do it?
   - You can't really blame people... you did conquer the planet.
   - You seem pretty touchy about this. Maybe you feel a little guilty about what you do.
-  - Sorry – I'm not trying to judge you.
-  - I'm not actually from Taris. I'm just stuck here until the quarantine ends.
-  - Being stuck on Taris isn't so bad... but the locals aren't much fun.
+  - //Sorry – I'm not trying to judge you.
+  - //I'm not actually from Taris. I'm just stuck here until the quarantine ends.
+  - //Being stuck on Taris isn't so bad... but the locals aren't much fun.
 - Talk to other people around
+
+![](../resources/images/screenshots/tarisUpperCantina.png)
+
 - Go to the bar room
 - Gana Lavin : Be rude -> more XP -> guy to kills after the cantina
   - Sorry, I'm not your waiter.
@@ -124,10 +148,15 @@ The Search for Bastila
     - I just want some general information on Taris.
     - Do you know anything about the crashed Republic escape pods?
 - Do the first match (Talk to Ajuur)
-    - I just want to ask you some questions.
-    - 
+    - What are you talking about?
     - That's a terrible name!
-    - 
+    - I'm ready for a duel.
+    - Let's do it.
+    - //I just want to ask you some questions.
+- Do the 2 firsts matches
+
+![](../resources/images/screenshots/tarisDuelDuncan.png)
+    
 - Go pazaak with Niklos near the entrance
     - Who are you?
     - Let's play.
