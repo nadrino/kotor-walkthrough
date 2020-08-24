@@ -12,7 +12,8 @@ The Search for Bastila
     - Bastila? She's the one from the Endar Spire, right?
     - How do you even know Bastila's still alive?
     - If Bastila's a Jedi, she can probably look after herself.
-    - So what do you suggest we do next?
+    - Battle Meditation? What's that?
+    - //So what do you suggest we do next?
     - Any idea where we should start looking for Bastila?
     - I want to ask you some questions.
     - What can you tell me about this planet we're on?
@@ -51,14 +52,14 @@ The Search for Bastila
   - Let me see what you've got for sale.
 - He has nothing interesting (or too expensive!)
 - Loot around and talk to the old man -> tells you about the Cantina and Weapons
-  - Sorry, I didn't mean any disrespect.
-  - I want to ask you some questions.
-  - Tell me about Taris.
-  - Where is the cantina?
-  - I want to ask you something else.
-  - Where can I get some equipment?
-  - What do you think of the Sith and this quarantine?
-  - I'll be going now.
+    - Sorry, I didn't mean any disrespect.
+    - I want to ask you some questions.
+    - Where can I get some equipment?
+    - I want to ask you something else.
+    - Tell me about Taris.
+    - Where is the cantina?
+    - What do you think of the Sith and this quarantine?
+    - I'll be going now.
 
 ![](../resources/images/screenshots/tarisSouthApartments.png)
 
@@ -181,14 +182,16 @@ The Search for Bastila
 
 - Talk to the doctor (Zelka Forn)
     - Medical facility? Is this some kind of hospital?
-    - I want to ask you some questions. / I want to ask you something else.
+    - I want to ask you some questions.
     - How do you feel about the Sith?
+    - Ask something else
     - I just want some general information about Taris.
     - Tell me about Upper Taris.
     - Tell me about the Lower City.
     - What do you know about Davik?
     - Tell me about the Undercity.
     - Outcasts?
+    - Ratgoules disease?
     - Is there no cure?
     - Maybe I could find a way to get my hands on that serum for you.
     - Don't worry, Zelka – I'll get that serum for you!
@@ -212,7 +215,6 @@ The Search for Bastila
     - Maybe I can help you.
     - **Here's 100 credits. Take them.** (LSP +2)
 - Loop (50c on each corpse)
-- Go to back to the North Apartments
 
 
 ## Upper City North
