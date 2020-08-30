@@ -78,7 +78,7 @@ The Search for Bastila
 - Cross the street, in direction of the Equipment Emporium / Cantina
 - **Proposition to talk with Carth (0/12)**
   - I'd like to know some more about you, Carth.
-  - You're talking like it's your fault. Like you failed somehow.
+  - You're talking like it's your fault. Like you failed somehow. // or other
   - Them? Do you mean the people of your home world?
   
 ![](../resources/images/screenshots/carth0.png)
@@ -216,6 +216,7 @@ The Search for Bastila
     - **Here's 100 credits. Take them.** (LSP +2)
 - Loop (50c on each corpse)
 
+![](../resources/images/screenshots/exploringUpperTaris.png)
 
 ## Upper City North
  
@@ -258,6 +259,7 @@ The Search for Bastila
 - ***Buy 7 parts in her shop (sell if needed)*** ???
 - Go to the elevator
 - Sith talks with you
+    - Can I ask you some questions? (other choices does not make sense)
 - (Visit the military base door)
 - Go back home
 - **Talk to Carth (1/12)**
@@ -274,6 +276,8 @@ The Search for Bastila
     - I consider this important.
 - Equip you (not carth, conversation with the sith will not make sense) with the Sith armor
 - Go back to the elevator with the uniform (by foot ! -> funny talks)
+- (Don't talk to everybody since Carth is with you... -> Does not make much sense)
+- Talk to a Sith
 - North street near the swoop bikes: meet the drunk men again!
 - Talk to the racist guy!
 **_SAVE_**
@@ -281,6 +285,8 @@ The Search for Bastila
 
 ## Lower Taris
 
+- Gangs are fighting in the streets
+- Take back your melee weapon! (your PC suck with guns!!)
 - Kill guys on the left (Use PC to tank, and Carth to shoot)
 - Kill the other on the right near the Vulkar base door (WARNING : they are though -> launch grenade + all fire poser on one)
 - Go first at the Cantina -> Get rejected with the uniform
@@ -288,7 +294,7 @@ The Search for Bastila
 - Go to the hidden beck base (next door) -> Get rejected with the uniform
 - Continue and kill the Vulkars
 - Level Up! (4)
-- Loot and remove your Sith uniform
+- Loot and **remove your Sith uniform**
 - Continue your path until you meet Canderous
 - Go back to the Cantina
 - _don't buy pazaak ? 200 c +/-1 ? +/-6 cheaper ->50 ? -> save 6 to check_ -> NO, expansive
@@ -303,7 +309,6 @@ The Search for Bastila
     - Okay, I see your point. I'll be off then.
 - Go see Holdan in the music room -> wait for force persuade with Bastila to pull off Dia's bounty (+4PCL 125PX instead of 50+105?)
     - Who are you?
-    - I want to ask you some questions.
     - You work for Davik?
     - You're pretty open about what you do.
     - Do you think Davik could get me off Taris?
@@ -328,23 +333,28 @@ The Search for Bastila
     - **[Persuade] I'm good enough to get you through your audition.** or **[Persuade] What other choice do you have?** (EASY 75%)
     - [Join Lyn by dancing very close and face to face.]
     - [Join Lyn by dancing close beside her.]
-    - [Join Lyn by dancing very close and face to face.]
+    - [Join Lyn by dancing close beside her.] -> again -> otherwise hard (charisma)
 - Talk to Zax -> don't pay for infos
     - You work for Davik?
     - Davik posts bounties in a government office? Is that even legal?
     - Tell me about the bounties.
-    - There's two government contracts. One's an assassin named Selven, the other is Bendak Starkiller. He's a famous death-match duelist. Between them they've killed hundreds of people.
     - How do I collect the credits for these contracts?
+    - I want more details on the bounties you're offering.
     - Tell me about this girl Dia.
     - Tell me about Bendak Starkiller.
     - Tell me about the merchant Largo.
     - Tell me about the assassin Selven.
+        - Did they ever found out...
     - Tell me about Matrik.
+        - Didn't the ...
+    - Something else...
     - I need some information.
     - I'm not going to pay just to ask you some questions.
 - Talk to the other clients
 - Leave the Cantina
 - Go to the Hidden Bek base
+    - I need Gadon's help...
+    - May be I could be an ally...
 - Talk to Gadon Thek
     - You have problems with the Sith?
     - I need information on those Republic escape pods that crashed in the Undercity.
@@ -353,7 +363,6 @@ The Search for Bastila
     - Swoop race? What does that have to do with it?
     - But I don't even have a swoop bike.
     - How do I know I can trust you?
-    - How do I know you'll live up to your end of the bargain?
     - How am I supposed to get inside the Vulkar base?
     - Where can I find Mission?
     - I got past the Upper City guard no problem.
@@ -370,8 +379,13 @@ The Search for Bastila
     - Of course it won't happen again if you never trust anyone!
     - **Right. And how am I supposed to know that *you* won't betray us?**
     - Why not you? Accusing other people is a good cover for a traitor.
+    - Ahhh… so you don't trust yourself, is that it?
+    - You sure you don't want to talk about it?
 - Go back to the Lower City by foot -> new speach with the Sith
 
+_How much parts do I need ?_
+
+SAVE
 
 ## Undercity
 
@@ -396,6 +410,15 @@ The Search for Bastila
 	- Goodbye.
 - Gendar
 	- Who are you people? Why do you live here in the Undercity?
+	- What a horrible way to live!
+    - Rukil?
+	- Tell me about the rakghouls that live down here.
+	- I want to ask you some questions.
+	- I'm looking for a Twi'lek named Mission Vao.
+	- How can I get to the sewers?
+	- ...
+	- You said something about other up-worlders who came by here recently?
+	- I think I'll be going now.
 - Rukil -> learn about Malya her apprentice
     - Uh... okay, then. Could I ask you some questions?
     - I'm Name. What do you want from me, Rukil?
@@ -414,13 +437,13 @@ The Search for Bastila
 - Talk again to the people
 - Go away from the camp
 - Mission runs towards you
-    - You're Mission Vao, right? Gadon Thek said you could help me.
+    - Whoaa...
     - Calm down, Mission. Take a deep breath and tell me what happened.
     - Do you know where they took him?
     - Why don't you ask Gadon and the Beks to help you?
     - If I help you get Zaalbar back you have to get me inside the Vulkar base.
     - **[MISSION has joined your party.]**
-- Level up Mission
+- Level up Mission (and Carth (5) ? -> XBox)
 - first go see the republic soldier
 - go left from the camp, meet canderous
 - kill the ratgoules -> grenade !
