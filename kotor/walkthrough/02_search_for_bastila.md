@@ -227,6 +227,9 @@ The Search for Bastila
     - What's going on in there?
     - **Stop the interrogation right now!**
     - **I won't let you kill a defenceless prisoner!** (LSP +2)
+
+![](../resources/images/screenshots/tarisSithUniforms1.png)
+
 - Kill them and talk to the Alien Prisoner
     - The Hidden Beks? Who are they?
     - What are the Hidden Beks planning?
@@ -234,12 +237,15 @@ The Search for Bastila
     - Can I get one of those uniforms from you?
     - I should be going now.
 - Loot the Sith corpse -> take the uniforms
+
+![](../resources/images/screenshots/tarisSithUniforms2.png)
+
 - Go to Largo's Apartment
     - Don't worry – I'm not going to hurt you.
     - I'm just looking around. 
     - -> come back later for the bounty -> 200c again -> need the money at the moment
-- Continue the north street
-- **TEMPSAVE** 3 guys -> agress them ? NO -> PCO but 150 PX instead of 60 (+90PX, is it necessary ?) and loot
+- Continue the north street **TEMPSAVE** 
+- 3 guys -> agress them ? NO -> PCO but 150 PX instead of 60 (+90PX, is it necessary ?) and loot
     - **[Persuade] Hey, guys, we can all be friends here. Let me buy you a drink.** (LSP +2)
 - Talk to the racist man (Gorton Colu)
     - Vermin and scum? What are you talking about?
@@ -251,7 +257,12 @@ The Search for Bastila
     - Let me see your droids.
     - **Tell me about that top-of-the-line T3-M4 droid.**
     - I'll take the T3-H8 unit. Here's 50 credits.
-- Go out -> the droid explode -> go back
+- Leave the shop
+- The droid blow up
+
+![](../resources/images/screenshots/tarisBrokenDroid.png)
+    
+- Go back in the shop
     - It blew up. I came to get my money back.
     - No hard feelings.
     - Let me see what you've got for sale.
@@ -260,6 +271,9 @@ The Search for Bastila
 - Go to the elevator
 - Sith talks with you
     - Can I ask you some questions? (other choices does not make sense)
+
+![](../resources/images/screenshots/tarisSithElevator.png)
+
 - (Visit the military base door)
 - Go back home
 - **Talk to Carth (1/12)**
@@ -275,10 +289,16 @@ The Search for Bastila
     - Are you always this suspicious?
     - I consider this important.
 - Equip you (not carth, conversation with the sith will not make sense) with the Sith armor
+
+![](../resources/images/screenshots/tarisSithDisguise.png)
+
 - Go back to the elevator with the uniform (by foot ! -> funny talks)
-- (Don't talk to everybody since Carth is with you... -> Does not make much sense)
+- _(Don't talk to everybody since Carth is with you... -> Does not make much sense)_
 - Talk to a Sith
 - North street near the swoop bikes: meet the drunk men again!
+
+![](../resources/images/screenshots/tarisSithDisguise2.png)
+
 - Talk to the racist guy!
 **_SAVE_**
 - Take the Elevator
@@ -286,7 +306,10 @@ The Search for Bastila
 ## Lower Taris
 
 - Gangs are fighting in the streets
-- Take back your melee weapon! (your PC suck with guns!!)
+
+![](../resources/images/screenshots/tarisGangFight.png)
+
+- _Take back your melee weapon! (your PC sucks with guns!!)_
 - Kill guys on the left (Use PC to tank, and Carth to shoot)
 - Kill the other on the right near the Vulkar base door (WARNING : they are though -> launch grenade + all fire poser on one)
 - Go first at the Cantina -> Get rejected with the uniform
@@ -296,6 +319,9 @@ The Search for Bastila
 - Level Up! (4)
 - Loot and **remove your Sith uniform**
 - Continue your path until you meet Canderous
+
+![](../resources/images/screenshots/tarisMeetingCanderous.png)
+
 - Go back to the Cantina
 - _don't buy pazaak ? 200 c +/-1 ? +/-6 cheaper ->50 ? -> save 6 to check_ -> NO, expansive
 - Gelrood -> Infinite pazaak -> not a lot of money each time
@@ -303,6 +329,9 @@ The Search for Bastila
     - I want to ask you some questions.
     - I'll be going now.
 - Meet Calo Nord
+
+![](../resources/images/screenshots/tarisMeetingCalo.png)
+
 - Talk to him before he leaves
     - I saw how you mopped those Black Vulkars. Nice work.
     - I'm not looking for a fight. I just want to talk.
@@ -322,6 +351,9 @@ The Search for Bastila
     - Why did Brejik leave the Hidden Beks?
     - Tell me about Calo Nord.
     - I'll be going now.
+    
+![](../resources/images/screenshots/tarisMeetingMission.png)
+    
 - Go to the Bounty office
 
 **_TEMPSAVE_**
@@ -369,6 +401,9 @@ The Search for Bastila
     - What do you want with the Sith uniforms?
     - Okay - I'll trade the uniforms for the papers.
     - I'll be back when I get the prototype accelerator.
+
+![](../resources/images/screenshots/tarisDealWithGendar.png)
+
 - Visit the area / Loot
 - Kill the respawned Vulkar in Lower City near the Upper City elevator
 - Go back to your apartment in the Upper City (fast travel)
@@ -443,8 +478,15 @@ SAVE
     - Why don't you ask Gadon and the Beks to help you?
     - If I help you get Zaalbar back you have to get me inside the Vulkar base.
     - **[MISSION has joined your party.]**
+
+![](../resources/images/screenshots/tarisMissionJoins.png)
+
 - Level up Mission (and Carth (5) ? -> XBox)
+- Pick up the mines with Mission
 - first go see the republic soldier
+
+![](../resources/images/screenshots/tarisRepublicRatgoule.png)
+
 - go left from the camp, meet canderous
 - kill the ratgoules -> grenade !
 - find the apprentice journal
