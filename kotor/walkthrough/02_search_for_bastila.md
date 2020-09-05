@@ -553,10 +553,10 @@ The Search for Bastila
 
 **SAVE BEFORE ENTERING**
 
-- Kill the 3 Gamoreans, loot
+- Kill the 3 gamorreans, loot
 - Follow the corridor
 - On the left kill the ratgoules and find the 2nd journal for Rukil
-- Next, roundabout: kill the 4 Gamoreans
+- Next, roundabout: kill the 4 gamorreans
 
 ![](../resources/images/screenshots/tarisSewersGamoreans.png)
 
@@ -565,7 +565,7 @@ The Search for Bastila
     - Leave the computer. (don't spend a spike)
     - _That energy shield leads to another section of the sewers. The entrance to the Vulkar base is somewhere past there. I've got the codes to lower the shield, but we have to rescue Zaalbar from those Gamorrean slavers. Don't worry – we can come back after we find Big Z._
 - Go back to the fountains room
-- Go to the door on the right (Careful; 1 Gamorean)
+- Go to the door on the right (Careful; 1 gamorrean)
 - Next Ratgoules room
 - Start by the doors on the left
 - 2nd left door -> mine
@@ -574,7 +574,7 @@ The Search for Bastila
 - 2nd door -> corridor -> right -> see Zaalbar
 - Next room, kill ratgoules, take the mine and go two rooms backwards (spinning wheel)
 - Take the other door (left)
-- Kill the gamorean in the corridor
+- Kill the gamorrean in the corridor
 - Door on the right -> last journal for Rukil
 - Repair the droid (12 repair parts)
 Missions levels up (5)
@@ -753,8 +753,13 @@ Missions levels up (5)
 - Few ratgoules have respawn in the Sewers -> kill them
 - Go to the computer -> Mission opens the field
 - Enter the "upper" sewers
+
+
+- Kill the gamorreans fast ? -> otherwise no XP ?
 - Go on the right -> loot around ladder
-- kill -> levelup
+- kill in the corridor
+- Level up Zaalbar and Mission (6)
+- Next room -> Droid + Mine (Be Carefull!!)
 - meet the rancor
 - stealth -> go to corpses -> put grenade ->odor
 - kill the droid on the right (first corridor)
