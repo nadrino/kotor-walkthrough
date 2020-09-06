@@ -1,12 +1,14 @@
 Attack on the Endar Spire
 ================
 
+img[] { width: 200px; }
 
 ## Character Creation
 
 - Create a Scout (a Male has been chosen for this walkthrough)
 
-![](../resources/images/screenshots/classSelect.png =640x480)
+![](../resources/images/screenshots/classSelect.png)
+
 
 - Select custom character
 
