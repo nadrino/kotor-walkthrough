@@ -1,8 +1,6 @@
 Attack on the Endar Spire
 ================
 
-img[] { width: 200px; }
-
 ## Character Creation
 
 - Create a Scout (a Male has been chosen for this walkthrough)
@@ -71,6 +69,7 @@ img[] { width: 200px; }
 - Take an escape pod
 
 ![](../resources/images/screenshots/meetingCarth.png)
+![](../resources/images/screenshots/escapingEndarSpire.png)
 
  
   
