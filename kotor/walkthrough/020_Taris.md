@@ -1,5 +1,5 @@
-The Search for Bastila - Exploring the Upper City
-=================================================
+Taris - The Search for Bastila - Exploring the Upper City
+=========================================================
 
 
 ## Upper Taris - Safe Room

@@ -1,5 +1,9 @@
-# Dantooine
+Dantooine - Jedi Training
+=========================
 
+![](../resources/images/screenshots/danPlanetArrival2.png)
+
+## Meeting the Jedi Council
 
 - pause immédatement après conversation avec bastilla
 	- quitter tout me stuf -> épée, casque, prendre vetement normal
@@ -576,7 +580,7 @@
 	- **Enamored?**
 - **Zalbaar -> Grenade**
 - **T3 -> spike**
-- Bastila
+- Bastila (2/8)
 	- I'd like to know more about you, Bastila.
 	- Tell me how you joined the Jedi, then.
 	- Discouraged? Why?
