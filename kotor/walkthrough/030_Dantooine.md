@@ -5,28 +5,37 @@ Dantooine - Jedi Training
 
 ## Meeting the Jedi Council
 
-- pause immédatement après conversation avec bastilla
-	- quitter tout me stuf -> épée, casque, prendre vetement normal
-- Suivre Bastilla (Carth aussi)
-- Etre arrêté par la Jedi (dans le fond, bastilla et carth continuent leur chemin)
-	- **Are you a Jedi? -> give her name**
+- Immediately pause after the conversation with Bastila
+	- Take of you armor/sword/helmet -> take your original closes
+- Follow Bastilla (Carth too)
+
+![](../resources/images/screenshots/danFollowingBastila.png)
+
+- You are stopped by a Jedi
+	- **Are you a Jedi?**
 	- I believe you are mistaken. I am not a Padawan. I am Name. I came here with Bastila.
 	- **I didn't come here to be scolded by you!**
-- Aller directement au conseil (parler à Carth avant)
+- Go to the council room (left)
+- Speek to Carth
+- Join the jedi masters
 	- **So you've drawn me into your little trap, Bastila. What now?**
 	- **Isn't the Jedi Council on Coruscant?**
 	- **I've got some questions for all of you.**
 	- **Why did the Sith destroy Taris?**
 	- Me? What about me?
 	- **I don't know if I'm ready for this.**
-	- **I am ready to accept the training... and my age has nothing to do with it!**
-		- I'm willing ? **or not the "my age has nothing to do " -> Argogance -> path to dark side** ?
+	- **I'm willing..**
+
+> The council wants to talk in private. You leave the discution, and go to bed.
+> In the meanwhile you have a new vision...
+
 - Carth speaks
-	- **I had a rough night...** (Did she say anything else?)
+	- **I had a rough night...**
+	- Did she say anything else?
 	- Let's go.
-- take mission in group
+- Take Mission in the group
 	- Level Up
-- avancer -> suggestion automatique avec mission
+- Move forward -> auto suggestion with Mission
 	- **Malak will pay for what he did, Mission.**
 - Go to the consil -> SAVE -> Start cinematic and discution -> reload -> remove party member (for the en of the cinematic)
 	- **What?? How would Bastila know if we shared a dream?**
@@ -36,13 +45,17 @@ Dantooine - Jedi Training
 	- **Jedi are turning to the dark side?**
 	- **I'm ready now. I accept this mission.** (otherwise DS -> should I ? -> sevral more dialogs -> not much sense -> they talk about visiting the ruins) 
 	- As you wish, Master Vandar.
-- Jedi Training
+- Jedi Training begins
+
+
+
+- Discussion with Zhar
 	- **I want to ask some questions, Master Zhar. Questions about Revan and Malak.**
 	- What happened?
 	- What happened to this noble mission?
 	- I will heed the lesson, Master Zhar.
-- Remove Carth
-- Go to the jedi masters -> bastilla -> Ask masters
+- Remove Carth and Mission in the party -> does not make sense
+- Go to the jedi masters -> Bastilla will redirect you to ask the masters
 - Dorak
 	- **Where are the Academy's archives?**
 	- Very well... tell me the history of the Jedi.
@@ -62,7 +75,7 @@ Dantooine - Jedi Training
 	- Are you saying Revan was responsible for Malak's fall?
 	- //Master Vrook doesn't seem to like me very much... -> NO LATER -> Can't finish discution coherently when becoming padawan otherwise
 	- Quit
-- Vrook
+- Vrook (quit the conversation at each question... He really does not want to talk!)
 	- I would like to ask some questions.
 	- What can you tell me about Bastila?
 	- Is there anything you can tell me about Revan and Malak? (re-ask)
@@ -73,6 +86,7 @@ Dantooine - Jedi Training
 	- What kind of tests are these?
 - Makes no sense to ask Vandar and come back
 	- **Belaya -> more precision on cave -> plus Jedi code**
+	    - I am still learning the Jedi code.
 	- **Sol'aa -> pazaak 120 c -> 6 matches -> give cards**
 	- **Matale**
 - Jedi Code : Vandar (not necessary then)
@@ -99,40 +113,43 @@ Dantooine - Jedi Training
 	- **10 force power left**
 - Zhar
 	- **What will these crystals do for me?**
-	- **Not READY -> USELESS to wait**
+	    - **Not READY ? -> USELESS to wait**
 	- I am ready to face the third trial.
 	- What's causing this corruption?
 	- You know more than you're telling me..
 - **Go back to Ebon Hawk**
 - Go to the Ebon Hawk "get your equiment"
-- Talk to Mission
-	- I want to talk to you about your brother.
-	- What did she do to you?
-	- **Did Lena dump him?**
-	- **Maybe she actually liked Griff.**
-	- **Maybe something happened to him.**
+- Improve Canderous gun (trigger)
+- Take Davik's armor -> +8 defense
 - Talk to Canderous
 	- I was wondering if you had any interesting stories.
 	- **Is that why the Mandalorians attacked the Republic?**
 	- **You seek death?**
 	- **+ stimulants**
 	- **+ info on Taris**
+- Talk to Mission
+	- I want to talk to you about your brother.
+	- What did she do to you?
+	- **Did Lena dump him?**
+	- **Maybe she actually liked Griff.**
+	- **Maybe something happened to him.**
 - **Talk to Zalbar**
 	- **+ grenade**
 - **T3**
 	- **spikes**
 - Improve items
 - Equip
-- Go out with mission and **Carth**
-- Walk -> automatic mission talk -> brother
+- Go out with **Mission** and **Carth**
+- Leena appears (Mission's brother's girlfriend)
 	- **Mission gets a little worked up when it comes to her brother.**
 	- Maybe your brother isn't the man you thought he was.
 	- **So where is Griff now?**
 - Level up Carth and Mission
-- Equip -> mission with Davik’s visor -> bonus feat
+- Equip -> Mission with Davik’s visor -> bonus feat
 - Talk to the Twilek -> Lur Arka -> His girl
 	- **Only if I get to ask you something in return.**
 	- **Do you actually believe she's still alive?**
+	- Sorry...
 	- Are problems with Mandalorians common on Dantooine?
 	- Isn't this something the local authorities should handle?
 	- Is there anything of interest on Dantooine that you can tell me about?
