@@ -121,7 +121,7 @@ Dantooine - Jedi Training
 - Go to the Ebon Hawk "get your equiment"
 - Improve Canderous gun (trigger)
 - Take Davik's armor -> +8 defense
-- Talk to Canderous
+- Talk to Canderous (0/6)
 	- I was wondering if you had any interesting stories.
 	- **Is that why the Mandalorians attacked the Republic?**
 	- **You seek death?**
@@ -489,7 +489,7 @@ Dantooine - Jedi Training
 	- **Why do you care about Shen?**
 - **Transit back to the Ebon Hawk to take T3**
 - improve saber of Bastila
-- Canderous -> First story
+- Canderous -> First story (1/6)
 	- I was wondering if you had any more war stories.
 	- **I would have harnessed that power sooner.**
 	- **I didn't think Mandalorians got afraid.**
@@ -605,7 +605,7 @@ You gained 900px !
 # Back to Ebon
  
 
-- Canderous -> (2/4)
+- Canderous (2/6)
 	- I was wondering if you had any more war stories.
 	- **What do you mean?**
 	- Did it backfire?
