@@ -243,7 +243,7 @@ Taris - The Search for Bastila - Exploring the Upper City
     - I'm just looking around. 
     - -> come back later for the bounty -> 200c again -> need the money at the moment
 - Continue the north street **TEMPSAVE** 
-- 3 guys -> agress them ? NO -> PCO but 150 PX instead of 60 (+90PX, is it necessary ?) and loot
+- 3 guys -> agress them ? NO -> PCO but 150 XP instead of 60 (+90XP, is it necessary ?) and loot
     - **[Persuade] Hey, guys, we can all be friends here. Let me buy you a drink.** (LSP +2)
 - Talk to the racist man (Gorton Colu)
     - Vermin and scum? What are you talking about?

@@ -81,7 +81,7 @@
 	- Is there anything I can help you with?
 	- We'll deal with that when the time comes.
 - Droid -> full repair ? -> **8 parts**
-- + 910px
+- + 910XP
 - Czerka -> Zaalbar needs to be CLOSE
 	- Just hurry up and tell me what happened.
 	- **Does this make you mad, Zaalbar? I bet it does.**
@@ -263,7 +263,7 @@
 	- My reward? What reward?
 	- Can I ask you if anything is happening now?
 	- Goodbye to you.
-- 400c + 1600px
+- 400c + 1600XP
 - Ebon à pied -> useless -> TP -> unless banter near the door of the village ?
 
 # Back Ebon
@@ -309,7 +309,7 @@
 - Ask Merchant
 	- I found this droid head. Can I ask you about it?
 	- It recorded an ambush. Someone yells Eli's name.
-	- **Don't act rashly, Matton. Eli is through. Violence won't help.** +6PCL + 638px
+	- **Don't act rashly, Matton. Eli is through. Violence won't help.** +6PCL + 638XP
 - Reask
 	- He won't last long hiding in the Shadowlands.
 	- His reputation's shot. Someone honest could take over. 

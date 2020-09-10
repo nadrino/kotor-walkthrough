@@ -45,7 +45,7 @@
 - 6
 	- Kill all -> WARNING Deadly MINE
 	- Go to the PC (Computer Dead if exploded)
-		- Kill in 9 (450 + 75 + 320 px !)
+		- Kill in 9 (450 + 75 + 320 XP !)
 		- Disable field
 		- Kill in 6 (sabotage)
 		- Disable steam
@@ -79,7 +79,7 @@
 	- Kill all
 	- Ouvrir porte avec player -> cinematic
 	- T3 -> ouvrir porte -> Console à gauche
-		- Security Room ? -> sabotage +340px
+		- Security Room ? -> sabotage +340XP
 	- Don’t deactivate steam on console on the right -> no XP
 - 14
 	- EXIT
@@ -175,7 +175,7 @@
 		- **No one actually witnessed the murder.**
 		- **Sunry was ending the affair, so the Sith killed her.**
 	- My arguments are complete.
-- INNONCENT !! -> 500px (the max) -> saved the republic -> + Sith guilty
+- INNONCENT !! -> 500XP (the max) -> saved the republic -> + Sith guilty
 - Jolee
 	- So what do you think of Sunry's verdict?
 	- No, not really.
@@ -275,7 +275,7 @@
 	- **I don't need business advice from you, Griff.**
 - Talk to Mission (Griff gone)
 - Renvoyer Mission pour Zalbaar -> non trop chaud pour Z -> HK
-- Dunes (SAVE) -> 1800pX + px du suicide lol !! sinon 50 +30 +30 en kill c’est tout
+- Dunes (SAVE) -> 1800XP + XP du suicide lol !! sinon 50 +30 +30 en kill c’est tout
 	- You talk too much and do little.
 	- I think you both need to calm down.
 	- Why do you need to fight him, Canderous?
@@ -288,7 +288,7 @@
 
 - Kill rodians
 - Talk Canderous -> need time
-- Kill Wraids (still 300px * 4) but a lot easier
+- Kill Wraids (still 300XP * 4) but a lot easier
 - Level Canderous + HK ?
 - Go toward San People Enclave
 - Behind dune 
@@ -331,8 +331,8 @@
 
 - Go out alone -> see Hulas
 - Hulas
-	- Zular Sentar is dead. (Dantooine) + Blaster + 500px
-	- Vorn (Tatooine) + 1000px + Stealth 
+	- Zular Sentar is dead. (Dantooine) + Blaster + 500XP
+	- Vorn (Tatooine) + 1000XP + Stealth 
 - Back to Ebon
 
 # To The Manaan Star Map
@@ -363,7 +363,7 @@
 	- **Central Storage** -> Gas -> NO !!! Bug -> No XP for that -> not even the Selkath dead… -> En fait si…
 	- **West Storage **-> ok -> XP (should level up to 18)
 	- Don’t corrupt droid -> no XP -> items lost
-	- **Security Room** -> Deactivate Shield on Sentry Droid -> 170px (180px is level 18)
+	- **Security Room** -> Deactivate Shield on Sentry Droid -> 170XP (180XP is level 18)
 - 4
 	- Kill droids
 	- On the left -> EXIT door
@@ -588,7 +588,7 @@
 
 - Go rendre quête
 	- Ithorak Guldar is dead. -> gands -> strength +4
-	- Back later + 1000px
+	- Back later + 1000XP
 
 - Back to Ebon
 	- Go to Tatooine -> Mission + Canderous + Hunter
@@ -600,7 +600,7 @@
 - Go out alone -> rendre quêtes
 - Hulas
 	- Vorn Daasraad is dead.
-	- + 1000px + stealth unit +8
+	- + 1000XP + stealth unit +8
 - Back to Ebon -> improve and Talk with Jolee
 
 		- NOW READY WITH JOLEE !

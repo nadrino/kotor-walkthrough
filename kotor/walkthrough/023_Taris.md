@@ -136,9 +136,9 @@
 ![](../resources/images/screenshots/tarisSithBaseAmbush.png)
 
 - Open terminal **1 sp** with T3
-	- Hack sentry droids target filtering **6sp** + 160PX
+	- Hack sentry droids target filtering **6sp** + 160XP
 	- open elevator **80 4sp** -> open door with pass = no xp
-	- Disable shield **160PX 6sp**
+	- Disable shield **160XP 6sp**
 		- **or use power canal to disable shield -> no xp ? -> NOT WORKIN !**
 		- A datapad you get off a sith technician's corpse talks about the conduit "fixing the shield outage problem on the droid" IIRC
 		- _https://gamefaqs.gamespot.com/boards/556553-star-wars-knights-of-the-old-republic/45958193_
@@ -251,7 +251,7 @@ _(HOW MANY SPIKES ? 1+1)_
     - Gas last -> Hangar **1 spike**
 - Level up PC! (9)
     - If not yet
-    - Disable door security 135px ? **1 spike** + open hangar door ? -> NO -> last room (justify the loot)
+    - Disable door security 135XP ? **1 spike** + open hangar door ? -> NO -> last room (justify the loot)
 - Go back to the last corridor
 - Loot the gased room
 - Next room on the left kill everybody

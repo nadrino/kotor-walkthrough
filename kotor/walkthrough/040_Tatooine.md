@@ -1,6 +1,7 @@
 # Tatooine
 
 
+![](../resources/images/screenshots/tatEbonArrival.png)
 
 - **Bastilla**
 	- **Maybe Tatooine wasn't always a desert.**

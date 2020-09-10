@@ -319,14 +319,14 @@
 	- [Persuade] Treat him fairly or I'll start rumors your races are rigged. (HARD ?)
 	- I'll see what I can do.
 	- SAVE ?
-	- Do first race + PERSUADE -> no fees > 75 PX
+	- Do first race + PERSUADE -> no fees > 75 XP
 - Nico
 	- **I talked to Motta about you.**
 	- How long have you been racing?
 	- Are you any good?
 	- Where is the best place to get bike upgrades around here? (DELETED CONTENT)
-- Run again > 150px
-- Run again 22:51 VERY HARD -> ok -> one max speed -> tout droit !!!! Sinon on ralentit -> 525 px
+- Run again > 150XP
+- Run again 22:51 VERY HARD -> ok -> one max speed -> tout droit !!!! Sinon on ralentit -> 525 XP
 - Level up mission and Bastila ?
 - Nico
 	- I talked to Motta about you.

@@ -39,7 +39,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Kill Siths, talk with guy, learn about hidden becks
 - Largo -> Davik bounty ->** don't tell**
 - Go back to home, talk with Carth (5)
-- Continue road to lower city, 3 guys -> aggress them -> PCO but 150 PX (instead of 60) and loot
+- Continue road to lower city, 3 guys -> aggress them -> PCO but 150 XP (instead of 60) and loot
 - Droid store -> buy crapy droid (XP) -> get refund, not more (DSP +25cred)
 - ***Buy 7 parts in her shop (sell if needed)***
 - Go to the lower city entrance, sith talks with you, go to the military base door, go back equip You (not carth, conversation with the sith will not make sense) with the armor
@@ -50,7 +50,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Go first at the cantina
 - **don't buy pazaak ? 200 c +/-1 ? +/-6 cheaper ->50 ? -> save 6 to check**
 - Gelrood -> Infinite pazaak -> 3 times
-- see Calo North , go see Holdan -> learn about ebon hawk -> wait for force persuade to pull off the bounty (+4PCL 125PX instead of 50+105)
+- see Calo North , go see Holdan -> learn about ebon hawk -> wait for force persuade to pull off the bounty (+4PCL 125XP instead of 50+105)
 - Discover mission
 - dancing girl -> sometimes fail
 - talk to Zax -> don't pay for infos
@@ -119,7 +119,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Transit Back
 - Kill respawn mobs
 
-- Si continue vers les sewers -> 50 /100 px ? sinon après moins ?
+- Si continue vers les sewers -> 50 /100 XP ? sinon après moins ?
 
 # Sewers
 
@@ -148,7 +148,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- Why did he leave?
 	- Who's Lena?
 - Improve scope for mission + armor
-- Go sell the serum (+200px)
+- Go sell the serum (+200XP)
 - go to the ring and kill Ice +300c
 - kill the old man (at begin of combat, pause and use all injections) +400c
 - Talk to him after (he leaves)
@@ -220,7 +220,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - meet the vulkar leader -> let him tel his proposition
 - kill them all -> equip new stuff
 - 8 per droid
-- 11? + 3 parts for droid sidedoor (**+595PX** or 455)
+- 11? + 3 parts for droid sidedoor (**+595XP** or 455)
 - 2000 c + 4parts 
 - Go out to lower city and go to appartment
 
@@ -376,7 +376,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Loot -> mine -> with Player
 - Kill people in room next to the noble **1 spikes **(spice ?) -> LEVEL UP Canderous and T3
 - Gas last -> Hangar **1 spike**
-- disable door security 135px ? **1 spike** + open hangar door ? -> NO -> last room (justify the loot)
+- disable door security 135XP ? **1 spike** + open hangar door ? -> NO -> last room (justify the loot)
 - **Level UP player ??**
 - Loot spice
 - go kill spice room loot every where
@@ -659,7 +659,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 		- He is clutching his side.
 		- No, they are both guilty.
 		- Rickard thought Calder was cheating him in business!
-	- 1310px Both men found guilty
+	- 1310XP Both men found guilty
 - Take the bridge (east)
 - kill animals
 - go full east -> juhani (force push)
@@ -674,7 +674,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- Anger? Show them that you have freed yourself of this base passion.
 	- Your inner peace and harmony will show them your sincerity.
 - https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Grove
-- 1200 px
+- 1200 XP
 - Mandalorians towars south -> tough -> grenade adesive + paralise force on the first mandalorian (plus proche) -> tout firepower
 - eriadu strengh amplifier (gants) -> loot ? +2 strengh
 
@@ -872,7 +872,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Loot and make a loop to come back
 - Find Daughter
 - Loot
-- Repair room + Get Key + repair droid 5 parts 715 PX !
+- Repair room + Get Key + repair droid 5 parts 715 XP !
 - Follow direction of the droid
 - Save Shen
 	- I am here to rescue you, Shen.
@@ -940,8 +940,8 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- All firepower sur les autres Mandalorians
 	- Ensuite s'occuper du dernier
 - Go Ebon -> Go back (shortest route, no monster)
-- Jon -> kill the mand chief -> take reward 1000px (only 2 PCL otherwise)
-	- On iOS -> **No need for reward** -> 1000cr + 250px -> no ! Please take it !
+- Jon -> kill the mand chief -> take reward 1000XP (only 2 PCL otherwise)
+	- On iOS -> **No need for reward** -> 1000cr + 250XP -> no ! Please take it !
 - 
 
 **
@@ -1731,14 +1731,14 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- [Persuade] Treat him fairly or I'll start rumors your races are rigged. (HARD ?)
 	- I'll see what I can do.
 	- SAVE ?
-	- Do first race + PERSUADE -> no fees > 75 PX
+	- Do first race + PERSUADE -> no fees > 75 XP
 - Nico
 	- **I talked to Motta about you.**
 	- How long have you been racing?
 	- Are you any good?
 	- Where is the best place to get bike upgrades around here? (DELETED CONTENT)
-- Run again > 150px
-- Run again 22:51 VERY HARD -> ok -> one max speed -> tout droit !!!! Sinon on ralentit -> 525 px
+- Run again > 150XP
+- Run again 22:51 VERY HARD -> ok -> one max speed -> tout droit !!!! Sinon on ralentit -> 525 XP
 - Level up mission and Bastila ?
 - Nico
 	- I talked to Motta about you.
@@ -1992,7 +1992,7 @@ Juhani Romance 2 ?
 	- Is there anything I can help you with?
 	- We'll deal with that when the time comes.
 - Droid -> full repair ? -> **8 parts**
-- + 910px
+- + 910XP
 - Czerka -> Zaalbar needs to be CLOSE
 	- Just hurry up and tell me what happened.
 	- **Does this make you mad, Zaalbar? I bet it does.**
@@ -2174,7 +2174,7 @@ Juhani Romance 2 ?
 	- My reward? What reward?
 	- Can I ask you if anything is happening now?
 	- Goodbye to you.
-- 400c + 1600px
+- 400c + 1600XP
 - Ebon à pied -> useless -> TP -> unless banter near the door of the village ?
 
 # Back Ebon
@@ -2220,7 +2220,7 @@ Juhani Romance 2 ?
 - Ask Merchant
 	- I found this droid head. Can I ask you about it?
 	- It recorded an ambush. Someone yells Eli's name.
-	- **Don't act rashly, Matton. Eli is through. Violence won't help.** +6PCL + 638px
+	- **Don't act rashly, Matton. Eli is through. Violence won't help.** +6PCL + 638XP
 - Reask
 	- He won't last long hiding in the Shadowlands.
 	- His reputation's shot. Someone honest could take over. 
@@ -2757,7 +2757,7 @@ Juhani Romance 2 ?
 - 6
 	- Kill all -> WARNING Deadly MINE
 	- Go to the PC (Computer Dead if exploded)
-		- Kill in 9 (450 + 75 + 320 px !)
+		- Kill in 9 (450 + 75 + 320 XP !)
 		- Disable field
 		- Kill in 6 (sabotage)
 		- Disable steam
@@ -2791,7 +2791,7 @@ Juhani Romance 2 ?
 	- Kill all
 	- Ouvrir porte avec player -> cinematic
 	- T3 -> ouvrir porte -> Console à gauche
-		- Security Room ? -> sabotage +340px
+		- Security Room ? -> sabotage +340XP
 	- Don’t deactivate steam on console on the right -> no XP
 - 14
 	- EXIT
@@ -2887,7 +2887,7 @@ Juhani Romance 2 ?
 		- **No one actually witnessed the murder.**
 		- **Sunry was ending the affair, so the Sith killed her.**
 	- My arguments are complete.
-- INNONCENT !! -> 500px (the max) -> saved the republic -> + Sith guilty
+- INNONCENT !! -> 500XP (the max) -> saved the republic -> + Sith guilty
 - Jolee
 	- So what do you think of Sunry's verdict?
 	- No, not really.
@@ -2987,7 +2987,7 @@ Juhani Romance 2 ?
 	- **I don't need business advice from you, Griff.**
 - Talk to Mission (Griff gone)
 - Renvoyer Mission pour Zalbaar -> non trop chaud pour Z -> HK
-- Dunes (SAVE) -> 1800pX + px du suicide lol !! sinon 50 +30 +30 en kill c’est tout
+- Dunes (SAVE) -> 1800XP + XP du suicide lol !! sinon 50 +30 +30 en kill c’est tout
 	- You talk too much and do little.
 	- I think you both need to calm down.
 	- Why do you need to fight him, Canderous?
@@ -3000,7 +3000,7 @@ Juhani Romance 2 ?
 
 - Kill rodians
 - Talk Canderous -> need time
-- Kill Wraids (still 300px * 4) but a lot easier
+- Kill Wraids (still 300XP * 4) but a lot easier
 - Level Canderous + HK ?
 - Go toward San People Enclave
 - Behind dune 
@@ -3043,8 +3043,8 @@ Juhani Romance 2 ?
 
 - Go out alone -> see Hulas
 - Hulas
-	- Zular Sentar is dead. (Dantooine) + Blaster + 500px
-	- Vorn (Tatooine) + 1000px + Stealth 
+	- Zular Sentar is dead. (Dantooine) + Blaster + 500XP
+	- Vorn (Tatooine) + 1000XP + Stealth 
 - Back to Ebon
 
 # To The Manaan Star Map
@@ -3075,7 +3075,7 @@ Juhani Romance 2 ?
 	- **Central Storage** -> Gas -> NO !!! Bug -> No XP for that -> not even the Selkath dead… -> En fait si…
 	- **West Storage **-> ok -> XP (should level up to 18)
 	- Don’t corrupt droid -> no XP -> items lost
-	- **Security Room** -> Deactivate Shield on Sentry Droid -> 170px (180px is level 18)
+	- **Security Room** -> Deactivate Shield on Sentry Droid -> 170XP (180XP is level 18)
 - 4
 	- Kill droids
 	- On the left -> EXIT door
@@ -3300,7 +3300,7 @@ Juhani Romance 2 ?
 
 - Go rendre quête
 	- Ithorak Guldar is dead. -> gands -> strength +4
-	- Back later + 1000px
+	- Back later + 1000XP
 
 - Back to Ebon
 	- Go to Tatooine -> Mission + Canderous + Hunter
@@ -3312,7 +3312,7 @@ Juhani Romance 2 ?
 - Go out alone -> rendre quêtes
 - Hulas
 	- Vorn Daasraad is dead.
-	- + 1000px + stealth unit +8
+	- + 1000XP + stealth unit +8
 - Back to Ebon -> improve and Talk with Jolee
 
 		- NOW READY WITH JOLEE !

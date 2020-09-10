@@ -63,13 +63,13 @@ The Search for Bastila - The Lower City
     - I saw how you mopped those Black Vulkars. Nice work.
     - I'm not looking for a fight. I just want to talk.
     - Okay, I see your point. I'll be off then.
-- Go see Holdan in the music room -> wait for force persuade with Bastila to pull off Dia's bounty (+4PCL 125PX instead of 50+105?)
+- Go see Holdan in the music room -> wait for force persuade with Bastila to pull off Dia's bounty (+4PCL 125XP instead of 50+105?)
     - Who are you?
     - You work for Davik?
     - You're pretty open about what you do.
     - Do you think Davik could get me off Taris?
     - I'll be going now.
-- Discover Mission and Zaalbar -> talk to her -> +60 PX!
+- Discover Mission and Zaalbar -> talk to her -> +60 XP!
     - That's weird: a Twi'lek who speaks galactic Basic!
     - How do a Wookiee and a Twi'lek street urchin end up as best friends?
     - I want to ask you some questions.
@@ -136,7 +136,7 @@ The Search for Bastila - The Lower City
 **SAVE**
 
 - (Deprecated) Kill respawned Vulkars and go back home to talk with Carth
-    - +100 PX but that's OK to miss it
+    - +100 XP but that's OK to miss it
     -  
 
 ## Undercity
@@ -243,7 +243,7 @@ The Search for Bastila - The Lower City
     - How can I lead you this Promised Land when I don't even know what it is?
     - **And you want me to find these missing journals?**
     - **Don't worry, Rukil. I'll find those journals.**
-+175 PX (level 5)
++175 XP (level 5)
 - Go back home (by foot)
 - Talk to Mission -> Proposition in the lower city (near the Undercity elevator)
 ![](../resources/images/screenshots/tarisMissionWantsToTalk.png)
@@ -333,6 +333,6 @@ Missions levels up (5)
 - Trigger -> 4 ratgoules will spawn
 - Take the ladder
 
-14380 PX on the XBox version (620PX needed for level 6)
+14380 XP on the XBox version (620XP needed for level 6)
 
 ![](../resources/images/screenshots/tarisSewersLeaving.png)

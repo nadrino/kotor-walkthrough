@@ -37,7 +37,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 ## Tips :
 
 - Disable mines
-	- 10px(15px) /level/mine in normal(TSLRCM)
+	- 10XP(15XP) /level/mine in normal(TSLRCM)
 - Add item ?
 	- Composants -> astuce XBox duplication -> HARD -> vrai bug du moteur
 		- **Le personnage qui conduit la manipulation doit être en mesure de monter de niveau.**
@@ -188,7 +188,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- last log
 	- comm system -> burned out
 	- emergency control cmds -> computer -> open fuel depot door ONLY
-- +210px
+- +210XP
 - kill droids
 - loot broken droid -> deflector -> equip
 - save before new hangar -> _000_RareItemChance__ = 98_
@@ -206,7 +206,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- Vous avez raison, j'y vais. Ce serait stupide qu'on mette tous les deux notre vie en danger. (pcl+)
 	- Compris. A bientôt.
 - *Go back to med computer AFTERRRR*
-	- *treatment -> request -> 34-103 (150px)*
+	- *treatment -> request -> 34-103 (150XP)*
 - Go to new door (save)
 	- Pas très bien. Il y a des parasites.
 	- Je serai prudent. Si vous remarquez quoi que ce soit d'anormal, dites-le moi.
@@ -359,7 +359,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- REASK
 	- J'apprécie vos conseils, mais vous n'avez pas mieux pour vous rendre utile ?
 - MEDICAL HERE ----
-	- treatment -> request -> 34-103 (150px??)
+	- treatment -> request -> 34-103 (150XP??)
 - Go back to Fuel center console
 	- Check ID
 	- Logs
@@ -367,7 +367,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- cameras -> T3!
 	- voiceprint
 	- open
-	- 950px
+	- 950XP
 - equip space suit ? if possible...
 
 ## Peragus Dortoirs :
@@ -386,7 +386,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- repair
 	- info
 	- camera
-		- dormitory -> cut 210 px
+		- dormitory -> cut 210 XP
 	- end dormitory... (open door) NOT YET
 - continuer le corridor (pas entrer dans dortoirs -> fouiller cafette avant -> loot log -> cache secret)
 - cylndre frigo -> mine
@@ -539,7 +539,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- Repair 1
 	- Camera -> disable gas -> **5 SPIKES**
 	- Open door (can't open security -> too low skill! even with T3 + module (15))
-	- quit 325 px
+	- quit 325 XP
 - Loot near ebon
 - PUT EVERYONE in Immobile -> after solo mode to loot all sith
 - SAVE
@@ -1393,7 +1393,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- Si le passé est aussi important que vous le prétendez, le vôtre m'intéresse.
 	- CUTSCENE
 	- **Il me faut plus que ça, Kreia.**
-	- Stop + 1000PX
+	- Stop + 1000XP
 - Reask
 - *Conditions : l'influence de l'Exilé(e) sur Kreia doit être ≤ 30 ou ≥ 70 (voir "**_Guide de l'Influence_**")*
 	- Savez-vous quelque chose au sujet des Siths qui nous poursuivent ?

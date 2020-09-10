@@ -45,7 +45,7 @@ The Search for Bastila - Penetrating the Vulkar base
 - Puzzle! Password to open the chest
     - First get the mine
     - Hyperspace, Uncle, Alderane
-    - 110 PX + Good armor
+    - 110 XP + Good armor
 - Save before the next door
 - Selven's apartment
     - Who are you?
@@ -131,7 +131,7 @@ The Search for Bastila - Penetrating the Vulkar base
     - Don't worry – I'm here to help you.
     - I have brought you a serum to cure the rakghoul disease.
     - Here, take this rakghoul serum. I have enough for both of you. **+2 LSP**
-- +210PX
+- +210XP
 - Talk to Gendar -> congratulates
 - Talk to Rukil
     - I have all three journals. Here – take them. **+6 LSP**
@@ -250,8 +250,8 @@ The Search for Bastila - Penetrating the Vulkar base
 - First door -> 2 Vulkars -> 1 footlocker
 - Next room -> loot everywhere
 - At the console **(1 spike to login)**
-    - Blow the bikes **(2 spikes + 140PX)**
-    - Open door **(1 spike + 105PX)**
+    - Blow the bikes **(2 spikes + 140XP)**
+    - Open door **(1 spike + 105XP)**
 - Go back to the previously locked door
 - Meet the leader
     - Enough yapping! Hand over that accelerator.
@@ -266,8 +266,8 @@ The Search for Bastila - Penetrating the Vulkar base
 - kill them all -> loot -> equip new stuff
 - Go back to the entrance of the garage -> droid to repair - TEMPSAVE
     - Got 10 parts left
-    - Improve all you can, and put it in patrol mode **8 parts** (+455PX)
-    - If you want to make some more PX, program it to blow up the doo (+595PX)
+    - Improve all you can, and put it in patrol mode **8 parts** (+455XP)
+    - If you want to make some more XP, program it to blow up the doo (+595XP)
         - But kind of useless, you will reach the lvl 9 just before leaving Taris
         - After that, you will be granted with a "free" level
 - Kill the guard droid with the help of the droid you repaired
