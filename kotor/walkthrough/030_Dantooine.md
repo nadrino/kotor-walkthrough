@@ -530,15 +530,18 @@ Dantooine - Jedi Training
 	- **Why do your families hate each other so much?**
 - **Go see Daughter**
 	- ** I'm trying to rescue Shen, but he won't leave without you, Rahasia.**
+**SAVE** -> HARD+EASY persuade incoming
 - Go back to Shen auto exit
 	- It was no problem.
-	- No reward is necessary. + 2 PCL
-	- **You two just need to calm down.**
-	- **Why don't you try listening to your children?**
-	- **Shen...**
-	- Let them go.
-	- You don't need to fight anymore.
-- Go back to Ebon Hawk to take Carth (don’t go in Ebon)
+	- No reward is necessary. **+2 LSP**
+	- You two just need to calm down.
+	- You should try to sort this out together.
+	- **[Persuade] Shen is capable of making decisions on his own.** (25% chance of success)
+    - **[Persuade] Children grow up and leave eventually.** -> EASIER (75%) but still!!
+    - I knew you two could see reason.
+    - **They could stay at the Jedi Enclave.**
+You gained 900px !
+- Go back to Ebon Hawk (Transit back)
 - Bastila proposition while you move forward (will be cited later)
 	- You wanted to speak to me?
 	- Is it true you killed Darth Revan?
@@ -554,45 +557,50 @@ Dantooine - Jedi Training
 	- Why? What was so special about those three?
 	- Thanks for…
 - Talk to Belaya -> new line
-- Talk to guy in bed room -> Montagne (droid quest) (Banther : Bastila)
+- Talk to guy in bed room -> Montagne (droid quest) (Bastila talks)
 	- There is no need.
 	- Yes, he seems quite nice.
-- Talk to Rahasia
-	- What are your plans now?
-- Shen
-	- I'm just glad I could help you out.
 - Talk :
 	- Zhar
 	- Vrook
-	- Vandar
+	- Vandar -> Congratulate
+- Go back to the Ebon Hawk
 
 
 ## Kill Last Mandalorian
 
-- Take Juhani and Canderous with you
-- Levelup and equip
-- While leaving the enclave -> Juhani proposition
+- Improve Canderous Blaster (trigger)
+- Can't talk to Canderous yet. -> next level
+- Talk to Juhani (0/6)
     - I was wondering if we could talk.
     - How did you come to be a Jedi?
     - Yes. Please continue.
     - **What is the Cathar homeworld like?**
     - **Did you meet a Jedi?**
     - **Enamored?**
+- Take Juhani and Canderous with you
+- Levelup and equip
 - Talk with Gar -> will trigger dialog with Juhani later
     - I am merely an apprentice.
     - I am sorry. I do not know.
     - Who are you?
     - **You mentioned kath hounds?** (Canderous and Juhani interact -> need 1 other interaction of a special line with Juhani )
-    - // Mandalorians? Here? -> Jon already told you about them
 - Jon
 	- What do you know about these raiders?
 	- **A lightsaber??**
 	- I killed some of them on the plains. (reask)
 	- I will come back if I find their leader.
-- Go Sandral Grounds
-- Kill max amount of mobs -> level up 12 before Mandalorians ? -> too much (8 on XBox needed, 2 mobs per map -> 3maps)
-- Go South -> kill last Mandalorians (should be relatively easy now) -> 2 grenades useful…
-- Go Ebon -> Go back (shortest route, no monster)
+- On the Bridge talk with Juhani (this dialog option will disappear after)
+    - Are you doing alright?
+    - **You're too fragile, Juhani.**
+    - Perhaps you just need more time.
+    - If I see you begin to slip back, I will intervene.
+- Go left (east) in the grass field
+    - Kill max amount of mobs
+- Level up 12 before Mandalorians
+- Go South -> kill last Mandalorians (should be relatively easy now)
+   - 2 grenades useful… + all firepower on the chief
+- Go Ebon -> Go back (shortest route to the bridge, no monster)
 - Jon -> kill the mand chief 
     - take reward 1000cr, you gonna need it
     - And there is no point to do some show off since Bastila isn't here!
@@ -602,7 +610,7 @@ Dantooine - Jedi Training
 # Back to Ebon
  
 
-- Canderous -> 2
+- Canderous -> (2/4)
 	- I was wondering if you had any more war stories.
 	- **What do you mean?**
 	- Did it backfire?
@@ -611,9 +619,9 @@ Dantooine - Jedi Training
 - Last talk with Mission
 	- I want to talk to you about your brother.
 	- Griff may not be perfect, but he is your brother, Mission.
-	- -> hide cover
+	- So... -> hide cover
 	- When the time comes you'll know what to say, Mission.
-- Juhani (1/6) -> level 12 13-2 14-3 15-4 16-5 17-6 ?
+- Juhani (1/6) -> level 12->1 13-2 14-3 15-4 16-5 17-6 ?
     - I was wondering if we could talk.
 	- Tell me more about your past.
 	- Invigorating?
@@ -639,3 +647,4 @@ Dantooine - Jedi Training
 	- **You and your father were close?**
 	- You never tried to get in touch with your father again?
 	- You sound very sad when you say that.
+**SAVE** in front of the navigation map
