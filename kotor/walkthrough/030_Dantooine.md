@@ -571,15 +571,15 @@ You gained 900px !
 
 - Improve Canderous Blaster (trigger)
 - Can't talk to Canderous yet. -> next level
-- Talk to Juhani (0/6)
+- Take Juhani and Canderous with you
+- Levelup and equip
+- Suggestion while leaving the enclave: Juhani (0/6)
     - I was wondering if we could talk.
     - How did you come to be a Jedi?
     - Yes. Please continue.
     - **What is the Cathar homeworld like?**
     - **Did you meet a Jedi?**
     - **Enamored?**
-- Take Juhani and Canderous with you
-- Levelup and equip
 - Talk with Gar -> will trigger dialog with Juhani later
     - I am merely an apprentice.
     - I am sorry. I do not know.
@@ -590,11 +590,6 @@ You gained 900px !
 	- **A lightsaber??**
 	- I killed some of them on the plains. (reask)
 	- I will come back if I find their leader.
-- On the Bridge talk with Juhani (this dialog option will disappear after)
-    - Are you doing alright?
-    - **You're too fragile, Juhani.**
-    - Perhaps you just need more time.
-    - If I see you begin to slip back, I will intervene.
 - Go left (east) in the grass field
     - Kill max amount of mobs
 - Level up 12 before Mandalorians
@@ -648,3 +643,5 @@ You gained 900px !
 	- You never tried to get in touch with your father again?
 	- You sound very sad when you say that.
 **SAVE** in front of the navigation map
+- Select the planet Tatooine
+- Cinematic with Malak

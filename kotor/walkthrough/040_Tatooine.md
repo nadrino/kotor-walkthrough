@@ -5,13 +5,15 @@
 - **Bastilla**
 	- **Maybe Tatooine wasn't always a desert.**
 - Zalbar -> talks -> go to food chest
+    - Not right? What do you mean?
+- Go to the supplies
 - Go to Hyperdrive -> footsteps
 - Go to infirmerie left, bedrooms
 - Go back storage
 	- Hey! What are you doing here?!
 	- Calm down, little girl. I won't hurt you.
 	- I still don't understand you.
-- Retalk
+- Retalk (might be different)
 	- Can you tell me your name?
 	- [Point to yourself.] My name is Name. You are...?
 	- Sasha... your name is Sasha, right?
@@ -68,34 +70,32 @@
 - Retalk with Bastila ? -> YES -> cut scene on Taris
 	- Stowaway first ? -> More sense to talk again
 	- You wish to talk to me?
-		- Harcellement ? nO
-		-  I think we both know the real reason you've been watching me.
-		- I make you tremble? Do you get all tingly inside, too?
+		- //Harcellement ? nO
+		- //I think we both know the real reason you've been watching me.
+		- //I make you tremble? Do you get all tingly inside, too?
 	- **My progress?**
 	-  **We're not going to go over this again, are we?**
 	- **You seem to know that temptation very well.**
 	- **Are you saying the light side is innocent of killing?**
 	- **Do whatever is required? Such as?**
-- Carth
-	- Advice Stowaway ? NO USELESS
-- Juhani ?
+- Juhani
 	- Are you doing alright?
 	- **You're too fragile, Juhani.**
 	- Perhaps you just need more time.
 	- **If I see you begin to slip back, I will intervene.**
-- Mission -> to justify to take her + security spikes
-- 
+**SAVE** (persuade incoming)
 
 # Tatooine - Spatioport
 
-- With Bastila and Carth ? -> NO Mission instead at the beginning
-	- Carth : Lines while buying HK
+- Leave the Ebon Hawk
+- With Bastila and Mission
+	- Carth? Lines while buying HK
 - Czerka
 	- What do I get for my 100 credits?
 	- What if I don't have the money?
 	- What if I say no?
 	- Is there any way you could reconsider the fee?
-	-  [Persuade] The money I save I'll spend in your stores. (ez)
+	- [Persuade] The money I save I'll spend in your stores. (ez)
 	- Give me some background on Tatooine.
 	- What is known about the history of the planet?
 	- What species do you mean?
@@ -110,13 +110,12 @@
 	- Where should a person look for opportunity?
 	- I'm looking for very specific things. Who should I ask?
 	- I'm looking for older things. Antiques. Artifacts.
-- Loot right chest**
-**
-- Mother's Bastila
+- Loot right chest
+- A twilek appears: Bastila's mother 
 	- Don't be rude, Bastila.
 	- I guess we should go see your mother, Bastila.
 - See shop
-	- Buy Bothan Sensor Visor
+	- **Buy Bothan Sensor Visor**
 - Talk to the Aqualish
 	- What shipment? What are you talking about?
 	- Excuse me, did you say "gizka"?
