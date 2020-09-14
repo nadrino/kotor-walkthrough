@@ -13,7 +13,7 @@
 ![](../resources/images/screenshots/danMatalesDroids.png)
 
 - Go east 
-- BANTHER ? Carth and Bastila 2/2 -> not on iPhone?
+- BANTHER ? Carth and Bastila 2/2 -> not on iPhone? -> LATER On Tatooine...
 	- What did they see, exactly?
 - kill beasts -> find journal on corpse
 

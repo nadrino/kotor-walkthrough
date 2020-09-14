@@ -86,7 +86,8 @@
 	- **If I see you begin to slip back, I will intervene.**
 **SAVE** (persuade incoming)
 
-# Tatooine - Spatioport
+
+## Tatooine - Spatioport
 
 - Leave the Ebon Hawk
 - With Bastila and Mission
@@ -128,7 +129,8 @@
 - Chest on the left
 - Go out
 
-# Downtown
+
+## Anchorhead
 
 - See girl
 	- What do you need? I'm Name, I'll help if I can.
@@ -200,9 +202,9 @@
 	- Where would that enclave you mentioned be?
 	- Where would you get robes to match theirs? -> **DISGUISE INTO SAND PEOPLE**
 	- Maybe I'll look into it.
-- NO garder mission pour le moment
 
-# Hunter Lodge
+
+## Hunter Lodge
 
 - Meet Ithorian
 	- I have something to sell you
@@ -242,10 +244,10 @@
 	- What if I wanted advice? I'm sure you are very smart.
 	- So, can I ask what you do?
 	- Some of the other hunters say you don't know how to hunt.
-	-  I'm looking for something. Are you good scouts?
+	- I'm looking for something. Are you good scouts?
 	- Why don't you let him speak?
 	- Fine, I'll just leave.
-- Tanis
+- Tanis (Will find him later in the desert)
 	- I'm looking for experts. You seem knowledgeable.
 	- I'm looking for something. Who knows this planet best?
 	- Have you ever seen the Sand People with anything odd?
@@ -256,12 +258,15 @@
 	- What do you do?
 	- Why do you play?
 - Replace Mission by Carth -> YES Carth more lines when buying HK and in the Cantina ?
+- Level up Carth (11)
+- -> Program IA -> Scripts -> Jedi Support
 
-# Go to the Cantina
+
+## Go to the Cantina
 
 - Meet Siths
 	- Hard -> speed + force aura + heal with bastila
-	- Level up bastila and 
+	- Level up Bastila during the combat if needed 
 - Cantina
 - Czerka Officer
 	- I wanted to ask a few questions, if you have the time.
@@ -286,27 +291,25 @@
 	- What can you tell me about the other racers?
 	- What makes him any different than the others?
 	- Other questions…
-	- I have to leave. Goodbye.**
-**
+	- I have to leave. Goodbye.
 - **Helena**
 	- **My mother is long dead, if you must know.**
-	- Why don't you get the holocron yourself, Miss... er... Helena?
-	- Don't you want to find your father's remains, Bastila?
 	- **Why don't you get the holocron yourself, Miss... er... Helena?**
 	- **Don't you want to find your father's remains, Bastila?**
 	- What about your mother's sickness?
 - Furko Nellis -> 3 pazaak plays
-	- (50, 200, 500)
 	- I want to ask you some questions.
 	- You must have an opinion about what happened on Taris.
 	- Okay, let's talk Pazaak.
-	- **I'll play. What is the wager?	**
+	- **I'll play. What is the wager?**
+	- (50, 200, 500)
 - **Junix Nard**
 	- **Do you have anything for sale?**
 	- Buy hair trigger
 	- reask
 	- I want to ask about things here on Tatooine.
 	- I've got some questions about hunting.
+	- ...
 	- Anything out of the ordinary happening?
 	- **Know about anything more local?**
 	- "No" you don't know, or "no" you won't tell me?
@@ -316,20 +319,25 @@
 	- **Why didn't you ask about her sickness?**
 	- **Why would she lie about it?**
 	- You sound bitter.
-	- …
+    - (Reask)
+    - You which to talk?
 	- You don't think we should look for the holocron?
 	- Why do you think she wants it so badly?
 	- You'd keep it for yourself?
 
-# Droid Shop
 
-- Take T3 (and Carth) in group and ask HK
+## Droid Shop
+
+- Take T3 (and Carth) in group
+- Level up T3 (11)
+- Go to the droid shop
 - Yuka Laka
 	- What do you have available in your shop?
 	- Let me ask a few questions about HK-47.
 	- What does the HK-47 designation mean?
 	- What functions have you tested?
-	- Where did you get this HK-47?
+	- _What does the HK-47 designation mean?_
+	- Where did you get this HK-47? (Carth speaks)
 	- You don't seem to know much about it.
 	- Let's get back to my other questions.
 	- Goodbye.
@@ -349,19 +357,22 @@
 	- **All right, I'll see about purchasing you.**
 	- Does Yuka Laka know you talk about him like this?
 - Yuka Laka (SAVE -> one try for persuade)
-	- Let me ask a few questions about HK-47.**
-**
+	- Let me ask a few questions about HK-47.
+	- You don't seems to know much about this droid
 	- Why haven't you wiped its memory?
 	- I'm interested. Let's talk price.
 	- Could I convince you to lower the price a bit?
 	- Perhaps I can convince you to go lower?
 	- Come now, think of the advertising you'll get from me. (Medium 50%)
+	- 2500c
 - HK-47
 	- **Kill something for me?**
 	- Travel with me now.
-- Level up HK
+- Replace T3 with HK
+- Level up HK (7 to 11)
 - Retalk Yuka -> HK-47 Intervention !
-	- Buy Heavy Plating Type 2 -> 1500c -> sell if needed ! (Sell short light sabre ?) -> **NOOO ! Will be looted in Enclave of Sand People !!!**
+	- //Buy Heavy Plating Type 2 -> 1500c -> sell if needed ! (Sell short light sabre ?) 
+	- **NOOO ! Will be looted in Enclave of Sand People !!!**
 - Go to Iziz the Jawa (with Carth and HK)
 	- **Could you be clearer? I'm having trouble understanding you.**
 	- Why wouldn't I understand your true language?
@@ -371,13 +382,15 @@
 	- So, Iziz, what do you want me to do?
 	- Tell me about where your people are. Maybe I'll help.
 	- A few more questions, all right ?
-	- A few more questions, all right ?
 	- **Tell me about "those who came before". (Carth trouve le temps long…)**
 	- I'll check it out when I leave the city. Goodbye.
-	- (Rappeler Bastila)
+	- (Replace HK with Bastila)
 	- **I'm looking for something called a Star Map. Can you help? -> IMPORTANT !**
 	- **You'll tell me after I help you? Why should I believe this? -> Bastila + Carth se disputent**
-- Back to Ebon
+- Go back in direction of the Ebon Hawk
+- Banther Carth + Bastila
+    - What did they see, exactly?
+- Transit Back to Ebon
 	- Improve light sabers
 	- Speak ?
 	- HK-47
@@ -393,8 +406,7 @@
 		- **Is there any way to repair you?**
 		- So I can restore your memory?
 		- So you're saying your memory might just… come back?
-		- So how do I go about restoring part of your memory?**
-**
+		- So how do I go about restoring part of your memory?
 		- **I would like to try restoring some of your memory. (Repair+)**
 		- Are you implying I am inept?
 		- I happen to be very good at what I do.
