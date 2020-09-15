@@ -392,6 +392,7 @@
     - What did they see, exactly?
 - Transit Back to Ebon
 	- Improve light sabers
+	- Improve Canderous weapon at best (remove improvements elsewhere)
 	- Speak ?
 	- HK-47
 		- I would like to know more about your functionality.
@@ -407,7 +408,7 @@
 		- So I can restore your memory?
 		- So you're saying your memory might just… come back?
 		- So how do I go about restoring part of your memory?
-		- **I would like to try restoring some of your memory. (Repair+)**
+		- **I would like to try restoring some of your memory. (Repair 8+)**
 		- Are you implying I am inept?
 		- I happen to be very good at what I do.
 		- Let's get started.
@@ -427,12 +428,13 @@
 		- I'm just glad I acquired you myself.
 		- Are you sure this actuator can't be fixed?
 		- Did you recover any other memories?
-	- Ask T3 for spike
-	- Ask Mission for spikes too
-	- **Improve max for Canderous**
-- Go out with Bastila and Mission ? **Canderous ?**
-- Travel Back ? Or à pied => banter on xbox with cancerous
+- Go out with Bastila and **Canderous**
+- Level up Canderous (11)
+- Equip the PC with Bothan Sensory Visor: immunity against critical hits
+- Travel Back if you did banther Carth with Bastila on Tatooine
+- Otherwise by foot: banter Cancerous with Bastila
 	- **Okay, let's not get into this.**
+**SAVE**
 - Gate Guard Billan
 	- I have proper authorization.
 	- Here is my hunting license.

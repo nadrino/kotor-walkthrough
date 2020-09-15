@@ -21,25 +21,24 @@
 	- I have other questions about the desert.
 	- I have to go.
 - (Heal pendant talk)
-- Seconde ambuscade -> toujours pas de robes ?
+- Go on the right of the big truck
+- Sand people ambush ? (2nd)
 - Kill Wraids -> toujours avec Canderous en tir
-- Kill Sand People Group (easier)
+- Kill Sand People Group near the south path (easier but respawns!)
 - Récupérer les déguisements
-- Disable mines (equipment : Bothan Sensory Visor (+immunity coups critiques) + Stabilizer Gauntlers)
+- Disable mines (//equipment rappel : Bothan Sensory Visor (+immunity coups critiques) + Stabilizer Gauntlers)
 - Ambuscade Gamoreans
 	- And if I refuse to pay you anything?
 	- Perhaps I could persuade you not to do this?
 	- Who are you to threaten me? I could be dangerous.
 	- That’s it.
 - Kill all with Canderous
-- Loot and disable mines
-- Wraids ?
-- Go near next garbages -> Ambuscade
-- Level 13 !?
-- Avancer vers next garbages -> Ambuscade
+- 3 mines around their setup
+- Next debris -> ambush ? (2nd on XBox)
+- Go near next garbages -> Ambuscade (3rd)
 - Tanis
 - Talk to a droid before
-- Talk
+- Talk (Bastila will intervine)
 	- What happened here?
 	- You sit back and let your droids do the hunting?
 	- It just doesn't seem very sporting.
