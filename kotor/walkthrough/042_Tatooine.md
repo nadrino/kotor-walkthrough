@@ -14,7 +14,7 @@
 	- Very tough…
 - See the 3 guys
 	- I would assume this was done by the Sand People?
-- Easier here… but a lot. Take Canderous to rapid shoot + both party focus on the same target
+- Easier here… but 3 groups. Take Canderous to rapid shoot + both party focus on the same target
 	- I've agreed to try and stop the Sand People attacks.
 	- Do you know anything about the Sand People?
 	- The Sand People are using turrets?
@@ -32,13 +32,15 @@
 	- Perhaps I could persuade you not to do this?
 	- Who are you to threaten me? I could be dangerous.
 	- That’s it.
-- Kill all with Canderous
+- Kill all
 - 3 mines around their setup
+- Save/Reload -> Wraids will respawn! (550px each! x4)
 - Next debris -> ambush ? (2nd on XBox)
+- Level 13!
 - Go near next garbages -> Ambuscade (3rd)
 - Tanis
 - Talk to a droid before
-- Talk (Bastila will intervine)
+- Talk (HK and Bastila will intervine)
 	- What happened here?
 	- You sit back and let your droids do the hunting?
 	- It just doesn't seem very sporting.
@@ -52,7 +54,7 @@
 	- Get system specifications.
 	- Previous system options.
 	- **Access system status and repair functions.**
-	- Enter diagnostic mode to try manual repair.
+	- **Enter diagnostic mode to try manual repair.**
 	- **Node 2 is reporting accurately.**
 	- Exit.
 - Droid B
@@ -63,40 +65,55 @@
 	- 31-13-12-14 * 23-41-12-14
 - Tanis
 	- That will be fine
-- Back Anchorhead ? -> no just swap group
-- Take HK instead of Canderous
 - Go to the previous mines path
 - Disguise
+**SAVE**
 
-# Sand People Enclave
 
-- Déminer
+## Sand People Enclave
+
+- Déminer 2
 - Suivre les débris
-- 6 mines
+- 6(or 8) mines (walk to detect them)
 - Go in the Enclave
 	- Quickly, tell him we are not a threat!
 	- Apologize for being here. Say we want peace.
+	- ...
 	- Tell him we want a peaceful solution
 	- Ask what it is that he wants.
 	- Will he also tell us about any captives he has?
 	- Tell him we will get his vaporators.
 - Re-equip
-- To Ebon Hawk
-- Replace HK with Mission
+- Walk back to the Ebon Hawk (4 Wraids x 500PX)
+- Talk to Juhani (now that you are level 13) (2/6)
+  	- Is something wrong?
+    - What is it?
+    - What?
+    - You mean…
+    - **Bastila is critical to defeating the Sith.**
+    - **I did not know the Sith would destroy Taris.**
+    - But…
+    - Calm yourself. Remember the Jedi Code.
+    - It will be alright, Juhani.
+- Talk with Canderous (3/6)
+    - I was wondering if you had any more war stories.
+    - **Yeah, yeah, you were a great warrior.**
+    - **These Althiri don't seem too bright.**
+    - **You disobeyed your orders?**
+- Take HK and Mission (level up 11)
 - Go to Czerka
-- Greeta Holda (save)
+- Greeta Holda (save -> or retry persuade in loop)
 	- What do you have available for purchase?
 	- Do you have any moisture vaporators?
 	- **That's not really your concern, is it? -> Czerka don’t want peaceful**
 	- **Could you be persuaded to lower the price?**
 	- [Persuade] Czerka's costs, not yours. Who cares about their money? (Medium 50%)
 	- 200 for the moisture vaporators sounds fine to me.
-- Sell batons
+- Sell the Gaffi sticks
 - Go to the gate guard
-- Bastila -> HK
-- Go kill raids (on the right first ? -> Only 1 group will spawn now) -> WARNING Still HARD
-- Go tout droit
-- Récupérer mines restantes (2 ?)
+- Go kill raids -> WARNING Still HARD -> from behind
+- Level up
+- Some mines might remain...
 - Try enter Enclave
 	- Ask him if we can enter.
 	- Tell him we have the moisture converters.
@@ -110,7 +127,7 @@
 	- Ask if he knows about Mission's brother Griff.
 	- Ask if he knows about the Jawas Iziz told us about.
 	- Tell him farewell
-- Save prisoners
+- Save prisoners (DONT LOOT)
 	- (Triple left)
 	- Jawa
 		- The Sand People said you can go. Run to Anchorhead.
@@ -118,10 +135,11 @@
 		- The Sand People said you can go. Run to Anchorhead.
 		- **Don't be so sure.**
 		- **Sorry, I don't have any credits to spare.**
-- **Loot in isolated rooms (next door left) + Take Banta fodder ?**
-- Go back for history to chief**
-**
-	- ** I want information on Sand People culture.**
+- **Loot in (isolated) trash room (next door left)**
+    - You get a great shield for HK!
+- Take Banta fodder near the entrance
+- Go back to the chief (for history)
+	- **I want information on Sand People culture.**
 	- Why are they so hostile to outsiders?
 	- What do you mean, "raise myself above" the land?
 	- Ask why he bargained for vaporators when they are "unnatural"?
@@ -135,15 +153,20 @@
 	- **Farewell**
 - Exit
 
-# Dragon
+
+## Dragon
 
 - Disable mine
 - Monter la dune
 - Loot Twilek mort -> Thermal Detonator ?
 - Go to other path
-- Disable mines 2
-- Take Canderous and Bastila
-- Go to the Dragon
+- Disable mines 2!
+- Take Canderous and Bastila (level up 12)
+
+
+- Go to the Dragon cave
+- Bastla + Canderous Banter! (1/1)
+    - Okay, let's not get into this.
 - Go see Komad
 	- I thought
 	- Why should we kill ?
@@ -165,15 +188,25 @@
 	- Ready
 	- Thanks. We did what had to be done.
 - Loot (holocron à coté star map ?)
+    - Jedi master robe!
+    - Violet crystal
+    - Nerve amplifier belt (good against sith!)
+    - Crystal opila
+    - Holocron
 - Open star map
+- +2000PX
 - Calo Nord
 	- Hold on, Calo… maybe we can work out a deal here.
-- Thermal detonator
+- Thermal detonator looted on the twilek!
+- + Paralise calo with statis
 - Xbox calo have sound effects of cow…
 
-# Sand People Slaughter
 
-- Go to Enclave
+## Sand People Slaughter
+
+- Go back toward the enclave
+- Take Canderous and HK (the killer team)
+- Enter the Enclave
 	- History -> Chief
 	- I've killed a krayt dragon. Does that prove my worth?
 	- Here is a dragon pearl.

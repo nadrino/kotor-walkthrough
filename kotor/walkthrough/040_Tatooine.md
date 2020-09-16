@@ -267,6 +267,7 @@
 - Meet Siths
 	- Hard -> speed + force aura + heal with bastila
 	- Level up Bastila during the combat if needed 
+- Equip Bastila with Dark Jedi Knight Robe
 - Cantina
 - Czerka Officer
 	- I wanted to ask a few questions, if you have the time.
@@ -373,6 +374,8 @@
 - Retalk Yuka -> HK-47 Intervention !
 	- //Buy Heavy Plating Type 2 -> 1500c -> sell if needed ! (Sell short light sabre ?) 
 	- **NOOO ! Will be looted in Enclave of Sand People !!!**
+	- Buy a Stun Ray arm if not aquired already
+	- Equip HK with sonic Rifle (Stun Bonus)
 - Go to Iziz the Jawa (with Carth and HK)
 	- **Could you be clearer? I'm having trouble understanding you.**
 	- Why wouldn't I understand your true language?
@@ -428,10 +431,12 @@
 		- I'm just glad I acquired you myself.
 		- Are you sure this actuator can't be fixed?
 		- Did you recover any other memories?
-- Go out with Bastila and **Canderous**
-- Level up Canderous (11)
-- Equip the PC with Bothan Sensory Visor: immunity against critical hits
-- Travel Back if you did banther Carth with Bastila on Tatooine
+    - Equip the PC with:
+        - Bothan Sensory Visor: immunity against critical hits
+        - Light Battle Armor
+- Go out with Bastila and **HK-47**
+- Level up HK (11)
+- Travel Back
 - Otherwise by foot: banter Cancerous with Bastila
 	- **Okay, let's not get into this.**
 **SAVE**
