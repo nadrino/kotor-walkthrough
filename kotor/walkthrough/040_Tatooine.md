@@ -14,6 +14,9 @@
 	- Hey! What are you doing here?!
 	- Calm down, little girl. I won't hurt you.
 	- I still don't understand you.
+
+![](../resources/images/screenshots/tatStowaway.png)	
+
 - Retalk (might be different)
 	- Can you tell me your name?
 	- [Point to yourself.] My name is Name. You are...?
@@ -35,8 +38,7 @@
 	- "Bristag"... it means "starship", doesn't it?
 	- 
 	- **You're hiding in the starship. It's your home. I understand.**
-	- **
-**
+	-
 	- You've said that before. What is "gon-disen"?
 	- Something about me, yes, but what?
 	-  It's... something you like. Yes, "gon-disen" means you like it!
@@ -129,8 +131,12 @@
 - Chest on the left
 - Go out
 
+![](../resources/images/screenshots/tatSpatioport.png)
+
 
 ## Anchorhead
+
+![](../resources/images/screenshots/tatAnchorView.png)
 
 - See girl
 	- What do you need? I'm Name, I'll help if I can.
@@ -145,6 +151,9 @@
 	- Let's talk about what to do with this plate.
 	- **Perhaps I will buy it from you.**
 	- **I'll pay that, and an extra 200. Good luck. + 4PCL (banther Bastila+Mission)**
+
+![](../resources/images/screenshots/tatAnchorWoman.png)
+
 - Go to hunting Lodge -> NO NOT UNTIL LICENCE
 - Go to Czerka Office
 - Maana
@@ -190,6 +199,9 @@
 	- Anything out of the ordinary happening?
 	- **No desire to mistakenly associate with the losing side, hmm?**
 	- Know about anything more local? -> learn about the Jawa
+
+![](../resources/images/screenshots/tatAnchorCzerkaLicence.png)
+
 - Talk to mission
 	- I want to talk to you about your brother.
 	- Don't worry Mission - we'll get him back.
@@ -206,10 +218,14 @@
 
 ## Hunter Lodge
 
+
 - Meet Ithorian
 	- I have something to sell you
 	- Yes, that will do nicely.
 	- See shop, Sell ?
+	
+![](../resources/images/screenshots/tatAnchorHunterIthorian.png)
+
 - Komad
 	- Just a few questions, if that's all right?
 	- Who are you? What do you do?
@@ -267,6 +283,10 @@
 - Meet Siths
 	- Hard -> speed + force aura + heal with bastila
 	- Level up Bastila during the combat if needed 
+	
+![](../resources/images/screenshots/tatAnchorSith.png)
+
+	
 - Equip Bastila with Dark Jedi Knight Robe
 - Cantina
 - Czerka Officer
