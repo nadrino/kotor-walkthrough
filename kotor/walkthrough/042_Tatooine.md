@@ -200,6 +200,7 @@
 - Thermal detonator looted on the twilek!
 - + Paralise calo with statis
 - Xbox calo have sound effects of cow…
+- Equip Calo nord armor on Canderous ?
 
 
 ## Sand People Slaughter
@@ -225,6 +226,7 @@
 		- Ask if they have an image we could compare with current species.
 		- **Let's return to my other questions.**
 	- Continue the history from where we left off.
+	    - Questions
 		- I want to ask something about the time of enslavement.
 		- **How many of his people were taken off-world?**
 		- Why would the invaders have done this?
@@ -243,6 +245,8 @@
 	- Continue
 		- I'll return later.
 - OK!
+
+```
 - Go back ebon on foot
 - Kill raids
 - Back to Ebon
@@ -251,25 +255,25 @@
 	- + LS -> VIOLET !!
 - Go outside
 - Kill Raids
-- **Near Chief**
-	- **Canderous -> Shield agains bludgeoning  **
-	- **+ stimulants**
-- **Level Up during fight ? -> COOL**
+```
+
+- **Near Chief** loot
 - **When Chief are dead -> Wait heal -> Take back Jedi robe**
 - **Outside kill all + 2 ambush**
-- Dunes -> 1 sand people 
 - Kill Wraids
-	- Ask Canderous
-		- More war stories
-		- **Yeah, yeah, you were a great warrior.**
-		- **These Althiri don't seem too bright.**
-		- **You disobeyed your orders?**
+- Level up (14)
+- Back to Anchorhead
+- SAVE
+- Iziz
+	- I think I should ask for more.
+	- **[Persuade] You know the rescue was worth more. (Medium 50%)**
+- 500c ! Sinon juste un bouclier Echani lol
 - Back to ebon.
 
-# End Tatooine
 
-- Mission + Bastila**
-**
+## End Tatooine
+
+- Mission + Bastila
 - Czerka (SAVE)
 	- Gaffi sticks
 	- Yes, here it is.
@@ -280,22 +284,22 @@
 	- Come on, Griff, get to the point.
 	- So you want to open a bar?
 	- **That's what you get for dealing with the Exchange.**
-- Resell the evaporator
+- Resell the evaporator? Could not find on XBox ?
 	- Buy mesh underlay -> armor improvement
 	- All life support packs -> les moins chers avec ceux au spatioport (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Medical_items_)
 - Outside
-	- Talk with Mission
+	- Talk with Mission (LSP)
 		- **You can't turn your back on your own brother!**
 		- No one can teach him this lesson, Mission. He has to learn it himself. (2-PCL)
 - Go sell wraids to the Hunters
 	- Buy armor reinforcement
 	- + scope
-	- Sell also mines
+	- Sell also mines??? No ? -> later
 - Speak to Dorak -> new line
 - Go toward the cantina
 - Senni Vek (Twilek)
 	- I didn't drop anything.
-	- I'm sorry, there must be some mistake.
+	- I'm sorry, there must be some mistake. (not on XBox)
 	- What is this, some kind of con game?
 	- I don't want it.
 	- Fine. Give me the stupid datapad!
@@ -304,15 +308,21 @@
 	- It sounds like you've already made up your mind.
 	- Treasure hunting is a dangerous occupation.
 	- I'll do my best.
-- Bastila’s proposition
+- Talk to Bastila
 	- So do you feel better now?
-- Banter with Mission ?
-- Iziz
-	- I think I should ask for more.
-	- **[Persuade] You know the rescue was worth more. (Medium 50%)**
-- 500c ! Sinon juste un bouclier Echani lol
+- Bastila proposition after (4/8)
+    - Why did the Council send me with you on this mission?
+    - It just seems odd they would send me off without a Master to guide me. -> Sinon harcèlement lol
+    - I get the feeling that there's more going on than I know.
+    - I'm still not convinced.
+    - **Me? You're the one who thought this was her big audition for 'Masterhood'!**
+    - **What can I say? It's fun.**
+    - **Hey, you brought this on yourself.**
+    - Careful. Remember your self-control.
+    - I'm not so bad. You just have to learn to accept me for what I am.
 
-# Swoop Tatooine
+
+## Swoop Tatooine
 
 - Nico -> NO NOT NOW AFTER MOTTA -> NO SENSE OTHERWISE
 	- Anything I could help you with? What's bugging you?
@@ -336,7 +346,7 @@
 	- [Persuade] Why not drop the fee? No racers means no crowds. (Medium)
 	- I can't pay that amount either.
 	- I'll pay the 50 credits.
-	- **What sort of business do you need help with?**
+	- //**What sort of business do you need help with?**
 	- Why won't he sign? -> If Mission in group
 		- Why would he listen to me? -> if Carth
 	- Let’s go back
@@ -349,6 +359,8 @@
 	- …
 	- I think you should give him a better deal.
 	- [Persuade] Treat him fairly or I'll start rumors your races are rigged. (HARD ?)
+	    - If fails
+	    - Menace him -> Bastila intervine
 	- I'll see what I can do.
 	- SAVE ?
 	- Do first race + PERSUADE -> no fees > 75 XP
@@ -365,14 +377,22 @@
 	- I convinced Motta to give you a better contract.
 	- When do you think you'll be leaving?
 	- Goodbye then. Good luck.
+- Leave the swoop room
+- A twilek will stop you
+    - What? My autoprint? Are you serious?
+    - Sure, why not? Scan away.
 - Go back to Ebon
 
-# Ebon Hawk - 2
 
-- Buy all life support packs at ebon + implants contre coups critic
-- Upgrade everything
-- Canderous
-	- I was wondering if you had any more war stories. (4th)
+## Ebon Hawk - 2
+
+- Buy all life support packs at ebon + implants contre coups critic (Retinal Combat Implant)
+- Upgrade Light Saber
+    - Krayt Dragon
+    - Violet crystal!
+    - blue LS -> opila -> for Juhani
+- Canderous (4/6)
+	- I was wondering if you had any more war stories.
 	- **You had the choice not to destroy them.**
 	- You could have found another way.
 	- How did they redeem themselves?
@@ -383,7 +403,7 @@
 	- Neither do I, come to think of it…
 	- I survive. Somehow.
 	- …
-	- I would like to try restoring some of your memory. (2 - Repair 11+)
+	- I would like to try restoring some of your memory. (2/4 - Repair 11+)
 	- Lets get…
 	- …
 	- What's so intriguing?
@@ -399,33 +419,26 @@
 - Mission
 	- Brother
 	- + spike
-- Juhani
-	- What are you thinking about?
-	- And how are things different now?
-	- We are all in this together.
-	- …
-	- I was wondering if we could talk. (1)
-	- Tell me more about your past.
-	- Invigorating?
-	- Tragic?
-	- The Jedi are not gods.
-	- **Did they leave?**
-	- All species are capable of intolerance.
-	- It is alright.
-	- …
-- Bastila
-	- Why did the Council send me with you on this mission?
-	- It just seems odd they would send me off without a Master to guide me. -> Sinon harcèlement lol
-	- I get the feeling that there's more going on than I know.
-	- I'm still not convinced.
-	- **Me? You're the one who thought this was her big audition for 'Masterhood'!**
-	- **What can I say? It's fun.**
-	- **Hey, you brought this on yourself.**
-	- Careful. Remember your self-control.
-	- I'm not so bad. You just have to learn to accept me for what I am.
+- Juhani (3/6) - level 14
+	- Is something wrong?
+	- I am sorry, Juhani.
+	- **I do not remember seeing any of your race on Taris…**
+	- **How could such a government last?**
+	- **Decent humans are hard to find.**
+	- Your parents?
 - Carth
 	- Do you want to talk? You got pretty upset the last time we spoke.
 	- Why don't you return to the front lines, then?
 	- Don't worry about it, Carth.
 	- **Only if you agree to work with me, for once. -> Sinon fin quete !!**
-- Go to Yavin ! -> sur la route ! -> ensuite Dantoine -> la fille -> ensuite Kashyyk
+- Bastila (5/8)
+    - You look like you have something to say.
+	- Is that a compliment? From you?
+	- It's just that you sounded so pained saying it.
+	- Thank you. I appreciate the gesture.
+	- Maybe, but you don't need to be like that.
+	- **We could be more than friends, Bastila.**
+	- No, I'm glad you did. I care for you too, Bastila. As a friend.
+- SAVE near the Galaxy map
+- Go to Yavin ! 
+    -> sur la route ! -> ensuite Dantoine -> la fille -> ensuite Kashyyk

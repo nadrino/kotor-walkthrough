@@ -1,7 +1,8 @@
 # Yavin - 1
 
 - Take Canderous ? -> make sense -> With Carth ? Un finished Banter
-- Bug played pazaak -> Black screen Xbox -> played then -> return -> retalk -> debug
+- Level up Carth (12+13) + equip him with Calo armor
+- Bug played pazaak -> Black screen Xbox -> played then -> return -> save/reload -> retalk -> debug
 	- Yeah, I'm new. Very new.
 	- **[Lie] I do work for Davik.**
 	- I work for the Republic.
@@ -22,12 +23,12 @@
 	- Do you have anything you'd be willing to sell me?
 - Sell race bonds : 156 instead of 60 !! (_https://gamefaqs.gamespot.com/boards/556553-star-wars-knights-of-the-old-republic/44235516_)
 	- 120*156 > 18k !!
-- Pazaak -> 10 max -> il est nul sur XBox EASY -> discount !
+- Pazaak -> 10*750cr max -> il est nul sur XBox EASY -> discount !
 - Buy ?
 	- Light Exoskeleton -> cher et pas si ouf
 	- Bargwin ? -> better pendant les missions de contrebande : (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Genoharadan#Genoharadan_)
 		- Améliorable -> Stealth + 8 max (et armor 9 improved)
-	- Advanced Stabilizer Gloves -> YES best gands pour les perso à distance ! -> Pour Canderous
+	- **Advanced Stabilizer Gloves** -> YES best gands pour les perso à distance ! -> Pour Canderous
 	- Implants ++ ? -> not interesting + unusable now
 	- Baragwin Droid Shield -> pas compris… ?? -> en fait juste un shield pourri -20 dégâts energy mais en illimité
 - Speek to Carth ?
@@ -42,55 +43,52 @@
 - 
 
 |  **Buy** | **Item Cost** | ** -5%** | ** -20%** | **Amount** | 
- |
 |-----|-----|-----|-----|-----|-----|
 |  Light Exoskeleton | 10000 | 9500 | 8000 | 1 | 
- |
 |  Baragwin Shadow Armor | 6000 | 5700 | 4800 | 1 | 
- |
 |  Advanced Stabilizer Gloves | 8500 | 8075 | 6800 | 1 | 
- |
 |  Advanced Sensory Implant | 3500 | 3325 | 2800 | 1 | 
- |
 |  Advanced Bio-Stabilizer Implant | 3000 | 2850 | 2400 | 1 | 
- |
-|  Baragwin Droid Shield | 4000 | 3800 | 3200 | 1 | 
- |
+|  Baragwin Droid Shield | 4000 | 3800 | 3200 | 1 |
 
 ![KOTOR Guide-2](../resources/images/screenshots/KOTOR%20Guide-2.png)
 
-# Back to Ebon
 
-Juhani Romance 2 ?
-- Juhani
-	- Is something wrong?
-	- What …
-	- What?
-	- You mean…
-	- Bastila is critical to defeating the Sith.
-	- I did not know the Sith would destroy Taris.
-	- But…
-	- Calm yourself. Remember the Jedi Code.
-	- It will be alright, Juhani.
-- Bastila
-	- You look like you have something to say.
-	- Is that a compliment? From you?
-	- It's just that you sounded so pained saying it.
-	- Thank you. I appreciate the gesture.
-	- Maybe, but you don't need to be like that.
-	- **We could be more than friends, Bastila.**
-	- No, I'm glad you did. I care for you too, Bastila. As a friend.
+## Back to Ebon
+
+- Juhani (after second star map talk)
+    - What are you thinking about?
+    - **And how are things different now?**
+    - We are all in this together.
+- HK (14 repair)
+    - I would like to try restoring some of your memory.
+    - Let’s get started.
+    - What now?
+    - That makes sense. Did the Hutts build you?
+    - **Don't you care about all those lives lost?**
+    - //? But you *have* killed on your own accord before.
+    - So another master gone because of you.
+    - No doubt.
+    - You would have preferred to stay on Sleheyron?
+    - You would have been found out eventually.
+    - I should dismantle you!
+    - How very self-sacrificing of you.
+    - Do you remember anything else?
+    - [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 6 seconds, in addition to his other abilities.]
 - Star Map -> Dantooine
 
-# /// Back to Dantooine -> later !!
+
+## Back to Dantooine -> later !! why ?
 
 - Go out with Bastila alone ? and Mission ?
-- Bastila propose
-	- Go ahead.
-	- I don't think about it much.
-	- Are you saying you don't believe in the corruption of the dark side?
+- Bastila propose ? Later ? (6/8+1)
+	- You're curious about something?
+    - **Do I have a choice?**
+    - **I don't think about it much.**
+    - **Are you saying you don't believe in the corruption of the dark side?**
+    - What?
 - Buy
-	- Calrissian's Utility Belt ? -> On Xbox not present…
+	- Calrissian's Utility Belt ? -> On Xbox need a patch
 - Stowaway
 	- There is a stowaway on my ship by the name of Sasha.
 	- Yes, I am. She only speaks a smattering of Mandalorian, but I was able to figure it out.

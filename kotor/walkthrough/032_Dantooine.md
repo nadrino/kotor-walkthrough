@@ -161,6 +161,7 @@ You earned 900XP !
     - take reward 1000cr, you gonna need it
     - And there is no point to do some show off since Bastila isn't here!
 
+- Talk to your masters ??
 
 
 ## Back to the Ebon Hawk
