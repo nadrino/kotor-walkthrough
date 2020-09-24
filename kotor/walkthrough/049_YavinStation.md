@@ -78,7 +78,7 @@
 - Star Map -> Dantooine
 
 
-## Back to Dantooine -> later !! why ?
+## Back to Dantooine
 
 - Go out with Bastila alone ? and Mission ?
 - Bastila propose ? Later ? (6/8+1)
@@ -94,4 +94,21 @@
 	- Yes, I am. She only speaks a smattering of Mandalorian, but I was able to figure it out.
 	- Certainly. I'll bring you to my ship.
 	- Lur Arka na bads. Nuh-gisen laesfa, Sasha.
+- Equip the belt -> HK (17 repair)
+    - I would like to try restoring some of your memory.
+    - Let's get started.
+    - What? Why not?
+    - Are you sure your core isn't just damaged?
+    - You are eager to find your origins, are you?
+    - Well…
+    - So tell me about this last owner, then.
+    - **It appears no one could resist using your protocol.**
+    - I suppose I would, at that.
+    - Oh? Why is that?
+    - So you killed *that* master directly.
+    - You are just a travelling piece of bad luck, aren't you?
+    - You don't want to hear the answer to that.
+    - So you couldn't kill Mandalore, hey?
+    - So can you remember anything else?
+    - [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 3 seconds and has gained an additional +2 bonus to his dexterity.]
 - Go to star map -> Kashyyk

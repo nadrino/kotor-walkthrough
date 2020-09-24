@@ -3,6 +3,13 @@
 
 ## Matale vs Sandral
 
+- Kill 2 beasts on the way
+- South
+- 2 beast + 3 kath
+- kill beasts -> find journal on corpse
+- Go toward the mention
+- BANTHER ? Carth and Bastila 2/2 -> not on iPhone? -> LATER On Tatooine...
+	- What did they see, exactly?
 - Go directly to Matale's house (Bastila and Carth will intervene)
 	- I come on behalf of the Jedi Council. I wish to speak to Ahlan Matale.
 	- **Any information you might have would be helpful.**
@@ -12,13 +19,7 @@
 
 ![](../resources/images/screenshots/danMatalesDroids.png)
 
-- Go east 
-- BANTHER ? Carth and Bastila 2/2 -> not on iPhone? -> LATER On Tatooine...
-	- What did they see, exactly?
-- kill beasts -> find journal on corpse
-
-![](../resources/images/screenshots/danJournalCorpse.png)
-
+- Continue the road to get to the sandral mention
 - Go south -> kill animals -> don’t kill Mandalorians now -> Go west instead
 - **Go west to Sandral -> DONT kill the last mand**
 	- **I come on behalf…**
@@ -26,7 +27,7 @@
 - Enter his mention
 	- **I want to ask you about the disappearance of Shen Matale.**
 	- **Your son Casus is dead. I have seen his body.**
-	- **Killed by…**
+	- **He was killed by…**
 	- **Here is the diary, Nurik, but you may keep your money. I need no reward for this task. + 2 LSP**
 - Rahasia enters the room before you leave
 	- Who are you?
@@ -105,6 +106,8 @@ You earned 900XP !
 	- Is it true you killed Darth Revan?
 	- That's not what I heard.
 	- **What else did you expect from the Sith?**
+- Improve Canderous Blaster (trigger)
+- Can't talk to Canderous yet. -> next level
 - Deesra speak intercept -> history
 	- **How do you know the Council gave me a mission?**
 	- What are you talking about?
@@ -123,15 +126,13 @@ You earned 900XP !
 	
 - Talk :
 	- Zhar
-	- Vrook
+	- Vrook -> ask about the mandalorians
 	- Vandar -> Congratulate
-- Go back to the Ebon Hawk
 
 
 ## Killing the Mandalorian Chief
 
-- Improve Canderous Blaster (trigger)
-- Can't talk to Canderous yet. -> next level
+
 - Take Juhani and Canderous with you
 - Levelup and equip
 - Suggestion while leaving the enclave: Juhani (0/6)
@@ -153,10 +154,15 @@ You earned 900XP !
 	- I will come back if I find their leader.
 - Go left (east) in the grass field
     - Kill max amount of mobs
-- Level up 12 before Mandalorians
+- Level up 12 before Mandalorians? -> not new path -> during combat!
 - Go South -> kill last Mandalorians (should be relatively easy now)
    - 2 grenades useful… + all firepower on the chief
 - Go Ebon -> Go back (shortest route to the bridge, no monster)
+
+
+- Take the bridge -> solve case
+
+
 - Jon -> kill the mand chief 
     - take reward 1000cr, you gonna need it
     - And there is no point to do some show off since Bastila isn't here!

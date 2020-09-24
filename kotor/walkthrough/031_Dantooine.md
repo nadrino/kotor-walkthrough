@@ -40,6 +40,7 @@
 	- **You're trying to sell me something, aren't you...**
 	- Let me see what you're selling.
 	
+	
 ## The Grass Fields of Dantooine
 	
 - Move toward the south -> cinematic with hostile kinrath
@@ -47,7 +48,7 @@
 
 ![](../resources/images/screenshots/danHostileAnimals.png)
 
-- Go left, see the ruins (not now ? -> cinematic better when we will go latter) 
+- Go left, see the ruins (make sense to go now) 
 - Go south (loading)
 - First kill all animals on the left and go to the Matale's house
 - Talk to their droid
@@ -57,8 +58,69 @@
 ![](../resources/images/screenshots/danMandKillingFarmer.png)
 
 - Kill mandalorian
-- go to the Grove (south)
+- go to the Grove (south loading)
 - Kill animals
+- go south! (loading again)
+
+
+- Sandral mention
+- Talk to droid too
+- Take the bridge
+- Kill animal (keep the Albinos aways -> hard -> 750px)
+- Second mandalorian group
+    - Loot
+- Kill animals and save the droid **C8-42 -> KILL HIM -> the girl with find another guy**
+    - That was quite a beating you took.
+    - Owner's?
+    - Er... ALL the time?
+    - Um... probably not...
+    - You sought them out?
+    - Fine. I'll destroy you and tell her why you did it.
+- Enter the cave
+
+
+- Kill all monsters + Hive (level up Carth 10)
+- Loot all the crystals (not randomized)
+- Red crystal are in the eggs, break them all
+- Leave the cave
+
+
+- Kill 1 respawned beast
+- Carth + Mission Banther
+    - It's about time you two made up.
+- Go to the north (loading)
+
+
+- 3rd Mandalorian group!
+    - eriadu strengh amplifier (gants) -> loot ? +2 strengh
+- Kill the animals at the north -> until path (loading)
+- Kill animals on the right and follow the path
+- Save
+- Meet Juhani! -> force push!
+	- Who are you?
+	- **You were a Jedi then?**
+	- **You slew Quatra, your Master?**
+	- **Why are you doing this?**
+	- **I just want to talk.**
+	- **I do not hold anger towards you, Juhani. I wish you peace.**
+	- The first step on the path of true knowledge is knowing that you are ignorant.
+	- [Persuade] It is not your fault, Juhani. -> if fail, the conversation stops, retry until ok
+	- Anger? Show them that you have freed yourself of this base passion.
+	- Your inner peace and harmony will show them your sincerity.
+- Back at the north path (loading)
+
+
+- Kill 2 beast 2x100px (level 11) on Matale grounds
+- Go to the north (were you came from)
+- Again 2 beasts
+- See Elise Montagne
+    - [Lie] I found your droid... but he had been destroyed by kath hounds.
+- Back to the enclave
+
+
+
+
+```
 - Go toward the bridge on the left
 - Meet **Bolook**
 	- Who are you?
@@ -195,6 +257,7 @@
 
 - Go back toward the north to see Elise Montagne near the enclave
 	- [Lie] I found your droid... but he had been destroyed by kath hounds.
+```
 
 
 ## Back in the Enclave
@@ -220,7 +283,7 @@
 	- Which families are involved?
 	- Where are they settled?
 	- I shall investigate this immediately.
-- Level UP Bastila + Equip gauntlets (Strength)
+- Level UP Bastila (8 to 10) + Equip gauntlets (Strength)
 - Talk with Bastila
 	- I want to talk about that dream.
 	- I still don't understand why we shared this 'vision'.
@@ -234,10 +297,12 @@
 	- **Pretty certain, yes.**
 	- Do you think we will receive more of these visions?
 	- That's all I wanted to know.
-	
+
+
 ![](../resources/images/screenshots/danTalkWithBastila.png)
 
-# Go to Ruins first
+
+## Go to Ruins first
 
 - Go in ruins -> kill 2 monsters (in the wild)
 - Droid
@@ -281,7 +346,7 @@
 - Go back, kill the respawn mobs
 - Bastila wants to talk just before entering the enclave
 	- You look like something's bothering you.
-	- **Don't understand**
+	- **I still don't understand...**
 	- **Our relationship? Is this some kind of clumsy come-on?**
 	- **Whoa, guess I touched a nerve there, huh?**
 	- Okay, I'll answer a few questions.
