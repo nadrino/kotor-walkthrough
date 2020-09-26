@@ -12,19 +12,6 @@
 	- [Persuade/Lie] I represent wealthy clients. You should let me pass.
 	- That will not be necessary.
 - Level Up Juhani (11 to 12)
-- Fodo Medo -> Pazaak * 10 (`75*4 + 200*4 + 600*1` + cards) -> XBox does not give cards
-    - What do you do for the Czerka Corporation?
-    - ...
-    - I have some questions about Kashyyyk?
-    - Heard any off-planet rumors?
-    - I want to ask about Pazaak
-    - Let's have a game.
-
-![KOTOR Guide-3](../resources/images/screenshots/KOTOR%20Guide-3.png)
-
-- Loot Containers on the left ? No! Mission is needed
-
-- Loot around -> IF MISSION -> Interface Visor !!!
 - Komad -> from Taooine !!!
 	- Why did you leave your home on Tatooine?
 	- Whose permission are you looking for?
@@ -33,8 +20,23 @@
 	- I'm looking for a Star Map here. Have you heard anything?
 	- If not Czerka, who would you prefer to deal with?
 	- I have to leave. Goodbye.
-- Move forward -> Juhani will suggest to bring Zaalbar
-    - What do you mean?
+- Move forward -> Canderous say it's better to bring the wookie 
+    - with mod, Juhani will comment
+    - otherwise Juhani's dialog will go over the line of Canderous
+    - This little dialog bring the variable "G_JUHANI_NUM" from 1 to 2. (0 to 1 was on Dantooine)
+- Take back Mission and Zalbar
+
+![KOTOR Guide-3](../resources/images/screenshots/KOTOR%20Guide-3.png)
+
+- Fodo Medo -> Pazaak * 10 (`75*4 + 200*4 + 600*1` + cards) -> XBox does not give cards
+    - What do you do for the Czerka Corporation?
+    - ...
+    - I have some questions about Kashyyyk?
+    - Heard any off-planet rumors?
+    - I want to ask about Pazaak
+    - Let's have a game.
+
+- Loot Containers on the left
 - Talk to Czerka people
 - Zaabar
 	- Prepared me? What do you mean?

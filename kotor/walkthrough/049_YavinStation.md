@@ -60,7 +60,7 @@
     - What are you thinking about?
     - **And how are things different now?**
     - We are all in this together.
-- HK (14 repair)
+- HK (14 repair) -> LATER!!
     - I would like to try restoring some of your memory.
     - Let’s get started.
     - What now?
@@ -80,21 +80,21 @@
 
 ## Back to Dantooine
 
-- Go out with Bastila alone ? and Mission ?
+- Go out with Bastila alone
 - Bastila propose ? Later ? (6/8+1)
 	- You're curious about something?
     - **Do I have a choice?**
     - **I don't think about it much.**
     - **Are you saying you don't believe in the corruption of the dark side?**
     - What?
-- Buy
-	- Calrissian's Utility Belt ? -> On Xbox need a patch
+- Buy -> LATER
+	- Calrissian's Utility Belt ? -> On Xbox need a patch to deploy bezfore arriving there!
 - Stowaway
 	- There is a stowaway on my ship by the name of Sasha.
 	- Yes, I am. She only speaks a smattering of Mandalorian, but I was able to figure it out.
 	- Certainly. I'll bring you to my ship.
 	- Lur Arka na bads. Nuh-gisen laesfa, Sasha.
-- Equip the belt -> HK (17 repair)
+- Equip the belt -> HK (17 repair) -> Later
     - I would like to try restoring some of your memory.
     - Let's get started.
     - What? Why not?

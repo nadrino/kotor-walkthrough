@@ -32,9 +32,10 @@
 	- Esowon? Na esowon?
 	- I see you? Or you see me?
 	- I understand. "Esowon" is "see" but "na esowon" is "hide".
+	- I didn't get it all...
 	- 
 	- Bristag? What is that?
-	- It's your home? Is that it?
+	- It's your home? Is that it? // or else
 	- "Bristag"... it means "starship", doesn't it?
 	- 
 	- **You're hiding in the starship. It's your home. I understand.**
@@ -93,7 +94,6 @@
 
 - Leave the Ebon Hawk
 - With Bastila and Mission
-	- Carth? Lines while buying HK
 - Czerka
 	- What do I get for my 100 credits?
 	- What if I don't have the money?
@@ -114,6 +114,7 @@
 	- Where should a person look for opportunity?
 	- I'm looking for very specific things. Who should I ask?
 	- I'm looking for older things. Antiques. Artifacts.
+- Level up Mission and Bastilla
 - Loot right chest
 - A twilek appears: Bastila's mother 
 	- Don't be rude, Bastila.
@@ -141,7 +142,8 @@
 - See girl
 	- What do you need? I'm Name, I'll help if I can.
 	- What is a wraid plate? Where did you get it?
-	- Why do you need the money? (reask, other questions)
+	- (reask, other questions)
+	- Why do you need the money? 
 	- I wouldn't be able to sell it. I'm no hunter. (reask)
 	- Where would I get a license? What's the cost?
 	- I want to ask you about your husband's death.
@@ -154,8 +156,7 @@
 
 ![](../resources/images/screenshots/tatAnchorWoman.png)
 
-- Go to hunting Lodge -> NO NOT UNTIL LICENCE
-- Go to Czerka Office
+- Go to Czerka Office on the right
 - Maana
 	- I'm sorry? What are you talking about?
 	- **Helena? Bastila, isn't that your mother's name?**
@@ -205,7 +206,6 @@
 - Talk to mission
 	- I want to talk to you about your brother.
 	- Don't worry Mission - we'll get him back.
-- Talk to Greeta -> contoir -> NOT NOW ?
 - Exit
 	- **Is this about Czerka wanting the Sand People chieftain killed?**
 	- **The Czerka said that the Sand People attacked first.**
@@ -218,7 +218,6 @@
 
 ## Hunter Lodge
 
-
 - Meet Ithorian
 	- I have something to sell you
 	- Yes, that will do nicely.
@@ -226,6 +225,19 @@
 	
 ![](../resources/images/screenshots/tatAnchorHunterIthorian.png)
 
+- Dorak
+	- It's just as well. You probably couldn't teach me anything.
+	- Who are you? What is it you do?
+	- Where is the best hunting?
+	- Why are there fewer wraid?
+	- Who uses battle droids?
+	- How long have you been at this?
+	- What do you want to learn?
+	- What can you tell me about the other hunters?
+	- What makes you say that?
+	- Let's go back to my first questions.
+	- I'm looking for something. Who knows this planet best?
+	- I have to leave. Goodbye.
 - Komad
 	- Just a few questions, if that's all right?
 	- Who are you? What do you do?
@@ -243,19 +255,6 @@
 	- What kinds of ruins were these? Where were they?
 	- What about the Jawas?
 	- I have to leave. Goodbye.
-- Dorak
-	- It's just as well. You probably couldn't teach me anything.
-	- Who are you? What is it you do?
-	- Where is the best hunting?
-	- Why are there fewer wraid?
-	- Who uses battle droids?
-	- How long have you been at this?
-	- What do you want to learn?
-	- What can you tell me about the other hunters?
-	- What makes you say that?
-	- Let's go back to my first questions.
-	- I'm looking for something. Who knows this planet best?
-	-  I have to leave. Goodbye.
 - Gurke
 	- What if I wanted advice? I'm sure you are very smart.
 	- So, can I ask what you do?
@@ -345,21 +344,21 @@
 	- You don't think we should look for the holocron?
 	- Why do you think she wants it so badly?
 	- You'd keep it for yourself?
+- Take T3 instead of Bastila
+- Level up T3 (11)
 
 
 ## Droid Shop
 
-- Take T3 (and Carth) in group
-- Level up T3 (11)
-- Go to the droid shop
+- Go to the droid shop (SAVE -> before the door)
 - Yuka Laka
 	- What do you have available in your shop?
 	- Let me ask a few questions about HK-47.
 	- What does the HK-47 designation mean?
 	- What functions have you tested?
-	- _What does the HK-47 designation mean?_
+	- _What does the HK-47 designation mean?_ (again)
 	- Where did you get this HK-47? (Carth speaks)
-	- You don't seem to know much about it.
+	- //You don't seem to know much about it.
 	- Let's get back to my other questions.
 	- Goodbye.
 - Inspect Droids and HK-47
@@ -377,23 +376,23 @@
 	- You don't sound very convincing.
 	- **All right, I'll see about purchasing you.**
 	- Does Yuka Laka know you talk about him like this?
-- Yuka Laka (SAVE -> one try for persuade)
+- Yuka Laka -> SAVE (don't overwrite previous)
 	- Let me ask a few questions about HK-47.
 	- You don't seems to know much about this droid
 	- Why haven't you wiped its memory?
 	- I'm interested. Let's talk price.
 	- Could I convince you to lower the price a bit?
+	- Despret to sell ?
 	- Perhaps I can convince you to go lower?
-	- Come now, think of the advertising you'll get from me. (Medium 50%)
-	- 2500c
+	- [Persuade] Come now, think of the advertising you'll get from me. (Medium 50%)
+	- 2500c (if fails -> reload last save or 3000c proposed -> go back to the door)
 - HK-47
 	- **Kill something for me?**
 	- Travel with me now.
 - Replace T3 with HK
 - Level up HK (7 to 11)
 - Retalk Yuka -> HK-47 Intervention !
-	- //Buy Heavy Plating Type 2 -> 1500c -> sell if needed ! (Sell short light sabre ?) 
-	- **NOOO ! Will be looted in Enclave of Sand People !!!**
+	- //Buy Heavy Plating Type 2 -> 1500c **NOOO ! Will be looted in Enclave of Sand People !!!**
 	- Buy a Stun Ray arm if not aquired already
 	- Equip HK with sonic Rifle (Stun Bonus)
 - Go to Iziz the Jawa (with Carth and HK)
@@ -415,7 +414,6 @@
     - What did they see, exactly?
 - Transit Back to Ebon
 	- Improve light sabers
-	- Improve Canderous weapon at best (remove improvements elsewhere)
 	- Speak ?
 	- HK-47
 		- I would like to know more about your functionality.
@@ -455,10 +453,7 @@
         - Bothan Sensory Visor: immunity against critical hits
         - Light Battle Armor
 - Go out with Bastila and **HK-47**
-- Level up HK (11)
 - Travel Back
-- Otherwise by foot: banter Cancerous with Bastila
-	- **Okay, let's not get into this.**
 **SAVE**
 - Gate Guard Billan
 	- I have proper authorization.

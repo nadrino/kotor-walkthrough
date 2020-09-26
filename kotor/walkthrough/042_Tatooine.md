@@ -8,23 +8,21 @@
 	- You sound like you're planning to kill him.
 	- I have to go.
 - Soutien Jedi all
-- Equip armure de Davik
 - Go toward the garbage slight right
-- Ambuscade ! -> Astuce : Prendre Canderous avec des rapids shots et laisser les Jedis auto
+- Ambuscade ! -> Astuce : always stun 
 	- Very tough…
 - See the 3 guys
 	- I would assume this was done by the Sand People?
-- Easier here… but 3 groups. Take Canderous to rapid shoot + both party focus on the same target
+- Easier here… but 3 groups. Take Bastila to manage her force powers -> stay near the group
 	- I've agreed to try and stop the Sand People attacks.
 	- Do you know anything about the Sand People?
 	- The Sand People are using turrets?
 	- I have other questions about the desert.
 	- I have to go.
-- (Heal pendant talk)
 - Go on the right of the big truck
-- Sand people ambush ? (2nd)
-- Kill Wraids -> toujours avec Canderous en tir
-- Kill Sand People Group near the south path (easier but respawns!)
+- Sand people ambush ? (2nd) -> or later
+- Kill Wraids one by one
+- Kill Sand People Group near the south path (easier but respawns! -> throw grenade ? kill the grenade thrower first)
 - Récupérer les déguisements
 - Disable mines (//equipment rappel : Bothan Sensory Visor (+immunity coups critiques) + Stabilizer Gauntlers)
 - Ambuscade Gamoreans
@@ -34,9 +32,8 @@
 	- That’s it.
 - Kill all
 - 3 mines around their setup
-- Save/Reload -> Wraids will respawn! (550px each! x4)
+- Save/Reload -> Wraids will respawn! (550px each! x4) -> level up (13) with the last one
 - Next debris -> ambush ? (2nd on XBox)
-- Level 13!
 - Go near next garbages -> Ambuscade (3rd)
 - Tanis
 - Talk to a droid before
@@ -74,7 +71,7 @@
 
 - Déminer 2
 - Suivre les débris
-- 6(or 8) mines (walk to detect them)
+- 8 mines (walk to detect them)
 - Go in the Enclave
 	- Quickly, tell him we are not a threat!
 	- Apologize for being here. Say we want peace.
@@ -100,7 +97,7 @@
     - **Yeah, yeah, you were a great warrior.**
     - **These Althiri don't seem too bright.**
     - **You disobeyed your orders?**
-- Take HK and Mission (level up 11)
+- Take HK and Mission
 - Go to Czerka
 - Greeta Holda (save -> or retry persuade in loop)
 	- What do you have available for purchase?
@@ -109,10 +106,10 @@
 	- **Could you be persuaded to lower the price?**
 	- [Persuade] Czerka's costs, not yours. Who cares about their money? (Medium 50%)
 	- 200 for the moisture vaporators sounds fine to me.
-- Sell the Gaffi sticks
+- Sell the Gaffi sticks (450c)
 - Go to the gate guard
 - Go kill raids -> WARNING Still HARD -> from behind
-- Level up
+- Level up Mission and HK (12)
 - Some mines might remain...
 - Try enter Enclave
 	- Ask him if we can enter.
@@ -156,16 +153,16 @@
 
 ## Dragon
 
-- Disable mine
 - Monter la dune
 - Loot Twilek mort -> Thermal Detonator ?
 - Go to other path
 - Disable mines 2!
 - Take Canderous and Bastila (level up 12)
+- Equip Canderous with implants (now he can)
 
 
 - Go to the Dragon cave
-- Bastla + Canderous Banter! (1/1)
+- Bastla + Canderous Banter! (1/1) (find the trigger)
     - Okay, let's not get into this.
 - Go see Komad
 	- I thought
@@ -200,7 +197,7 @@
 - Thermal detonator looted on the twilek!
 - + Paralise calo with statis
 - Xbox calo have sound effects of cow…
-- Equip Calo nord armor on Canderous ?
+- Calo armor will be great for Carth!
 
 
 ## Sand People Slaughter
@@ -245,6 +242,7 @@
 	- Continue
 		- I'll return later.
 - OK!
+- Take Calo armor ?
 
 ```
 - Go back ebon on foot
@@ -258,10 +256,12 @@
 ```
 
 - **Near Chief** loot
-- **When Chief are dead -> Wait heal -> Take back Jedi robe**
+- **When Chief are dead -> Wait heal -> Take back Jedi robe?**
 - **Outside kill all + 2 ambush**
-- Kill Wraids
+    - Canderous oneshot!
+    - However: don't oneshot the one out of bounds!!
 - Level up (14)
+- Kill Wraids
 - Back to Anchorhead
 - SAVE
 - Iziz
@@ -294,7 +294,6 @@
 - Go sell wraids to the Hunters
 	- Buy armor reinforcement
 	- + scope
-	- Sell also mines??? No ? -> later
 - Speak to Dorak -> new line
 - Go toward the cantina
 - Senni Vek (Twilek)
@@ -324,9 +323,7 @@
 
 ## Swoop Tatooine
 
-- Nico -> NO NOT NOW AFTER MOTTA -> NO SENSE OTHERWISE
-	- Anything I could help you with? What's bugging you?
-	- I raced on Taris.
+
 - Zoriis Bafka
 	- I wanted to ask a few questions, if you have the time.
 	- I want to ask about you and racing.
@@ -346,9 +343,8 @@
 	- [Persuade] Why not drop the fee? No racers means no crowds. (Medium)
 	- I can't pay that amount either.
 	- I'll pay the 50 credits.
-	- //**What sort of business do you need help with?**
+	- **What sort of business do you need help with?**
 	- Why won't he sign? -> If Mission in group
-		- Why would he listen to me? -> if Carth
 	- Let’s go back
 	- Why would he listen to me?
 	- …
@@ -369,9 +365,8 @@
 	- How long have you been racing?
 	- Are you any good?
 	- Where is the best place to get bike upgrades around here? (DELETED CONTENT)
-- Run again > 150XP
+- Run again
 - Run again 22:51 VERY HARD -> ok -> one max speed -> tout droit !!!! Sinon on ralentit -> 525 XP
-- Level up mission and Bastila ?
 - Nico
 	- I talked to Motta about you.
 	- I convinced Motta to give you a better contract.
@@ -406,7 +401,7 @@
 	- I would like to try restoring some of your memory. (2/4 - Repair 11+)
 	- Lets get…
 	- …
-	- What's so intriguing?
+	- What's so intriguing? (not on XBox ?)
 	- **It seems you've been around, HK. -> le plus fun et interessant**
 	- **So we're not talking about a nice senator, I see.**
 	- **You can do that?**
@@ -441,4 +436,5 @@
 	- No, I'm glad you did. I care for you too, Bastila. As a friend.
 - SAVE near the Galaxy map
 - Go to Yavin ! 
+    - Ambush!
     -> sur la route ! -> ensuite Dantoine -> la fille -> ensuite Kashyyk

@@ -161,17 +161,97 @@ You earned 900XP !
 
 
 - Take the bridge -> solve case
+- Go toward the bridge on the left
+- Meet **Bolook**
+	- Who are you?
+	- What do you want me to do?
+	- Is there anything else I should know?
+- Murder phase 1
+	- Handon Guld -> ask -> injured ? -> il faisait un footing..? 
+		- **Should I have?**
+		- Did you see the killer?
+	- Rickard Lusoff -> chasse -> cloudy not sunny !
+		- Tell me what happened.
+	- Droid
+		- What did you find out about the body?
+		- Tell me about these plains.
+		- I will have more questions later.
+	- Handon
+		- What did you see happen?
+		- ...
+		- Why were you out here?
+		- Do you often run around the plains?
+		- You're holding your side. Are you injured?
+		- That's all for now.
+	- Rickard
+		- What did you see happen?
+		- ...
+		- Why were you out here?
+		- Not just yet.
+		- Bolook said you were limping. Are you hurt?
+	- Information Droid -> Weapon near body ? -> Handon did not mentioned it
+	- repport
+	    - I want to discuss the murder.
+		- Rickard is lying.
+		- **It was cloudy; there was no sun glare!**
+- Murder part 2
+	- DONT TALK TO DROID
+	- Handon
+		- Did you know the victim?
+		- I wanted to ask something else.
+		- Why would someone want to kill him?
+		- No one says you killed him... yet.
+	- Rickard
+		- Did you know the victim?
+		- Why would someone want to kill him?
+	- Droid
+		- What can you tell me about Calder and Handon?
+		- What can you tell me about Calder and Rickard?
+	- Handon : Victim ? Reasons ? 
+		- You knew Calder better than you admit. You rented a speeder with him!
+		- Punch his face in? Why?
+		- You wanted to kill Calder because ... !
+	- Rickard
+		- You thought Calder was cheating you!
+		- You can deny it, but there was bad blood between you!
+	- Report
+		- Handon is lying. (or Rickard)
+		- He knew his wife was cheating on him. (or They had a fight over business matters.)
+- Murder 3
+    - Droid
+        - Tell me about the weapon found at the scene.
+	- Rickard -> its the blaster of calder
+		- What about the weapon found by the body?
+	- Handon confirms
+		- What do you know about the weapon found by the body?
+	- Droid -> do not belong to calder ! -> not stolen !
+		- Is there a report of Handon's blaster being stolen?
+	- repport : The blaster is Handon's. He lied about it being stolen.
+		-  _The blaster is Handon's, but he reported it stolen._
+		- The blaster is Handon's. He lied about it being stolen.
+- Murder 4
+	- droid -> blood sample -> not calder's !!
+		- Tell me about the blood sample.
+	- repport Handon
+		- It didn't belong to the victim.
+		- It's Handon's blood. (both OK but more logical handon)
+		- He is clutching his side.
+		- No, they are both guilty.
+		- Rickard thought Calder was cheating him in business!
+- 1310XP Both men found guilty
+- Level up Canderous and Juhani (11)
+- Take the shortest route to go back
 
 
-- Jon -> kill the mand chief 
-    - take reward 1000cr, you gonna need it
-    - And there is no point to do some show off since Bastila isn't here!
-
-- Talk to your masters ??
+- Jon -> kill the mand chief
+    - I killed...
+    - Thank you, Jon.
+        - take reward 1000cr, you gonna need it
+        - And there is no point to do some show off since Bastila isn't here!
+- Talk to your masters ?? -> Nothing more to say
 
 
 ## Back to the Ebon Hawk
- 
 
 - Canderous (2/6)
 	- I was wondering if you had any more war stories.
@@ -182,7 +262,7 @@ You earned 900XP !
 - Last talk with Mission
 	- I want to talk to you about your brother.
 	- Griff may not be perfect, but he is your brother, Mission.
-	- So... -> hide cover
+	- So he sacrificed you...
 	- When the time comes you'll know what to say, Mission.
 - Juhani (1/6) -> level 12->1 13-2 14-3 15-4 16-5 17-6 ?
     - I was wondering if we could talk.
