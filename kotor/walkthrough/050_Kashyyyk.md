@@ -24,7 +24,8 @@
     - with mod, Juhani will comment
     - otherwise Juhani's dialog will go over the line of Canderous
     - This little dialog bring the variable "G_JUHANI_NUM" from 1 to 2. (0 to 1 was on Dantooine)
-- Take back Mission and Zalbar
+- Go back to the Ebon Hawk
+- Take Mission and Zalbar (level up 7 to 12 and equip)
 
 ![KOTOR Guide-3](../resources/images/screenshots/KOTOR%20Guide-3.png)
 
@@ -35,10 +36,9 @@
     - Heard any off-planet rumors?
     - I want to ask about Pazaak
     - Let's have a game.
-
 - Loot Containers on the left
 - Talk to Czerka people
-- Zaabar
+- Zaabar talks to you
 	- Prepared me? What do you mean?
 	- Why were you forced to leave?
 	- Why didn't your father believe you?
@@ -86,8 +86,9 @@
 	- [Persuade] I'm just trying to get my bearings. I don't mean any harm. (Easy)
 	- That's all. Goodbye.
 
-**# Great Walkway
-**
+
+## Great Walkway
+
 ![KOTOR Guide-4](../resources/images/screenshots/KOTOR%20Guide-4.png)
 
 - Kill the Kinrath
@@ -104,6 +105,7 @@
 	- **I won't allow you to enslave or kill another Wookiee. +4PCL**
 	- It doesn't matter. You won't enslave another Wookiee!
 - Kill
+- Levelup Zaalbar and Mission (13)
 - Loot
 - Get mines
 - Go assist the droid
@@ -111,6 +113,7 @@
 - Go on left (not toward the Wooke guard)
 - Go to console + use ID
 	- Interface VISOR !!! -> Computer, Demo, Sec +4
+- Equip Nerve Amplifier Belt -> Mind-Affecting Immunity
 - Continue -> Sith
 - Talk to Cookie
 	- What does he mean, Zaalbar? What taint?
@@ -125,6 +128,7 @@
 	- I need Zaalbar with me as a guide
 	- Who are you talking about, Zaalbar?
 	- Play along, Zaalbar. I will see what I can do.
+- Level up Bastila (13)
 - Longer sur la droite
 - Porte **Woorwill**
 	- Jarak
@@ -139,13 +143,23 @@
 - BANTER !!! Bastila + Mission
 - Continuer -> descendre -> porte -> lawyer
 - Loot
-- Vers sortie : Proposition Bastila -> 7/9
+- Vers sortie
+- Bastila propose (6/9)
+	- You're curious about something?
+    - **Do I have a choice?**
+    - **I don't think about it much.**
+    - **Are you saying you don't believe in the corruption of the dark side?**
+    - What?
+```
+- 7/9 -> later
 	- I'd like to talk about what you said before. About giving in to your emotions.
 	- No, I disagree!
 	- You're doing your best, I'm sure.
 	- You're being too hard on yourself.
 	- How did you expect me to be? -> sinon gros lourd
+```
 - go exit
+
 
 - Kill mobs
 - Wookiee Guard -> talk
@@ -175,16 +189,16 @@
 	- What outsiders are below? -> Jolee !!
 	- Just unlock the thing and lower me down.
 
-**# Upper Shadowlands
-**# 
 
+## Upper Shadowlands
+ 
 - Kill
 - Loot corpse -> ZABRAK MARK III
 - Jolee
 	- Who are you? What are you doing here?
 	- You use a lightsaber in battle. Are you a Jedi?
 - Corpse -> Again good stuff
-- Go right
+- Go right (follow Jolee)
 - Jolee
 	- Yes, I feel there is much you can tell me.
 	- I want to ask about you.
@@ -197,6 +211,7 @@
 	- Have you seen a crazed Wookiee in the Shadowlands?
 	- Do you know a missing Wookiee called Rorworr?
 	- You aren't being very helpful.
+	- ...
 	- **Have you any knowledge of Star Maps?**
 	- If you have…
 	- I don't understand. Can you be more specific?
@@ -209,50 +224,58 @@
 	- I will look into it.
 - Go to south -> droid ?
 	- Salvage what parts you can from this droid
-- Right -> nothing for now -> corpse
+- Right -> nothing for now -> corpse on the right border
 - Left -> kill all
-- Level up
 - Loot 2 corpses
 - Next room on the right vers Jolee
 - Continuer vers Czerka -> kill -> loot gravas + Wookie !
 - Déminer -> average flash
-- Commander Dern -> job contre jolie…
+- Commander Dern -> job against jolee…
 	- Are you the poachers Jolee told me about?
 	- I want to ask you a few questions.
 	- Is there anything odd down here?
 	- You aren't safe with blasters?
+	- ...
 	- Are you part of the slaving operation?
-	- Questions Shadow
+	- ...
 	- If the Shadowlands are so dangerous, how do you survive? -> EMITTER
 	- I'm leaving.
-- Guard
-	- I'd rather ask about you. Why are you here?
-	- I want to ask you some questions.
+- Guard (SAVE)
 	- What do these emitters do?
 	- So only the emitters are keeping you here?
-	- Maybe you could help me shut it down? For, say, 200 credits? -> sinon
-		- [Persuade] So , if someone shut them down, you could leave. (EASY)
+    - [Persuade] So , if someone shut them down, you could leave. (EASY)
 - Emitter
 	- Access Primary functions
 	- Enter Czerka guard code. Terminate sonic emission.
 - Guard
 	- I'd rather ask about you. Why are you here?
 	- Let’s talk…
-	- Maybe you could help me shut it down? For, say, 200 credits? -> sinon
+	- [Persuade] So , if someone shut them down, you could leave. (EASY)
 - Emitter
 	- Access Primary functions
 	- Enter Czerka guard code. Terminate sonic emission.
+- Level 15 !
 - Cinematic
 - Loot + go back (unlock w mission)
+    - Tach glands for Mission's brother!
+- Go back to Jolee's House
 - Jolee
 	- I have made certain the poachers are gone.
 	- There was nothing to gain by killing them.
 	- You mentioned eliminating barriers? Could we get to it?
 - Take Bastila with Jolee -> Banter
-- Level up + equip + script
+- Level up Jolee 7 to 12 + equip + script
 - Retourner au village absolument !!! -> pour rendre quête (surtout à coté ebon -> slave -> after too late)
 - A pied !
+- Take the elevator
 - Kill mobs
+- Enter the village
+- New Bastila proposal (7/9)
+	- I'd like to talk about what you said before. About giving in to your emotions.
+	- No, I disagree!
+	- You're doing your best, I'm sure.
+	- You're being too hard on yourself.
+	- How did you expect me to be? -> sinon gros lourd
 - Woorwill House
 - Woorwill
 	- Do you know whose bolt casing this is?
@@ -268,9 +291,9 @@
 	- Tell me something. What's the penalty for murder?
 	- I found Jaarak's bolt casing on Rorworr's corpse.
 	- …
-	- Is there no alternative to death as punishment? + 2PCL
+	- Is there no alternative to death as punishment? + 2LSP
 	- Jaarak, won't you say anything in your own defense?
-	- Jaarak, I won't let you do this. Rorworr was dealing with slavers. + 6PCL
+	- Jaarak, I won't let you do this. Rorworr was dealing with slavers. + 6LSP
 	- If that is what you want.
 	- No, I won't let this happen.
 	- Rorworr dealt with slavers. The datapad I found on his corpse proves it.
@@ -278,62 +301,62 @@
 	- Can I ask you if anything is happening now?
 	- Goodbye to you.
 - 400c + 1600XP
-- Ebon à pied -> useless -> TP -> unless banter near the door of the village ?
+- Back to the Ebon
+    - Ebon à pied -> to grind levels up? -> no nothing to kill
+    - Transit back instead
+
 
 # Back Ebon
 
-- Improve LS for Jolee + Carth weapon + **Take short LS in left hand ?? -> RED !**
+- Improve LS for Jolee + Mission+Carth weapon + Short LS **Take short LS in left hand -> RED !**
 - Canderous (Xbox ok but leviathan first ?) 5/6
 	- Tell me more about the Mandalorian Wars.
 	- But what about the Sith?
 	- But you eventually lost.
 	- Why didn't you retreat?
-- Juhani (3/6)
-	- Is something wrong?
-	- I am sorry, Juhani.
-	- **I do not remember seeing any of your race on Taris…**
-	- **How could such a government last?**
-	- **Decent humans are hard to find.**
-	- Your parents?
-- Bastila 8/8 -> LAST -> ROMANCE !
-	- When we last talked you said you needed time to think. So?
-	- Yes, I think so.
-	- **What is it supposed to be like?**
-	- Are you interested in me or in my ability to use the Force?
-	- **You could leave, if you had to.**
-	- …
-	- So what does this mean for us?
-	- So that's it? It's all over?
-	- Great - you learn a lesson and I get dumped!
-	- **So I was just a stepping stone to you becoming a Master?**
-	- Difficult for you? What about me?
-	- I'm going to stop Malak, Bastila. But I want to do it with you at my side.
-	- You know I'm right, Bastila.
-	- **I love you Bastila. And I know you love me.**
-	- It didn't feel wrong to me.
-
-![KOTOR Guide-6](../resources/images/screenshots/KOTOR%20Guide-6.png)
-
-- NOW NEVER SPEAK TO BASTILA AGAIN!!! -> 
-	- She returns to the cockpit. Do not talk to her again about what happened between you, or this ends your romance and later dialog options are not unlocked
+- HK (3/4) (14 repair)
+    - I would like to try restoring some of your memory.
+    - Let’s get started.
+    - What now?
+    - That makes sense. Did the Hutts build you?
+    - **Don't you care about all those lives lost?**
+    - //? But you *have* killed on your own accord before.
+    - So another master gone because of you.
+    - No doubt.
+    - You would have preferred to stay on Sleheyron?
+    - You would have been found out eventually.
+    - I should dismantle you!
+    - How very self-sacrificing of you.
+    - Do you remember anything else?
+    - [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 6 seconds, in addition to his other abilities.]
+- Juhani (4/6) (Level 15)
+    - I was wondering if we could talk.
+    - Tell me more about your past.
+	- **There were no Cathar on Taris that I saw.**
+    - Why did they flee? (What cause them to flee?)
+    - Near the world your species comes from?
+    - How did it happen?
+    - Why did the Republic not help you?
+    - What about your family?
+    - **Taris is not a nice place to raise a child.**
+    - How did he die?
 - Go out with Jolee and Carth -> for banter + Dustin
-- Fodo Medo -> Pazaak * 10 -> NOW -> BECAUSE GONE WHEN WOOKIE TAKE POWER
-	- What do you do for Czerka ?
-- Level up carth
 - Ask Merchant
 	- I found this droid head. Can I ask you about it?
 	- It recorded an ambush. Someone yells Eli's name.
 	- **Don't act rashly, Matton. Eli is through. Violence won't help.** +6PCL + 638XP
-- Reask
+- Carth levels up (14)
+- Reask the new Vendor !
 	- He won't last long hiding in the Shadowlands.
 	- His reputation's shot. Someone honest could take over. 
 		- //I suppose that closes his little outpost here.
 	- In that case, let's see what's for sale.
+- 500c
 
 ![KOTOR Guide-7](../resources/images/screenshots/KOTOR%20Guide-7.png)
 
 - Carth
-	- You're a friend of Carth, I take it?	
+	- You're a friend of Carth, I take it?
 	- I understand. We'll go as soon as possible.
-- Switch Carth with Canderous
+- Switch Carth with Canderous (level up 13)
 - Go back at Jolees house

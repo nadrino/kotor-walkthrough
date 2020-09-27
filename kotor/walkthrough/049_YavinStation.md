@@ -21,7 +21,7 @@
 	- Who are the Trandoshans?
 	- Why are they here?
 	- Do you have anything you'd be willing to sell me?
-- Sell race bonds : 156 instead of 60 !! (_https://gamefaqs.gamespot.com/boards/556553-star-wars-knights-of-the-old-republic/44235516_)
+- **Sell race bonds** : 156 instead of 60 !! (_https://gamefaqs.gamespot.com/boards/556553-star-wars-knights-of-the-old-republic/44235516_)
 	- 120*156 > 18k !!
 - Pazaak -> 10*750cr max -> il est nul sur XBox EASY -> discount !
 - Buy ?
@@ -80,13 +80,7 @@
 
 ## Back to Dantooine
 
-- Go out with Bastila alone
-- Bastila propose ? Later ? (6/8+1)
-	- You're curious about something?
-    - **Do I have a choice?**
-    - **I don't think about it much.**
-    - **Are you saying you don't believe in the corruption of the dark side?**
-    - What?
+- Go out alone
 - Buy -> LATER
 	- Calrissian's Utility Belt ? -> On Xbox need a patch to deploy bezfore arriving there!
 - Stowaway

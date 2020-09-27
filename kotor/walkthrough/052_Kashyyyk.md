@@ -14,22 +14,20 @@
 	- I have the means to heal you. Here.
 	- What can you tell me about your attackers? -> Canderous ?
 	- I'll look into it.
-- Loot + remove weapons -> Mandalorians popup
-- Go to droit
+- Loot + remove weapons -> Mandalorians will popup
+- Go to the right
 - Ambuscade -> Focus sur 1
-- Continuer vers les Kinrath
-- Go left next intersection (right is the swoop bikes)
-- Go sous la bûche
+- Continuer vers les Kinrath (right)
+- Go left next intersection: under the log (right is the swoop bikes)
 	- Après cookie mort -> ambuscade -> remove weapons
-- Remonter vers les swoop bikes -> Boucle -> kill last mob
+- Remonter vers les swoop bikes (right) -> Boucle -> kill last mob
 - Bike -> module -> last mands
-- Equip cancerous with belt
-- Level up and and jolly ?
+    - Equip cancerous with belt?
 - Go back to wookie
 	- The Mandalorian hunters are dead. I killed them all.
 	- I hope it does. Goodbye.	
 - + Echani Vibroblade (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Melee_weapons#Echani_Vibroblade_)
-- Prendre l’autre passage
+- Prendre l’autre passage near the wookie (right)
 - Suivre à gauche/kill
 - Freyrr
 - Attack
@@ -46,9 +44,10 @@
 	- Where might I find it?
 	- Describe the creature. Where can I find it?
 	- I will try to find it. Can you give me any direction?
-- Tuer kinrath devant Freyr
+- Tuer kinrath on the left devant Freyr
 - Go south right where you’ve seen mobs
-- Next intersection en face -> kill Kinrath -> corpse
+    - Level up Canderous and Jolee (14)
+- Next intersection en face -> kill Kinrath -> Viper Kinrath Body
 - Go back right -> south
 - See gravas
 - Attacher Kinrath
@@ -60,8 +59,10 @@
 	- I have found the blade of Bacca's sword.
 	- Here, take it. I'm sure it is the one.
 	- We should proceed carefully.
+- +675PX
 - Go to Star Map
 - Get mines
+- Talk to the hologram
 	- What is your purpose?
 	- What do you mean by behavioral reconfiguration?
 	- And I don't fit that pattern?
@@ -91,7 +92,7 @@
 	- What do I need to do to get access to the Star Map?
 	- How can I match them when I don't know what they are?
 	- What do you mean by that?
-	- What if I fail?
+	- What if I fail? (not on XBox)
 	- You may begin evaluation.
 	- 
 	- How did you know Zaalbar's name?
@@ -100,23 +101,27 @@
 	- Then I will change my answer.
 	- Continue your evaluation then.
 	- I subtly reinforce the city while preparing to attack.
-		- I evacuate my people from the city. +2PCL -> NO FAIL
 	- **I prepare my forces to attack in ten days. I do nothing in the city.**
-	- **The victory is irrelevant. Stopping the war saved many more people. + 2 LS**
+	- **The victory is irrelevant. Stopping the war saved many more people. + 2LSP**
 	- I do nothing so I can attack their weak spot later and save more lives.
 	- **I stop the attack. I will appear to be a hero.** + 2PCL
-- Full buffer + Echani shield + Krath double sword -> easy with powers of droid++ with Jolee
+- Full buffer + Echani shield + Krath double sword 
+    - easy with powers of droid++ with Jolee
 - Retalk
 	- What did your scan during the battle reveal?
-- Level up
-- Go back
-- Kill Wookiie
+- Star map opens
+- Jolee talk
+- Go back to the village
+- Before taking the elevator:
+    - Kill Wookiie
+    - Level up (16)
 - Go Up
 - Talk Chorrawl
 	- Why should I follow you ?
-	- 
+	- (loading)
 	- Quiet down. We'll use this to our advantage.
-	- Do you have to fight? Talk it through! + 6 PCL
+	- Do you have to fight? Talk it through!
+	- **Convince them! Avoid this needless slaughter!** (+6LSP)
 - Kill all
 
 ![KOTOR Guide-8](../resources/images/screenshots/KOTOR%20Guide-8.png)
@@ -126,70 +131,60 @@
 	- What will you do about the slavers?
 	- I think it's time I was leaving.
 	- That would be fitting, I think.
-	- + 6 PCL
-- Group select -> Bastila + Jolee -> NO no trigger -> Zaalbar + Jolee
+- (+6LSP) -> now close to full LS!
+- Zaalbar + Jolee (Bastila + Jolee -> no trigger for banther)
+- Levelup Zaalbar (14)
+    - Equip him with Bacca's ceremonial Blade
 - Go back à pied -> kill Czerka
 - EBON
 
-# Back to Ebon
 
-- Improve melee + small LS
-- Canderous
-	- Tell me more about the Mandalorian Wars. 6/6
+## Back to Ebon
+
+- Improve Zaalbar sword
+- Canderous (6/6)
+	- Tell me more about the Mandalorian Wars.
 	- How much did you lose?
 	- And you eventually came to Taris.
 	- **Opponents who could easily kill us.**
-- HK-47 -> 14 repair ?
-	- I would like to try restoring some of your memory.
-	- Let’s get started.
-	- What now?
-	- That makes sense. Did the Hutts build you?
-	- **Don't you care about all those lives lost?**
-	- But you *have* killed on your own accord before.
-	- So another master gone because of you.
-	- No doubt.
-	- You would have preferred to stay on Sleheyron?
-	- You would have been found out eventually.
-	- I should dismantle you!
-	- How very self-sacrificing of you.
-	- Do you remember anything else?
-	- [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 6 seconds, in addition to his other abilities.]
-- Next 17 in repair -> need improvement
-- Jolee
-	- Ask for med
+- _Could improve HK (14 repair) there instead of before_
 - Zaalbar
 	- Have anything more about..
 	- Bacca’s Sword ?
-	- Sorry can’t stay more ? -> not sure
-- Juhani
-	- Talk
-	- Tell me more about your past.
-	- **There were no Cathar on Taris that I saw.**
-	- Why did they flee?
-	- Near the world your species comes from?
-	- How did it happen?
-	- Why did the Republic not help you?
-	- What about your family?
-	- **Taris is not a nice place to raise a child.**
-	- How did he die?
+	- Sorry can’t stay more ?
+- Jolee (can't start the conversation for now)
+	- Ask for med
+- Juhani -> ask about Canderous ! **Very rare option!** 
+    - _if you made Juhani interact with Canderous like told in this guide, you should have it._
+    - _Don't do the 5/6 discussion before, otherwise this line will be deleted_
+        - I was wondering if we could talk.
+        - **Why are you so hostile towards Canderous?**
+        - He has proven himself well.
+        - You should not judge Canderous by other Mandalorians.
+            - **Perhaps we will have to eliminate him, then.** -> makes no sence
+        - **Have you spoken to him?**
+        - **A wise decision. We do not need internal conflict.**
+        - **Just?**
+        - **I think you will come to trust him in time.**
+        - **About what?**
 - Carth
 	- Do you want to talk ?
 - Go to Yavin
 
-# Yavin - 3rd star map
+
+## Yavin - 3rd star map
 
 - Cinematic -> Calo nord is dead -> Malak
-- Canderous + HK-47
+- Canderous + HK-47 (level up to 14 + equip him with mandalorian riffle)
 - Talk -> no sound on Xbox
 	- What's going on here, Suvam?
 	- I think you guys better leave.
 	- Or I will ask you again. Very politely.
-- Sell minor mines + short LS + 
 - Buy for HK ?
-	- // Composite Heavy Plating -> latter
-	- Baragwin Ion-X Weapon
+	- _Composite Heavy Plating_ -> later
+	- Baragwin Assault Gun
 - Buy for Zaalbar
-	- Baragwin Assault Blade
+	- Baragwin Assault Blade? Bof -> Later
 	- Advanced Bio-Stabilizer Implant -> NOT NECESSARY ? -> poison immunity in Sith Base Manaan ?
 
 ![KOTOR Guide-9](../resources/images/screenshots/KOTOR%20Guide-9.png)
@@ -206,5 +201,29 @@
 		- Andor killed Kraat, I take it?
 		- You're kidding…
 		- But how can you even be sure Andor was responsible?
-	- Juhani -> nothing new
+	- Juhani (level 16) (5/6)
+        - I was wondering if we could talk.
+        - What happened after your father died?
+        - What happened?
+        - Did she die?
+        - You were enslaved?
+        - And they freed you?
+        - What was the dream?
+        - You became a Jedi.
+    - Bastila (8/9) (or 8/8 without a mod that fixes the last conversation)
+        - When we last talked you said you needed time to think. So?
+        - Yes, I think so.
+        - **What is it supposed to be like?**
+        - Are you interested in me or in my ability to use the Force?
+        - **You could leave, if you had to.**
+        - …
+        - So what does this mean for us?
+        - So that's it? It's all over?
+        - Great - you learn a lesson and I get dumped!
+        - **So I was just a stepping stone to you becoming a Master?**
+        - Difficult for you? What about me?
+        - I'm going to stop Malak, Bastila. But I want to do it with you at my side.
+        - You know I'm right, Bastila.
+        - **I love you Bastila. And I know you love me.**
+        - It didn't feel wrong to me.
 - Go to Manaan

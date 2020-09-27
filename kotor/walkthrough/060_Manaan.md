@@ -11,7 +11,6 @@
 	- It is alright.
 	- I would like to ask a few questions.
 	- Why are there Sith on Manaan?
-	- Tell me about Ahto City.
 	- What is kolto?
 	- The Republic and the Sith both stay here?
 	- Why do the Sith upset you so much?
@@ -49,16 +48,23 @@
 	- **I have some gizka, if you're interested.**
 	- **[Persuade] Is there no way I can convince you to take them off my hands? -> both medium**
 	- **[Persuade] I was hoping to sell them. How about we just call it even?**
-- Go left
+- Meet Deadeye Duncan!!
+    - **Deadeye Duncan. I remember.**
+    - You overpowered a dozen Sith?
+    - You were pretty easy to slow down inside the dueling ring.
+    - So what are you doing here?
+    - So what are you going to do now?
+    - You want to tell them you're the champion?
+    - Okay, the name is yours. (+LSP)
+- Go left (West Central)
 
 ![KOTOR Guide-11](../resources/images/screenshots/KOTOR%20Guide-11.png)
 
-**# West Central
-**# 
+
+## West Central
 
 - Jolan Aphett - 10
-	- 11 paazak * 200c
-- Gave what ? lol
+	- 11 paazak (10x200c + cards)
 
 ![KOTOR Guide-12](../resources/images/screenshots/KOTOR%20Guide-12.png)
 
@@ -68,15 +74,18 @@
 	- That's it? Only two laws?
 	- How can you be neutral when the Sith are trying to conquer everything?
 	- That seems awfully short sighted…
-	- I understand. -> Impossible persuade -> need force persuade
+	- Very well... -> Impossible persuade -> need force persuade
 - Talk to droid
 - Enter city -> left fountain -> Talk to humans -> admire view
 - Go right
 - Open door -> selkath -> private conversation -> talk to sith + republic shifters
-- right corridor
-- Jolee’s Wife
+- right corridor -> Atho West
+- Jolee’s friend
 - Talk to Jolee
 	- Tell me about Sunry. How do you know him?
+	
+	
+	
 - Right -> bar
 	- Nilko Bwaas (Republic Hiring Mercenaries)
 		- You're a lot more friendly than most of the Selkath here.
