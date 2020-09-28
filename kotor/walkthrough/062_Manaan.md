@@ -4,19 +4,19 @@
 ![KOTOR Guide-14](../resources/images/screenshots/KOTOR%20Guide-14.targa)
 
 - 1
-	- Equip disruptor pistol for T3 -> physical damage (Mandalorian ?)
-	- Get Mine -> Equip Awareness++
+    - Equip implant agains critical hits (Retinal Combat Implant) + 1 Awareness
+    - + Bothan Sensory Visor (+4 Awareness, Demolition +3, Secu +3) -> still ugly
+	- Get Mine
 	- Right
 - 2
 	- I have a passcard.
+	- Force push the girl (no alarm!)
 	- Kill + loot -> NE PAS MONTER DANS L’ASCENSEUR
-- 3
-	- Sith
-	- Equip -> Awarness++++
+- 3 (SAVE)
+	- Sith (quite hard to kill!)
 	- Open porte nord -> constater le champ magnétique
 - 4
 	- Water room -> kill all
-	- Level up Bastila and T3
 	- Pass through water channels -> lire
 		- Commander Hasek:
 			- In regards to the system in place to cycle water from the ocean to the thermal heaters:
@@ -30,59 +30,82 @@
 	- Left -> vider
 	- Porte droite
 		- Panel en face -> broken
-		- Panel on left -> ok
+		- Panel on left -> activate
 		- Ok out
-	- Right -> fill
 	- Porte gauche
-		- Panel droite
+		- Should be ok to pass through
 		- En face
 		- Droite
 		- En face
 - 5
-	- kill Siths -> WARNING -> MINES LEFT -> Awareness +++
+	- kill Siths -> WARNING -> MINES LEFT -> Awareness +++ (Deadly mine)
 	- Equip Demolition ++ -> Deadly
 	- T3 -> unlock
 - 6
 	- Kill all -> WARNING Deadly MINE
 	- Go to the PC (Computer Dead if exploded)
-		- Kill in 9 (450 + 75 + 320 XP !)
-		- Disable field
-		- Kill in 6 (sabotage)
-		- Disable steam
+	    - [Computer] Slice the computer. (0)
+	    - View East Barracks.
+	        - [Computer] Overload power conduit. (1) -> 320 PX (+450+75 mobs)
+        - View Flow Control Room.
+            - [Computer] Overload computer power conduit. (1) -> 320 PX
+        - View Steam Control Room.
+            - [Computer] Deactivate steam vents. (1) -> 160 PX
+        - View Security Room.
+            - [Computer] Disable force field. (1) -> 320 PX
+            - level up Bastila and T3! (15)
+            - [Computer] Corrupt droid targetting program. (2 instead of 3 with level up) -> 0 PX but useful
+        - View Security Computer Room.
+            - That's us!
+        - View Security Reception.
+            - Can't destroy -> don't have access!
+        - View Training Room.
+            - Nothing        
+        - View Disassembly Room.
+            - [Computer] Corrupt sentry droid targetting program. (2) -> 0 PX but mob kill
+- Next in corridor -> 1 Sith
+- You should be hearing shots... -> corrupt droids
 - 7
+    - Take average mine
 	- Loot
 - 8
-	- Prendre double blade -> Krath Double Vibroblade ? -> robots
+	- Take Echani Foil (looted on the Sith at the reception)
+	- Bastila droid++ power
+	- Loot + Take back your LS
 - 9
 	- Child dying -> take what he gives -> useful in 13
+- Go toward 10
+    - 2 droids + 1 Selkath
 - 10
 	- Kill Sith -> Focus sur celui du milieu -> hard
-	- Level up
-	- Loot next room -> WARNING DEADLY MINE
+	- Loot -> Equip Bastila with the Darth Master robe
+	- Loot next room -> WARNING 1 DEADLY MINE
 
 ![KOTOR Guide-15](../resources/images/screenshots/KOTOR%20Guide-15.png)
 
-- 11
+- 11 (SAVE)
 	- I am Name. Shaelas has me investigating the disappearance of young Selkath.
 	- The Sith are evil! What they told you was a lie.
 	- If the Republic is defeated, the Sith will enslave your planet! -> BASTILA BANTER !
 	- The Sith are evil, Shasa. They will use you to conquer Manaan for the kolto.
 	- I found a young Selkath dying from torture here. He gave me this...
-	- [Persuade] The Sith tortured him to death, Shasa. You know it's true. -> need FAIL -> BASTILA SAVE
+	- **[Persuade] The Sith tortured him to death, Shasa. You know it's true.** -> HARD
+	    -> need Succeed -> otherwise BASTILA SAVE -> only Lght Side points
+- +700PX +4 LS points
 - 12
-	- Repair droid
+	- Repair droid with T3 (5 parts - this is actually the minimum)
 	- Foncer sur le Grandier !!! (Gris)
 	- No mines
 	- Good stuff for T3
 		- Computer use +6 and security +4
 - 13
-	- Kill all
+    - Droids! Requip
+	- Kill the 2 -> levelup after one (17)
 	- Ouvrir porte avec player -> cinematic
-	- T3 -> ouvrir porte -> Console à gauche
+	- T3 -> Console à gauche
 		- Security Room ? -> sabotage +340XP
-	- Don’t deactivate steam on console on the right -> no XP
-- 14
-	- EXIT
+- 14 (SAVE)
+	- Leave
 
 # Court
 
@@ -108,29 +131,20 @@
 
 ![KOTOR Guide-16](../resources/images/screenshots/KOTOR%20Guide-16.png)
 
-- Jolee + Juhani
-- Juhani (5/6) -> WARNING will trigger the next event near Ebon
-	- I was wondering if we could talk.
-	- What happened after your father died?
-	- What happened?
-	- Did she die?
-	- You were enslaved?
-	- And they freed you?
-	- What was the dream?
-	- You became a Jedi.
-
-![KOTOR Guide-17](../resources/images/screenshots/KOTOR%20Guide-17.png)
-
-- Shaelas
+- Replace T3 with Jolee (level up to 15)
+- Shaelas (Jolee + Bastila intervine)
 	- I have information for you, Shaelas.
 	- The Sith are training the Selkath youth in the ways of the Dark Jedi.
 	- I've convinced your daughter to turn her back on the Sith ways.
 	- I hope so.
 	- **Keep your credits, Shaelas. A Jedi has no need of such rewards.** +2PCL sinon 500c -> PCL vont être important…
+- 2 LSP + 600 PX
 - Elora (SAVE)
-	- [Persuade] Was Sunry having an affair? -> NEED SUCCEED -> otherwise fail -> Jolee saves -> but NO XP
+	- [Persuade] Was Sunry having an affair? 
+	    -> NEED SUCCEED -> otherwise fail -> Jolee saves -> but NO XP -> in fact ok
 	- He has killed many Sith before.
-	- I’ll save him (other already)
+	- Don't worry... I’ll save him (other already)
+- 500 PX
 - Open prison door -> closed
 - Talk to selkath -> unlocked
 - Sunry
@@ -529,15 +543,16 @@
 
 - Ithorak Quest
 - Go to Cantina (Est)
-- Sith intercept
-	- This is a public street!
+- Sith retalk!! (SAVE)
+	- //This is a public street!
+	- You better change your attitude, or the Selkath might find your body floating in the ocean! (+2DSP)
+    - The Sith and I are exchanging meaningless taunts.
+    - **[Persuade] I'm sorry, constable. It won't happen again.** Medium
 - Talk to Sith
 	- Could I ask you a few questions?
 	- You mentioned the races.
 	- There are no racers you like?
 	- I have to leave. Goodbye.
-- Go to droid shop
-	- I'm interested in buying something.
 - Sith Base Entrance
 - Droid
 	- I heard the Embassy was attacked ? -> LOL response du droid
