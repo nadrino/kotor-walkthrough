@@ -141,7 +141,7 @@
 - 2 LSP + 600 PX
 - Elora (SAVE)
 	- [Persuade] Was Sunry having an affair? 
-	    -> NEED SUCCEED -> otherwise fail -> Jolee saves -> but NO XP -> in fact ok
+	    -> NEED SUCCEED -> otherwise fail -> Jolee saves -> but NO XP -> in fact ok (patch on XBox ?)
 	- He has killed many Sith before.
 	- Don't worry... I’ll save him (other already)
 - 500 PX
