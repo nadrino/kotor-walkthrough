@@ -145,9 +145,11 @@
 	- He has killed many Sith before.
 	- Don't worry... I’ll save him (other already)
 - 500 PX
+
+
 - Open prison door -> closed
 - Talk to selkath -> unlocked
-- Sunry
+- Sunry (Jolee interviene)
 	- There's a few things we have to clear up.
 	- The judges said you left after the shot was fired.
 	- … (clear up)
@@ -157,7 +159,9 @@
 	- **I don't know.**
 	- Killing your lover while she sleeps is murder - even if she is a Sith!
 	- These are just excuses, Sunry. We both know you have to own up to your crimes.
+- 500 PX
 - Talk to other prisoner
+- SAVE
 - Selkath Warden
 	- **I want to begin Sunry's trial now.**
 	- Yes, let's begin the trial.
@@ -173,11 +177,11 @@
 	- (Gluupor)
 		- **Did you see Sunry kill Elassa?**
 		- **Isn't the medal at the crime scene too obvious a clue?**
-		- **Did you plant the medal on Elassa?	**
+		- **Did you plant the medal on Elassa?**
 		- I have no additional questions.
 		- (Yes.) -> Judges poll -> does not make sense -> Cut
 	- (Elora)
-		- **Was it true your husband was having an affair with Elassa? -> no bonus but needed**
+		- **Was it true your husband was having an affair with Elassa?** -> no bonus but needed
 		- I have no additional questions.
 		- (Yes.) -> Judges poll -> does not make sense -> Cut
 	- (Sunry)
@@ -188,7 +192,7 @@
 	- (Closing)
 		- **No one actually witnessed the murder.**
 		- **Sunry was ending the affair, so the Sith killed her.**
-	- My arguments are complete.
+	    - My arguments are complete.
 - INNONCENT !! -> 500XP (the max) -> saved the republic -> + Sith guilty
 - Jolee
 	- So what do you think of Sunry's verdict?
@@ -202,35 +206,29 @@
 	- **Not even a Jedi? You mean not anymore, right?**
 	- You seem to have all the abilities of a Jedi...
 	- So what happened between you and your wife, then?
-- Juhani -> not yet for last talk
-- Go to the Republic Embassy -> East !
+
+
+- Go to the Republic Embassy -> East Atho
 - Roland Wann
 	- Yes, here it is.
 	- What has the Republic done?
 	- **This is dangerous...**
 	- **What happened down there?**
 	- How will I get down there?
-- Go back to central place
-- Teleport to Ebon
-- Improve -> agains blaster shots
-- Go out with T3
-- Out of the embassy -> Solo mode T3
-- Kill prisoner 
-- Hulas
-	- Lorgal is dead.
-	- Vorn ?
-		- Any tips for this mission?
-	- Rulan
-		- So how do I find someone who look like anyone ?
-	- Ithorak
-		- Sure. I'll just tell him I want to kill his boss and book an appointment.
-	- Anything else ?
-	- Back later
-- -> Poison blade !
-- Back to Ebon
-
-![KOTOR Guide-18](../resources/images/screenshots/KOTOR%20Guide-18.png)
-
+- Go back near the fountains (trigger the Banther if not already ?)
+- Transit back to Ebon
+- Workbench
+    - LS -> Blaster Deflection +5 (Jenruax)
+    - short LS -> Against droid (Jenruax + Luxum)
+    - Blaster for HK -> trigger
+- **Talk with Juhani (6/6)** (level 17) (rare talk since grinding is necessary to reach it)
+    - I was wondering if we could talk.
+    - Tell me more about your past.
+    - **Why would I react badly?**
+    - Of course I remember.
+    - Well what?
+    - Revan?! You mean…
+    - Why did you tell me now?
 - Jolee (4/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
 	- Why did you leave the Jedi?
 	- You did. You said you weren't a Jedi any longer.
@@ -242,42 +240,204 @@
 	- **And? I don't get it.**
 	- So... you knew this Master Hortath? Or the Padawan?
 	- I don't understand...
+    
+    
+- Go out with T3
+- Transit back
+- Out of the embassy -> Solo mode T3
+- Kill prisoner (2 slices)
+- End solo mode
+- Wait for T3 to return
 
-# Go to Dantooine (LAST TIME)
+![KOTOR Guide-18](../resources/images/screenshots/KOTOR%20Guide-18.png)
 
-- Incoming Fighters !!! (Even with the mod ?)
+- Change your party to remove T3 
+- Hulas
+	- Lorgal is dead.
+	- Vorn ?
+		- Any tips for this mission?
+	- Rulan
+		- So how do I find someone who look like anyone ?
+	- Ithorak
+		- Sure. I'll just tell him I want to kill his boss and book an appointment.
+	- Anything else ?
+	- Back later
+- You get a Poison blade !
+
+
+- Go East with Juhani and HK (level up 13-15 and 15 respectively)
+- Ithorak Quest
+- Go to Cantina (Est)
+
+```
+- If you choose DARK SIDE path: Sith retalk!! (SAVE)
+    - You better change your attitude, or the Selkath might find your body floating in the ocean! (+2DSP)
+    - The Sith and I are exchanging meaningless taunts.
+    - **[Force Persuade (HIGH)] This argument was the fault of the Sith. She should be arrested.** (+2DSP)
+```
+
+- Sith Base Entrance
+- Droid
+	- **I heard the Embassy was attacked ?** -> LOL response du droid
+    - _BUG : still can go in the Sith base_
+- Go back to the central place of the area
+- Go in direction of the Sith woman recruiting -> auto -> don't trust you
+- Talk to Sith man (with a woman Sith)
+	- Could I ask you a few questions?
+	- You mentioned the races.
+	- There are no racers you like?
+	- I have to leave. Goodbye.
+- Go to swoop 
+- SAVE
+- Talk to Vek (Ithorak) 
+	- Who are you?
+	- You're wearing a Sith uniform. Are you with the Sith?
+	- Don't you think the Sith might take exception to that?
+	- Yes, I can see how it would be very stressful.
+	- …
+	- I need to meet with Ithorak Guldar. Can you set it up?
+	- [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
+- Queedle
+	- I just want to ask a few questions.
+	- I want to ask about you and racing.
+	- Is Manaan a good course for racing?
+	- How long have you been at this?
+	- What do you mean by that ?
+	- How much do you think you need?
+	- There's no way you can earn the money?
+	- **Here, I can give it to you.** +4PCL
+- Save(/Load?) -> so time ingame
+    - il va vouloir rendre l’argent
+    - première race -> save load -> reparler -> no keep it. +2PCL
+- Swoop reception (Sslamoth)
+    - Tell me about what goes on here.
+    - I have raced on Tatooine.
+    - I want to talk about the rewards.
+    - Tatooine uses tiers instead of rounds. Why the difference?
+    - What does each round pay?
+    - Describe the current crop of racers.
+    - Let's go back...
+    - I'm ready to race.
+    - [Persuade] Lowering the fee would encourage new racers. (easy)
+        - 50c now
+- ... race
+    - Back later
+- 450c (500 - 50c) +200PX
+- Talk to Queedle
+    - **You keep it. Use it for more upgrades.** (2LSP + 500c)
+- Go to console -> see times
+    - +200PX -> Queedle won!
+- Swoop -> best at 22:50 then 22:48 -> if Ithorian helped
+    - 2000 - 100c
+	- 5000 - 100c
+- 7250c in total!!
+
+![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
+
+
+- Transit back to the Ebon
+- Go to the meeting
+- Xor spawns
+    - Just ignore him, Juhani.
+    - We should just leave, Juhani.
+    - She is her own person.
+    - Calm down, Juhani.
+    - You bought Juhani?
+    - She is not for sale!
+    - There is no emotion...
+- Ithorak
+	- You don't need to do that. I won't cause any trouble.
+	- Personal feelings? Do you mean you don't like Ithorak?
+	- Okay, let's go in and see Ithorak.
+	- ...
+	- My buyer wishes to remain anonymous.
+	- Nothing specific. I'm just browsing on behalf of my patron.
+- Kill them all -> take geonosian sword for the droid
+- Loot le datapad
+- Leave and go end this quest
+    - Ithorak Guldar is dead.
+    - Back later
+        - +1000XP
+        - gands -> strength +4
+
+![KOTOR Guide-30](../resources/images/screenshots/KOTOR%20Guide-30.png)
+
+- Transit back to the Ebon Hawk
+- Jolee (5/8)
+    - What do you know about the Sith?
+    - You must know more than that.
+    - You're being elusive on purpose.
+    - You did. You said you fought them.
+    - **Are these the same Sith that we're fighting now?**
+    - Who is this Exar Kun?
+    - And he was killed?
+    - **So tell me what you know about the Sith.**
+    - **What happened during the war with Exar Kun, then?**
+    - But you exterminated all the traitors, right?
+- Juhani
+- IF PATCHED
+    - Bastila
+        - I want to talk to you about what happened between us.
+- (SAVE)
+- Go to Dantooine
+
+
+## Go to Dantooine (LAST TIME)
+
+- Go out and take HK and Zaalbar (level up 15)
 - Buy
-	- Calrissian's Utility Belt ? -> On Xbox not present…
-- Stowaway
-	- There is a stowaway on my ship by the name of Sasha.
-	- Yes, I am. She only speaks a smattering of Mandalorian, but I was able to figure it out.
-	- Certainly. I'll bring you to my ship.
-	- Lur Arka na bads. Nuh-gisen laesfa, Sasha.
-- Take Canderous + HK-47
-- Speeder
+	- Calrissian's Utility Belt ? -> On Xbox not present -> need to have put a mod when first loaded this area!!
+    - Equip -> 17 Repair
+- HK
+    - I would like to try restoring some of your memory.
+    - Let's get started.
+    - ...
+    - What? Why not?
+    - Are you sure your core isn't just damaged?
+    - You are eager to find your origins, are you?
+    - Well…
+    - So tell me about this last owner, then.
+    - It appears no one could resist using your protocol.
+    - I suppose I would, at that.
+    - Oh? Why is that?
+    - So you killed *that* master directly.
+    - You are just a travelling piece of bad luck, aren't you?
+    - You don't want to hear the answer to that.
+    - So you couldn't kill Mandalore, hey?
+    - So can you remember anything else?
+    - [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 3 seconds and has gained an additional +2 bonus to his dexterity.]
+- Go to Matale's Mention -> Speeder
 	- [Slice into the speeder and activate its alarm system.] [1 spike]
 	- I don't know who set off the alarm. I was just passing by.
-- Kill 2 droids first
-- Then auto stop
+- Kill -> Then auto stop
 	- You must pay for your crimes, Zuulan.
 	- That's a small price to spare your life.
 	- I can't just let you go. You are a slaver.
+- Transit back
 - Back to Ebon
-	- Jolee (5/8)
-		- What do you know about the Sith?
-		- You must know more than that.
-		- You're being elusive on purpose.
-		- You did. You said you fought them.
-		- **Are these the same Sith that we're fighting now?**
-		- Who is this Exar Kun?
-		- And he was killed?
-		- **So tell me what you know about the Sith.**
-		- **What happened during the war with Exar Kun, then?**
-		- But you exterminated all the traitors, right?
+    - Jolee (6/8)
+		- Do you want to talk about the war now?
+		- **[Persuade] No time like the present? -> easy**
+		- Um... no, I don't remember.
+		- What does your wife have to do with the war?
+		- The war...?
+		- And what did she think of all this?
+		- So what happened?
+		- **So she had fallen to the dark side?**
+		- You killed her?
+		- But... she was a Sith then, right?
+		- They put you on trial?
+		- So that's the source of all this bitterness? They found you guilty?
+		- I don't understand...
+		- And you still believe love is worth the risk?
+    - SAVE
+    - Go to Tatooine
+    - (can't go to Kashyyyk : meet Bandon too soon)
 
 ![KOTOR Guide-19](../resources/images/screenshots/KOTOR%20Guide-19.png)
 
-# Go to Tatooine (need to grind up for last talk with Juhani -> can’t go to Kashyyyk : meet Bandon too soon)
+
+## Go to Tatooine
 
 - Go out with Canderous and Mission
 - Level up -> Mission equip with thunder bowcaster
@@ -325,21 +485,28 @@
 - Hunter lodge -> sell wraids 24c -> no, Yavin
 - Ebon
 	- Canderous -> ask again
-	- Jolee (6/8)
-		- Do you want to talk about the war now?
-		- **[Persuade] No time like the present? -> easy**
-		- Um... no, I don't remember.
-		- What does your wife have to do with the war?
-		- The war...?
-		- And what did she think of all this?
-		- So what happened?
-		- **So she had fallen to the dark side?**
-		- You killed her?
-		- But... she was a Sith then, right?
-		- They put you on trial?
-		- So that's the source of all this bitterness? They found you guilty?
-		- I don't understand...
-		- And you still believe love is worth the risk?
+    - Jolee (7/8)
+        - So when did you go to Kashyyyk?
+        - The Jedi just let you go?
+        - **With good reason, I imagine.**
+        - So that's when you went to Kashyyyk?
+        - You survived a crash-landing on Kashyyyk?
+        - Why didn't you just fix your ship and keep going?
+        - So you crashed... and stayed?
+        - How did you survive in the Shadowlands?
+        - It couldn't have been easy.
+        - You're completely insane, you know that?
+        - And the Wookiees didn't mind your presence?
+        - You seemed on fairly peaceful terms with them.
+        - You helped them?
+        - Why didn't you stop the slavery of the Wookiees, then?
+        - It sounds like you enjoyed being a god.
+        - A few bruises?
+        - Wasn't it all a bit primitive for you?
+        - You spent two decades living like that?
+        - The Wookiees?
+        - **You sound quite fond of them.**
+        - Gardeners?
 
 # Back to Manaan
 
@@ -509,101 +676,14 @@
 	- They awoke a creature which fed on the kolto.
 - Replay paazak -> 1 time -> le mec va redire triche
 - Teleport back to Ebon
-	- Jolee (7/8)
-		- So when did you go to Kashyyyk?
-		- The Jedi just let you go?
-		- **With good reason, I imagine.**
-		- So that's when you went to Kashyyyk?
-		- You survived a crash-landing on Kashyyyk?
-		- Why didn't you just fix your ship and keep going?
-		- So you crashed... and stayed?
-		- How did you survive in the Shadowlands?
-		- It couldn't have been easy.
-		- You're completely insane, you know that?
-		- And the Wookiees didn't mind your presence?
-		- You seemed on fairly peaceful terms with them.
-		- You helped them?
-		- Why didn't you stop the slavery of the Wookiees, then?
-		- It sounds like you enjoyed being a god.
-		- A few bruises?
-		- Wasn't it all a bit primitive for you?
-		- You spent two decades living like that?
-		- The Wookiees?
-		- **You sound quite fond of them.**
-		- Gardeners?
 
-	- Juhani (6/6) -> now level 18 ! -> NO ???? FUCK
-		- I was wondering if we could talk.
-		- Tell me more about your past.
-		- **Why would I react badly?**
-		- Of course I remember.
-		- Well what?
-		- Revan?! You mean…
-		- Why did you tell me now?
 
-- Ithorak Quest
-- Go to Cantina (Est)
-- Sith retalk!! (SAVE)
-	- //This is a public street!
-	- You better change your attitude, or the Selkath might find your body floating in the ocean! (+2DSP)
-    - The Sith and I are exchanging meaningless taunts.
-    - **[Persuade] I'm sorry, constable. It won't happen again.** Medium
-- Talk to Sith
-	- Could I ask you a few questions?
-	- You mentioned the races.
-	- There are no racers you like?
-	- I have to leave. Goodbye.
-- Sith Base Entrance
-- Droid
-	- I heard the Embassy was attacked ? -> LOL response du droid
-- BUG : still can go in the Sith base
-- Go to swoop
-- Ithorak (SAVE)
-	- Who are you?
-	- You're wearing a Sith uniform. Are you with the Sith?
-	- Don't you think the Sith might take exception to that?
-	- Yes, I can see how it would be very stressful.
-	- …
-	- I need to meet with Ithorak Guldar. Can you set it up?
-	- [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
-- Queedle
-	- I just want to ask a few questions.
-	- I want to ask about you and racing.
-	- Is Manaan a good course for racing?
-	- How long have you been at this?
-	- What do you mean by that ?
-	- How much do you think you need?
-	- There's no way you can earn the money?
-	- **Here, I can give it to you.** +4PCL
-- When save/load -> il va vouloir rendre l’argent -> faire première race -> save load -> reparler -> no keep it. +2PCL
-- Go to console -< see times
-- Swoop -> Persuade -> 50c -> best at 22:50 then 22:48 -> if Ithorian helped
 
-![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
 
-- EZ Swoop ?
-	- 500 - 50c
-	- 2500 - 100c
-- Queedle
-	- You keep it. Use it for more upgrades. +2PCL (not tried on XBOX ?-> yes workd + get 500c back never mind)
-- Swoop last
-	- 5000 - 100c
-- Back to Ebon
-- Go out with T3 and HK -> go next hangar
-- Ithorak
-	- You don't need to do that. I won't cause any trouble.
-	- Personal feelings? Do you mean you don't like Ithorak?
-	- Okay, let's go in and see Ithorak.
-	- My buyer wishes to remain anonymous.
-	- Nothing specific. I'm just browsing on behalf of my patron.
-- Kill them all -> take geonosian sword for the droid
-- Loot le datapad -> sortir -> ranger armes -> renvoyer T3 et HK
 
-![KOTOR Guide-30](../resources/images/screenshots/KOTOR%20Guide-30.png)
 
-- Go rendre quête
-	- Ithorak Guldar is dead. -> gands -> strength +4
-	- Back later + 1000XP
+
+
 
 - Back to Ebon
 	- Go to Tatooine -> Mission + Canderous + Hunter
