@@ -439,8 +439,8 @@
 
 ## Go to Tatooine
 
-- Go out with Canderous and Mission
-- Level up -> Mission equip with thunder bowcaster
+- Take and level up Canderous (15) and Mission (14 to 15)
+- Level up -> Mission equip with Chundar Bowcaster
 - Czerka -> Griff
 	- **// I’m not giving you the gland until I see some credits!**
 	- Here's the tach gland. Take it.
@@ -449,6 +449,8 @@
 	- **I don't need business advice from you, Griff.**
 - Talk to Mission (Griff gone)
 - Renvoyer Mission pour Zalbaar -> non trop chaud pour Z -> HK
+- Go to the dune sea
+    - Kill Wraids? before and after the talk? (still 300PX each)
 - Dunes (SAVE) -> 1800XP + XP du suicide lol !! sinon 50 +30 +30 en kill c’est tout
 	- You talk too much and do little.
 	- I think you both need to calm down.
@@ -462,29 +464,32 @@
 
 - Kill rodians
 - Talk Canderous -> need time
+- Go near the big truck -> assault of sand people
 - Kill Wraids (still 300XP * 4) but a lot easier
-- Level Canderous + HK ?
+- Level Canderous + HK (16)
 - Go toward San People Enclave
 - Behind dune 
 - Sand people -> kill -> easy with stasis
 - -> droid -> kill
 	- -> could add frag grenade to bike ? -> no less XP
-	- Re-prog droid -> HK -> 18 -> **8 parts **(WARNING 7 PARTS LEFT FOR MANAAN STAR MAP)
+	- Re-prog droid -> **6 parts needed** with the belt
 	- I've reprogrammed your droid, Vorn.
-- Rather hard to kill -> privilégier push++
+- 1105 PX
+- Rather hard to kill -> stasis++
 - -> get data pad 
 
 ![KOTOR Guide-21](../resources/images/screenshots/KOTOR%20Guide-21.png)
 
 - Back to Ebon -> à pied
-- Kill raids -> level up group (16)
+- Kill wraids -> level up!! (18)
+    - Shock power + 2hands+ !
 
 ![KOTOR Guide-22](../resources/images/screenshots/KOTOR%20Guide-22.png)
 
-- Czerka -> Gaffi Sticks -> Yavin ?
-- Hunter lodge -> sell wraids 24c -> no, Yavin
+- Hunter lodge -> sell wraids 24c -> no, Yavin? -> does not make sense...
 - Ebon
 	- Canderous -> ask again
+	    - What are your thoughts now?
     - Jolee (7/8)
         - So when did you go to Kashyyyk?
         - The Jedi just let you go?
@@ -508,29 +513,35 @@
         - **You sound quite fond of them.**
         - Gardeners?
 
-# Back to Manaan
 
-- Go out alone -> see Hulas
+## Back to Manaan
+
+- Go out alone (Juhani quest end does not trigger)
 - Hulas
 	- Zular Sentar is dead. (Dantooine) + Blaster + 500XP
 	- Vorn (Tatooine) + 1000XP + Stealth 
-- Back to Ebon
 
-# To The Manaan Star Map
 
-- Bastila + T3 -> level
-- Transit Back
+## To The Manaan Star Map
+
+- Take Bastila + T3 -> levelup 16
+    - Equip T3 with GenoHaradan Blaster
+- Go to the Republic Ambassy
+- Take the back door -> submarine
+- SAVE
 
 ![KOTOR Guide-23](../resources/images/screenshots/KOTOR%20Guide-23.png)
 
-# Hrakert Station
 
-- Repair parts needed : 5 + 5 - 3 - 3 
+## Hrakert Station
+
+- Repair parts needed : 5 + 5 - 3 - 3 = 4 -> 10 on XBox
+- Spikes needed ? 0 - 2 -> 14 on XBox (T3 is overpowered lol)
 
 ![KOTOR Guide-24](../resources/images/screenshots/KOTOR%20Guide-24.png)
 
 - 1
-- Loot
+    - Loot
 - 2 
 - Open door -> Mercenary
 	- Why? What happened?
@@ -541,10 +552,10 @@
 	- You call yourself a mercenary?
 - 3
 - Go to the computer -> T3 (SAVE)
-	- **Central Storage** -> Gas -> NO !!! Bug -> No XP for that -> not even the Selkath dead… -> En fait si…
-	- **West Storage **-> ok -> XP (should level up to 18)
-	- Don’t corrupt droid -> no XP -> items lost
-	- **Security Room** -> Deactivate Shield on Sentry Droid -> 170XP (180XP is level 18)
+	- **Central Storage** -> Gas
+	- **West Storage** -> Gas
+	- Don’t corrupt droid -> no XP -> items lost and kind of useless
+	- **Security Room** -> Deactivate Shield on Sentry Droid -> 180PX
 - 4
 	- Kill droids
 	- On the left -> EXIT door
@@ -553,9 +564,9 @@
 	- Go door -> sealed from other side (18)
 	- A droid can be repaired -> LATER
 	- Go back to 4
-	- Kill Selkath -> Get Master Jedi Robe + Crystal + 3 parts
+	- Kill 2 Selkath -> Get Master Jedi Robe + Crystal + 3 parts
 - 5
-	- Repair droid (5p)
+	- Repair droid (5parts (8left on XBox) +1170PX)
 	- Kill droids next room -> shield -> bastila use destroy droid
 	- Suivre droid -> kill the last droid
 	- Go back door on the right -> DEADLY MINE -> coffre avec anti requin + datapad
@@ -571,19 +582,22 @@
 	- **SAVE HERE** -> the droid can walk here
 	- Next -> corridor -> see on the left -> droids -> send T3 in solo mode
 	- SAVE 
-	- -> attention aux 2 mines -> mettre Awarness a fond avec Bastila et Revan
-	- Ouvrir la porte avec le T3 -> locked -> droid juste derrière 
-	- Avancer avec Revan 1er droid -> contrôler B pour ne pas marcher sur les mines !! -> 2nd droid
-	- Déminage -> commencer par la mine vers T3 et le droid réparé -> sinon le droid réparer va marcher dessus
-	- Disable solo mode
+        - -> attention aux 2 mines -> mettre Awarness a fond avec Bastila and PC
+        - Ouvrir la porte avec le T3 -> locked -> droid juste derrière 
+        - Avancer avec Revan 1er droid -> contrôler B pour ne pas marcher sur les mines !! -> 2nd droid
+        - Déminage -> commencer par la mine vers T3 et le droid réparé -> sinon le droid réparer va marcher dessus
+        - Disable solo mode
 	- Rejoindre T3 -> salle avec les Selkath -> kill loot
-	- faire les salles dans l’ordre 
-		- 1 ere -> une mine + sortie -> pour le retour
-		- 2 : locked -> loot
-		- 3 -> autre sortie -> ATTENTION MINE + ENNEMY -> solo with player -> 3 selkath sur XBOX ??? -> peut etre side effect of level up
-		- Back to 1 -> exit
+	- faire les salles dans l’ordre (near T3 first)
+		- 1 ere -> 5 Selkaths
+		- 2nd -> Mine
+		- 3rd -> Locked
+		- 4th -> Mine + Selkath -> Solo mode !!!
+		- Go back to 2!
+    - Go outside
 
-# Underwater
+
+## Underwater
 
 - Left 
 	- Door -> locked
@@ -593,7 +607,10 @@
 	- What are you doing in the underwater section of the facility?
 	- You wait here - I'll go check it out.
 - Follow him -> nothing to loot around
-- Take the more far door -> better -> gas mask
+- Kill the fishs
+- Enter ther room -> kill -> loot -> nerve amplifier
+- Take the more far door (right) -> better -> gas mask
+- SAVE -> XBox crashing... -> mod among man26_*.dlg probably "exit"
 
 ![KOTOR Guide-25](../resources/images/screenshots/KOTOR%20Guide-25.png)
 
@@ -602,7 +619,7 @@
 - Kill Zelkath behind the mine
 - Get mine loot
 - Breath mask -> republic soldier
-- Meet guys en face -> will try to kill you
+- Meet guys en face -> will try to kill you (1spike)
 - Take breath mask -> go to console -> abort
 	- Calm down... everything will be okay.
 	- **You tried to kill me!**
@@ -619,14 +636,15 @@
 	- OK. I'll vent the toxin into the Rift to kill the giant shark.
 	- **I am not so sure...**
 	- I will try to destroy the harvesting machine.
-- Go left -> kill Selkath -> WARNING MINE -> TAKE EQUIPMENT -> level up
+- Go left -> kill Selkath -> WARNING 2 MINES!!! -> TAKE EQUIPMENT -> level up
 - Go right -> loot
 - Retalk ? NO -> bug
 - Go outside
 
 ![KOTOR Guide-26](../resources/images/screenshots/KOTOR%20Guide-26.png)
 
-# Manaan Star Map
+
+## Manaan Star Map
 
 - Kill 2 Firaxan
 - Computer
@@ -638,11 +656,14 @@
 	- Transfer from container to injector.
 	- Fill container pod.
 	- Transfer from container to injector.
+- 1500PX
 - Star map
+- Go back -> take the door on the right
 
 ![KOTOR Guide-27](../resources/images/screenshots/KOTOR%20Guide-27.png)
 
-# Back to Surface
+
+## Back to Surface
 
 - Sith Lord happened !
 - Darth Bandon -> the guy who killed Trask Hulgo at the beginning of the game !!!!
@@ -663,7 +684,7 @@
 	- **A few scientists have survived.**
 	- The harvesting machine was destroyed.
 	- Yes I did!
-- Outside -> Selkath
+- Outside -> Selkath Police
 	- Very well. I will come peacefully.
 	- …
 	- The explosions were at the research station both our governments set up there.
@@ -674,50 +695,14 @@
 	- Yes - they're sending them down to a secret base on the Hrakert Rift.
 	- They couldn't. They had lost contact with the science facility.
 	- They awoke a creature which fed on the kolto.
+	- The creature is alive.
 - Replay paazak -> 1 time -> le mec va redire triche
 - Teleport back to Ebon
 
 
-
-
-
-
-
-
-
-- Back to Ebon
-	- Go to Tatooine -> Mission + Canderous + Hunter
-	- Fighters on XBox…
-- Tatooine
-
-	- Go back to Manaan -> NO need to go back to dantooine before leviathan !
-
-- Go out alone -> rendre quêtes
-- Hulas
-	- Vorn Daasraad is dead.
-	- + 1000XP + stealth unit +8
-- Back to Ebon -> improve and Talk with Jolee
-
-		- NOW READY WITH JOLEE !
-- Go out with Bastila and T3 -> level up 
-	- -> or **Juhani instead **?? -> meet guy
-- Go by foot
-- Xor -> Break last Juhani discussion if not done (6/6)
-	- Just ignore him, Juhani.
-	- We should just leave, Juhani.
-	- She is her own person.
-	- Calm down, Juhani.
-	- You bought Juhani?
-	- She is not for sale!
-	- There is no emotion… 
-- Renvoyer Juhani -> “se reposer”
-
-
-# Ebon Hawk - 4th SM
-
+## Ebon Hawk - 4th SM
 
 - Improve -> Take now bigger red LS 
-- Juhani -> comment
 - Jolee (8/8) -> REVEAL!
 	- So if you liked Kashyyyk so much, why did you want to leave?
 	- I find it hard to believe you left the Wookiees just for some adventure.
