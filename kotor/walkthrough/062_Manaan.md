@@ -714,4 +714,5 @@
 - Carth -> Talk
 - OPTIONNAL : Make everyone look great for the next cut scene !
 	- Carth -> Use armor of Bandon
-- Go to Koriban
+- Go to Kashiik (to finish the quest)
+- You will be tracked by the Leviathan!
