@@ -3,6 +3,7 @@
 ## Dreshdae
 
 - Dream about the star map...
+- Equip Sith Master Robe (Bastila's one? -> don't have it on XBox) -> take dark jedi robe
 - Leave the Ebon Hawk
 - //Juhani (level up 16 to 17) + Carth
 - Take Canderous and Jolee -> funny lines
@@ -108,7 +109,7 @@
 - Kill him -> 2nd medalion
 - Go back to Ebon Hawk
 - Go loot the Spice
-- Leave the Ebon Hawk -> take Carth + Juhani
+- Leave the Ebon Hawk -> take Carth + T3 for his skills (level up 17 + equip)
 - Czerka office
     - prospective Sith (SAVE) -> Carth BAnther
         - So? What does that mean?
@@ -124,6 +125,196 @@
     - Where can I find this Motta?
     - Make it 3000 credits and we have a deal.
     - Alright. I'll do it.
-- See Yuthura Ban at the back of the Cantina
+- See Yuthura Ban at the back of the Cantina (SAVE)
     - Why do you want to know?
-    - 
+    - [Persuade/Lie] One of the other Sith accepted me into the academy. EASY (or similar)
+    - What difference does it make?
+    - [Lie] Yes, it does. I wish to become a Sith. (YOU HAVE TO LIE TO NOT GET DSP...)
+    - They are slaves. Don't worry about them.
+    - Yes, I am.
+    
+    
+## The Sith Academy
+
+- Sith Trainer ask you questions
+    - I know that the Sith are powerful. A force to be reckoned with.
+    - And what of my companions?
+    - I am ready to learn more.
+- Loot in your room
+- Go see Yuthura Ban (in the next room)
+    - Your favorite prospect?
+    - Absolutely.
+    - What's so important about this tomb?
+    - +500PX
+    - You want me to kill Master Uthar?
+        - **What's to stop me from telling him about this?**
+        - **And what's your part in this?**
+        - How do I know this isn't some test?
+        - Very well. I agree.
+        - +500PX
+    - How do I get more prestige?
+        - Yes, go on.
+        - Yes, go on.
+    - Can you tell me about the Code of the Sith?
+        - +125PX
+        - 'Peace is a lie, there is only passion'?
+        - 'Through passion, I gain strength'?
+            - What about love?
+            - Those seem like awfully negative passions.
+            - Are you saying we aren't anything more than a rudimentary creature?
+            - The Jedi say the opposite. How can both be right?
+            - I see.
+        - 'Through strength, I gain power'?
+        - 'Through power, I gain victory'?
+        - 'Through victory, my chains are broken'?
+            - You don't think the Sith'ari can exist?
+        - 'The Force shall free me'?
+        - I think I got it.
+    - I want to know more about these ruins on the surface.
+        - Is there any way into the tomb of Naga Sadow?
+        - There's no other way inside?
+        - Why are the Sith so interested in these ruins?
+        - I've heard enough.
+    - **What do you know about Darth Revan?** (after Leviathan)
+        - That's the one.
+        - Do you think it's possible Revan might be alive?
+        - **So you wouldn't recognize Revan if the two of you met?**
+        - You mentioned that Revan came here before?
+        - That's all I have to ask.
+    - Tell me about yourself.
+        - You mentioned you were from Sleheyron... -> LATER
+    - I'll be going.
+- Right -> room of Uthar Wynn -> locked -> T3 -> LATER (Carth will not talk otherwise)
+- Next room (in front of your corridor)
+- Meet Kel Algwinn (praying) (SAVE)
+    - Is something wrong?
+    - Are you sure?
+    - **I can't persuade you to tell me?**
+    - Are you saying you're not a Sith?
+    - Well, how did you mean it, then?
+    - [Persuade] Sure you can. EASY
+    - **If it doesn't feel right, then perhaps you don't belong here.**
+    - **Have you thought about the Jedi?** (+3LSP)
+- Next room -> loot
+- corridor Right then left
+- Meet Lashowe (SAVE)
+    - Who are you?
+    - You're trying to become a Sith as well?
+    - And what way is that?
+    - Why haven't you brought it to Uthar yet?
+    - Where is this artifact?
+    - It's guarded, isn't it?
+    - [Lie] Maybe I could help you get it? 
+    - [Persuade] I've always wanted to work with a beautiful woman. EASY
+    - And I'm just supposed to trust you?
+    - Why do you think this holocron is so important?
+    - What is a holocron?
+    - See you there.
+- she leaves +125PX
+- Next room
+    - Who are you?
+    - You want to make an issue out of it?
+- Other corridor
+- Mekel
+    - What makes you so sure?
+    - [Persuade] You can at least give me a hint. (Hard but can retry)
+    - You just found that out, did you?
+- Next room: Dustil!!
+    - Does it matter? We're here.
+    - **Calm down, Dustil. Carth is only trying to protect you.**
+    - ...? -> will need to convice him
+- // Talk with Carth
+    - // Dustil?
+- Go see the Sith Master in the central room
+    - How do I gain prestige? (Carth comment)
+    - I have something to tell you about Yuthura...
+    - She wants me to help her kill you at the final trial.
+    - I know the Code of the Sith.
+        - Passion.
+        - Strength.
+        - Power.
+        - Victory.
+        - ...my chains are broken.
+        - _Tell me, then, true or false: it is our passion that fuels the Force._
+            - True.
+        - _Tell me then, true or false: there is nothing worse than love._
+            - False.
+        - _Tell me then, true or false: victory by any means is desirable._
+            - False.
+    - I want to know some more about you.
+    - I'll be on my way.
+- +735PX
+- Go near the Valley (north)
+- Andrenas (should be a twi'lek -> actually no)
+    - Who are you?
+    - So you aren't a Sith?
+    - **Master Uthar gave me this datapad for you.**
+- Sith Teacher
+    - Who might you be?
+    - Final test?
+    - Do you know how I can get some prestige?
+    - No. Who's Jorak Uln?
+- The other guy
+    - Who are you?
+    - **You're human, but you speak like a Twi'lek...**
+    - How do I get to this valley?
+    - What are these tuk'ata?
+    - What can you tell me about the valley?
+    - What are these shyrack?
+    - I'll be going.
+- Loot the lockd chest
+- Other side of the room
+- Talk to the guy master
+    - Who might you be?
+    - Yes. Can you help me?
+    - The students who refused to kill for Master Uthar?
+- Loot near the light saber training
+
+
+- Go back to your room to see Yuthura Ban
+    - I have some news about Uthar...
+    - He plans to have me fight you in the final test.
+    - [Persuade/Lie] No, of course not. -> nevermind the outcome
+    - [Lie] He wants you poisoned. I don't know how, though.
+- She gives you the key to his room
+- Right
+    - Loot -> datapad -> Dustil (useful later when meeting here)
+    - Loot locked chest
+    - Place the device under his bed -> level up Carth (18)
+- Dustil -> give him the datapad
+    - +6LSP
+- Talk with Carth
+    - Dustil?
+- Go outside (SAVE)
+
+
+## The Shyrack Caves
+
+- Call Juhani instead of Carth
+- Kill the bats -> go in the cave
+- First intersection right
+- Kill
+- Next -> left (we gonna make a loop to go right after)
+- Kill
+- Left
+- Kill
+- Kill one beast at the corner (level up party (18))
+- Left again -> next intersection -> where you came
+- Loot a corpse
+- Left -> right (straight is outside of the cave)
+- Right -> recover mine
+- Sith (SAVE)
+    - Go back? What are you talking about?
+    - You're... the renegade students? The ones who ran away?
+    - Maybe I can help you.
+    - [Persuade] Give me a chance and I'll prove it to you. (EASY)
+    - I can try.
+- Loot corpse
+- Recover the mine behind them
+- ANother mine
+- Left -> then bridge -> beast -> equip all agains slashing
+- +700PX
+- Kill bats
+- Loot  north -> Quel Droma's robe (equip) + massassi armor
+- 
+    

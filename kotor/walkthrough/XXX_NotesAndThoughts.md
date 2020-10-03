@@ -142,3 +142,4 @@ Bastila has NO LINES on Koriban
         - Tell me about Sunry. How do you know him?
 - 
 
+- Never Equip the Sith Master Robe to Bastila
