@@ -140,6 +140,9 @@ Bastila has NO LINES on Koriban
         - We could check into it when we're on Manaan next.
     - Retalk
         - Tell me about Sunry. How do you know him?
-- 
+ 
 
 - Never Equip the Sith Master Robe to Bastila
+
+
+- Juhani -> Finish Xor before Korriban

@@ -316,5 +316,174 @@
 - +700PX
 - Kill bats
 - Loot  north -> Quel Droma's robe (equip) + massassi armor
+- Take the bridge again
+- Go on the right -> the left
+    - respawn trigger
+    -> kill monster (path you didn't take before)
+    - (left)
+    - left again -> to come back in direction of the bridge
+    - kill 4 respawned Shyrack Raptors 
+    - LEVEL UP: 20!!! -> now the goal is to reach Master of the Light Side ! and level up party members!
+- Right to go see the sith renegades
+    - **It's clear. You're free to go.** +6LSP
+- Leave the Cave
+
+
+## The Valley of Dark Lords
+
+- Go north
+- Site de fouilles -> Dak Vesser -> talk with Juhani
+    - Who are you?
+    - I take it you two know each other?
+    - What can you tell me about these ruins?
+    - Made any unusual findings?
+    - The tombs are dangerous?
+    - What can you tell me about these tombs?
+        - Tell me about the tomb of Ajunta Pall.
+        - Tell me about the tomb of Tulak Hord.
+            - The tuk'ata?
+        - Tell me about the tomb of Marka Ragnos.
+        - Tell me about the tomb of Naga Sadow. -> left far -> Star Map ?
+            - What did he find? Do you know?
+    - I have to go.
+- Can't talk to Juhani -> still on Xor... -> ask later
+- First Tomb on the right
+
+
+## Ajunta Pall's Tomb
+  
+- Galon Lor
+    - Who are you?
+    - Why not? Aren't there records?
+    - What are you doing here?
+    - Who is Ajunta Pall?
+    - His sword?
+    - Hasn't any effort been made to recover it?
+    - What makes the tombs so dangerous?
+    - Why don't you go in, then?
+    - Are you a coward, then?
+    - What do you know about the sword's powers?
+    - I've got to be going.
+- Door -> Mine
+- Locked door -> T3
+- Beasts kill
+- Loot Sith corpse -> datapad
+- Next room -> loot on the right
+- Droid platform -> can open
+- Arm with datapad on the floor -> suggests to explode the structures
+- Put grenade in structure
+- Droids wakeup
+    - Kill will force powers
+- _Leveler ?_
+- Open the locked door next
+- Mine! (SAVE)
+- Open the tomb -> loot -> Ajunta Pall appears -> Juhani talks
+    - **[Persuade] I was here once before, I think. Do you remember me?** (after Leviathan)
+    - Are you... Ajunta Pall?
+    - You were a Sith Lord? From the ancient times?
+    - What do you mean by 'those we had betrayed'?
+    - What can you tell me about this place?
+    - What do you mean? Came from where?
+    - **[Persuade] Tell me the secret.** (NEVER WORKS)
+    - Why? What is at this place?
+    - How did you fall? What happened?
+    - The Sith fled, yes. And they returned.
+    - This secret... is it the Star Map?
+    - I need this sword you speak of.
+    - What do you want me to do with it?
+    - And if the sword isn't yours?
+    - How will I know which sword it is?
+- You need to choose the right sword -> look at the description
+- It is the Notched Steel Sword
+- Loot one corpse
+- Statue
+    - [The notched steel sword.]
+- Go back to him (SAVE)
+    - There's no need to remain here, is there?
+    - You can return to the light side and end your torment.
+    - [Persuade] I don't believe the light side would turn you away. You have suffered long enough. (HARD or Medium)
+- +6LSP + 1000PX + SWORD -> best for later
+- Go back
+- Shaardan is waiting for you
+    - Shaardan? What do you want?
+    - [Persuade/Lie] I don't know what you're talking about. What sword? (IMPOSSIBLE)
+    - And if I don't?
+    - What are you going to give me for it?
+    - You'll take it over my dead body.
+- Kill him + loot
+- Leave
+- Next tomb: Marko Ragnos (on the other side)
+- Loot on the way
+
+
+## Marko Ragnos Tomb
+
+- Talk to Sith Suddent
+    - **They're all dangerous.**
+    - Why don't the Sith do something about it?
+    - Where did it get all these droids?
+    - This droid went insane, you say? -> SOUND SUPPRESSOR!!!
+    - Are you going inside?
+    - Thanks. I'll be going.
+- Equip Juhani with Sealth belt (GenoHaradan +8)
+- Enter (SAVE)
+- Don't step on any mine!!
+- Kill the 2-3 firsts droid with Juhani (solo mode)
+- Juhani solo -> kill all droids with powers -> avoid mines
+- Sealth to open the door
+- Droid welcome you
+    - You are... the 'master' the droids kept referring to?
+    - Why aren't you attacking me like the others?
+    - You are programmed to kill but don't want to?
+    - How is it that the Sith haven't found you here?
+    - How do I know this isn't some kind of trick?
+    - You... appreciate the value of life?
+    - What kind of assistance do you want?
+        - And if I refuse?
+        - What's the catch?
+        - And what do I get for helping you?
+        - Very well. I'll do it.
+    - What happens if I make a mistake?
+        - How hard is it to re-initialize the sequence?
+        - What systems do you have?
+        - I need some assistance.
+    - Yes.
+    - Alright. Let's begin.
+        - Combat Matrix
+        - Motor Function Matrix
+        - Sensory Systems Matrix
+        - Memory Matrix
+        - Cognitive Systems
+        - Emotional Construct Matrix
+        - Creative Simulation Matrix
+        - Core
+    - [Delete assassination programming.] (LS) +4LSP
+        - [Activate the droid's self-destruct sequence.] (DS)
+- +1000PX
+- Open sarcophagus -> locked -> T3
+    - Crystal Sigil + DS gautlets
+- 3 locked doors -> contains assault droids... when you do some noise
+- Go back take mines (3)
 - 
+
+
     
+    
+    
+    
+- Transit back to the Ebon Hawk
+- Juhani -> Xor appears at the Ebon Hawk
+    - He doesn't have long, Juhani.
+    - Just ignore him.
+        - **You could kill him now.** (DS)
+    - This isn't going to work.
+        - **We should just kill you now.** (DS)
+    - Do not give in Juhani. You are stronger than this.
+    - Do not do it, Juhani.
+    - Just step away.
+- Juhani
+    - What you did was best.
+- Juhani (ask about Dak)
+    - I was wondering if we could talk.
+    - Tell me about this Dak Vesser.
+    - But you didn't love him?
