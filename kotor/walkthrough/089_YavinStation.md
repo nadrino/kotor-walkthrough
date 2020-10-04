@@ -12,9 +12,14 @@
 - https://www.gamebanshee.com/starwarskotor/sabercrystalsguide.php
 - https://www.reddit.com/r/kotor/comments/b71nhf/heart_of_the_guardian_vs_mantle_of_the_force/
     - Mantle of the Force -> Blue-Cyan
-        - For Juhani
+        - For Juhani?
     - Heart of the Guardian -> Red-Orange
         - For Red LS -> With Firkrann + Solari
 
 
+- Canderous
+    - Baragwin Heavy Repeating Blaster
+
 - 
+
+- Advanced Droid Interface -> can be cool (+7 everywhere...) 7200c
