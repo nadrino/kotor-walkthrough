@@ -76,7 +76,7 @@
 - Go outside
 
 
-## Sith Accademy Entrance
+## Sith Academy Entrance
 
 - Talk to Mekel
     - Are you one of the Sith from the academy?
@@ -548,16 +548,41 @@
     - Why can't you?
     - And if I make the wrong choice?
 - END Carth (male PC)
-- Go out with Carth + T3 -> coherent to go back in the Accademy incognito
+- Go out with Carth + T3 -> coherent to go back in the Academy incognito
 
 
-## Back in the Accademy (Naga Sadow Tomb)
+## Back in the Academy (Naga Sadow Tomb)
     
-- Go to the accademy training room!!!
-
-
-
-
+- Go to the academy training room (corridor on the right)
+- Right -> dueling room
+    - What kind of dueling are you talking about?
+    - That's barbaric!
+    - You mean... we can kill any of the prisoners here?
+    - What do I need to do?
+    - I challenge you to a duel.
+    - [Persuade] All of the captives here need to be released.
+- T3 -> console
+    - [Computer] Slice the console. (1 spike)
+    - [Computer] Hack into the academy's security cameras.
+    - [Computer] Hack into the academy's datafiles.
+    - [Computer] Reprogram academy sentry droids to hunt a target. -> will fail but ok
+    - [Computer] Attempt to open all cages and free the prisoners. (50 spike(s)) -> idem
+- +400PX
+- With PC -> console -> Try to free a prisoner
+- Combat anyway
+- Loot with T3
+- Interogation room
+    - What are you trying to do?
+    - How do you drug him?
+    - You want me to try it?
+- Loot T3
+- Equip interface visor + utility belt to higher Computer skills -> 21
+- Computer (SAVE)
+    - Can you speak Galactic Basic?
+    - [Whisper] Do you know any way I could free you?
+    - [Persuade] Trust me... I'll help you if I can!
+    - [Activate the serum console.]
+    - [Computer Skill] [Apply a serum to induce catatonic state.
 - Talk to Uthar Wynn
     - I dealt with those renegade students.
         - [Lie] It's done. They are... gone.
@@ -618,22 +643,89 @@
 
 
 - Loot the Light Saber behind
-- Go back to the river
+- Go back to the river (SAVE)
     - The Sith are not the only ones who fight and take risks.
     - Are you saying a Jedi couldn't have gotten the lightsaber?
     - I wouldn't say I exerted myself getting this.
     - I don't believe you. I don't feel superior to anyone.
     - And if I'm not?
     - I think I understand.
-- You will Side with Yuthura -> better +6LSP (instead of 4) -> no ? -> SIDE WITH NOPODY
-    - Sorry, Uthar... I'm with Yuthura on this one.
-- Kill
-    - Typical. I knew this was coming.
-- Kill
-    - You ask for mercy? You, a Sith?
-    - Go on. Get out of here. (+4LSP)
-    - I'm showing you mercy. Don't push it.
+- Don't ally :)
+    - **You're both mistaken. I choose me.** (+4DSP?) -> nope
+    - I would never become an evil Sith. I came for the Star Map. (+4LSP)
+- Kill both
+- SAVE
 - loot and follow her to the exit
 
 
-## Exit
+## The Academy Slaughter
+
+- Go back to the academy alone
+- 3 Sith will be waiting for you near the entrance
+    - [Persuade] I am Revan. I have killed the master. You must bow down before me. -> impossible
+    - I am not lying, fool. Do you wish me to show you?
+- Enter!
+- Kill everybody (quickly -> need to gather your team -> Carth will be hit hard alone...)
+- DONT Go back to Deashdae yet!!! -> the door will autolock!
+- Go to the Valley kill the rest !
+- Go back to Deashdae now
+- Kill Sith guard
+- Enter the station
+- Bar -> Dak Vesser
+    - How do you know Juhani?
+    - Why are you leaving, exactly?
+    - But where will you go?
+- Go back in the Ebon Hawk
+
+
+## The Mysterious Box
+
+- Go to the box...
+- Open it
+- Am I dead..?
+    - 60FPS on XBox ! :)
+- Talk to the only creature here...
+    - I'll have to do for what?
+    - This is a prison?
+    - What did you do to get imprisoned here?
+    - You said "three in a row" earlier. Have there been others besides me?
+    - Is there no way out of here?
+    - Out? Out to where? If you get out of here, your body's probably dead.
+    - Look... you are *not* getting my body.
+    - Forget it! Tell me how to get out! NOW!!
+    - This sounds deceptively simple.
+    - How do I know I could trust you?
+    - It only takes once.
+    - What kind of competition do you mean?
+    - I'd rather a more physical challenge.
+    - And what's to stop you from cheating?
+    - I don't seem to have much of a choice.
+    - **Time**
+    - "If you break me, I do not stop working.
+      If you touch me, I may be snared.
+      If you lose me, nothing will matter."
+    - **Tomorrow**.
+    - "What has roots as nobody sees, is taller than the trees,
+      up up it goes and yet it never grows."
+    - **A grave.**
+    - "You heard me before, yet you hear me again,
+      Then I die, until you call me again."
+    - **A flame.**
+    - "You can see nothing else when you look in my face,
+      I will look you in the eye and I will never lie."
+    - Before I go, what's your name?
+    - I could try to find some other way to get you out of here.
+    - I could destroy your prison once I'm out... if you wish.
+    - Don't worry. I'm sure someone else will be along before you know it.
+    - Right. Get me out of here, and don't do anything funny.
+- You come back!!!
+- Go to Tatooine to deliver the box
+- Take Carth with Jolee (level up 18) (a last Banther is wiched..)
+- Go to Swoop registration (SAVE)
+    - I have a box for you. Sent by Lurze.
+    - I did. It was... very interesting.
+    - [Persuade] I expect a little more for transporting dangerous goods. (Medium)
+- 2500c + 500PX
+- Back to the Ebon Hawk
+- Go to Yavin
+    

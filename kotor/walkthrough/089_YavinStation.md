@@ -1,0 +1,20 @@
+## A Last Stop On Yavin
+
+- Go see Suvam Tan -> talk to him -> enemy appears
+    - Get away from Suvam!
+- Kill (HARD!)
+- Levelup Party (19) during fight
+- SAVE
+- Now we will buy
+
+
+- New Crystals -> colors -> but improve the other crystal in your sabers
+- https://www.gamebanshee.com/starwarskotor/sabercrystalsguide.php
+- https://www.reddit.com/r/kotor/comments/b71nhf/heart_of_the_guardian_vs_mantle_of_the_force/
+    - Mantle of the Force -> Blue-Cyan
+        - For Juhani
+    - Heart of the Guardian -> Red-Orange
+        - For Red LS -> With Firkrann + Solari
+
+
+- 
