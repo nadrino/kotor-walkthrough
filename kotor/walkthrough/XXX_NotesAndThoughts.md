@@ -145,4 +145,4 @@ Bastila has NO LINES on Koriban
 - Never Equip the Sith Master Robe to Bastila
 
 
-- Juhani -> Finish Xor before Korriban
+- Add talk to the guard that block the Sith accademy entry on Korriban

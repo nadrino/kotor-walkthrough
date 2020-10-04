@@ -464,13 +464,62 @@
     - Crystal Sigil + DS gautlets
 - 3 locked doors -> contains assault droids... when you do some noise
 - Go back take mines (3)
-- 
+- Leave
+- Talk to the Sith
+- Go toward the 2nd Tomb on the left
+- Talk to Lashowe -> DS?
+    - And how can I be sure of that?
+    - I want some kind of guarantee.
+    - Wait. We'll go to Master Uthar together.
+    - The plan's changed. Give me the holocron.
+    - The 'plan' was we both get the credit.
+    - No more arguing. We take it back together. (NO DS POINTS!!!)
+- +500PX (quest) +450PX kill here +1000PX
+- Loot + Enter Tulak HOrd Tomb
 
 
-    
-    
-    
-    
+## Tomb of Tulak Hord
+
+- Take the mine
+- Repair droid (3 part for full opti with T3-M4!)
+    - +1300PX
+- Kill the Tuk-Ata at intersection
+- Go right first (leave the droid and party to finish the Tuk-Ata)
+- Kill take mine loot
+- Go back other path -> mine
+- Kill the Tuk-Ata downstairs
+- Computer -> loot corpse behind
+- Open door with computer
+- You get captured (by Jorak Uln)
+    - I demand to be released at once!
+    - No, never heard of you.
+    - Look... I'm sure we can talk about this...
+    - And if I pass your test?
+    - What if I refuse to take your test?
+    - You're a madman!
+    - Go ahead. Do your worst.
+    - What if Mekel dies? (3 right answers -> Mekel dies)
+    - (LS) (remember you can't be killed...)
+        - I use the opportunity to kill him and take his position. (RIGHT1)
+        - I refuse to answer this. (WRONG2)
+        - I keep it to myself. (RIGHT2 -> last after he dies!!)
+        - Forget it. I'm not playing along. (WRONG2)
+        - I won't give you the satisfaction of an answer. (WRONG3)
+- Kill him! (SAVE)
+    - (LS)
+    - Nobody deserves to die like that. Nobody.
+    - [Persuade] This could be your chance to change your ways, Mekel. (EASY) -> Juhani Comment
+    - +6LSP!
+- Loot the corpse
+    - This thick stone tablet is covered with ancient runes of an unknown language. It is extremely cold to the touch and has almost a sinister aura about it.
+    - prestige+
+- Loot/Unlock with T3
+- Tulak HOrd's MAsk (DS)
+- Go back and leave
+
+
+## Back in the Ebon Hawk
+
 - Transit back to the Ebon Hawk
 - Juhani -> Xor appears at the Ebon Hawk
     - He doesn't have long, Juhani.
@@ -481,9 +530,110 @@
     - Do not give in Juhani. You are stronger than this.
     - Do not do it, Juhani.
     - Just step away.
+- Go in the Ebon Hawk
+- Improve you LS
+    - Violet -> Opila + Krayt Dragon
+    - Red -> Jenruax + Firkrann
+- Go see the Misterous box in the trunk... Very tempting -> Not now !
 - Juhani
     - What you did was best.
-- Juhani (ask about Dak)
+- Juhani (reask about Dak)
     - I was wondering if we could talk.
     - Tell me about this Dak Vesser.
     - But you didn't love him?
+- End with Juhani!
+- Carth (male!)
+    - I think it's time we talked about me being Revan, don't you?
+    - And?
+    - Why can't you?
+    - And if I make the wrong choice?
+- END Carth (male PC)
+- Go out with Carth + T3 -> coherent to go back in the Accademy incognito
+
+
+## Back in the Accademy (Naga Sadow Tomb)
+    
+- Go to the accademy training room!!!
+
+
+
+
+- Talk to Uthar Wynn
+    - I dealt with those renegade students.
+        - [Lie] It's done. They are... gone.
+    - I dealt with the rogue droid in the tombs.
+        - [Lie] I tampered with him. He no longer functions as he did, and will not return.
+    - I found Jorak Uln, the 'hermit' in the hills.
+        - I have a tablet written by Jorak Uln.
+- You return to your quarters (+540PX)
+- Talk to Yuturaban
+- Go see Uthar Wynn
+    - What is this final test?
+    - What is this tomb of Naga Sadow?
+    - I am ready to go.
+- ... You travel to the Naga Sadow Tomb
+    - I don't understand... why not just give me the saber?
+    - Can you tell me anything about what I will face?
+    - Can I leave the tomb?
+    - Find the Star Map. Return with the lightsaber. I understand.
+- You are now alone
+- Go down stairs, straight
+- Careful to the mine!
+- Kill the 3 wraids first -> then take the mines
+- Go west
+- Loot the corpse
+    - Suggest for stealth -> no, strong enough
+- Kill the 2 monsters
+- loot Shaela Nuur journal (skeleton)
+- Get the deadly mine
+- The door is locked...
+- Take the leveler in the room corner
+- Loot the pilar of fire -> special fire grenade
+- Other side -> special ice grenade
+- Go back in the other corridor (east)
+- Loot the corpse in the room
+- Computer (can only move upper ring + ring can't be moved under another)
+    - Left -> Middle
+    - Left -> Right
+    - Middle -> Right
+    - Left -> Middle
+    - Right -> Left
+    - Right -> Middle
+    - Left -> Middle
+    - Left -> Right
+    - Mid -> Right
+    - Mid -> Left
+    - Right -> Left
+    - Mid -> Right
+    - ...
+- SAVE
+- Open door
+- Kill -> avoid the mine -> get the mine after
+- Get the poison blade
+- Go back, go south
+- River -> Ice grenade
+- Cross
+- Get the deadly mine
+- Open the Tomb door -> Star Map! -> NOW COMPLETE
+
+
+- Loot the Light Saber behind
+- Go back to the river
+    - The Sith are not the only ones who fight and take risks.
+    - Are you saying a Jedi couldn't have gotten the lightsaber?
+    - I wouldn't say I exerted myself getting this.
+    - I don't believe you. I don't feel superior to anyone.
+    - And if I'm not?
+    - I think I understand.
+- You will Side with Yuthura -> better +6LSP (instead of 4) -> no ? -> SIDE WITH NOPODY
+    - Sorry, Uthar... I'm with Yuthura on this one.
+- Kill
+    - Typical. I knew this was coming.
+- Kill
+    - You ask for mercy? You, a Sith?
+    - Go on. Get out of here. (+4LSP)
+    - I'm showing you mercy. Don't push it.
+- loot and follow her to the exit
+
+
+## Exit
