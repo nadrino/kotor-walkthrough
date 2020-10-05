@@ -538,7 +538,7 @@
 - Repair parts needed : 5 + 5 - 3 - 3 = 4 -> 10 on XBox
 - Spikes needed ? 0 - 2 -> 14 on XBox (T3 is overpowered lol)
 
-![KOTOR Guide-24](../resources/images/screenshots/KOTOR%20Guide-24.png)
+![KOTOR Guide-24](../resources/images/maps/manaan/manStarMap.png)
 
 - 1
     - Loot
