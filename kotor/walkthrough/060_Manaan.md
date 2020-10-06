@@ -20,6 +20,9 @@
 	- …
 	- Have you seen an ancient Star Map?
 	- Never mind. I must go.
+	
+![](../resources/images/maps/manaan/manAtho1.png)
+	
 - Go left -> Talk to republic soldier
 - Jolee -> proposition (1/8)
 	- You never did actually say why you decided to come with me...
@@ -69,7 +72,6 @@
 ![KOTOR Guide-12](../resources/images/screenshots/KOTOR%20Guide-12.png)
 
 - Accueil
-	- //Pathetic laws of pathetic fish don't concern me.
 	- What are the rules, exactly?
 	- That's it? Only two laws?
 	- How can you be neutral when the Sith are trying to conquer everything?
@@ -164,7 +166,9 @@
 	- That was the day you what?
 	- Your wife? You were married?
 - Transit Back
-- Go to East Central
+
+
+- Go to East Central alone
 - Hulas 
 	- That's a rather strange greeting.
 	- Answers? Answers to what?
