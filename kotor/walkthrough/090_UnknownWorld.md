@@ -220,13 +220,10 @@
     - Who are you?
     - I was sent by the Council to save you.
 - +1000PX (useless now!)
-- back to the Ebon Hawk (kill remaining rancors on the way back)
-- Improve LS against droids
-- Go out with Jolee and Juhani (level up 20)
-
-## Temple
-
-- Go back to the elder camp
+- //back to the Ebon Hawk (kill remaining rancors on the way back)
+- //Improve LS against droids -> Possible in the temple
+- //Go out with Jolee and Juhani (level up 20) -> NO ! They will come later by they own.
+- Go back to the Elders camp
     - I've done my part. Now you have to honor our agreement.
     - ...
     - Looks like we'll be working together, then.
@@ -235,11 +232,143 @@
     - I'm ready
     - There's dark Jedi inside the Temple? How did they get in there?
 - (the researcher quest will be finished after the temple)
-- Go to the temple
-- Jolee and Juhani -> leave to the Ebon Hawk
-- they will come back
+- Go back to the Ebon Hawk
+    - Improve the LS against Dark Side + Droids
+- Go to the temple alone
+- Jolee and 
     - What are you doing here?
     - Jolee - you can't come! The Rakata won't allow it.
     - I'm not going in alone after all. Lower the shields.
     - [Persuade] I cannot destroy the Star Forge alone. They must come with me into the Temple. (EASY)
 - You enter -> cinematic
+
+## Temple
+
+- Massive door in front is locked
+- Start by going on the left (north) (suggested by the path of a droid)
+- First door -> one Sith -> loot -> leave
+- Corridor with the sea on your left -> 2 droids
+    - Take Juhani to kill the droids with her power
+- First door on the right -> droid + sith -> loot
+- Second door on the right -> same -> but there is a door in the back! -> Come back first
+- Computer room
+    - View South Security Computer Room.
+        - [Computer] Overload computer power conduit. (+400PX + kill PX)
+    - View Armory exterior.
+        - **[Computer] Unlock armory security door**. (+300PX)
+    - // Other options are either no XP giving or no very useful (regarding the spikes cost)
+- Go back to the previous room -> open the back door
+- Meet 2 sith guards
+    - I am Revan no longer. I serve the light and the Jedi Council now! (+2LSP)
+        - Take the other choice for DSP
+- Room on the right: Sith Master -> kill
+- Back door is the armory -> should be unlocked
+- Loot everywhere
+- Improve LS of Jolee or Juhani
+    - Equip the updari crystal just looted on your red LS (replacing droid bonus -> Juhani handle them)
+- Go on the other room (where were the sith guards)
+- 2 Deadly mines in front of the stones! -> equip belt + helmet + gaunlets
+- Loot the Sapith crystal (krayt perl like -> go to the workbench replace it in the violet LS) -> reequip
+- Next door on the left -> droid room -> loot everywhere -> good equipment for droid
+- Restore (fully) the rusted droid. Don't forget to equip repair belt -> +1300PX
+- Reequip the Nerve Amplifier belt
+- Follow the droid -> he will enter the room with the 2 droids w/ shields!
+- Take Juhani to help kill the droid (should be quite easy)
+- Loot the room -> +5000c great (can we still spend some credits at this point?)
+- The droid open the next room which leads to the catacombs
+
+## Temple Catacombs
+
+- You get directly agressed by 2 droids -> Juhani
+- Left room mines in front of a stone again 
+- + chest with a datapad in it explaining the puzzle -> walk in a shape of an H on the pads to open the door
+- Get mines + crystal (Sapith)
+- Next room -> open
+- next -> walk on the pads -> H shape 
+    - the first pad is off, your H should start on the next pad which is the bottom right of "H"
+    - Walk like you wanted to draw a "H" (back and forth when its needed)
+- End solo mode
+- Talk to the computer
+    - You recognize me?
+    - Your database?
+    - Tell me about the Star Forge.
+        - What do you mean?
+        - ...
+    - Do you know anything about the Star Maps?
+        - They didn't do a very good job of destroying them.
+        - ...
+    - Tell me about the history of the Infinite Empire.
+        - The plague?
+        - ...
+    - How can I shut off the disruptor field around this planet?
+        - How can I get to the upper levels of the temple?
+        - ...
+    - I'm looking for genetic data on the Rakata.
+    - I'll be going now.
+- Go back upstairs
+
+## Temple (South part)
+
+- Continue your previous path on the right
+- Next door -> one Sith -> it's the medical room -> loot
+- Door on the right (from the entrance POV) -> 2 turrets -> Juhani
+- Cut the locked door
+- It's the "prototype droid command room"
+    - The computer is useless for us since we already killed the prototype droids
+- Take the door on the left of the computer -> 4 droids -> place where Bastila was tortured!
+- Go back and open the other door on your right -> one droid -> loot
+- Open the last door -> guide you back to the medical room
+- Take the corridor near the sea -> 2 droids
+- First door on the right -> 1 sith
+- Second door -> same
+- Next door -> computer room where you remote killed the sith (and a droid through the door in the previous room)
+- Alright ! You made a full round!
+- Next door on the right -> 2 droids -> ramp up -> open door!
+
+## Temple Roof Top
+
+- Loot the cylinders
+- Bastila is waiting for you... Make sure you have:
+    - Immunity against critical hits (helmet)
+    - Immunity against mind affecting (belt)
+    - Good constitution (implants)
+    - Good strength (gauntlets)
+    - Energy shield
+- Bastila talks
+    - A pawn of the Jedi Council? What are you talking about?
+    - No - I don't believe it! How could you betray us like this, Bastila?
+        - //It didn't take long to convert you, did it? I always knew you were weak! (try to intimidate her)
+        - // don't use it insead of the previous -> remember they were lovers
+    - **Don't do this, Bastila! Fight it! I'll help you!** (if you did the romance)
+- Combat starts
+- You can't kill her now
+    - **I draw my power from the light now, Bastila.** (+2LSP)
+    - **We are linked by more than just a bond, Bastila.** (romance)
+    - **No! This isn't the Bastila I knew!** (romance)
+    - How can I reclaim my identity if I can't even remember it?
+    - **Please, Bastila... if you feel anything for me, you won't do this!** (romance)
+    - **No, I... don't want you like this. I want the woman I knew.** (romance)
+    - **I don't want to rule the galaxy. I want you to return to the light.** (romance)
+        - // Alternatively if youre not already 100% LS:
+        - // You... you're right. I cannot do this. I reject the dark side! (+6LSP)
+- Bastila flies away
+- A lot of LS points has been earn hear! (+10 LSP while she run away)
+- Use the computer to shutdown the disruptor field and the temple security
+- Leave the temple
+
+## Leaving the planet
+
+- Go back to the Elder settlement
+- Talk to one of the concil Elder
+    - Not exactly. I have to go to the Star Forge to stop Malak.
+    - **Maybe, but we should discuss this only after Malak is stopped.**
+- Talk to the researcher
+    - I have found data on the genetic structure of your species.
+- +1000PX
+- Go back to the beach
+    - **No time! We have to get off this planet and get to the Star Forge!**
+    - **Bastila is dead, Carth. Malak killed her.**
+    - She can still be saved, can't she?
+    - We can try... and we will.
+- Back in the Ebon hawk (with a strange Loading Screen!)
+- 

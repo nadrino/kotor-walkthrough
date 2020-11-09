@@ -203,6 +203,14 @@
 ## Sand People Slaughter
 
 - Go back toward the enclave
+
+- BACK TO EBON??
+- Juhani (after second star map talk) -> NOW ? AFTER ? -> should be ok after slaught
+    - What are you thinking about?
+    - **And how are things different now?**
+    - We are all in this together.
+
+
 - Take Canderous and HK (the killer team)
 - Enter the Enclave
 	- History -> Chief

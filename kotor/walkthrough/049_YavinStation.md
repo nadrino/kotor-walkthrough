@@ -56,7 +56,7 @@
 
 ## Back to Ebon
 
-- Juhani (after second star map talk)
+- Juhani (after second star map talk) -> NOOO HAVE TO DO THIS BEFORE (3/6) -> otherwise the following will be locked forever...
     - What are you thinking about?
     - **And how are things different now?**
     - We are all in this together.
