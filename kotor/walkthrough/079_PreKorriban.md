@@ -4,7 +4,7 @@
 
 ## Kashyyk - Ebon Hawk
 
-- Talk to Juhani
+- Talk to Juhani (personal 9/X)
     - I regret any of the harm I may have caused.
     - You will do fine, Juhani.
 - Zaalbar

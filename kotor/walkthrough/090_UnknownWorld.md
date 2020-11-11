@@ -371,4 +371,6 @@
     - She can still be saved, can't she?
     - We can try... and we will.
 - Back in the Ebon hawk (with a strange Loading Screen!)
+- Go repair the hyperdrive
+- Go to the star map -> you can only go to the star forge
 - 

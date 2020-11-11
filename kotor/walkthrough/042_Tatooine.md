@@ -203,14 +203,6 @@
 ## Sand People Slaughter
 
 - Go back toward the enclave
-
-- BACK TO EBON??
-- Juhani (after second star map talk) -> NOW ? AFTER ? -> should be ok after slaught
-    - What are you thinking about?
-    - **And how are things different now?**
-    - We are all in this together.
-
-
 - Take Canderous and HK (the killer team)
 - Enter the Enclave
 	- History -> Chief
@@ -422,13 +414,10 @@
 - Mission
 	- Brother
 	- + spike
-- Juhani (3/6) - level 14
-	- Is something wrong?
-	- I am sorry, Juhani.
-	- **I do not remember seeing any of your race on Taris…**
-	- **How could such a government last?**
-	- **Decent humans are hard to find.**
-	- Your parents?
+- Juhani (personal 3/X) -> personal story
+    - What are you thinking about?
+    - **And how are things different now?**
+    - We are all in this together.
 - Carth
 	- Do you want to talk? You got pretty upset the last time we spoke.
 	- Why don't you return to the front lines, then?

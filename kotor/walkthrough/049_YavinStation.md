@@ -56,10 +56,13 @@
 
 ## Back to Ebon
 
-- Juhani (after second star map talk) -> NOOO HAVE TO DO THIS BEFORE (3/6) -> otherwise the following will be locked forever...
+- Juhani (personal 4/X)
     - What are you thinking about?
-    - **And how are things different now?**
-    - We are all in this together.
+    - I know some parts are bad, but...
+    - Humans can be just as cruel to each other.
+    - Wait a second. Why are you telling me all this?
+    - No, it is alright. I will be here to listen to you whenever you want.
+        - _next personal story will unlock after a new level is acquired_ -> level 15
 - HK (14 repair) -> LATER!!
     - I would like to try restoring some of your memory.
     - Let’s get started.

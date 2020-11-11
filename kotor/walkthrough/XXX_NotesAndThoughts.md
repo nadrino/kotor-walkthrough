@@ -146,3 +146,35 @@ Bastila has NO LINES on Koriban
 
 
 - Add talk to the guard that block the Sith accademy entry on Korriban
+
+
+- Juhani personal story:
+- Part (5/X) is actually the Mandalorian question!
+- Part (6/X) -> level++ since 4/X
+    - Are you doing alright?
+    - What do you want to know? (if male)
+        - It is a little forward... (if woman -> better)
+    - Is is not a very interesting story.
+    - No, it is alright.
+    - **Er... I flew to Dantooine?**
+    - I was a scout for the Republic armed forces.
+- Part (7/X) k_hjuh_p07, k_hjuh_p07l, k_hjuh_p07d
+    - At least 3 star maps -> should be ok by this time
+    - -> different if light/dark/neutral -> light:
+        - You should not be so hard on yourself.
+        - You have nothing to be ashamed of.
+- Part (7b/X) (k_hjuh_p09) -> unreachable since it should occur while arriving in the leviathan
+    - Here is the whole dialog:
+        - So here we are... in the belly of the beast.
+            - Do not worry, we will escape.
+        - We are in a Sith Interdicter loaded with troops and Sith Jedi. I am not favoring of our chances.
+        - Knowledge of the almost certainty of my death tends to make me introspective.
+        - If I am going to die here then, I am glad to have stood by you. (LS)
+            - And I am glad to have had you by my side.
+        - Live or die, I shall stand by you as you need me. (if you are a male)
+            - Let us leave this place then... If we can.
+- Part (8/X) (k_hjuh_p10)
+    - How could you possibly be revan ! -> already done
+- Part (9/X) (k_hjuh_p11) -> after Bastila escape on the unknown world -> and if she has taken her revenge -> (if male:)
+    - I need you to help me, Juhani.
+    - **Do not underestimate the Sith.**
