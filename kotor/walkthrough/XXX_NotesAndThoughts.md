@@ -148,7 +148,10 @@ Bastila has NO LINES on Koriban
 - Add talk to the guard that block the Sith accademy entry on Korriban
 
 
-- Juhani personal story:
+- Add patch to have the line where you recognise Darth Bandon on Manaan? 
+
+
+- Juhani personal story: -> **DONE**
 - Part (5/X) is actually the Mandalorian question!
 - Part (6/X) -> level++ since 4/X
     - Are you doing alright?

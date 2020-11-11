@@ -5,7 +5,7 @@ Attack on the Endar Spire
 
 > Here is the map of the area.
 
-![](../resources/images/maps/endarSpire/map_endar_spire.jpg)
+![](../resources/images/maps/01_EndarSpire/map_endar_spire.jpg)
 
 > The numbers gives the visiting order of each point on the map: each number will be referenced in this guide as "(X)"
 > where X is the tagged number.
