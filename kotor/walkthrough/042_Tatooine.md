@@ -391,6 +391,13 @@
 	- **You had the choice not to destroy them.**
 	- You could have found another way.
 	- How did they redeem themselves?
+- Juhani (personal 4/X)
+    - What are you thinking about?
+    - I know some parts are bad, but...
+    - Humans can be just as cruel to each other.
+    - Wait a second. Why are you telling me all this?
+    - No, it is alright. I will be here to listen to you whenever you want.
+        - _next personal story will unlock after a new level is acquired_ -> level 15
 - HK-47
 	- You don't need to call me master, you know.
 	- 'Organic meatbags?'
@@ -414,10 +421,6 @@
 - Mission
 	- Brother
 	- + spike
-- Juhani (personal 3/X) -> personal story
-    - What are you thinking about?
-    - **And how are things different now?**
-    - We are all in this together.
 - Carth
 	- Do you want to talk? You got pretty upset the last time we spoke.
 	- Why don't you return to the front lines, then?

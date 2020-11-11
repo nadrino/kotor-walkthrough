@@ -2,9 +2,9 @@
 
 # Pre Korriban
 
-## Kashyyk - Ebon Hawk
+## Kashyyk - Ebon Hawk (planet you previously chose)
 
-- Talk to Juhani (personal 9/X)
+- Talk to Juhani (personal 8/9)
     - I regret any of the harm I may have caused.
     - You will do fine, Juhani.
 - Zaalbar

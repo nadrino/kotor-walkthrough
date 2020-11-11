@@ -201,7 +201,7 @@
 		- Andor killed Kraat, I take it?
 		- You're kidding…
 		- But how can you even be sure Andor was responsible?
-	- Juhani (level 16) (5/6)
+	- Juhani (5/6) (level 16)
         - I was wondering if we could talk.
         - What happened after your father died?
         - What happened?

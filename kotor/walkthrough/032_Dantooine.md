@@ -48,7 +48,7 @@
 	- **Who were you fighting anyway?**
 	- I want a Basilisk war droid!
 	- + stimulants
-- Talk w/ Juhani
+- Talk w/ Juhani (personal 1/9)
 	- You thought the dark side had consumed you. It is nothing.
 	- **Do not worry, Juhani. I forgive you.**
 - Go out with T3 and Bastila

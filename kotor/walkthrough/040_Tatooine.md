@@ -82,7 +82,7 @@
 	- **You seem to know that temptation very well.**
 	- **Are you saying the light side is innocent of killing?**
 	- **Do whatever is required? Such as?**
-- Juhani
+- Juhani (personal 2/9)
 	- Are you doing alright?
 	- **You're too fragile, Juhani.**
 	- Perhaps you just need more time.
@@ -415,6 +415,10 @@
 - Transit Back to Ebon
 	- Improve light sabers
 	- Speak ?
+	- Juhani (personal 3/X) -> personal story
+        - What are you thinking about?
+        - **And how are things different now?**
+        - We are all in this together.
 	- HK-47
 		- I would like to know more about your functionality.
 		- I thought you said that removing your restraining bolt would restore your memory?

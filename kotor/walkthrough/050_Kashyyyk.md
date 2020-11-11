@@ -25,13 +25,6 @@
     - **otherwise Juhani's dialog will go over the line of Canderous**
     - This little dialog bring the variable "G_JUHANI_NUM" from 1 to 2. (0 to 1 was on Dantooine)
 - Go back to the Ebon Hawk
-- Juhani (3/6) - (level 14 - last time on ebon before lvl 15)
-	- Is something wrong?
-	- I am sorry, Juhani.
-	- **I do not remember seeing any of your race on Taris…**
-	- **How could such a government last?**
-	- **Decent humans are hard to find.**
-	- Your parents?
 - Take Mission and Zalbar (level up 7 to 12 and equip)
 
 ![KOTOR Guide-3](../resources/images/screenshots/KOTOR%20Guide-3.png)

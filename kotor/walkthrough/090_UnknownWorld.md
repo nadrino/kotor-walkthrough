@@ -354,6 +354,9 @@
 - Bastila flies away
 - A lot of LS points has been earn hear! (+10 LSP while she run away)
 - Use the computer to shutdown the disruptor field and the temple security
+- Juhani Part (9/X) (k_hjuh_p11) -> after Bastila escape on the unknown world -> and if she has taken her revenge -> (if male:)
+    - I need you to help me, Juhani.
+    - **Do not underestimate the Sith.**
 - Leave the temple
 
 ## Leaving the planet

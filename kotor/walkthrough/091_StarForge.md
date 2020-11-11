@@ -3,7 +3,7 @@
 
 - Go see Canderous
 - The only quest left is "Bastila"
-- Leave the ebon hawk with Carth and Jolee
+- Leave the ebon hawk with Carth and Jolee or Juhani (less force points -> but better light saber)
 
 ## Deck 1
 
@@ -102,5 +102,5 @@
     - I am sorry I started you on this path. But you chose to continue down it.
 - You leave
     - Darth Malak is dead. It's over, finally.
-
+- Ending cinematic
 

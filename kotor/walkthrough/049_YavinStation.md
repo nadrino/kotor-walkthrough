@@ -56,13 +56,13 @@
 
 ## Back to Ebon
 
-- Juhani (personal 4/X)
-    - What are you thinking about?
-    - I know some parts are bad, but...
-    - Humans can be just as cruel to each other.
-    - Wait a second. Why are you telling me all this?
-    - No, it is alright. I will be here to listen to you whenever you want.
-        - _next personal story will unlock after a new level is acquired_ -> level 15
+- Juhani (3/6) - (level 14)
+	- Is something wrong?
+	- I am sorry, Juhani.
+	- **I do not remember seeing any of your race on Taris…**
+	- **How could such a government last?**
+	- **Decent humans are hard to find.**
+	- Your parents?
 - HK (14 repair) -> LATER!!
     - I would like to try restoring some of your memory.
     - Let’s get started.

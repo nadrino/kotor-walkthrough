@@ -331,6 +331,11 @@
     - 2000 - 100c
 	- 5000 - 100c
 - 7250c in total!!
+- Juhani (personal 7/9) k_hjuh_p07, k_hjuh_p07l, k_hjuh_p07d
+    - At least 3 star maps -> should be ok by this time
+    - -> different if light/dark/neutral -> light:
+        - You should not be so hard on yourself.
+        - You have nothing to be ashamed of.
 
 ![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
 
@@ -374,7 +379,6 @@
     - **So tell me what you know about the Sith.**
     - **What happened during the war with Exar Kun, then?**
     - But you exterminated all the traitors, right?
-- Juhani
 - IF PATCHED
     - Bastila
         - I want to talk to you about what happened between us.

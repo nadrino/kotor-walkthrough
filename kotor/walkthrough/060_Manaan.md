@@ -165,6 +165,14 @@
 	- **Well that was pretty stupid of you. -> LOL!**
 	- That was the day you what?
 	- Your wife? You were married?
+- Juhani (personal 6/9) -> level++ since 4/X -> should be ok!
+    - Are you doing alright?
+    - What do you want to know? (if male)
+        - It is a little forward... (if woman -> better)
+    - Is is not a very interesting story.
+    - No, it is alright.
+    - **Er... I flew to Dantooine?**
+    - I was a scout for the Republic armed forces.
 - Transit Back
 
 
