@@ -38,7 +38,7 @@ The Search for Bastila - Penetrating the Vulkar base
 - Continue the corridor on the left
 - Kill the 2 Vulkars
 - Open the next door's room
-- 2 Vulkars -> Level Up ! (6)
+- 2 Vulkars -> Level Up ! (6) -> a bit later actually (Seleven)
 - Loot, go near the next door
 - Before entering, kill the 2 guys in the corridor
 - Enter the room
