@@ -23,7 +23,7 @@ Taris - The Search for Bastila - Exploring the Upper City
     - I'd like to know some more about you, Carth.
     - The sooner we start looking for Bastila the sooner we find her. Let's go.
 - Loot and improve your sword
-- Leave the room
+- Leave the room with Carth
 
 ![](../resources/images/screenshots/tarisSafeHouse.png)
 
@@ -160,7 +160,7 @@ Taris - The Search for Bastila - Exploring the Upper City
     
 - Go pazaak with Niklos near the entrance
     - Who are you?
-    - Let's play.
+    - Let's play. (x5)
 - Talk to the girl near the entrance (Christya)
     - 20 credits? That seems expensive for a couple of drinks.
     - Sorry, not interested.
@@ -184,7 +184,7 @@ Taris - The Search for Bastila - Exploring the Upper City
     - Medical facility? Is this some kind of hospital?
     - I want to ask you some questions.
     - How do you feel about the Sith?
-    - Ask something else
+    - ...Ask something else
     - I just want some general information about Taris.
     - Tell me about Upper Taris.
     - Tell me about the Lower City.
@@ -195,6 +195,7 @@ Taris - The Search for Bastila - Exploring the Upper City
     - Is there no cure?
     - Maybe I could find a way to get my hands on that serum for you.
     - Don't worry, Zelka – I'll get that serum for you!
+    - ...
     - **Do you know anything about the Republic escape pods that crashed in the Undercity?**
     - You seem awfully defensive about this.
     - **[Persuade] Don't worry, I'm not with the Sith. I won't betray your secret if you tell me.** (EASY - 50%)
@@ -256,6 +257,7 @@ Taris - The Search for Bastila - Exploring the Upper City
     - Utility droids? What do they do?
     - Let me see your droids.
     - **Tell me about that top-of-the-line T3-M4 droid.**
+    - ...
     - I'll take the T3-H8 unit. Here's 50 credits.
 - Leave the shop
 - The droid blow up

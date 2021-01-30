@@ -96,6 +96,7 @@ The Search for Bastila - The Lower City
     - [Join Lyn by dancing beside her.]
     - [Join Lyn by dancing close beside her.]
     - [Join Lyn by dancing very close and face to face.] -> HARD -> not necessary, can use easier
+- +250PX
 - Talk to Zax -> don't pay for infos
     - You work for Davik?
     - Davik posts bounties in a government office? Is that even legal?
@@ -138,9 +139,6 @@ The Search for Bastila - The Lower City
 
 **SAVE**
 
-- (Deprecated) Kill respawned Vulkars and go back home to talk with Carth
-    - +100 XP but that's OK to miss it
-    -  
 
 ## Undercity
 
@@ -160,7 +158,7 @@ The Search for Bastila - The Lower City
 	- Where can I find Gendar?
 - Talk with the doctor
 	- Who are you?
-	- Danger and suffering? What are you talking about?
+	- What are you talking about?
 	- There must be something someone can do!
 	- Goodbye.
 - Gendar
@@ -204,10 +202,10 @@ The Search for Bastila - The Lower City
 
 ![](../resources/images/screenshots/tarisMissionJoins.png)
 
-- Level up Mission (and Carth (5) ? -> XBox)
+- //Level up Mission (and Carth (5) ? -> XBox)
 - Equip her with the Sith Rifle
-- Pick up the mines with Mission
-- first go see the republic soldier
+- //Pick up the mines with Mission -> after exploring left
+- //first go see the republic soldier
 
 ![](../resources/images/screenshots/tarisRepublicRatgoule.png)
 
@@ -270,7 +268,7 @@ The Search for Bastila - The Lower City
     - Why not you? Accusing other people is a good cover for a traitor.
     - Ahhh… so you don't trust yourself, is that it?
     - You sure you don't want to talk about it?
-- Go back to the Lower City by foot -> new speach with the Sith
+- Go back to the Lower City by foot -> new speach with the Sith at the entrance
 
 **12 parts needed -> got 10, 2 found in the sewers**
 
@@ -307,7 +305,7 @@ The Search for Bastila - The Lower City
 - Kill the gamorrean in the corridor
 - Door on the right -> last journal for Rukil
 - Repair the droid (12 repair parts)
-Missions levels up (5)
+Missions levels up (5) or a bit later 
 - Let the droid do the job
 
 ![](../resources/images/screenshots/tarisSewersDroid.png)
