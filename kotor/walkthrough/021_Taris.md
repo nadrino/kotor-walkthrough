@@ -1,6 +1,9 @@
 The Search for Bastila - The Lower City
 =======================================
 
+[< Previous Page](./020_Taris.md) | [Back to the Index](./000_Index.md) | [Next Page >](./022_Taris.md)
+
+
 - (Visit the military base door)
 - Go back home
 - **Talk to Carth (1/12)**
@@ -336,3 +339,5 @@ Missions levels up (5)
 14380 XP on the XBox version (620XP needed for level 6)
 
 ![](../resources/images/screenshots/tarisSewersLeaving.png)
+
+[< Previous Page](./020_Taris.md) | [Back to the Index](./000_Index.md) | [Next Page >](./022_Taris.md)

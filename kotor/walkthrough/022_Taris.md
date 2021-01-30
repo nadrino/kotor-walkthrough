@@ -1,6 +1,7 @@
 The Search for Bastila - Penetrating the Vulkar base 
 ====================================================
 
+[< Previous Page](./021_Taris.md) | [Back to the Index](./000_Index.md) | [Next Page >](./023_Taris.md)
 
 ## Back in Upper Taris
 
@@ -353,3 +354,6 @@ The Search for Bastila - Penetrating the Vulkar base
 - You have this strange dream again...
 
 ![](../resources/images/screenshots/tarisDreamRevanDefeated.png)
+
+[< Previous Page](./021_Taris.md) | [Back to the Index](./000_Index.md) | [Next Page >](./023_Taris.md)
+

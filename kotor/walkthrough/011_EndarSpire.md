@@ -1,6 +1,8 @@
 Attack on the Endar Spire
 ================
 
+[< Previous Page](./010_CharacterCreation.md) | [Back to the Index](./000_Index.md) | [Next Page >](./020_Taris.md)
+
 ## Map of the Area
 
 > Here is the map of the area.
@@ -13,6 +15,17 @@ Attack on the Endar Spire
 ## Escaping the Ship
 
 #### (1) Wake-up!
+
+<details>
+  <summary>Spoiler warning</summary>
+
+Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+
+  ```javascript
+  console.log("I'm a code block!");
+  ```
+
+</details>
 
  - Trask Ulgo is entering your quarter to help you  
    - **The Endar Spire?**
@@ -91,5 +104,5 @@ Attack on the Endar Spire
 ![](../resources/images/screenshots/meetingCarth.png)
 ![](../resources/images/screenshots/escapingEndarSpire.png)
 
+[< Previous Page](./010_CharacterCreation.md) | [Back to the Index](./000_Index.md) | [Next Page >](./020_Taris.md)
  
-  

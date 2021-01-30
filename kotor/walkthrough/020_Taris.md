@@ -1,6 +1,8 @@
 Taris - The Search for Bastila - Exploring the Upper City
 =========================================================
 
+[< Previous Page](./011_EndarSpire.md) | [Back to the Index](./000_Index.md) | [Next Page >](./021_Taris.md)
+
 
 ## Upper Taris - Safe Room
 
@@ -271,3 +273,6 @@ Taris - The Search for Bastila - Exploring the Upper City
     - Can I ask you some questions? (other choices does not make sense)
 
 ![](../resources/images/screenshots/tarisSithElevator.png)
+
+[< Previous Page](./011_EndarSpire.md) | [Back to the Index](./000_Index.md) | [Next Page >](./021_Taris.md)
+

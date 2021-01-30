@@ -1,5 +1,6 @@
 # New Game
 
+[< Previous Page](./000_Index.md) | [Back to the Index](./000_Index.md) | [Next Page >](./011_EndarSpire.md)
 
 ## Assumptions
 
@@ -99,3 +100,4 @@ environments.
 
 ![](../resources/images/screenshots/featsSelect.png)
 
+[<< Previous Page](./000_Index.md) | [Next Page >>](./011_EndarSpire.md)

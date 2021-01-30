@@ -1,5 +1,6 @@
 # Bastilla Joins
 
+[< Previous Page](./022_Taris.md) | [Back to the Index](./000_Index.md) | [Next Page >](./030_Dantooine.md)
 
 - Bastilla
 	- We were trying to find you, remember?
@@ -298,3 +299,6 @@ _(HOW MANY SPIKES ? 1+1)_
 - Land on the jedi academy of Dantoine
 
 ![](../resources/images/screenshots/danPlanetArrival.png)
+
+[< Previous Page](./022_Taris.md) | [Back to the Index](./000_Index.md) | [Next Page >](./030_Dantooine.md)
+
