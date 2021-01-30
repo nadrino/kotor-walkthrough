@@ -7,7 +7,7 @@
 ## Setup
 
 1. Modding
-2. [Leveling Guide](../../submodules/kotor-leveling/Kotor_Leveling.xlsx)
+2. [Leveling Guide](../leveling/Kotor_Leveling.xlsx)
 
 ## Introduction
 
