@@ -58,9 +58,9 @@ this guide in parallel of the original configuration.
 
 ![](../resources/images/screenshots/2021-01-02_21-13-37.png)
 
-- The Canon name of the Exile is the "Meetra Surik".
+- The Canon name of the Exile is **Meetra Surik**.
 
-> However you can put any name you want :)
+> However you can put any name you want :) The name does not affect the game.
 
 ![](../resources/images/screenshots/2021-01-02_21-14-21.png)
 
