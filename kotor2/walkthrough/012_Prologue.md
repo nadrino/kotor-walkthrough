@@ -4,11 +4,13 @@
 [Back to the Index](./000_Index.md) |
 [Next Page >](./020_Peragus.md)
 
-## Map of the Area
+## Saving the Exile
+
+### Map of the Area
 
 ![](../resources/maps/012_Prologue/012_Prologue_map_0.png)
 
-## Saving the Exile
+### Walkthrough
 
 - (1)
     - You start in the cockpit where you can see the navigation map. 
