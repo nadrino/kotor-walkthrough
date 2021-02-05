@@ -2,17 +2,17 @@
 
 [< Previous Page](./012_Prologue.md) |
 [Back to the Index](./000_Index.md) |
-[Next Page >](./020_Peragus.md)
+[Next Page >](./014_Prologue.md)
 
 ## Looking for Repair Parts
 
 ### Map of the Area
 
-![](../resources/maps/012_Prologue/012_Prologue_map_0.png)
+![](../resources/maps/013_Prologue/013_Prologue_map.png)
 
 ### Walkthrough
 
 
 [< Previous Page](./012_Prologue.md) |
 [Back to the Index](./000_Index.md) |
-[Next Page >](./020_Peragus.md)
+[Next Page >](./014_Prologue.md)
