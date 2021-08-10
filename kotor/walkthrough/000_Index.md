@@ -4,10 +4,11 @@
 
 ![](../resources/images/screenshots/theForge.png)
 
-## Setup
+## Game Setup / Resources
 
 1. [Modding Guide](./001_Mods.md)
 2. [Leveling Guide](../../submodules)
+
 
 ## Introduction
 

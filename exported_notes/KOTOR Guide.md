@@ -19,9 +19,9 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Loot around and talk to the old man -> tells you about the Cantina and Weapons
 - (ranger ses armes) Go out to the weapon store and talk to Carth (automatic) (2) -> who are you, doubts
 - Talk with droid, Sith...
-- Talk with the weapon girl -> do ask for the store -> **do she have repair parts ?**
+- Talk with the weapon woman -> do ask for the store -> **do she have repair parts ?**
 - Go to the cantina talk to the old man an buy the Pazaak deck and make the tutorial
-- Talk to the girl or **Yun Genda** (sith on permission) in the next room on the right. try to persuade her. -> new quest -> party** (NO DONT DO THAT, LESS XP)**
+- Talk to the woman or **Yun Genda** (sith on permission) in the next room on the right. try to persuade her. -> new quest -> party** (NO DONT DO THAT, LESS XP)**
 - Talk to other people
 - Gana Lavin : Be rude -> more XP -> guy to kills after the cantina
 - Watch the match, talk to evrybody
@@ -52,7 +52,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Gelrood -> Infinite pazaak -> 3 times
 - see Calo North , go see Holdan -> learn about ebon hawk -> wait for force persuade to pull off the bounty (+4PCL 125XP instead of 50+105)
 - Discover mission
-- dancing girl -> sometimes fail
+- dancing woman -> sometimes fail
 - talk to Zax -> don't pay for infos
 - Kill the respawned vulkar in Lower City
 - go to hidden beck -> talk to Gadon -> learn Bastilla
@@ -517,14 +517,14 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- **So where is Griff now?**
 - Level up Carth and Mission
 - Equip -> mission with Davik’s visor -> bonus feat
-- Talk to the Twilek -> Lur Arka -> His girl
+- Talk to the Twilek -> Lur Arka -> His woman
 	- **Only if I get to ask you something in return.**
 	- **Do you actually believe she's still alive?**
 	- Are problems with Mandalorians common on Dantooine?**
 **
 	- Isn't this something the local authorities should handle?
 	- Is there anything of interest on Dantooine that you can tell me about?
-	- **I'll keep my eye out for your girl.**
+	- **I'll keep my eye out for your woman.**
 - Talk to the merchant Crattis -> Learn about Czerka -> Inventory -> Equipment
 	- **What do you have against the Czerka Corporation?**
 	- Do you mean Czerka Corp. are allied with the Sith?
@@ -681,7 +681,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 **# Sandral Grounds
 **# 
 
-- Save **C8-42 -> KILL HIM -> the girl with find another guy**
+- Save **C8-42 -> KILL HIM -> the woman with find another guy**
 	- That was quite a beating you took.
 	- Owner's?
 	- Er... ALL the time?
@@ -995,7 +995,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - Go to infirmerie left, bedrooms
 - Go back storage
 	- Hey! What are you doing here?!
-	- Calm down, little girl. I won't hurt you.
+	- Calm down, little woman. I won't hurt you.
 	- I still don't understand you.
 - Retalk
 	- Can you tell me your name?
@@ -1116,7 +1116,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 
 # Downtown
 
-- See girl
+- See woman
 	- What do you need? I'm Name, I'll help if I can.
 	- What is a wraid plate? Where did you get it?
 	- Why do you need the money? (reask, other questions)
@@ -1147,7 +1147,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- That's all I need. Goodbye.
 - Czerka Office -> guy angry -> don't want sand people killed
 	- What's going on here? Who are you?
-- Girl : Protocol Officer
+- woman : Protocol Officer
 	- I want to ask about hunting licenses.
 	- Have there been a lot of people leaving the city?
 	- Why would I need a license anyway?

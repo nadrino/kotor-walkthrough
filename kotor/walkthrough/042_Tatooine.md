@@ -6,7 +6,7 @@
 
 ![](../resources/images/screenshots/tatAnchorView.png)
 
-- See girl
+- See woman
 	- What do you need? I'm Name, I'll help if I can.
 	- What is a wraid plate? Where did you get it?
 	- (reask, other questions)
@@ -40,7 +40,7 @@
 	- That's all I need. Goodbye.
 - Czerka Office -> guy angry -> don't want sand people killed
 	- What's going on here? Who are you?
-- Girl : Protocol Officer
+- woman : Protocol Officer
 	- I want to ask about hunting licenses.
 	- Have there been a lot of people leaving the city?
 	- Why would I need a license anyway?

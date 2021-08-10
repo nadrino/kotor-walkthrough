@@ -34,7 +34,7 @@
 - Kill animal (keep the Albinos aways -> hard -> 750px)
 - Second mandalorian group
 	- Loot
-- Kill animals and save the droid **C8-42 -> KILL HIM -> the girl with find another guy**
+- Kill animals and save the droid **C8-42 -> KILL HIM -> the woman with find another guy**
 	- That was quite a beating you took.
 	- Owner's?
 	- Er... ALL the time?
@@ -190,7 +190,7 @@
 
 ## Sandral Grounds
 
-- Save **C8-42 -> KILL HIM -> the girl with find another guy**
+- Save **C8-42 -> KILL HIM -> the woman with find another guy**
 	- That was quite a beating you took.
 	- Owner's?
 	- Er... ALL the time?

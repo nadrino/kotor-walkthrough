@@ -59,7 +59,7 @@
 
 **_TEMPSAVE_**
 
-- Dancing Girl (Starlight Entertainers) -> Don't FALL or reload save
+- Dancing woman (Starlight Entertainers) -> Don't FALL or reload save
     - What are you talking about?
     - Why don't you have a partner?
     - Maybe I could be your partner.

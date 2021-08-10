@@ -1,7 +1,9 @@
 Taris - The Hideout Building
 =========================================================
 
-[< Previous Page](./011_EndarSpire.md) | [Back to the Index](./000_Index.md) | [Next Page >](./021_Taris.md)
+[< Previous Page](./011_EndarSpire.md) 
+| [Back to the Index](./000_Index.md) 
+| [Next Page >](./021_Taris.md)
 
 
 ## Upper Taris - Safe Room
@@ -96,5 +98,7 @@ Taris - The Hideout Building
 - Go to the elevator in (5)
 
 
-[< Previous Page](./011_EndarSpire.md) | [Back to the Index](./000_Index.md) | [Next Page >](./021_Taris.md)
+[< Previous Page](./011_EndarSpire.md) 
+| [Back to the Index](./000_Index.md) 
+| [Next Page >](./021_Taris.md)
 

@@ -125,7 +125,7 @@
 	- Right
 - 2
 	- I have a passcard.
-	- Force push the girl (no alarm!)
+	- Force push the woman (no alarm!)
 	- Kill + loot -> NE PAS MONTER DANS L’ASCENSEUR
 - 3 (SAVE)
 	- Sith (quite hard to kill!)

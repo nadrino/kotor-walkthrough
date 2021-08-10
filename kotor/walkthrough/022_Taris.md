@@ -119,7 +119,7 @@ Taris - Embracing the Local Culture
 - Talk to him - Win 5 matches in a row
   - Who are you?
   - Let's play.
-- Talk to the girl near the entrance (Christya)
+- Talk to the woman near the entrance (Christya)
   - 20 credits? That seems expensive for a couple of drinks.
   - Sorry, not interested.
 
