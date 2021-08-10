@@ -1,6 +1,11 @@
 
 # Manaan
 
+[< Previous Page](059_YavinStation.md)
+| [Back to the Index](./000_Index.md)
+| [Next Page >](./061_Manaan.md)
+
+
 - Bastila
 	- **Maybe the land was once above the surface.**
 - Take Jolee + Canderous
@@ -304,3 +309,8 @@
     - TODO: bug to fix -> deadeye not desappearing
 - Last door of the Corridor (behind Deadeye)
 - Kill -> easy -> monter dans navette
+
+[< Previous Page](059_YavinStation.md)
+| [Back to the Index](./000_Index.md)
+| [Next Page >](./061_Manaan.md)
+

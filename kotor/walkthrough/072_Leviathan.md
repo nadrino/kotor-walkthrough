@@ -1,91 +1,8 @@
-# Leviathan
+# Leviathan - Reaching the Bridge
 
-[< Previous Page](069_Manaan.md)
+[< Previous Page](071_Leviathan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./071_Leviathan.md)
-
-
-## Headquarters
-
-- Talk
-	- //This is your chance to avenge the deaths of your family!  -> DS walkthrough
-	- Don't let your lust for revenge cloud your judgment, Carth.
-	- **Bastila, is there some way you could use your Battle Meditation here?**
-	    - You can send:
-	    - Mission
-	    - T3
-	    - Jolee
-	    - Canderous
-	    - Juhani
-	    - HK
-	- T3-M4 is a pretty resourceful little guy. He could pull this off.
-	- Let's do it.
-
-## Interview with Saul
-
-- You get captured
-	- You're wasting your time, Saul. I'll never betray the Jedi!
-	- **History? What are you talking about?**
-	- What are you talking about?
-	- **Don't hurt her, I beg you.**
-	- **[Persuade/Lie] Alderaan. It's on Alderaan.** LOL
-	- No, you're lying! It isn't true!
-	- [Persuade/Lie] We have been sent to assassinate Lord Malak.
-	- This accomplishes nothing, Saul. We will never betray the Republic.
-- …
-	- No one is without hope of redemption, Bastila.
-	- Maybe Admiral Karath was lying.
-	- Where is Saul Karath now?
-	- **I'm sorry, Bastila. Watching you suffer tore me apart.**
-
-
-## T3-M4 to the Rescue
-
-- T3-M4 is being hacked
-    - [You sense the other droid attempting to access your higher memory areas. You will need to take key opportunities to interfere with the process and slice the enemy droid in turn.]
-    - [A stream of numbers is being loaded into your core memory systems. By completing the series you can corrupt the data stream and disrupt the other droid's programming.]
-    - 3 (Fibonacci numbers in reverse order)
-    - [A new series of numbers are inbound. By completing the series you can corrupt the data stream and disrupt the other droid's programming.]
-    - 10 (only remaining two-digit binary combination)
-    - [Disrupting one more data stream by completing the series should wipe out all communication processing systems and force the enemy droid into permanent shutdown.]
-    - 11 (next prime number)
-- Loot the chest in the back of the room: 6 repair parts
-- Repair the droid (5 parts)
-- +1040 PX
-- Stay in retreat, let the droid be at the front
-- Take down the ramp on the right. (Follow the droid)
-- Kill SIth on the left -> loot -> access pass to open the cells
-- The droid open the next room (with the computer) -> 2 sith
-- //Weird XP delivery here...
-- Go to the cells first -> Rodian gives the ICE breaker -> 99 spikes
-- Loot the locked chest on the other side of the corridor (4 Spikes!)
-- Loot the cylinder in the computer room ? **-> later**
-- Brig Terminal (don't use the ICE breaker now)
-    - [Computer] Slice the computer. (0)
-    - [Computer] Access system commands.
-    - [Computer] Open detention area. (1)
-    - +320 PX (or kind of)
-- Go to the detention area -> save the crew
-
- 40 * 3 + 50 * 5
- 120 + 250 = 370 (480 sinon)
- 
- 120+160+
- 
- 135670
- 
- 136350 (370 + 480)
- 136054
- 136406
- 
- 136606 (40*3 + 480 + 320)
-
-
-- Free the crew
-    - **Let's get our equipment and blast our way to those bridge controls!**
-    - **Careful, Carth, there's more at stake here than personal revenge.**
-    - Good. Get to the equipment room, grab what you need, and get going.
-    - We still have to get our equipment. Let's go.
+| [Next Page >](./073_Leviathan.md)
 
 
 ## To the Bridge
@@ -181,6 +98,8 @@
             - You have to try... for Bastila's sake.
 - Now you heads on Kashyyk!
 
-[< Previous Page](069_Manaan.md)
+
+[< Previous Page](071_Leviathan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./071_Leviathan.md)
+| [Next Page >](./073_Leviathan.md)
+

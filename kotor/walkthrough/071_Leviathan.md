@@ -1,42 +1,8 @@
-# Leviathan
+# Leviathan - Saving the Crew
 
-[< Previous Page](069_Manaan.md)
+[< Previous Page](070_Leviathan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./071_Leviathan.md)
-
-
-## Headquarters
-
-- Talk
-	- //This is your chance to avenge the deaths of your family!  -> DS walkthrough
-	- Don't let your lust for revenge cloud your judgment, Carth.
-	- **Bastila, is there some way you could use your Battle Meditation here?**
-	    - You can send:
-	    - Mission
-	    - T3
-	    - Jolee
-	    - Canderous
-	    - Juhani
-	    - HK
-	- T3-M4 is a pretty resourceful little guy. He could pull this off.
-	- Let's do it.
-
-## Interview with Saul
-
-- You get captured
-	- You're wasting your time, Saul. I'll never betray the Jedi!
-	- **History? What are you talking about?**
-	- What are you talking about?
-	- **Don't hurt her, I beg you.**
-	- **[Persuade/Lie] Alderaan. It's on Alderaan.** LOL
-	- No, you're lying! It isn't true!
-	- [Persuade/Lie] We have been sent to assassinate Lord Malak.
-	- This accomplishes nothing, Saul. We will never betray the Republic.
-- …
-	- No one is without hope of redemption, Bastila.
-	- Maybe Admiral Karath was lying.
-	- Where is Saul Karath now?
-	- **I'm sorry, Bastila. Watching you suffer tore me apart.**
+| [Next Page >](./072_Leviathan.md)
 
 
 ## T3-M4 to the Rescue
@@ -80,6 +46,8 @@
  
  136606 (40*3 + 480 + 320)
 
+
+## Freeing the Crew
 
 - Free the crew
     - **Let's get our equipment and blast our way to those bridge controls!**
@@ -181,6 +149,8 @@
             - You have to try... for Bastila's sake.
 - Now you heads on Kashyyk!
 
-[< Previous Page](069_Manaan.md)
+
+[< Previous Page](070_Leviathan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./071_Leviathan.md)
+| [Next Page >](./072_Leviathan.md)
+

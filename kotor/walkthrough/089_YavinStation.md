@@ -1,4 +1,9 @@
-## A Last Stop On Yavin
+# Yavin - A Third and Last Stop
+
+[< Previous Page](088_Tatooine.md)
+| [Back to the Index](./000_Index.md)
+| [Next Page >](./090_UnknownWorld.md)
+
 
 - Go see Suvam Tan -> talk to him -> enemy appears
     - Get away from Suvam!
@@ -23,3 +28,8 @@
 - 
 
 - Advanced Droid Interface -> can be cool (+7 everywhere...) 7200c
+
+[< Previous Page](088_Tatooine.md)
+| [Back to the Index](./000_Index.md)
+| [Next Page >](./090_UnknownWorld.md)
+

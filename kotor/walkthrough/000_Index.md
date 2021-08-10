@@ -6,7 +6,7 @@
 
 ## Setup
 
-1. Modding
+1. [Modding Guide](./001_Mods.md)
 2. [Leveling Guide](../../submodules)
 
 ## Introduction
@@ -49,7 +49,7 @@
 ## The Leviathan
 
 1. [Trapped](./070_Leviathan.md)
-1. [(Intermission) Third Stop on Yavin](./079_PreKorriban.md)
+1. [(Intermission) Third Stop on Yavin](077_Tatooine.md)
 
 ## Korriban
 
@@ -59,7 +59,7 @@
 ## Unknown World
 
 1. [Cashed](./090_UnknownWorld.md)
-1. [Star Forge](./091_StarForge.md)
+1. [Star Forge](096_StarForge.md)
 
 ## Misc
 
