@@ -1,4 +1,4 @@
-# The Definitive Guides for Star Wars: KotOR I & II
+# My Definitive Guides for Star Wars: KotOR I & II
 
 This repository keeps wallthrough guides for the iconic Star Wars games:
 
