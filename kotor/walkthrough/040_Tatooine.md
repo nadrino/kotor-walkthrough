@@ -1,5 +1,6 @@
 # Tatooine
 
+[< Previous Page](./031_Dantooine.md) | [Back to the Index](./000_Index.md) | [Next Page >](./040_Tatooine.md)
 
 ![](../resources/images/screenshots/tatEbonArrival.png)
 

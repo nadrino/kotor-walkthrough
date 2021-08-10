@@ -378,3 +378,6 @@
 	- **I don't need your help.**
 	
 ![](../resources/images/screenshots/danTalkWithBastila2.png)
+
+[< Previous Page](./030_Dantooine.md) | [Back to the Index](./000_Index.md) | [Next Page >](./032_Dantooine.md)
+

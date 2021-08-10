@@ -1,5 +1,6 @@
 # Dantooine - Side Quests
 
+[< Previous Page](./031_Dantooine.md) | [Back to the Index](./000_Index.md) | [Next Page >](./040_Tatooine.md)
 
 ## Matale vs Sandral
 
@@ -299,3 +300,6 @@ You earned 900XP !
 - Cinematic with Malak
 
 ![](../resources/images/screenshots/danEndingCaloMalak.png)
+
+
+[< Previous Page](./031_Dantooine.md) | [Back to the Index](./000_Index.md) | [Next Page >](./040_Tatooine.md)

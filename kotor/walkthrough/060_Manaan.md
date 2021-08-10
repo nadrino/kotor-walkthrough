@@ -67,7 +67,7 @@
 ## West Central
 
 - Jolan Aphett - 10
-	- 11 paazak (10x200c + cards)
+	- 11 Pazaak (10x200c + cards)
 
 ![KOTOR Guide-12](../resources/images/screenshots/KOTOR%20Guide-12.png)
 

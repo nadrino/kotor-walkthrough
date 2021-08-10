@@ -20,7 +20,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - (ranger ses armes) Go out to the weapon store and talk to Carth (automatic) (2) -> who are you, doubts
 - Talk with droid, Sith...
 - Talk with the weapon girl -> do ask for the store -> **do she have repair parts ?**
-- Go to the cantina talk to the old man an buy the paazaak deck and make the tutorial
+- Go to the cantina talk to the old man an buy the Pazaak deck and make the tutorial
 - Talk to the girl or **Yun Genda** (sith on permission) in the next room on the right. try to persuade her. -> new quest -> party** (NO DONT DO THAT, LESS XP)**
 - Talk to other people
 - Gana Lavin : Be rude -> more XP -> guy to kills after the cantina
@@ -2503,7 +2503,7 @@ Juhani Romance 2 ?
 **# 
 
 - Jolan Aphett - 10
-	- 11 paazak * 200c
+	- 11 Pazaak * 200c
 - Gave what ? lol
 
 ![KOTOR Guide-12](images/KOTOR%20Guide-12.png)
@@ -3205,7 +3205,7 @@ Juhani Romance 2 ?
 	- Yes - they're sending them down to a secret base on the Hrakert Rift.
 	- They couldn't. They had lost contact with the science facility.
 	- They awoke a creature which fed on the kolto.
-- Replay paazak -> 1 time -> le mec va redire triche
+- Replay Pazaak -> 1 time -> le mec va redire triche
 - Teleport back to Ebon
 	- Jolee (7/8)
 		- So when did you go to Kashyyyk?

@@ -197,3 +197,5 @@ Dantooine - Jedi Training
 - Leave the enclave
 
 ![](../resources/images/screenshots/danEnclaveExterior.png)
+
+[< Previous Page](./023_Taris.md) | [Back to the Index](./000_Index.md) | [Next Page >](./031_Dantooine.md)

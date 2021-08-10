@@ -700,7 +700,7 @@
 	- They couldn't. They had lost contact with the science facility.
 	- They awoke a creature which fed on the kolto.
 	- The creature is alive.
-- Replay paazak -> 1 time -> le mec va redire triche
+- Replay Pazaak -> 1 time -> le mec va redire triche
 - Teleport back to Ebon
 
 
