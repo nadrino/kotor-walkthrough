@@ -1,6 +1,8 @@
-# Tatooine
+# Tatooine - An Unexpected Passenger
 
-[< Previous Page](./031_Dantooine.md) | [Back to the Index](./000_Index.md) | [Next Page >](./040_Tatooine.md)
+[< Previous Page](038_Dantooine.md) 
+| [Back to the Index](./000_Index.md) 
+| [Next Page >](./041_Tatooine.md)
 
 ![](../resources/images/screenshots/tatEbonArrival.png)
 
@@ -463,3 +465,7 @@
 - Gate Guard Billan
 	- I have proper authorization.
 	- Here is my hunting license.
+
+[< Previous Page](038_Dantooine.md)
+| [Back to the Index](./000_Index.md)
+| [Next Page >](./041_Tatooine.md)

@@ -1,8 +1,8 @@
 # Taris - Preparation for the Vulkar Base Infiltration
 
-[< Previous Page](./026_Taris.md) 
+[< Previous Page](./028_Taris.md) 
 | [Back to the Index](./000_Index.md) 
-| [Next Page >](./028_Taris.md)
+| [Next Page >](./030_Dantooine.md)
 
 
 ## Davik's Estate
@@ -110,6 +110,6 @@
 
 ![](../resources/images/screenshots/danPlanetArrival.png)
 
-[< Previous Page](./025_Taris.md)
+[< Previous Page](./028_Taris.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./027_Taris.md)
+| [Next Page >](./030_Dantooine.md)

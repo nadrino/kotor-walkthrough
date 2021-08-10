@@ -26,8 +26,8 @@
 ## Dantooine
 
 1. [Jedi Training](./030_Dantooine.md)
-2. [Trails in the Plains](./031_Dantooine.md)
-3. [Side Quests](./032_Dantooine.md)
+2. [Trails in the Plains](032_Dantooine.md)
+3. [Side Quests](033_Dantooine.md)
 
 ## Tatooine
 

@@ -1,4 +1,9 @@
-# Yavin - 1
+# Yavin - A First Stop
+
+[< Previous Page](048_Tatooine.md)
+| [Back to the Index](./000_Index.md)
+| [Next Page >](./050_Kashyyyk.md)
+
 
 - Take Canderous ? -> make sense -> With Carth ? Un finished Banter
 - Level up Carth (12+13) + equip him with Calo armor
@@ -109,3 +114,8 @@
     - So can you remember anything else?
     - [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 3 seconds and has gained an additional +2 bonus to his dexterity.]
 - Go to star map -> Kashyyk
+
+[< Previous Page](048_Tatooine.md)
+| [Back to the Index](./000_Index.md)
+| [Next Page >](./050_Kashyyyk.md)
+
