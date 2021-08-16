@@ -4,6 +4,8 @@
 
 ## Exploring Upper Taris
 
+![](../resources/images/maps/02_Taris/map_taris_upper_streets2.png)
+
 - Go towards your apartment -> you will meet Gana Lavin (the angry rich woman in the cantina) with two body guards. Kill the body guards and loot the swords.
 - Follow the street
 - Go to the clinic on the right
