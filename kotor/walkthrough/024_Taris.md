@@ -4,9 +4,14 @@
 | [Back to the Index](./000_Index.md)
 | [Next Page >](./025_Taris.md)
 
-## Undercity
+![](../resources/images/maps/02_Taris/mapTarisLowerStreets2.png)
 
 - Take the elevator with the Sith papers towards the Undercity
+
+## Undercity
+
+![](../resources/images/maps/02_Taris/mapTarisUnderCity.png)
+
 - Challengend by two Outcast Beggars
   - Who are you? What are you doing here in the Undercity?
   - **You poor wretches. Here's 20 credits to buy some food and clothing.** (LSP +2)

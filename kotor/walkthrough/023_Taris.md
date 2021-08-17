@@ -4,6 +4,8 @@
 
 ## Lower Taris
 
+![](../resources/images/maps/02_Taris/mapTarisLowerStreets.png)
+
 - Gangs are fighting in the streets
 
 ![](../resources/images/screenshots/tarisGangFight.png)
@@ -22,6 +24,11 @@
 ![](../resources/images/screenshots/tarisMeetingCanderous.png)
 
 - Go back to the Cantina
+  
+## Lower City Cantina
+
+![](../resources/images/maps/02_Taris/mapTarisLowerCantina.png)
+
 - _don't buy pazaak ? 200 c +/-1 ? +/-6 cheaper ->50 ? -> save 6 to check_ -> NO, expansive
 - Gelrood -> Infinite pazaak -> not a lot of money each time
   - Why were you banned?
@@ -85,6 +92,12 @@
 - Talk to the other clients
 - Leave the Cantina
 - Go to the Hidden Bek base
+  
+
+## Hidden Bek Base
+
+![](../resources/images/maps/02_Taris/mapTarisLowerBekBase.png)
+
   - I need Gadon's help...
   - May be I could be an ally...
 - Talk to Gadon Thek
