@@ -6,7 +6,7 @@ Dantooine - Learn About the Jedi Culture
 | [Next Page >](032_Dantooine.md)
 
 
-- Go to the jedi masters -> Bastilla will redirect you to ask the masters
+- Go to the jedi masters -> Bastila will redirect you to ask the masters
 - Dorak
 	- **Where are the Academy's archives?**
 	- Very well... tell me the history of the Jedi.

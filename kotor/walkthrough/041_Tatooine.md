@@ -26,7 +26,7 @@
 	- Where should a person look for opportunity?
 	- I'm looking for very specific things. Who should I ask?
 	- I'm looking for older things. Antiques. Artifacts.
-- Level up Mission and Bastilla
+- Level up Mission and Bastila
 - Loot right chest
 - A twilek appears: Bastila's mother 
 	- Don't be rude, Bastila.

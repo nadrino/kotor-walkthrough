@@ -55,7 +55,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 - dancing woman -> sometimes fail
 - talk to Zax -> don't pay for infos
 - Kill the respawned vulkar in Lower City
-- go to hidden beck -> talk to Gadon -> learn Bastilla
+- go to hidden beck -> talk to Gadon -> learn Bastila
 - Go out and follow the path to Under City -> enemies -> throw grenade
 - meet Canderous
 - continue toward the Undercity (no apartement yet -> need mission for the mine)
@@ -247,19 +247,19 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 # Swoop Race
 
 - Talk to everyone
-- See bastilla
+- See Bastila
 - begin the race x2!
-- Talk w/ Bastilla
+- Talk w/ Bastila
 	- **It's a long story.**
 	- I've got somewhere safe to go. I was planning to take you there after I saved you from Brejik.
 	- **I think you've got things confused. You were a helpless prisoner until I came along.**
 	- **Hey, who said you were in charge here?**
 	- Carth and I are already working on a plan to get off Taris. (or other... -> but this one is logic with next)
 
-# Bastilla Joins
+# Bastila Joins
 
 
-- Bastilla
+- Bastila
 	- We were trying to find you, remember?
 	- **Both of you settle down! This isn't helping.**
 	- Okay, so what now?
@@ -268,12 +268,12 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- Of you. Fighting a dark Jedi. Revan, I guess.
 	- Force sensitivity? What do you mean?
 	- This isn't the first time I had a vision.
-- Go out with Bastilla and Carth
+- Go out with Bastila and Carth
 - Twilek
 	- **You must have me confused with someone else.**
 	- **Canderous? Isn't he that Mandalorian that works for Davik?**
 	- **Okay. I got the message. You can go now.**
-- Level up Bastilla and equip
+- Level up Bastila and equip
 - buy detonator -> new speech :)
 - Banter w/ Carth
 	- Maybe losing lightsabers is a side-effect of her Battle Meditation.
@@ -281,24 +281,24 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- Here – I've got 200 credits you can have. 
 	- Carth intervention
 - Level up ?
-- Bastilla proposition
+- Bastila proposition
 	- **We were looking for you. (lass speach but better)**
 	- ** I had a lot of help: Carth, Mission, Zaalbar.**
 	- **I think you're underestimating us non-Jedi.**
 	- What are you trying to say?
 - Go to lower apt -> Detonator
 - go see gadon -> not here -> body guard discution + Carth int
-- Meet Canderous (+carth intervention + bastilla)
-- Meet Holdan -> fail persuade -> Bastilla force persuade +4 LS pts
+- Meet Canderous (+carth intervention + Bastila)
+- Meet Holdan -> fail persuade -> Bastila force persuade +4 LS pts
 	- Why would she do that?
 	- Sounds like maybe you got what you deserved.
 	- I want the bounty on Dia's head removed.
-	- [Persuade] If you hire someone to kill Dia it will look like you weren't man enough to do it yourself. -> FAIL -> Bastilla saves
+	- [Persuade] If you hire someone to kill Dia it will look like you weren't man enough to do it yourself. -> FAIL -> Bastila saves
 - Collect Matrik -> persuade for 400 credits
 - Go back home -> see Dia before entering
 - Return to the hideout
 - -> upgrade for swords -> talk w/ Bast **2nd ?**
-- Go out w: Mission and Bastilla
+- Go out w: Mission and Bastila
 - Go buy Parts -> **6 Minimum / 18 spikes**
 - Go buy T3 -> persuade one time -> 1500c -> NO -> FREE -> DS points but who care -> From the exchange
 - T3 is level 7
@@ -347,7 +347,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 
 
 - Improve new items
-	- equip aura amplifier to bastilla
+	- equip aura amplifier to Bastila
 - Meet Canderous
 - Davik
 	- I didn't know you were a swoop fan.
@@ -390,10 +390,10 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 # Dantoine - Meeting the Jedi Concil
  
 
-- pause immédatement après conversation avec bastilla
+- pause immédatement après conversation avec Bastila
 	- quitter tout me stuf -> épée, casque, prendre vetement normal
-- Suivre Bastilla (Carth aussi)
-- Etre arrêté par la Jedi (dans le fond, bastilla et carth continuent leur chemin)
+- Suivre Bastila (Carth aussi)
+- Etre arrêté par la Jedi (dans le fond, Bastila et carth continuent leur chemin)
 	- **Are you a Jedi? -> give her name**
 	- I believe you are mistaken. I am not a Padawan. I am Name. I came here with Bastila.
 	- **I didn't come here to be scolded by you!**
@@ -427,7 +427,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- What happened to this noble mission?
 	- I will heed the lesson, Master Zhar.
 - Remove Carth
-- Go to the jedi masters -> bastilla -> Ask masters
+- Go to the jedi masters -> Bastila -> Ask masters
 - Dorak
 	- **Where are the Academy's archives?**
 	- Very well... tell me the history of the Jedi.
@@ -772,7 +772,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 	- So what is the Forge, exactly?
 	- Perhaps those worlds have more clues.
 - Go back kill mobs
-- Bastilla wants to talk just before entering the enclave
+- Bastila wants to talk just before entering the enclave
 	- You look like something's bothering you.
 	- **Don't understand **
 	- **Our relationship? Is this some kind of clumsy come-on?**
@@ -988,7 +988,7 @@ Free Cam : Go to messages : X, Left, A, X : R3 : (https://gamefaqs.gamespot.com/
 # Tatooine
 
 
-- **Bastilla**
+- **Bastila**
 	- **Maybe Tatooine wasn't always a desert.**
 - Zalbar -> talks -> go to food chest
 - Go to Hyperdrive -> footsteps

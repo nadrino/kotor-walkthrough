@@ -6,7 +6,7 @@
 
 ![](../resources/images/screenshots/tatEbonArrival.png)
 
-- **Bastilla**
+- **Bastila**
 	- **Maybe Tatooine wasn't always a desert.**
 - Zalbar -> talks -> go to food chest
     - Not right? What do you mean?

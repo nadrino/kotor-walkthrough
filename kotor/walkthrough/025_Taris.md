@@ -1,210 +1,145 @@
-# Taris - Entering the Sewers
+# Taris - The Vulkar Base
 
 [< Previous Page](./024_Taris.md) 
 | [Back to the Index](./000_Index.md) 
 | [Next Page >](./026_Taris.md)
 
+## The Upper Sewers
 
-## Sewers
-
-- Go to the sewers: 4-5 respawned ratgoules in the way
-
-**SAVE BEFORE ENTERING**
-
-- Kill the 3 gamorreans, loot
-- Follow the corridor
-- On the left kill the ratgoules and find the 2nd journal for Rukil
-- Next, roundabout: kill the 4 gamorreans
-
-![](../resources/images/screenshots/tarisSewersGamoreans.png)
-
-- Go to the door on the right first -> 2 mines -> field door -> Vulkar base entrance
-- Computer
-    - Leave the computer. (don't spend a spike)
-    - _That energy shield leads to another section of the sewers. The entrance to the Vulkar base is somewhere past there. I've got the codes to lower the shield, but we have to rescue Zaalbar from those Gamorrean slavers. Don't worry – we can come back after we find Big Z._
-- Go back to the fountains room
-- Go to the door on the right (Careful; 1 gamorrean)
-- Next Ratgoules room
-- Start by the doors on the left
-- 2nd left door -> mine
-- Roundabout -> kill the ratgoules
-- Still explore doors on the left first
-- 2nd door -> corridor -> right -> see Zaalbar
-- Next room, kill ratgoules, take the mine and go two rooms backwards (spinning wheel)
-- Take the other door (left)
-- Kill the gamorrean in the corridor
-- Door on the right -> last journal for Rukil
-- Repair the droid (12 repair parts)
-  Missions levels up (5) or a bit later
-- Let the droid do the job
-
-![](../resources/images/screenshots/tarisSewersDroid.png)
-
-- Loot the belt
-- Save Zaalbar
-    - Good to meet you Zaalbar. I'm Name.
-    - It's some kind of loyalty vow, isn't it?
-    - I'm honoured to accept your vow.
-    - I'm glad to have you on board, Mission.
-    - Whoa – nobody said anything about a rancor monster!
-    - That's not really an option. Let's go.
-- Zaalbar joins
-
-![](../resources/images/screenshots/tarisZaalbarJoins.png)
-
-- Take Mission and Zaalbar with you
-- Level up Zaalbar (5) -> Equip 2 swords -> Previously upgraded Mission vibroblade
-- Take Zaalbar belongings in the locked chest in the next room
-- Equip Mission with the bowcaster
-- Unlock the back door
-- **Banther Mission with Zaalbar (1/2)**
-- Follow the previous corridor
-- Open the door on the right ? -> Yes -> but go back to the other door
-- Take the mine
-- Trigger -> 4 ratgoules will spawn
-- Take the ladder
-
-14380 XP on the XBox version (620XP needed for level 6)
-
-![](../resources/images/screenshots/tarisSewersLeaving.png)
-
-## Preparation for the Vulkar Base Infiltration: Back in Upper Taris
-
-### Igear's deal
-
-- Go back to the camp
-- **Don't speak now to Rukil!!** -> finish the quest "Infected Outcasts" first!
-- Igear's will ask you to give him the journals while you cross the camp
-  - Why are you telling me this?
-  - That's horrible! How can you be so self-centered?
-  - Forget it! I won't betray Rukil and the village for you.
-  - I'll be going now.
+- Few ratgoules have respawn in the Sewers -> kill them
+- Go to the computer -> Mission opens the field
+- Enter the "upper" sewers
 
 
-### Lower Apartements 1
+- Kill the gamorreans fast ? -> otherwise no XP ?
+- Go on the right -> loot around ladder
+- kill in the corridor
+- Level up Zaalbar and Mission (6)
+- Next room -> Droid + Mine (Be Carefull!!)
+
+![](../resources/images/screenshots/tarisSewersWater.png)
+
+- Door on the left -> 3 gamorreans
+- Next door -> grab the mine
+- Armed -> Journal -> Here is the Rancor
+  - Hide Mission
+  - Go to the pile of bones
+  - Loot
+  - Switch to give -> put the frag grenade first -> then odor
+
+![](../resources/images/screenshots/tarisSewersRancor.png)
+
+- Nothing to loot
+- Kill the two Vulkars at the entrance of the base
 
 **SAVE**
 
-- Go to apartments on the right while going back towards the upper city
-- Meet Calo again
-- Go on the left first
-- First Apartment:
-  - 2 guys -> kill them
-  - solo mode -> hide Zaalbar and PC in the left corner
-  - Mission invisible -> put two mines in the corridor
-  - Put Mission at the back of the room
-  - Release camouflage
-  - Wait for the 3 guys walking
-  - Kill the rest of them
-  - Get the mine on the closet and loot
-  - Equip combat suit on Mission
 
-![](../resources/images/screenshots/tarisLowerApt1Embush.png)
+## Entering the Vulkar base
 
-- Continue the corridor on the left
-- Kill the 2 Vulkars
-- Open the next door's room
-- 2 Vulkars -> Level Up ! (6) -> a bit later actually (Seleven)
-- Loot, go near the next door
-- Before entering, kill the 2 guys in the corridor
-- Enter the room
-- Puzzle! Password to open the chest
-  - First get the mine
-  - Hyperspace, Uncle, Alderane
-  - 110 XP + Good armor
-- Save before the next door
-- Selven's apartment
-  - Who are you?
-  - I was just exploring. I didn't know anyone was in here.
-- Enters anyway -> kill her
+- kill the droid on the right (first corridor)
+- First, take the door in front of the one you just took to kill the droid
+- Kill another droid in the corridor
+- Kill everybody in the main area
+- Loot the armory -> a lot of good stuff
+- Go to the console -> see all cameras
+- kill vulkars with spikes -> still you get the XP of the killed guys -> LEVEL UP ? -> COOL FOR REPAIR
+- **1 spike to login + 3 spikes to kill**
+- Level Up! (7)
 
-![](../resources/images/screenshots/tarisLowerAptKillSelven.png)
+![](../resources/images/screenshots/tarisVulkarBaseComputer.png)
 
-- Equip neural band (the belt will be useful for Carth)
-- Kill the last Vulkar in the next room
-- Leave
+- Talk to black Vulkar in the control room
+  - What are you talking about? You're a Vulkar, aren't you?
+  - If you hate Brejik so much, why don’t you leave the gang?
+  - You better give me some information if you want to live.
+  - Where can I find the prototype swoop engine accelerator?
+  - Where can I get a pass card?
+  - Is there some way to disable the security cannons?
+  - I want to ask you something else.
+  - I'm looking for a prisoner. A woman named Bastila.
+  - I'm going to let you live. Go on, get out of here!
+- kill the last vulkar in the bedroom, take the pass card
+- Go in the pool in solo mode
+  - DONT use repair parts on the droid on the pool
+  - no XP (bug : even if you don't have enough repair parts -> success)
+  - Take Zaalbar instead to go in the pool
+- Go back near the entrance (back door)
+- First door on the left (next to the back door one)
+- Sentry droid to repair **(8 parts - @ level 7 - 12 repair skill)** -> 16 left on XBox
+- Open the door in front of the one you took
+- Kill everybody with the help of the droid
+- Next door -> wait for the droid to come
 
-- Go to the Cantina
-- **SAVE**
-- Talk to Zax -> **level 6 needed for persuade**
-- Transit back to the safe house
+![](../resources/images/screenshots/tarisVulkarBaseBarDroidHelp.png)
 
-
-### Back to the apartments
-
-- Talk w/ Mission
-  - I want to talk to you about your brother.
-  - **Embarassing? Why?**
-  - You were stowaways?
-  - He's family. You have to stick by your family.
-  - Pretty handy skills to have, Mission.
-  - Why did he leave?
-  - Who's Lena?
-- **Talk to Carth (3/12)**
-  - I just want to talk with you.
-  - I just want to know why you distrust me so much.
-  - But we have to work together, Carth, so it has plenty to do with me.
-  - I suppose you can't. That must have been hard to take.
-  - You say that with such… hatred.
-- Improve scope for mission + armor
-
-
-- Go out with Carth and Mission
-- Level up Carth
-- Go to the ring and kill Ice +300c
-- kill the old man (at begin of combat, pause and use all injections) +400c
-
-![](../resources/images/screenshots/tarisUpperDuelMarl.png)
-![](../resources/images/screenshots/tarisUpperDuelMarl1.png)
-
-- Talk to him after (he leaves)
-- kill twitch (he is weaker with a sword) +500c -> LEVEL 6 ??
-- see bendak
-  - You're On Bendak
-- then go to kebla yurt store and buy Echani Ritual Brand (non improvable)
-- kill bendak (hard, injections + meds)
-
-![](../resources/images/screenshots/tarisUpperBendakKill.png)
+- Talk to the Waitress in the bar
+  - How did you end up here in the Vulkar base?
+  - Don't worry, I just want to ask you a few questions.
+  - Where can I find the prototype swoop engine accelerator?
+  - I'm looking for a prisoner. A woman named Bastila.
+  - If I let you go can you find your way out of here?
+  - Hurry, then – get out of here. **+2 LSP**
+- Open the last door -> Get the mine with mission -> Loot
+- Go to the computer at the end of the corridor
+  - Insert Pass Card
 
 **SAVE**
 
-- get credits + ask for more ->900c + bendac blaster
-- Equip carth and improve it at the safe house
-- Take Mission and Zaalbar
-- Banther Zaalbar and Mission before arriving at the clinic
-  - Zaalbar looks fine to me.
-- Give the Serum
-  - I have the serum to cure the Rakghoul disease.
-  - Here you go. **+4 LSP**
-  - Keep your reward, Zelka. You need it more than I do. **+2 LSP**
-- Rebuy the serum
 
-![](../resources/images/screenshots/tarisUpperGurneyAngry.png)
+## Enter the Garage
 
-- Save Ithorian -> NOT NOW
-- Talk to racist guy
-- **4 Spikes + 27 Parts** will be used after
-- _buy maximum of repair parts ??_ -> Only 4 on XBox at this point? -> (8+8+11 = 27) or at least 24 (8 instead of 11)
-- _I could buy 16 parts with all my money (no selling)_ -> 1 more needed... -> sell to have at least 21 ?
-- Go to the lower city candina -> SAVE
-- See Zax for Bendak -> PERSUADE
-- Go back to the undercity
+- Take the Elevator
+- Solo Mode On
+  - Take Zaalbar and Mission to kill the droid near the big garage door
+  - Take PC to repair the most far droid (**8 parts**) -> not too quickly -> need the right timing
+  - Kill the guys on the right corridor with PC and the droid
+  - Kill the 2 other guys in the other corridor with Z and mission
+  - Send Z near PC if needed
+  - **QUICKLY** Mission -> take the mines before the repaired droid arrives
+  - Careful -> Vulkars on the left -> wait for the crew to gather
 
 
-### Back to the Camp
+- End solo mode
+- Kill the Vulkars on the left door (already opened)
+- Try to open the other door -> Locked!
+- On the other side: repair bikes rooms -> Kill
+- Improve items at the workbench
 
-- Save the sick Outcasts -> kill the newly transformed ones
-  - Don't worry – I'm here to help you.
-  - I have brought you a serum to cure the rakghoul disease.
-  - Here, take this rakghoul serum. I have enough for both of you. **+2 LSP**
-- +210XP
-- Talk to Gendar -> congratulates
-- Talk to Rukil
-  - I have all three journals. Here – take them. **+6 LSP**
-  - **Maybe I should come with you. I could help you on the journey.**
-- Go back to the Sewers (go on the right -> few ratgouls to kill)
+![](../resources/images/screenshots/tarisVulkarBaseWorkbench.png)
 
-![](../resources/images/screenshots/tarisUndercityRukilEnd.png)
+
+- Go back to other corridor
+- First door -> 2 Vulkars -> 1 footlocker
+- Next room -> loot everywhere
+- At the console **(1 spike to login)**
+  - Blow the bikes **(2 spikes + 140XP)**
+  - Open door **(1 spike + 105XP)**
+- Go back to the previously locked door
+- Meet the leader
+  - Enough yapping! Hand over that accelerator.
+  - You've got my attention. What's your offer?
+  - You were about to tell me your offer, Kandon.
+  - I thought she was being offered up as the prize in the swoop race.
+  - Just give me the girl now or we have no deal.
+  - Forget it. I want Bastila up front or no deal!
+
+![](../resources/images/screenshots/tarisVulkarBaseLeader.png)
+
+- kill them all -> loot -> equip new stuff
+- Go back to the entrance of the garage -> droid to repair - TEMPSAVE
+  - Got 10 parts left
+  - Improve all you can, and put it in patrol mode **8 parts** (+455XP)
+  - If you want to make some more XP, program it to blow up the doo (+595XP)
+    - But kind of useless, you will reach the lvl 9 just before leaving Taris
+    - After that, you will be granted with a "free" level
+- Kill the guard droid with the help of the droid you repaired
+
+![](../resources/images/screenshots/tarisVulkarBaseGarageDroidGuard.png)
+
+- Loot the locked chest
+  - 2000c + 4parts or 4spikes
+- Go out to lower city and go to your apartment
 
 
 [< Previous Page](./024_Taris.md)

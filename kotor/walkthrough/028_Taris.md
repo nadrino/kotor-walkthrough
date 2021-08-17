@@ -4,23 +4,6 @@
 | [Back to the Index](./000_Index.md) 
 | [Next Page >](./029_Taris.md)
 
-
-- Go out w: Mission only
-- Transit back
-- Go buy Parts -> **6 Minimum / 18 spikes** -> both 4 parts and 1 spike in XBox walkthrough
-- Go "buy" T3 
-    - Persuade one time -> 1500c -> NO
-    - MORE! FREE -> DS points but who care -> Supposed to be a member the exchange!
-
-![](../resources/images/screenshots/tarisT3M4Joins.png)
-
-- T3 is level 7
-- Equip T3 with Ion blaster (droids to kill)
-- **Goto base**
-
-![](../resources/images/screenshots/tarisEntersTheSithBase.png)
-
-
 # Sith Base
 
 - Receptionist
@@ -34,8 +17,8 @@
     - Kill droids
     - Loot
     - Equip the shield and Computer improvement for T3
-- Next door on the right 
-    - 2 droids 
+- Next door on the right
+    - 2 droids
     - careful with the mine (Mission gets the mine)
 
 ![](../resources/images/screenshots/tarisSithBaseDroidKill.png)
@@ -59,17 +42,17 @@
         - T3 repairs the droid **6 parts**
         - Ambush! Shield PC + Grenade with PC -> attack
         - Quit solo mode
-        
+
 ![](../resources/images/screenshots/tarisSithBaseAmbush.png)
 
 - Open terminal **1 sp** with T3
-	- Hack sentry droids target filtering **6sp** + 160XP
-	- open elevator **80 4sp** -> open door with pass = no xp
-	- Disable shield **160XP 6sp**
-		- **or use power canal to disable shield -> no xp ? -> NOT WORKIN !**
-		- A datapad you get off a sith technician's corpse talks about the conduit "fixing the shield outage problem on the droid" IIRC
-		- _https://gamefaqs.gamespot.com/boards/556553-star-wars-knights-of-the-old-republic/45958193_
-	- Kill guards **160** 1sp
+    - Hack sentry droids target filtering **6sp** + 160XP
+    - open elevator **80 4sp** -> open door with pass = no xp
+    - Disable shield **160XP 6sp**
+        - **or use power canal to disable shield -> no xp ? -> NOT WORKIN !**
+        - A datapad you get off a sith technician's corpse talks about the conduit "fixing the shield outage problem on the droid" IIRC
+        - _https://gamefaqs.gamespot.com/boards/556553-star-wars-knights-of-the-old-republic/45958193_
+    - Kill guards **160** 1sp
 - Let droids kill everybody
 - Take the door of the last corridor (in front of the control room)
     - Kill the officer on the right first!! -> has grenades
@@ -80,9 +63,9 @@
     - Disable mine
     - Disable solo mode
     - Kill turrets
-    
+
 ![](../resources/images/screenshots/tarisSithBaseArmory.png)
-    
+
 - Equip flamme thrower for T3 -> Needed later
 - Go back to the intersection (with the field caches)
 - Kill one sentry droid
@@ -106,7 +89,7 @@
 
 
 ## Last Minutes of Taris
-_(HOW MANY SPIKES ? 1+1)_ 
+_(HOW MANY SPIKES ? 1+1)_
 
 - Improve the Mission's bowcaster + 2nd blade of Zaalbar
 - Go outside with T3 and Bastila -> will talk with Canderous

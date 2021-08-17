@@ -8,7 +8,7 @@ Dantooine - Meeting the Jedi Council
 
 - Immediately pause after the conversation with Bastila
 	- Take of you armor/sword/helmet -> take your original closes
-- Follow Bastilla (Carth too)
+- Follow Bastila (Carth too)
 
 ![](../resources/images/screenshots/danFollowingBastila.png)
 
