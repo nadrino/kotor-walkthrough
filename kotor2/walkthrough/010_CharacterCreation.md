@@ -22,7 +22,7 @@ this guide in parallel of the original configuration.
 > Indeed, the character you are about to play is former Jedi who got retired
 > after the war, and thus is referred as "the Exile" by the other characters.
 > So technically the Exile is still a Jedi, but she(-he) has radically stopped
-> using it.
+> using its benefits.
 > 
 > While you will progress through the story, your character will slowly learn
 > again to use the force.
@@ -44,8 +44,9 @@ this guide in parallel of the original configuration.
 
 - Here are the **Attributes**:
 
-> All the stats are precisely followed in the Excel files [here](../leveling/Kotor2_Leveling_v2.xlsx).
-> As it is the first level, you can also refer to those screenshot. (careful, they could be outdated!!)
+> All the stats are precisely followed in the Excel files 
+> [here](../leveling/Kotor2_Leveling_v2.xlsx). As it is the first level,
+> you can also refer to those screenshot. (careful, they could be outdated!!)
 
 
 ![](../resources/images/screenshots/2021-01-02_21-12-45.png)

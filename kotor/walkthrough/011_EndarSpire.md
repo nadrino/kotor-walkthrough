@@ -1,7 +1,9 @@
 Attack on the Endar Spire
 ================
 
-[< Previous Page](./010_CharacterCreation.md) | [Back to the Index](./000_Index.md) | [Next Page >](./020_Taris.md)
+[< Previous Page](./010_CharacterCreation.md) 
+| [Back to the Index](./000_Index.md) 
+| [Next Page >](./020_Taris.md)
 
 ## Map of the Area
 
@@ -17,7 +19,7 @@ Attack on the Endar Spire
 #### (1) Wake-up!
 
 <details>
-  <summary>Spoiler example</summary>
+  <summary>Unfold Test</summary>
 
 Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
 
@@ -104,5 +106,7 @@ Spoiler text. Note that it's important to have a space after the summary tag. Yo
 ![](../resources/images/screenshots/meetingCarth.png)
 ![](../resources/images/screenshots/escapingEndarSpire.png)
 
-[< Previous Page](./010_CharacterCreation.md) | [Back to the Index](./000_Index.md) | [Next Page >](./020_Taris.md)
- 
+[< Previous Page](./010_CharacterCreation.md) 
+| [Back to the Index](./000_Index.md) 
+| [Next Page >](./020_Taris.md)
+
