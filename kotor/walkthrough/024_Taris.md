@@ -145,7 +145,16 @@
 
 ## Sewers
 
+- Head toward the sewer entrance (where you killed a bunch of ratgoules)
+- _Switch version: along the way:_
+  - Igear's will ask you to give him the journals while you cross the camp
+    - Why are you telling me this?
+    - That's horrible! How can you be so self-centered?
+    - Forget it! I won't betray Rukil and the village for you.
+    - I'll be going now.
 - Go to the sewers: 4-5 respawned ratgoules in the way
+
+
 
 **SAVE BEFORE ENTERING**
 
@@ -184,6 +193,7 @@
   - It's some kind of loyalty vow, isn't it?
   - I'm honoured to accept your vow.
   - I'm glad to have you on board, Mission.
+  - Good...
   - Whoa – nobody said anything about a rancor monster!
   - That's not really an option. Let's go.
 - Zaalbar joins
@@ -195,9 +205,10 @@
 - Take Zaalbar belongings in the locked chest in the next room
 - Equip Mission with the bowcaster
 - Unlock the back door
-- **Banther Mission with Zaalbar (1/2)**
-- Follow the previous corridor
-- Open the door on the right ? -> Yes -> but go back to the other door
+- **Banther Mission with Zaalbar (1/2)** while going toward the door
+- Follow the previous corridor until the next closed door
+- Open the next door on the right -> console -> come back later
+- Take the other closed door
 - Take the mine
 - Trigger -> 4 ratgoules will spawn
 - Take the ladder
@@ -228,12 +239,12 @@
 - Go on the left first
 - First Apartment:
   - 2 guys -> kill them
-  - solo mode -> hide Zaalbar and PC in the left corner
-  - Mission invisible -> put two mines in the corridor
+  - solo mode -> hide Zaalbar and PC in the right corner
+  - Mission invisible -> put 2/3 mines in the corridor
   - Put Mission at the back of the room
   - Release camouflage
   - Wait for the 3 guys walking
-  - Kill the rest of them
+  - Kill the rest of them (if some are not dead)
   - Get the mine on the closet and loot
   - Equip combat suit on Mission
 
@@ -254,7 +265,7 @@
 - Selven's apartment
   - Who are you?
   - I was just exploring. I didn't know anyone was in here.
-- Enters anyway -> kill her
+- Enters anyway (+shield+implants if needed) -> kill her
 
 ![](../resources/images/screenshots/tarisLowerAptKillSelven.png)
 
@@ -265,6 +276,9 @@
 - Go to the Cantina
 - **SAVE**
 - Talk to Zax -> **level 6 needed for persuade**
+  - Bounty
+  - Seleven
+  - Persuade
 - Transit back to the safe house
 
 
@@ -296,11 +310,11 @@
 ![](../resources/images/screenshots/tarisUpperDuelMarl1.png)
 
 - Talk to him after (he leaves)
-- kill twitch (he is weaker with a sword) +500c -> LEVEL 6 ??
+- kill twitch (he is weaker with a sword + use medpacs -> already a lot in stock) +500c
 - see bendak
   - You're On Bendak
 - then go to kebla yurt store and buy Echani Ritual Brand (non improvable)
-- kill bendak (hard, injections + meds)
+- kill bendak (hard, injections + meds + frag grenades)
 
 ![](../resources/images/screenshots/tarisUpperBendakKill.png)
 
@@ -309,7 +323,7 @@
 - get credits + ask for more ->900c + bendac blaster
 - Equip carth and improve it at the safe house
 - Take Mission and Zaalbar
-- Banther Zaalbar and Mission before arriving at the clinic
+- Banther Zaalbar and Mission before arriving at the clinic (xbox)
   - Zaalbar looks fine to me.
 - Give the Serum
   - I have the serum to cure the Rakghoul disease.
@@ -322,8 +336,9 @@
 - Save Ithorian -> NOT NOW
 - Talk to racist guy
 - **4 Spikes + 27 Parts** will be used after
-- _buy maximum of repair parts ??_ -> Only 4 on XBox at this point? -> (8+8+11 = 27) or at least 24 (8 instead of 11)
-- _I could buy 16 parts with all my money (no selling)_ -> 1 more needed... -> sell to have at least 21 ?
+  - _buy maximum of repair parts ??_ -> Only 4 on XBox at this point? -> (8+8+11 = 27) or at least 24 (8 instead of 11)
+  - _I could buy 16 parts with all my money (no selling)_ -> 1 more needed... -> sell to have at least 21 ?
+  - On switch: only have 5 left before the last droid -> 3 more needed or 6
 - Go to the lower city candina -> SAVE
 - See Zax for Bendak -> PERSUADE
 - Go back to the undercity
@@ -331,10 +346,14 @@
 
 ### Back to the Camp
 
-- Save the sick Outcasts -> kill the newly transformed ones
-  - Don't worry – I'm here to help you.
-  - I have brought you a serum to cure the rakghoul disease.
-  - Here, take this rakghoul serum. I have enough for both of you. **+2 LSP**
+- Save the sick Outcasts (SAVE) -> kill the newly transformed ones
+- Talk to doctor
+  - I'm going through those...
+    - Don't worry – I'm here to help you.
+    - I have brought you a serum to cure the rakghoul disease.
+    - Here, take this rakghoul serum. I have enough for both of you. **+2 LSP**
+    - Sell some minor mines + all gas mines
+- Talk again to the doctor -> free healing
 - +210XP
 - Talk to Gendar -> congratulates
 - Talk to Rukil
