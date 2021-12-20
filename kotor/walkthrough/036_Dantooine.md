@@ -8,25 +8,30 @@
 
 ## Matale vs Sandral
 
+- Take the path to the enclave
 - Kill 2 beasts on the way
-- South
+- Go south (loading)
 - 2 beast + 3 kath
 - kill beasts -> find journal on corpse
 - Go toward the mention
-- BANTHER ? Carth and Bastila 2/2 -> not on iPhone? -> LATER On Tatooine...
-	- What did they see, exactly?
+- Carth and Bastila 2/2 (XBox)
+  - What did they see, exactly?
+> Bather #1 on Switch
+> 
+> not on iPhone? -> LATER On Tatooine...
+    
 - Go directly to Matale's house (Bastila and Carth will intervene)
-	- I come on behalf of the Jedi Council. I wish to speak to Ahlan Matale.
-	- **Any information you might have would be helpful.**
-	- **What were they doing here?**
-	- I shall go and speak to Nurik Sandral.
-	- **I understand you are upset, Ahlan Matale. Rest assured I will find Shen.**
+    - I come on behalf of the Jedi Council. I wish to speak to Ahlan Matale.
+    - **Any information you might have would be helpful.**
+    - **What were they doing here?**
+    - I shall go and speak to Nurik Sandral.
+    - **I understand you are upset, Ahlan Matale. Rest assured I will find Shen.**
 
 ![](../resources/images/screenshots/danMatalesDroids.png)
 
-- Continue the road to get to the sandral mention
-- Go south -> kill animals -> don’t kill Mandalorians now -> Go west instead
-- **Go west to Sandral -> DONT kill the last mand**
+- Continue the road to the west to get to the sandral mention
+- Go south (don’t kill Mandalorians now)
+- **Go to the Sandral mention**
 	- **I come on behalf…**
 	- I am not...
 - Enter his mention
@@ -69,9 +74,9 @@
 - get mine
 - Loot 2 doors in corridor (on right)
 - first door (left) -> 3 droids
-- camera w T3
-	- Overload central and storage rooms (DON'T CORRUPT -> NO XP ANYWAY)
-	- sauf repair room -  (2 rooms) - 2 spikes
+- camera w T3 - (2 rooms) - 2 spikes
+	- Overload central + storage rooms (DON'T CORRUPT -> NO XP ANYWAY)
+	- Don't do it for the repair room -> need the droid to be repaired
 - Kill droid next door
 - open doors
 - 2nd door corridor -> Go in
@@ -82,7 +87,7 @@
 ![](../resources/images/screenshots/danSandralMentionDroids.png)
 
 - Repair room + Get Key + repair droid 5 parts 715 XP !
-- Loot the last room on the left and go back
+- discover the last room on the left and go back
 - Save Shen (take the mine in front of his door)
 	- I am here to rescue you, Shen.
 	- I'll protect you, Shen. Let's go.
@@ -105,34 +110,37 @@ You earned 900XP !
 
 ![](../resources/images/screenshots/danSandralMataleCase.png)
 
-- Go back to Ebon Hawk (Transit back)
-- Bastila proposition while you move forward (will be cited later)
-	- You wanted to speak to me?
-	- Is it true you killed Darth Revan?
-	- That's not what I heard.
-	- **What else did you expect from the Sith?**
-- Improve Canderous Blaster (trigger)
-- Can't talk to Canderous yet. -> next level
-- Deesra speak intercept -> history
-	- **How do you know the Council gave me a mission?**
-	- What are you talking about?
-	- **Why are you telling me this?**
-	- Then why are you worried about them now?
-	- The Great Hunt? What's that?
-	- **So the Jedi just killed these creatures?**
-	- Why? What was so special about those three?
-	- Thanks for…
+- You can speak to Bastilla
+    - You wanted to speak to me?
+    - Is it true you killed Darth Revan?
+    - That's not what I heard.
+    - **What else did you expect from the Sith?**
+- Transit back
+- Replace T3 with Carth (level up)
+- Deesra (Twilek) speak intercept -> history
+    - **How do you know the Council gave me a mission?**
+    - What are you talking about?
+    - **Why are you telling me this?**
+    - Then why are you worried about them now?
+    - The Great Hunt? What's that?
+    - **So the Jedi just killed these creatures?**
+    - Why? What was so special about those three?
+    - Thanks for…
 - Talk to Belaya -> new line
 - Talk to guy in bed room -> Montagne (droid quest) (Bastila talks)
-	- There is no need.
-	- Yes, he seems quite nice.
-	
+    - There is no need.
+    - Yes, he seems quite nice.
+
 ![](../resources/images/screenshots/danEliseMontagneLeaves.png)
-	
-- Talk :
+
+- Small talk with the Council:
 	- Zhar
 	- Vrook -> ask about the mandalorians
 	- Vandar -> Congratulate
+
+- Go back to the ebon hawk
+- Improve Canderous Blaster (trigger)
+- 
 
 
 [< Previous Page](035_Dantooine.md)

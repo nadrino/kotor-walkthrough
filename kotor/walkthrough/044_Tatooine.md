@@ -7,116 +7,122 @@
 
 - Go to the droid shop (SAVE -> before the door)
 - Yuka Laka
-	- What do you have available in your shop?
-	- Let me ask a few questions about HK-47.
-	- What does the HK-47 designation mean?
-	- What functions have you tested?
-	- _What does the HK-47 designation mean?_ (again)
-	- Where did you get this HK-47? (Carth speaks)
-	- //You don't seem to know much about it.
-	- Let's get back to my other questions.
-	- Goodbye.
+    - What do you have available in your shop?
+    - Let me ask a few questions about HK-47.
+    - What does the HK-47 designation mean?
+    - What functions have you tested?
+    - _What does the HK-47 designation mean?_ (again)
+    - Where did you get this HK-47? (Carth speaks)
+    - //You don't seem to know much about it.
+    - Let's get back to my other questions.
+    - Goodbye.
 - Inspect Droids and HK-47
-	- **I'm not familiar with Systech Corporation. What else do they make? -> better informations here**
-	- Why are you keeping information to yourself?
-	- Access to your memory is restricted?
-	- How do I know you'll be loyal once the restraining bolt is removed?
-	- Why would you assume that?
-	- Doesn't Yuka question you about your reluctance to reveal your functions?
-	- **Let's go back to my previous questions.**
-	- Sell yourself, droid. Why would I need you?
-	- **So you translate? I understand most languages well enough.**
-	- Why would you be better than an armored battle droid?
-	- **You are beginning to sound like an assassin.**
-	- You don't sound very convincing.
-	- **All right, I'll see about purchasing you.**
-	- Does Yuka Laka know you talk about him like this?
+    - **I'm not familiar with Systech Corporation. What else do they make? -> better informations here**
+    - Why are you keeping information to yourself?
+    - Access to your memory is restricted?
+    - How do I know you'll be loyal once the restraining bolt is removed?
+    - Why would you assume that?
+    - Doesn't Yuka question you about your reluctance to reveal your functions?
+    - **Let's go back to my previous questions.**
+    - Sell yourself, droid. Why would I need you?
+    - **So you translate? I understand most languages well enough.**
+    - Why would you be better than an armored battle droid?
+    - **You are beginning to sound like an assassin.**
+    - You don't sound very convincing.
+    - **All right, I'll see about purchasing you.**
+    - Does Yuka Laka know you talk about him like this?
 - Yuka Laka -> SAVE (don't overwrite previous)
-	- Let me ask a few questions about HK-47.
-	- You don't seems to know much about this droid
-	- Why haven't you wiped its memory?
-	- I'm interested. Let's talk price.
-	- Could I convince you to lower the price a bit?
-	- Despret to sell ?
-	- Perhaps I can convince you to go lower?
-	- [Persuade] Come now, think of the advertising you'll get from me. (Medium 50%)
-	- 2500c (if fails -> reload last save or 3000c proposed -> go back to the door)
+    - Let me ask a few questions about HK-47.
+    - You don't seems to know much about this droid
+    - Why haven't you wiped its memory?
+    - I'm interested. Let's talk price.
+    - Could I convince you to lower the price a bit?
+    - Despret to sell ?
+    - Perhaps I can convince you to go lower?
+    - [Persuade] Come now, think of the advertising you'll get from me. (Medium 50%)
+    - 2500c (if fails -> reload last save or 3000c proposed -> go back to the door save)
+    - Thanks, goodbye.
 - HK-47
-	- **Kill something for me?**
-	- Travel with me now.
+    - **Kill something for me?**
+    - Travel with me now.
 - Replace T3 with HK
 - Level up HK (7 to 11)
 - Retalk Yuka -> HK-47 Intervention !
-	- //Buy Heavy Plating Type 2 -> 1500c **NOOO ! Will be looted in Enclave of Sand People !!!**
-	- Buy a Stun Ray arm if not aquired already
-	- Equip HK with sonic Rifle (Stun Bonus)
+    - //Buy Heavy Plating Type 2 -> 1500c **NOOO ! Will be looted in Enclave of Sand People !!!**
+    - Buy a Stun Ray arm if not aquired already
+    - Equip HK with sonic Rifle (Stun Bonus)
 - Go to Iziz the Jawa (with Carth and HK)
-	- **Could you be clearer? I'm having trouble understanding you.**
-	- Why wouldn't I understand your true language?
-	- **What is it that you want, Jawa?**
-	- **HK-47, can you help me out here?**
-	- **What about the other 2%.**
-	- So, Iziz, what do you want me to do?
-	- Tell me about where your people are. Maybe I'll help.
-	- A few more questions, all right ?
-	- **Tell me about "those who came before". (Carth trouve le temps long…)**
-	- I'll check it out when I leave the city. Goodbye.
-	- (Replace HK with Bastila)
-	- **I'm looking for something called a Star Map. Can you help? -> IMPORTANT !**
-	- **You'll tell me after I help you? Why should I believe this? -> Bastila + Carth se disputent**
+    - **Could you be clearer? I'm having trouble understanding you.**
+    - Why wouldn't I understand your true language?
+    - **What is it that you want, Jawa?**
+    - **HK-47, can you help me out here?**
+    - **What about the other 2%.**
+    - So, Iziz, what do you want me to do?
+    - Tell me about where your people are. Maybe I'll help.
+    - A few more questions, all right ?
+    - **Tell me about "those who came before". (Carth trouve le temps long…)**
+    - I'll check it out when I leave the city. Goodbye.
+    - (Replace HK with Bastila)
+    - **I'm looking for something called a Star Map. Can you help? -> IMPORTANT !**
+    - **You'll tell me after I help you? Why should I believe this? -> Bastila + Carth se disputent**
 - Go back in direction of the Ebon Hawk
-- Banther Carth + Bastila
-	- What did they see, exactly?
+- Banther Carth + Bastila (2/2)
+    - What did they see, exactly?
 - Transit Back to Ebon
-	- Improve light sabers
-	- Speak ?
-	- Juhani (personal 3/X) -> personal story
-		- What are you thinking about?
-		- **And how are things different now?**
-		- We are all in this together.
-	- HK-47
-		- I would like to know more about your functionality.
-		- I thought you said that removing your restraining bolt would restore your memory?
-		- So you lied to me.
-		- How can you not know parts of your functionality?
-		- Are you damaged?
-		- Tell me what you can, then.
-		- An assassin?
-		- Err… I won't tell anyone.
-		- Is there any way to reactivate that function?
-		- **Is there any way to repair you?**
-		- So I can restore your memory?
-		- So you're saying your memory might just… come back?
-		- So how do I go about restoring part of your memory?
-		- **I would like to try restoring some of your memory. (Repair 8+)**
-		- Are you implying I am inept?
-		- I happen to be very good at what I do.
-		- Let's get started.
-		- **Yes, let me hear it.**
-		- Why can't you identify his acquaintance?
-		- **This man needed a bodyguard?**
-		- You mentioned this Systech Corporation when I purchased you.
-		- This man… is he still alive?
-		- **You killed your own master?**
-		- Wait… tell me about this assassination protocol.
-		- **Why not?**
-		- **Why didn't he just deactivate you?** -> Most interesting
-		- And that's when you killed him?
-		- **I don't think he was as lucky as you think.**
-		- Didn't they know what you had done?
-		- What a horrible story!
-		- I'm just glad I acquired you myself.
-		- Are you sure this actuator can't be fixed?
-		- Did you recover any other memories?
-	- Equip the PC with:
-		- Bothan Sensory Visor: immunity against critical hits
-		- Light Battle Armor
+    - Improve light sabers
+    - Speak ?
+    - Juhani (personal 2/9) -> later on Switch? -> wait for level 13
+      - Are you doing alright?
+      - **You're too fragile, Juhani.**
+      - Perhaps you just need more time.
+      - **If I see you begin to slip back, I will intervene.**
+    - Juhani (personal 3/9) -> personal story -> Later on Switch/PC?
+        - What are you thinking about?
+        - **And how are things different now?**
+        - We are all in this together.
+    - HK-47
+        - I would like to know more about your functionality.
+        - I thought you said that removing your restraining bolt would restore your memory?
+        - So you lied to me.
+        - How can you not know parts of your functionality?
+        - Are you damaged?
+        - Tell me what you can, then.
+        - An assassin?
+        - Err… I won't tell anyone.
+        - Is there any way to reactivate that function?
+        - **Is there any way to repair you?**
+        - So I can restore your memory?
+        - So you're saying your memory might just… come back?
+        - So how do I go about restoring part of your memory?
+        - **I would like to try restoring some of your memory. (Repair 8+)**
+        - Are you implying I am inept?
+        - I happen to be very good at what I do.
+        - Let's get started.
+        - **Yes, let me hear it.**
+        - Why can't you identify his acquaintance?
+        - **This man needed a bodyguard?**
+        - You mentioned this Systech Corporation when I purchased you.
+        - This man… is he still alive?
+        - **You killed your own master?**
+        - Wait… tell me about this assassination protocol.
+        - **Why not?**
+        - **Why didn't he just deactivate you?** -> Most interesting
+        - And that's when you killed him?
+        - **I don't think he was as lucky as you think.**
+        - Didn't they know what you had done?
+        - What a horrible story!
+        - I'm just glad I acquired you myself.
+        - Are you sure this actuator can't be fixed?
+        - Did you recover any other memories?
+    - Equip the PC with:
+        - Bothan Sensory Visor: immunity against critical hits
+        - Davik war suit or Light Battle Armor
 - Go out with Bastila and **HK-47**
 - Travel Back
   **SAVE**
 - Gate Guard Billan
-	- I have proper authorization.
-	- Here is my hunting license.
+    - I have proper authorization.
+    - Here is my hunting license.
 
 [< Previous Page](043_Tatooine.md)
 | [Back to the Index](./000_Index.md)

@@ -38,7 +38,7 @@
 	- Why have previous settlements failed?
 	- Czerka Corporation isn't doing well here?
 	- That's all I need. Goodbye.
-- Czerka Office -> guy angry -> don't want sand people killed
+- Czerka Office -> guy upset -> don't want sand people killed
 	- What's going on here? Who are you?
 - woman : Protocol Officer
 	- I want to ask about hunting licenses.
