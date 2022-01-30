@@ -5,7 +5,7 @@
 | [Next Page >](./048_Tatooine.md)
 
 
-- Monter la dune
+- Climb the dune in front of the enclave
 - Loot Twilek mort -> Thermal Detonator ?
 - Go to other path
 - Disable mines 2!
@@ -13,7 +13,7 @@
 - Equip Canderous with implants (now he can)
 
 
-- Go to the Dragon cave
+- Go toward the Dragon cave
 - Bastla + Canderous Banter! (1/1) (find the trigger)
     - Okay, let's not get into this.
 - Go see Komad
@@ -32,16 +32,16 @@
 - Go to Bantas
 - Kill Sand Peoples
 - Go back see bantas
-- SAVE !!! => Dragon model will disappear
+- SAVE (Dragon model will disappear)
 - Talk Komad
 	- Ready
 	- Thanks. We did what had to be done.
-- Loot (holocron à coté star map ?)
+- Loot (holocron near star map ?)
     - Jedi master robe!
     - Violet crystal
     - Nerve amplifier belt (good against sith!)
     - Crystal opila
-    - Holocron
+    - Holocron -> On Switch Bastila talks
 - Open star map
 - +2000PX
 - Calo Nord

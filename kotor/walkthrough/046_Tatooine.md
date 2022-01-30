@@ -5,7 +5,7 @@
 | [Next Page >](./047_Tatooine.md)
 
 
-- Déminer 2
+- Unmine (2)
 - Suivre les débris
 - 8 mines (walk to detect them)
 - Go in the Enclave
@@ -38,14 +38,14 @@
 - Greeta Holda (save -> or retry persuade in loop)
 	- What do you have available for purchase?
 	- Do you have any moisture vaporators?
-	- **That's not really your concern, is it? -> Czerka don’t want peaceful**
+	- **That's not really your concern, is it?** -> Czerka don’t want peaceful
 	- **Could you be persuaded to lower the price?**
 	- [Persuade] Czerka's costs, not yours. Who cares about their money? (Medium 50%)
 	- 200 for the moisture vaporators sounds fine to me.
-- Sell the Gaffi sticks (450c)
+- Sell the Gaffi sticks (450c - 500c)
 - Go to the gate guard
 - Go kill raids -> WARNING Still HARD -> from behind
-- Level up Mission and HK (12)
+- Level up Mission and HK (12) if not already
 - Some mines might remain...
 - Try enter Enclave
 	- Ask him if we can enter.

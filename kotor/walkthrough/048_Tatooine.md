@@ -50,6 +50,7 @@
 - Take Calo armor ?
 
 ```
+>>> OLD 
 - Go back ebon on foot
 - Kill raids
 - Back to Ebon
@@ -60,8 +61,12 @@
 - Kill Raids
 ```
 
+- Equip: mand shield, brejik arm band + belt
+
+
 - **Near Chief** loot
-- **When Chief are dead -> Wait heal -> Take back Jedi robe?**
+- **When Chief are dead** -> Wait heal
+- Kill all
 - **Outside kill all + 2 ambush**
     - Canderous oneshot!
     - However: don't oneshot the one out of bounds!!
@@ -78,20 +83,22 @@
 
 ## End Tatooine
 
+- Make the LS violet + take jedi armor now
 - Mission + Bastila
 - Czerka (SAVE)
 	- Gaffi sticks
 	- Yes, here it is.
 	- **[Persuade] For a bit more I could maintain my vigilance in the future.**
+- Reask
 	- Gafifi again
-	- Goodbye.
+	- Goodbye. (1550c)
 - **Griff**
 	- Come on, Griff, get to the point.
 	- So you want to open a bar?
 	- **That's what you get for dealing with the Exchange.**
-- Resell the evaporator? Could not find on XBox ?
+- Resell the evaporator? Could not find on XBox ? Nether on Switch (but looted before)
 	- Buy mesh underlay -> armor improvement
-	- All life support packs -> les moins chers avec ceux au spatioport (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Medical_items_)
+	- All life support packs -> the cheapest in the game with the one at the spaceport (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Medical_items_)
 - Outside
 	- Talk with Mission (LSP)
 		- **You can't turn your back on your own brother!**
@@ -103,7 +110,7 @@
 - Go toward the cantina
 - Senni Vek (Twilek)
 	- I didn't drop anything.
-	- I'm sorry, there must be some mistake. (not on XBox)
+	- I'm sorry, there must be some mistake. (not on XBox neither Switch)
 	- What is this, some kind of con game?
 	- I don't want it.
 	- Fine. Give me the stupid datapad!
@@ -112,7 +119,7 @@
 	- It sounds like you've already made up your mind.
 	- Treasure hunting is a dangerous occupation.
 	- I'll do my best.
-- Talk to Bastila
+- Talk to Bastila (don't  move)
 	- So do you feel better now?
 - Bastila proposition after (4/8)
     - Why did the Council send me with you on this mission?
@@ -190,26 +197,34 @@
 - Upgrade Light Saber
     - Krayt Dragon
     - Violet crystal!
-    - blue LS -> opila -> for Juhani
+    - blue LS -> opila -> for Juhani -> keep the stun one
+- Upgrade guns + calo armor
 - Canderous (4/6)
 	- I was wondering if you had any more war stories.
 	- **You had the choice not to destroy them.**
 	- You could have found another way.
 	- How did they redeem themselves?
-- Juhani (personal 4/X)
-    - What are you thinking about?
-    - I know some parts are bad, but...
-    - Humans can be just as cruel to each other.
-    - Wait a second. Why are you telling me all this?
-    - No, it is alright. I will be here to listen to you whenever you want.
-        - _next personal story will unlock after a new level is acquired_ -> level 15
+- Juhani (3/6) - (level 14) -> now on Switch
+	- Is something wrong?
+	- I am sorry, Juhani.
+	- **I do not remember seeing any of your race on Taris…**
+	- **How could such a government last?**
+	- **Decent humans are hard to find.**
+	- Your parents?
+- Juhani (personal 4/X) -> later on Yavin?
+	- What are you thinking about?
+	- I know some parts are bad, but...
+	- Humans can be just as cruel to each other.
+	- Wait a second. Why are you telling me all this?
+	- No, it is alright. I will be here to listen to you whenever you want.
+		- _next personal story will unlock after a new level is acquired_ -> level 15
 - HK-47
 	- You don't need to call me master, you know.
 	- 'Organic meatbags?'
 	- You just called me a meatbag *again*!
 	- Neither do I, come to think of it…
 	- I survive. Somehow.
-	- …
+- reask
 	- I would like to try restoring some of your memory. (2/4 - Repair 11+)
 	- Lets get…
 	- …
@@ -241,7 +256,7 @@
 	- No, I'm glad you did. I care for you too, Bastila. As a friend.
 - SAVE near the Galaxy map
 - Go to Yavin ! 
-    - Ambush!
+    - Ambush! -> not on Switch
     -> sur la route ! -> ensuite Dantoine -> la fille -> ensuite Kashyyk
 
 [< Previous Page](047_Tatooine.md)

@@ -25,7 +25,7 @@
 	- I have to go.
 - Go on the right of the big truck
 - Sand people ambush ? (2nd) -> or later
-- Kill Wraids one by one
+- Kill Wraids one by one (there is always 4 so if you see less, some are hidden)
 - Kill Sand People Group near the south path (easier but respawns! -> throw grenade ? kill the grenade thrower first)
 - Récupérer les déguisements
 - Disable mines (//equipment rappel : Bothan Sensory Visor (+immunity coups critiques) + Stabilizer Gauntlers)
@@ -38,10 +38,10 @@
 - 3 mines around their setup
 - Save/Reload -> Wraids will respawn! (550px each! x4) -> level up (13) with the last one
 - Next debris -> ambush ? (2nd on XBox)
-- Go near next garbages -> Ambuscade (3rd)
+- Go near next garbages -> Ambuscade (3rd or 4th)
 - Tanis
 - Talk to a droid before
-- Talk (HK and Bastila will intervine)
+- Talk to Tanis - recognize you (HK and Bastila will intervine)
 	- What happened here?
 	- You sit back and let your droids do the hunting?
 	- It just doesn't seem very sporting.

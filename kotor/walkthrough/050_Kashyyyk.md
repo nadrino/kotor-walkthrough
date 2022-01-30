@@ -34,7 +34,7 @@
 
 ![KOTOR Guide-3](../resources/images/screenshots/KOTOR%20Guide-3.png)
 
-- Fodo Medo -> Pazaak * 10 (`75*4 + 200*4 + 600*1` + cards) -> XBox does not give cards
+- Fodo Medo -> Pazaak * 10 (`75*4 + 200*4 + 600*1` + 1 match to get cards) -> XBox does not give cards
     - What do you do for the Czerka Corporation?
     - ...
     - I have some questions about Kashyyyk?
@@ -47,10 +47,10 @@
 	- Prepared me? What do you mean?
 	- Why were you forced to leave?
 	- Why didn't your father believe you?
-	- Time has passed. Things will have changed.
+	- Time has passed. Things will have changed. -> buggy on Switch?
 	- We'll deal with that if we have to. Let's go.
 - Matton Dasol
-- Eli Gand -> Mission + Carth Banter
+- Eli Gand -> Mission (+ Carth) Banter
 	- What do you know of Kashyyyk?
 	- What do you mean by that?
 	- I want to go back to my other questions.

@@ -6,7 +6,7 @@
 
 
 
-- Bastila + Mission
+- Party change : take Bastila + Mission
 	- A nice nest of lies you have constructed.
 	- What do you want? Why drag us here?
 	- I would not abandon Zaalbar to you.

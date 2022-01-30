@@ -5,14 +5,14 @@
 | [Next Page >](./050_Kashyyyk.md)
 
 
-- Take Canderous ? -> make sense -> With Carth ? Un finished Banter
-- Level up Carth (12+13) + equip him with Calo armor
+- Take Canderous ? -> make sense -> With Carth ? Unfinished Banter
+- Level up Carth (12+13) + equip him with Calo armor (or keep for you and Carth take the davik one)
 - Bug played pazaak -> Black screen Xbox -> played then -> return -> save/reload -> retalk -> debug
 	- Yeah, I'm new. Very new.
 	- **[Lie] I do work for Davik.**
 	- I work for the Republic.
 	- Trandoshans and smugglers? What are you talking about?
-	- … Open
+- Reask
 	- I'm trying to defeat Darth Malak.
 	- He is the Dark Lord of the Sith.
 	- When I... acquired the Ebon Hawk, it had the coordinates for your station.
@@ -36,7 +36,8 @@
 	- **Advanced Stabilizer Gloves** -> YES best gands pour les perso à distance ! -> Pour Canderous
 	- Implants ++ ? -> not interesting + unusable now
 	- Baragwin Droid Shield -> pas compris… ?? -> en fait juste un shield pourri -20 dégâts energy mais en illimité
-- Speek to Carth ?
+- Equip Canderous with gloves -> No! not Canderous -> Max dexterity bonus cap from Light Battle Armor -> Better on Carth with Davik's armor
+- Speek to Carth (6?/12)
 	- Tell my why you want revenge on Saul so badly.
 	- It just seems to be more… personal than that, is all.
 	- I do, if it's alright with you.
@@ -45,29 +46,44 @@
 	- What was she like, your wife?
 	- So this is where all that anger comes from.
 	- **So what happened to your son? You didn't say.**
-- 
+
+
 
 |  **Buy** | **Item Cost** | ** -5%** | ** -20%** | **Amount** | 
-|-----|-----|-----|-----|-----|-----|
+|----------|:--------------|:------------|:-------------|:----------:|
 |  Light Exoskeleton | 10000 | 9500 | 8000 | 1 | 
 |  Baragwin Shadow Armor | 6000 | 5700 | 4800 | 1 | 
-|  Advanced Stabilizer Gloves | 8500 | 8075 | 6800 | 1 | 
+|  **Advanced Stabilizer Gloves** | 8500 | 8075 | 6800 | 1 | 
 |  Advanced Sensory Implant | 3500 | 3325 | 2800 | 1 | 
 |  Advanced Bio-Stabilizer Implant | 3000 | 2850 | 2400 | 1 | 
 |  Baragwin Droid Shield | 4000 | 3800 | 3200 | 1 |
+
 
 ![KOTOR Guide-2](../resources/images/screenshots/KOTOR%20Guide-2.png)
 
 
 ## Back to Ebon
 
-- Juhani (3/6) - (level 14)
+- Juhani (3/6) - (level 14) -> before on Tatooine
 	- Is something wrong?
 	- I am sorry, Juhani.
 	- **I do not remember seeing any of your race on Taris…**
 	- **How could such a government last?**
 	- **Decent humans are hard to find.**
 	- Your parents?
+- Juhani (personal 3/X) -> personal story -> on Switch. Too late?
+	- I was wondering...
+	- What are you thinking about?
+	- **And how are things different now?**
+	- We are all in this together.
+- Juhani (personal 4/X) -> later on Yavin? -> NO??
+  	- I was wondering...
+	- What are you thinking about?
+	- I know some parts are bad, but...
+	- Humans can be just as cruel to each other.
+	- Wait a second. Why are you telling me all this?
+	- No, it is alright. I will be here to listen to you whenever you want.
+		- _next personal story will unlock after a new level is acquired_ -> level 15
 - HK (14 repair) -> LATER!!
     - I would like to try restoring some of your memory.
     - Let’s get started.
@@ -92,6 +108,7 @@
 - Buy -> LATER
 	- Calrissian's Utility Belt ? -> On Xbox need a patch to deploy bezfore arriving there!
 - Stowaway
+  	- Go ahead...
 	- There is a stowaway on my ship by the name of Sasha.
 	- Yes, I am. She only speaks a smattering of Mandalorian, but I was able to figure it out.
 	- Certainly. I'll bring you to my ship.
