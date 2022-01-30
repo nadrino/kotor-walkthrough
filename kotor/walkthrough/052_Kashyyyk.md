@@ -29,10 +29,11 @@
 		- Who was Rorworr?
 		- When did Rorworr go missing?
 		- Goodbye.
-- BANTER !!! Bastila + Mission
+- Leave the house go right (descending)
+- BANTER while leaving the house: Bastila + Mission
 - Continuer -> descendre -> porte -> lawyer
 - Loot
-- Vers sortie
+- Exit the village
 - Bastila propose (6/9)
 	- You're curious about something?
 	- **Do I have a choice?**
