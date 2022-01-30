@@ -52,6 +52,9 @@
         - **Just?**
         - **I think you will come to trust him in time.**
         - **About what?**
+
+![](../resources/images/switch/2022013010424700-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Ask Bastila if no proposition in the village
   - I'd like to talk about what you said before. About giving in to your emotions.
   - No, I disagree!
@@ -78,6 +81,9 @@
 - Carth
     - You're a friend of Carth, I take it?
     - I understand. We'll go as soon as possible.
+
+![](../resources/images/switch/2022013010535100-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Switch Carth with Canderous (level up 13)
 - Go to forest by foot (no mob along the way)
 - Go back at Jolees house

@@ -6,12 +6,19 @@
 
 
 - Recover mines past the Czerka base (3 + 2 mines at the door)
+
+![](../resources/images/switch/2022013011020300-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+![](../resources/images/switch/2022013011032600-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Czerka door
     - Why place this thing here?
     - Whatever. Just shut it down. (on Switch -> this trigger the loading)
     - Very well. Why did Czerka put this here?
     - Have you gone past it …
     - I trust …
+
+![](../resources/images/switch/2022013011041400-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - …
 - Meet mandalorians
     - What happened here?
@@ -19,14 +26,23 @@
     - What can you tell me about your attackers? -> Canderous ?
     - I'll look into it.
 - Loot + remove weapons -> Mandalorians will popup
+
+![](../resources/images/switch/2022013011155100-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Go to the right
 - Ambuscade -> Focus sur 1
+
+![](../resources/images/switch/2022013011200100-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Continuer vers les Kinrath (right)
 - Go left next intersection: under the log (right is the swoop bikes)
     - Après cookie mort -> ambuscade -> remove weapons
 - Remonter vers les swoop bikes (right) -> Boucle -> kill last mob
 - Bike -> module -> last mands
     - Equip cancerous with belt?
+
+![](../resources/images/switch/2022013011224100-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Go back to wookie
   - The Mandalorian hunters are dead. I killed them all.
   - I hope it does. Goodbye.
@@ -56,6 +72,10 @@ Echani Vibroblade (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_
 - Go back right -> south
 - See gravas
 - Attacher Kinrath
+
+![](../resources/images/switch/2022013011364600-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+![](../resources/images/switch/2022013011374700-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Kill monster
   - Loot circlet of Saresh +6Wisdom!!
 - Go back Freyrr
@@ -66,8 +86,20 @@ Echani Vibroblade (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_
     - Here, take it. I'm sure it is the one.
     - We should proceed carefully.
 - +675PX
-- Go to Star Map
+
+
+- Go to the south
+
+![](../resources/images/switch/2022013011414200-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Get mines
+
+![](../resources/images/switch/2022013011420300-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
+- The star map can't be opened manually
+
+![](../resources/images/switch/2022013011423000-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Talk to the hologram (few options are missing in the Switch version?)
     - What is your purpose?
     - What do you mean by behavioral reconfiguration?
@@ -113,11 +145,19 @@ Echani Vibroblade (_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_
     - **I stop the attack. I will appear to be a hero.** + 2PCL
 - Full buffer + Echani shield + Krath double sword 
     - easy with powers of droid++ with Jolee
+
+![](../resources/images/switch/2022013012010900-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - 2*500 = 1000PX
 - Retalk
     - What did your scan during the battle reveal?
+
+![](../resources/images/switch/2022013012022200-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Star map opens (level 16 on Switch!!)
 - Jolee talk
+
+![](../resources/images/switch/2022013012064800-B5D02A793ED06B4BA008125C7E302FC9.jpg)
 
 
 [< Previous Page](054_Kashyyyk.md)

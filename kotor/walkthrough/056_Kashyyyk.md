@@ -8,13 +8,16 @@
 - Before taking the elevator:
     - Kill Wookiie
     - Level up (16)
+
+![](../resources/images/switch/2022013012093600-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Go Up
 - Talk Chorrawl
-	- Why should I follow you ?
-	- (loading)
-	- Quiet down. We'll use this to our advantage.
-	- Do you have to fight? Talk it through!
-	- **Convince them! Avoid this needless slaughter!** (+6LSP)
+    - Why should I follow you ?
+    - (loading)
+    - Quiet down. We'll use this to our advantage.
+    - Do you have to fight? Talk it through!
+    - **Convince them! Avoid this needless slaughter!** (+6LSP)
 - Kill all
 
 ![KOTOR Guide-8](../resources/images/screenshots/KOTOR%20Guide-8.png)
@@ -28,6 +31,10 @@
 - Zaalbar + Jolee (Bastila + Jolee -> no trigger for banther)
 - Levelup Zaalbar (14)
     - Equip him with Bacca's ceremonial Blade + Echani
+
+![](../resources/images/switch/2022013012211700-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+![](../resources/images/switch/2022013012220300-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Go back à pied -> kill Czerka
 
 ![](../resources/images/switch/2022013012243100-B5D02A793ED06B4BA008125C7E302FC9.jpg)
