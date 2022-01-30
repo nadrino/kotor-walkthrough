@@ -14,7 +14,7 @@
 - Kill the gamorreans fast ? -> otherwise no XP ?
 - Go on the right -> loot around ladder
 - kill in the corridor
-- Level up Zaalbar and Mission (6)
+- Level up Zaalbar and Mission (6) (XBox only? -> after the droid on switch?)
 - Next room -> Droid + Mine (Be Carefull!!)
 
 ![](../resources/images/screenshots/tarisSewersWater.png)
@@ -38,7 +38,7 @@
 ## Entering the Vulkar base
 
 - kill the droid on the right (first corridor)
-- First, take the door in front of the one you just took to kill the droid
+- First, take the door in front of the one you just took
 - Kill another droid in the corridor
 - Kill everybody in the main area
 - Loot the armory -> a lot of good stuff

@@ -81,11 +81,11 @@
 		- //I think we both know the real reason you've been watching me.
 		- //I make you tremble? Do you get all tingly inside, too?
 	- **My progress?**
-	-  **We're not going to go over this again, are we?**
+	- **We're not going to go over this again, are we?**
 	- **You seem to know that temptation very well.**
 	- **Are you saying the light side is innocent of killing?**
 	- **Do whatever is required? Such as?**
-- Juhani (personal 2/9)
+- Juhani (personal 2/9) -> later on Switch? -> wait for level 13
 	- Are you doing alright?
 	- **You're too fragile, Juhani.**
 	- Perhaps you just need more time.

@@ -36,18 +36,19 @@
 ![](../resources/images/screenshots/danEbonTravelMap.png)
 
 - Bastila (2/8)
-	- I'd like to know more about you, Bastila.
-	- Tell me how you joined the Jedi, then.
-	- Discouraged? Why?
-	- That sounds idiotic. I would never agree to that.
-	- And what's so wrong with that?
-	- You need to lighten up.
-	- **It just seems wrong not to be allowed to love.**
-	- Don't you miss your family at all?
-	- You don't sound very convinced.
-	- **You and your father were close?**
-	- You never tried to get in touch with your father again?
-	- You sound very sad when you say that.
+    - I'd like to know more about you, Bastila.
+    - Tell me how you joined the Jedi, then.
+    - Discouraged? Why?
+    - That sounds idiotic. I would never agree to that.
+    - And what's so wrong with that?
+    - You need to lighten up.
+    - **It just seems wrong not to be allowed to love.**
+    - Don't you miss your family at all?
+    - You don't sound very convinced.
+    - **You and your father were close?**
+    - You never tried to get in touch with your father again?
+    - You sound very sad when you say that.
+    
 **SAVE** in front of the navigation map
 - Select the planet we will travel next: Tatooine
 - Cinematic with Malak

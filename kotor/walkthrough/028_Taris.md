@@ -80,6 +80,7 @@
 - Sith Governor
     - You Sith must be brought to judgement for all the blood you have spilled.
 - Kill the Sith -> careful to who is focused
+- Flame thower with T3
 
 
 ![](../resources/images/screenshots/tarisSithBaseGovernor.png)

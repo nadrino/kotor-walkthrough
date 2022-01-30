@@ -11,10 +11,10 @@
 	- Um, all right? What if he has a message for you?
 	- You sound like you're planning to kill him.
 	- I have to go.
-- Soutien Jedi all
+- Jedi support all group member
 - Go toward the garbage slight right
 - Ambuscade ! -> Astuce : always stun 
-	- Very tough…
+	- Very tough… -> all firepower on one guy
 - See the 3 guys
 	- I would assume this was done by the Sand People?
 - Easier here… but 3 groups. Take Bastila to manage her force powers -> stay near the group
