@@ -111,38 +111,38 @@
   - You mentioned eliminating barriers? Could we get to it?
 - Take Bastila with Jolee -> Banter
 - Level up Jolee 7 to 12 + equip + script
-- Retourner au village absolument !!! -> pour rendre quête (surtout à coté ebon -> slave -> after too late)
-- A pied !
+- **Back to the village !!!** -> pour rendre quête (surtout à coté ebon -> slave -> after too late)
 - Take the elevator
 - Kill mobs
 - Enter the village
-- New Bastila proposal (7/9)
+- New Bastila proposal (7/9) -> not on Switch -> ask on the Ebon?
   - I'd like to talk about what you said before. About giving in to your emotions.
   - No, I disagree!
   - You're doing your best, I'm sure.
   - You're being too hard on yourself.
   - How did you expect me to be? -> sinon gros lourd
-- Woorwill House
+- go to Woorwill House
 - Woorwill
-  - Do you know whose bolt casing this is?
+  - **Do you know whose bolt casing this is?**
   - This bolt casing was found on Rorworr's body.
   - Rorworr was dealing with slavers. Do you know anything about this? -> Bastila
   - What do you have to say about it?
   - Very well. I will speak with you, Jaarak. Goodbye, Woorwill.
 - Jaarak
   - Don't you want a chance to defend yourself?
-- Go to other house
-- Worrroznor
+- Go to the other house
+- Worrroznor (Jolee talks)
   - Do you know who owns this bolt casing?
   - Tell me something. What's the penalty for murder?
   - I found Jaarak's bolt casing on Rorworr's corpse.
-  - …
-  - Is there no alternative to death as punishment? + 2LSP
+- … -> loading
+  - **Is there no alternative to death as punishment?** + 2LSP
   - Jaarak, won't you say anything in your own defense?
-  - Jaarak, I won't let you do this. Rorworr was dealing with slavers. + 6LSP
+  - **Jaarak, I won't let you do this. Rorworr was dealing with slavers.** + 6LSP
   - If that is what you want.
   - No, I won't let this happen.
   - Rorworr dealt with slavers. The datapad I found on his corpse proves it.
+- ... Judgement
   - My reward? What reward?
   - Can I ask you if anything is happening now?
   - Goodbye to you.
