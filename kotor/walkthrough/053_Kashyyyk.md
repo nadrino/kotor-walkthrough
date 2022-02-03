@@ -147,10 +147,15 @@
   - Can I ask you if anything is happening now?
   - Goodbye to you.
 - 400c + 1600XP
+
+![](../resources/images/switch/2022013010381000-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Back to the Ebon
   - Ebon à pied -> to grind levels up? -> no nothing to kill
   - Transit back instead
-  
+
+
+
 [< Previous Page](052_Kashyyyk.md)
 | [Back to the Index](./000_Index.md)
 | [Next Page >](./054_Kashyyyk.md)

@@ -2,7 +2,7 @@
 
 [< Previous Page](055_Kashyyyk.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./059_YavinStation.md)
+| [Next Page >](./058_YavinStation.md)
 
 - Go back to the village
 - Before taking the elevator:
@@ -73,4 +73,4 @@
 
 [< Previous Page](055_Kashyyyk.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./059_YavinStation.md)
+| [Next Page >](./058_YavinStation.md)

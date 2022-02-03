@@ -2,8 +2,7 @@
 
 [< Previous Page](056_Kashyyyk.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./060_Manaan.md)
-
+| [Next Page >](./059_Tatooine.md)
 
 ## Yavin - 3rd star map
 
@@ -97,4 +96,4 @@
 
 [< Previous Page](056_Kashyyyk.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./060_Manaan.md)
+| [Next Page >](./059_Tatooine.md)

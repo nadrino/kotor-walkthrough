@@ -1,7 +1,7 @@
 
 # Manaan
 
-[< Previous Page](059_YavinStation.md)
+[< Previous Page](058_YavinStation.md)
 | [Back to the Index](./000_Index.md)
 | [Next Page >](./061_Manaan.md)
 
@@ -12,7 +12,7 @@
 
 ![KOTOR Guide-10](../resources/images/screenshots/KOTOR%20Guide-10.png)
 
-- Go out
+- Go out -> meet the republic guard -> TODO: review the dialog options
 	- It is alright.
 	- I would like to ask a few questions.
 	- Why are there Sith on Manaan?
@@ -310,7 +310,7 @@
 - Last door of the Corridor (behind Deadeye)
 - Kill -> easy -> monter dans navette
 
-[< Previous Page](059_YavinStation.md)
+[< Previous Page](058_YavinStation.md)
 | [Back to the Index](./000_Index.md)
 | [Next Page >](./061_Manaan.md)
 
