@@ -12,7 +12,7 @@
 
 ![KOTOR Guide-10](../resources/images/screenshots/KOTOR%20Guide-10.png)
 
-- Go out -> meet the republic guard -> TODO: review the dialog options
+- Go out -> meet the republic guard -> TODO: review the dialog options?
 	- It is alright.
 	- I would like to ask a few questions.
 	- Why are there Sith on Manaan?
@@ -27,36 +27,29 @@
 	- Never mind. I must go.
 	
 ![](../resources/images/maps/manaan/manAtho1.png)
-	
+
 - Go left -> Talk to republic soldier
-- Jolee -> proposition (1/8)
-	- You never did actually say why you decided to come with me...
-	- **Are you always going to be this elusive?**
-	- **You looked plenty happy there, to me.**
-	- Damn right it is.
-	- What interest do you have in my future?
-	- You got that right. I have enough Jedi watching me.
-	- Nomi? Who's Nomi?
-	- So... you're along as some kind of observer?
-- Go toward door near merchant -> Canderous !
-	- Get out of our way!
-	- Who is this guy?
-	- You lived.
-	- If you face Canderous, you face me as well!
+- Jolee -> proposition (1/8) -> if not on Tatooine
+- Go toward door near merchant -> Canderous!
+    - Get out of our way!
+    - Who is this guy?
+    - You lived.
+    - If you face Canderous, you face me as well!
 - Talk to Canderous
-	- What happened out there? Why is Jagi so mad at you?
+    - What happened out there? Why is Jagi so mad at you?
 - Merchant
-	- Let me see your inventory.
-		- -> parts / spikes
-		- -> hyper stimulants
+    - Let me see your inventory. -> BUY LATER IF NEEDED?
+        - -> parts / spikes
+        - -> hyper stimulants
 - Nubassa (SAVE)
-	- Exotic species? What sorts of exotic species?
-	- Why would you want to buy animals?
-	- So you want me to smuggle them in?
-	- **I have some gizka, if you're interested.**
-	- **[Persuade] Is there no way I can convince you to take them off my hands? -> both medium**
-	- **[Persuade] I was hoping to sell them. How about we just call it even?**
-- Meet Deadeye Duncan!!
+    - Exotic species? What sorts of exotic species?
+    - Why would you want to buy animals?
+    - So you want me to smuggle them in?
+    - **I have some gizka, if you're interested.**
+    - **[Persuade] Is there no way I can convince you to take them off my hands? -> both medium**
+    - **[Persuade] I was hoping to sell them. How about we just call it even?**
+- +500PX
+- Meet Deadeye Duncan!! (mod required)
     - **Deadeye Duncan. I remember.**
     - You overpowered a dozen Sith?
     - You were pretty easy to slow down inside the dueling ring.
@@ -92,13 +85,13 @@
 	- Tell me about Sunry. How do you know him?
 - Right -> bar
 	- Nilko Bwaas (Republic Hiring Mercenaries)
-		- You're a lot more friendly than most of the Selkath here.
+		- **You're a lot more friendly than most of the Selkath here.**
 		- Cut the small talk. What do you want?
 		- What do you want me to do?
 		- Why do you need me for this?
 		- I'll look into it for you, Nilko.
 	- Traveler
-	- Gonto Yas -> Pazaak 10 (3 on XBox)
+	- Gonto Yas -> Pazaak 10 (3 on XBox) -> pff...
 	- Talk to le mec bourré au comptoir (SAVE)
 	- Go to Shaelas en face du comptoir -> interpellation 
 		- Actually, I kind of like the Sith. They've got style.

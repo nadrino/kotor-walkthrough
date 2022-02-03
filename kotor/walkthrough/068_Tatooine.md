@@ -8,14 +8,6 @@
 ## Go to Tatooine
 
 - Take and level up Canderous (15) and Mission (14 to 15)
-- Level up -> Mission equip with Chundar Bowcaster
-- Czerka -> Griff
-	- **// I’m not giving you the gland until I see some credits!**
-	- Here's the tach gland. Take it.
-	- You already promised me a few thousand credits.
-	- **I've done more than enough for you already!**
-	- **I don't need business advice from you, Griff.**
-- Talk to Mission (Griff gone)
 - Renvoyer Mission pour Zalbaar -> non trop chaud pour Z -> HK
 - Go to the dune sea
     - Kill Wraids? before and after the talk? (still 300PX each)
