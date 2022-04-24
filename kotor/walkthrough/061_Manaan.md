@@ -100,15 +100,18 @@
 - Talk to Republic Diplomat
 - Talk to Sith Diplomat
 - Talk to judge
-	- How did you know I was from the Republic?
-	- No, no… perfectly legitimate.
-	- Is there a Star Map on this world?
-	- What do you know about the young Selkath who have been going missing?
-	- I would like to investigate the murder case involving Sunry.
+    - How did you know I was from the Republic?
+    - No, no… perfectly legitimate.
+    - Is there a Star Map on this world?
+    - What do you know about the young Selkath who have been going missing?
+    - I would like to investigate the murder case involving Sunry.
+
+![](../resources/images/switch/2022042308073600-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Go back to Elora
-	- Can you tell me anything about Sunry?
-	- Are you saying someone your age couldn't overpower a woman?
-	- **Your husband might not be so innocent, Elora.**
+    - Can you tell me anything about Sunry?
+    - Are you saying someone your age couldn't overpower a woman?
+    - **Your husband might not be so innocent, Elora.**
 	
 
 [< Previous Page](060_Manaan.md)
