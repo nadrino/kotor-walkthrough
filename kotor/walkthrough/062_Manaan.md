@@ -36,8 +36,11 @@
 - Transit Back alone
 - Go to East Central alone
 
+![](../resources/images/switch/2022042308203200-B5D02A793ED06B4BA008125C7E302FC9.jpg)
 
 ## Hulas
+
+![](../resources/images/switch/2022042308204400-B5D02A793ED06B4BA008125C7E302FC9.jpg)
 
 - Hulas
     - That's a rather strange greeting.

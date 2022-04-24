@@ -11,6 +11,7 @@
 - Take Jolee + Canderous
 
 ![KOTOR Guide-10](../resources/images/screenshots/KOTOR%20Guide-10.png)
+![KOTOR Guide-11](../resources/images/screenshots/KOTOR%20Guide-11.png)
 
 - Go out -> meet the republic guard -> TODO: review the dialog options?
 	- It is alright.
@@ -26,7 +27,7 @@
 	- Have you seen an ancient Star Map?
 	- Never mind. I must go.
 	
-![](../resources/images/maps/manaan/manAtho1.png)
+[//]: # (![]&#40;../resources/images/maps/manaan/manAtho1.png&#41;)
 
 - Go left -> Talk to republic soldier
 - Jolee -> proposition (1/8) -> if not on Tatooine
@@ -35,6 +36,9 @@
     - Who is this guy?
     - You lived.
     - If you face Canderous, you face me as well!
+
+![](../resources/images/switch/2022020316221700-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Talk to Canderous
     - What happened out there? Why is Jagi so mad at you?
 - Merchant
@@ -49,6 +53,9 @@
     - **[Persuade] Is there no way I can convince you to take them off my hands? -> both medium**
     - **[Persuade] I was hoping to sell them. How about we just call it even?**
 - +500PX
+
+![](../resources/images/switch/2022020316285100-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Meet Deadeye Duncan!! (mod required)
     - **Deadeye Duncan. I remember.**
     - You overpowered a dozen Sith?
@@ -57,9 +64,11 @@
     - So what are you going to do now?
     - You want to tell them you're the champion?
     - Okay, the name is yours. (+LSP)
+
+![](../resources/images/switch/2022020316292900-B5D02A793ED06B4BA008125C7E302FC9.jpg)
+
 - Go left (West Central)
 
-![KOTOR Guide-11](../resources/images/screenshots/KOTOR%20Guide-11.png)
 
 
 [< Previous Page](058_YavinStation.md)
