@@ -1,7 +1,7 @@
 
 # Manaan - Hrakert Station
 
-[< Previous Page](068_Tatooine.md)
+[< Previous Page](066_Tatooine.md)
 | [Back to the Index](./000_Index.md)
 | [Next Page >](./070_Leviathan.md)
 
@@ -200,6 +200,6 @@
 - Go to Kashiik (to finish the quest)
 - You will be tracked by the Leviathan!
 
-[< Previous Page](068_Tatooine.md)
+[< Previous Page](066_Tatooine.md)
 | [Back to the Index](./000_Index.md)
 | [Next Page >](./070_Leviathan.md)

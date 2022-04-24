@@ -1,9 +1,9 @@
 
 # Dantooine - Hulas Quest
 
-[< Previous Page](066_Manaan.md)
+[< Previous Page](064_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](068_Tatooine.md)
+| [Next Page >](066_Tatooine.md)
 
 
 ## Go to Dantooine (LAST TIME)
@@ -60,7 +60,7 @@
 
 ![KOTOR Guide-19](../resources/images/screenshots/KOTOR%20Guide-19.png)
 
-[< Previous Page](066_Manaan.md)
+[< Previous Page](064_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](068_Tatooine.md)
+| [Next Page >](066_Tatooine.md)
 

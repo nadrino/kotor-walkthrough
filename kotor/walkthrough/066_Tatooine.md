@@ -1,9 +1,9 @@
 
 # Manaan - 
 
-[< Previous Page](067_Dantooine.md)
+[< Previous Page](065_Dantooine.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./069_Manaan.md)
+| [Next Page >](./067_Manaan.md)
 
 ## Go to Tatooine
 
@@ -81,6 +81,6 @@
 	- Zular Sentar is dead. (Dantooine) + Blaster + 500XP
 	- Vorn (Tatooine) + 1000XP + Stealth 
 
-[< Previous Page](067_Dantooine.md)
+[< Previous Page](065_Dantooine.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./069_Manaan.md)
+| [Next Page >](./067_Manaan.md)

@@ -1,118 +1,165 @@
 
-# Manaan - Sith Base
+# Manaan - Messing Around
 
 [< Previous Page](063_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./065_Manaan.md)
+| [Next Page >](065_Dantooine.md)
 
-![KOTOR Guide-14](../resources/images/screenshots/KOTOR%20Guide-14.targa)
 
-- 1
-    - Equip implant agains critical hits (Retinal Combat Implant) + 1 Awareness
-    - Get the first (average) mine
-      - equip Bothan Sensory Visor (+4 Awareness, Demolition +3, Secu +3) if necessary
-    - go right
-- 2
-    - I have a passcard.
-    - Force push the woman (no alarm!)
-    - Kill + loot -> NE PAS MONTER DANS L’ASCENSEUR
-- 3 (SAVE)
-    - Sith (quite hard to kill!)
-    - Open porte nord -> constater le champ magnétique
-- 4
-    - Water room -> kill all
-    - Pass through water channels -> lire
-        - Commander Hasek:
-            - In regards to the system in place to cycle water from the ocean to the thermal heaters:
-            - What were you thinking?!? What made you put that airlock mechanism on the only other path to the north side of the base?? Now everyone has to know how to cycle the water out of one room and into the adjoining one for each of the three rooms in sequence without accidentally flooding the room they're in. We lost seven troopers just this week!
-            - Next time I'm there you better show me how to do it properly! I can't afford to lose any more of my aides while trying to get to the Selkath!
-        - Adjutant:
-            - Sorry, sir, but we had to change the pump mechanism since one of those fish people swam into one of the intakes outside.
-            - The **external flow controls** push the water into the chambers **north and south** only now. The flow controls on the **inside wall switches** the water between **sides east and west**.
-            - The trick now is to push the water to the north and south extremes, then switch the water east-west and walk through. The meters by the flow control panels show if there is water in the adjacent room. We've also installed lifeform detection sensors, so there shouldn't be any more aide problems...
-            - We're trying to get the system passed as quickly as possible, sir, but the Selkath authorities monitoring our base have made this much more difficult.
-    - Left -> vider
-    - Porte droite
-        - Panel en face -> broken
-        - Panel on left -> activate
-        - Ok out
-    - Porte gauche
-        - Should be ok to pass through
-        - En face
-        - Droite
-        - En face
-- 5
-    - kill Siths -> WARNING -> MINES LEFT -> Awareness +++ (Deadly mine)
-    - Equip Demolition ++ -> Deadly
-    - T3 -> unlock
-- 6
-    - Kill all -> WARNING Deadly MINE
-    - Go to the PC (Computer Dead if exploded)
-        - [Computer] Slice the computer. (0)
-        - View East Barracks.
-            - [Computer] Overload power conduit. (1) -> 320 PX (+450+75 mobs)
-        - LEVEL UP T3 + Bastilla! :P -> adds up for T3 computer skill!
-- Following...
-  - Follwing...
-    - View Flow Control Room.
-        - [Computer] Overload computer power conduit. (1) -> 320 PX
-    - View Steam Control Room.
-        - [Computer] Deactivate steam vents. (1) -> 160 PX
-    - View Security Room.
-        - [Computer] Disable force field. (1) -> 320 PX
-        - [Computer] Corrupt droid targetting program. (2 instead of 3 with level up of T3) -> 0 PX but useful
-    - View Security Computer Room.
-        - That's us!
-    - View Security Reception.
-        - Can't destroy -> don't have access!
-    - View Training Room.
-        - Nothing        
-    - View Disassembly Room.
-        - [Computer] Corrupt sentry droid targetting program. (2) -> 0 PX but mob kill
-- Next in corridor -> 1 Sith
-- You should be hearing shots... -> corrupt droids
-- 7
-    - Take average mine
-    - Loot
-- 8
-    - Take Echani Foil (looted on the Sith at the reception)
-    - Bastila droid++ power
-    - Loot + Take back your LS
-- 9
-    - Child dying -> take what he gives -> useful in 13
-- Go toward 10
-    - 2 droids + 1 Selkath
-- 10
-    - Kill Sith -> Focus sur celui du milieu -> hard
-    - Loot -> Equip Bastila with the Darth Master robe
-    - Loot next room -> WARNING 1 DEADLY MINE
+## Side Quests
 
-![KOTOR Guide-15](../resources/images/screenshots/KOTOR%20Guide-15.png)
+- Go to Atho East (before going to the Sith Base) -> make sence since we have to take a shuttle. Wait for the shuttle ;)
+- Sith intercept -> we gonna go back latter -> threaten her
+    - This is a public street!
+- Go to droid shop
+    - I'm interested in buying something.
+        - Buy Droid Heavy Plating Type 1 (1250c) +9 defense bonus -> refurbish apparently so might be lower price
+        - ??? useful -> already got it...
+- Sith base talk to the guard
+    - I want to ask you some questions.
+    - Do you know about the Sunry case?
+    - Why is the Republic hiring so many mercenaries?
+    - Why have the Sith taken such an interest in the Selkath youth?
+    - I'll be going now.
 
-- 11 (SAVE)
-	- I am Name. Shaelas has me investigating the disappearance of young Selkath.
-	- The Sith are evil! What they told you was a lie.
-	- If the Republic is defeated, the Sith will enslave your planet! -> BASTILA BANTER !
-	- The Sith are evil, Shasa. They will use you to conquer Manaan for the kolto.
-	- I found a young Selkath dying from torture here. He gave me this...
-	- **[Persuade] The Sith tortured him to death, Shasa. You know it's true.** -> HARD
-	    -> need Succeed -> otherwise BASTILA SAVE -> only Lght Side points
-- +700PX +4 LS points
-- 12
-	- Repair droid with T3 (5 parts - this is actually the minimum) -> level up on switch -> 17
-	- Foncer sur le Grandier !!! (Gris)
-	- No mines
-	- Good stuff for T3
-		- Computer use +6 and security +4
-- 13
-    - Droids! Requip
-	- Kill the 2
-	- Ouvrir porte avec player -> cinematic
-	- T3 -> Console à gauche
-		- Security Room ? -> sabotage +340XP
-- 14 (SAVE)
-	- Leave
+
+- Go back to East Central (where the Hotel is)
+- Keep only T3 in your group
+- Out of the embassy -> Solo mode T3
+- Kill prisoner (2 slices)
+- End solo mode
+- Wait for T3 to return
+
+![KOTOR Guide-18](../resources/images/screenshots/KOTOR%20Guide-18.png)
+
+- Change your party to remove T3
+- Hulas
+    - Lorgal is dead.
+    - Vorn ?
+        - Any tips for this mission?
+    - Rulan
+        - So how do I find someone who look like anyone ?
+    - Ithorak
+        - Sure. I'll just tell him I want to kill his boss and book an appointment.
+    - Anything else ?
+    - Back later
+- You get a Poison blade !
+- Transit back to the Ebon Hawk
+- Talk to Jolee (3/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
+    - You mentioned something about your wife before?
+    - I don't want to pry, but...
+    - Is that why you went to Kashyyyk?
+    - Well...
+    - **What's this? Love advice from an old Jedi?**
+    - **Not even a Jedi? You mean not anymore, right?**
+    - You seem to have all the abilities of a Jedi...
+    - So what happened between you and your wife, then?
+
+
+> TODO: bug to fix -> deadeye not desappearing
+
+> Also it could be a better time to finish Bastilla personal quest
+
+- Go East with Juhani and HK (level up 13-15 and 15 respectively)
+- Ithorak Quest
+- Go to Cantina (Est)
+- Go in direction of the Sith woman recruiting -> auto -> don't trust you
+- Talk to Sith man (with a woman Sith)
+    - Could I ask you a few questions?
+    - You mentioned the races.
+    - There are no racers you like?
+    - I have to leave. Goodbye.
+- Go to swoop
+- SAVE
+- Talk to Vek (Ithorak)
+    - Who are you?
+    - You're wearing a Sith uniform. Are you with the Sith?
+    - Don't you think the Sith might take exception to that?
+    - Yes, I can see how it would be very stressful.
+    - …
+    - I need to meet with Ithorak Guldar. Can you set it up?
+    - [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
+- Queedle
+    - I just want to ask a few questions.
+    - I want to ask about you and racing.
+    - Is Manaan a good course for racing?
+    - How long have you been at this?
+    - What do you mean by that ?
+    - How much do you think you need?
+    - There's no way you can earn the money?
+    - **Here, I can give it to you.** +4PCL
+- Swoop reception (Sslamoth)
+    - Tell me about what goes on here.
+    - I have raced on Tatooine.
+    - I want to talk about the rewards.
+    - Tatooine uses tiers instead of rounds. Why the difference?
+    - What does each round pay?
+    - Describe the current crop of racers.
+    - Let's go back...
+    - I'm ready to race.
+    - [Persuade] Lowering the fee would encourage new racers. (easy)
+        - 50c now
+- ... race
+    - Back later
+- 450c (500 - 50c) +200PX
+- Talk to Queedle -> if not LS maxed
+    - **You keep it. Use it for more upgrades.** (2LSP + 500c)
+    - or: Thank you. I knew you would do well. -> NO because with the DS quest we are not full anymore...
+- Go to console -> see times
+    - +200PX -> Queedle won!
+- Swoop -> best at 22:50 then 22:48 -> if Ithorian helped
+    - 2000 - 100c
+    - 5000 - 100c
+- 7250c in total!!
+
+![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
+
+- Transit back to the Ebon
+- Go to the meeting
+- Xor spawns in the corridor
+    - Just ignore him, Juhani.
+    - We should just leave, Juhani.
+    - She is her own person.
+    - Calm down, Juhani.
+    - You bought Juhani?
+    - She is not for sale!
+    - There is no emotion...
+- Ithorak
+    - You don't need to do that. I won't cause any trouble.
+    - Personal feelings? Do you mean you don't like Ithorak?
+    - Okay, let's go in and see Ithorak.
+    - ...
+    - My buyer wishes to remain anonymous.
+    - Nothing specific. I'm just browsing on behalf of my patron.
+- Kill them all -> take geonosian sword for the droid
+- Loot le datapad
+- Leave and go end this quest
+    - Ithorak Guldar is dead.
+    - Back later
+        - +1000XP
+        - gands -> strength +4
+
+![KOTOR Guide-30](../resources/images/screenshots/KOTOR%20Guide-30.png)
+
+- Transit back to the Ebon Hawk
+- Jolee (5/8)
+    - What do you know about the Sith?
+    - You must know more than that.
+    - You're being elusive on purpose.
+    - You did. You said you fought them.
+    - **Are these the same Sith that we're fighting now?**
+    - Who is this Exar Kun?
+    - And he was killed?
+    - **So tell me what you know about the Sith.**
+    - **What happened during the war with Exar Kun, then?**
+    - But you exterminated all the traitors, right?
+- IF PATCHED
+    - Bastila
+        - I want to talk to you about what happened between us.
+- (SAVE)
+- Go to Dantooine
+
 
 [< Previous Page](063_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./065_Manaan.md)
+| [Next Page >](./065_Dantooine.md)

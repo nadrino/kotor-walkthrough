@@ -1,9 +1,9 @@
 
 # Manaan - Court
 
-[< Previous Page](064_Manaan.md)
+[< Previous Page](067_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./066_Manaan.md)
+| [Next Page >](./069_Manaan.md)
 
 # Court
 
@@ -112,14 +112,67 @@
 
 - Go to the Republic Embassy -> East Atho
 - Roland Wann
-	- Yes, here it is.
-	- What has the Republic done?
-	- **This is dangerous...**
-	- **What happened down there?**
-	- How will I get down there?
-- Go back near the fountains -> prepare for next step (could trigger the Banther if not already ?)
+    - Yes, here it is.
+    - What has the Republic done?
+    - **This is dangerous...**
+    - **What happened down there?**
+    - How will I get down there?
 - Transit back to Ebon
+- Workbench
+    - LS -> Blaster Deflection +5 (Jenruax)
+    - short LS -> Against droid (Jenruax + Luxum)
+    - Blaster for HK -> trigger -> which one??
+- **Talk with Juhani (6/6)** (level 17) (rare talk since grinding is necessary to reach it)
+	- I was wondering if we could talk.
+	- Tell me more about your past.
+	- **Why would I react badly?**
+	- Of course I remember.
+	- Well what?
+	- Revan?! You mean…
+	- Why did you tell me now?
+- Jolee (6/8)
+	- Do you want to talk about the war now?
+	- **[Persuade] No time like the present? -> easy**
+	- Um... no, I don't remember.
+	- What does your wife have to do with the war?
+	- The war...?
+	- And what did she think of all this?
+	- So what happened?
+	- **So she had fallen to the dark side?**
+	- You killed her?
+	- But... she was a Sith then, right?
+	- They put you on trial?
+	- So that's the source of all this bitterness? They found you guilty?
+	- I don't understand...
+	- And you still believe love is worth the risk?
 
-[< Previous Page](064_Manaan.md)
+
+[//]: # (- Sith Base Entrance)
+[//]: # (- Droid)
+[//]: # (    - **I heard the Embassy was attacked ?** -> LOL response du droid)
+[//]: # (    - _BUG : still can go in the Sith base_)
+[//]: # (- Go back to the central place of the area)
+
+
+```
+- If you choose DARK SIDE path: Sith retalk!! (SAVE)
+    - You better change your attitude, or the Selkath might find your body floating in the ocean! (+2DSP)
+    - The Sith and I are exchanging meaningless taunts.
+    - **[Force Persuade (HIGH)] This argument was the fault of the Sith. She should be arrested.** (+2DSP)
+```
+
+
+
+```
+- Juhani (personal 7/9) k_hjuh_p07, k_hjuh_p07l, k_hjuh_p07d
+    - At least 3 star maps -> should be ok by this time
+    - -> different if light/dark/neutral -> light:
+        - You should not be so hard on yourself.
+        - You have nothing to be ashamed of.
+```
+
+
+
+[< Previous Page](067_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./066_Manaan.md)
+| [Next Page >](./069_Manaan.md)
