@@ -12,7 +12,7 @@
 - Buy
 	- Calrissian's Utility Belt ? -> On Xbox not present -> need to have put a mod when first loaded this area!!
     - Equip -> 17 Repair
-- HK
+- HK -> last memory
     - I would like to try restoring some of your memory.
     - Let's get started.
     - ...

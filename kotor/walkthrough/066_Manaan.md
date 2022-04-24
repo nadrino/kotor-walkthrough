@@ -10,7 +10,7 @@
 - Workbench
     - LS -> Blaster Deflection +5 (Jenruax)
     - short LS -> Against droid (Jenruax + Luxum)
-    - Blaster for HK -> trigger
+    - Blaster for HK -> trigger -> which one??
 - **Talk with Juhani (6/6)** (level 17) (rare talk since grinding is necessary to reach it)
     - I was wondering if we could talk.
     - Tell me more about your past.
@@ -19,20 +19,20 @@
     - Well what?
     - Revan?! You mean…
     - Why did you tell me now?
-- Jolee (4/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
-	- Why did you leave the Jedi?
-	- You did. You said you weren't a Jedi any longer.
-	- So are you a Jedi or not?
-	- So you're just some rogue Jedi. Big deal.
-	- I certainly don't think that.
-	- So the Jedi wronged you in some way, I take it?
-	- **Is this going to have a point?**
-	- **And? I don't get it.**
-	- So... you knew this Master Hortath? Or the Padawan?
-	- I don't understand...
-    
-    
-- Go out with T3
+- Jolee (5/8)
+    - What do you know about the Sith?
+    - You must know more than that.
+    - You're being elusive on purpose.
+    - You did. You said you fought them.
+    - **Are these the same Sith that we're fighting now?**
+    - Who is this Exar Kun?
+    - And he was killed?
+    - **So tell me what you know about the Sith.**
+    - **What happened during the war with Exar Kun, then?**
+    - But you exterminated all the traitors, right?
+
+
+- Go out with only T3
 - Transit back
 - Out of the embassy -> Solo mode T3
 - Kill prisoner (2 slices)
@@ -68,37 +68,34 @@
 
 - Sith Base Entrance
 - Droid
-	- **I heard the Embassy was attacked ?** -> LOL response du droid
+    - **I heard the Embassy was attacked ?** -> LOL response du droid
     - _BUG : still can go in the Sith base_
 - Go back to the central place of the area
 - Go in direction of the Sith woman recruiting -> auto -> don't trust you
 - Talk to Sith man (with a woman Sith)
-	- Could I ask you a few questions?
-	- You mentioned the races.
-	- There are no racers you like?
-	- I have to leave. Goodbye.
+    - Could I ask you a few questions?
+    - You mentioned the races.
+    - There are no racers you like?
+    - I have to leave. Goodbye.
 - Go to swoop 
 - SAVE
 - Talk to Vek (Ithorak) 
-	- Who are you?
-	- You're wearing a Sith uniform. Are you with the Sith?
-	- Don't you think the Sith might take exception to that?
-	- Yes, I can see how it would be very stressful.
-	- …
-	- I need to meet with Ithorak Guldar. Can you set it up?
-	- [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
+    - Who are you?
+    - You're wearing a Sith uniform. Are you with the Sith?
+    - Don't you think the Sith might take exception to that?
+    - Yes, I can see how it would be very stressful.
+    - …
+    - I need to meet with Ithorak Guldar. Can you set it up?
+    - [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
 - Queedle
-	- I just want to ask a few questions.
-	- I want to ask about you and racing.
-	- Is Manaan a good course for racing?
-	- How long have you been at this?
-	- What do you mean by that ?
-	- How much do you think you need?
-	- There's no way you can earn the money?
-	- **Here, I can give it to you.** +4PCL
-- Save(/Load?) -> so time ingame
-    - il va vouloir rendre l’argent
-    - première race -> save load -> reparler -> no keep it. +2PCL
+    - I just want to ask a few questions.
+    - I want to ask about you and racing.
+    - Is Manaan a good course for racing?
+    - How long have you been at this?
+    - What do you mean by that ?
+    - How much do you think you need?
+    - There's no way you can earn the money?
+    - **Here, I can give it to you.** +4PCL
 - Swoop reception (Sslamoth)
     - Tell me about what goes on here.
     - I have raced on Tatooine.
@@ -113,26 +110,31 @@
 - ... race
     - Back later
 - 450c (500 - 50c) +200PX
-- Talk to Queedle
+- Talk to Queedle -> if not LS maxed
     - **You keep it. Use it for more upgrades.** (2LSP + 500c)
+    - or: Thank you. I knew you would do well. -> NO because with the DS quest we are not full anymore...
 - Go to console -> see times
     - +200PX -> Queedle won!
 - Swoop -> best at 22:50 then 22:48 -> if Ithorian helped
     - 2000 - 100c
-	- 5000 - 100c
+    - 5000 - 100c
 - 7250c in total!!
+
+
+```
 - Juhani (personal 7/9) k_hjuh_p07, k_hjuh_p07l, k_hjuh_p07d
     - At least 3 star maps -> should be ok by this time
     - -> different if light/dark/neutral -> light:
         - You should not be so hard on yourself.
         - You have nothing to be ashamed of.
+```
 
 ![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
 
 
 - Transit back to the Ebon
 - Go to the meeting
-- Xor spawns
+- Xor spawns in the corridor
     - Just ignore him, Juhani.
     - We should just leave, Juhani.
     - She is her own person.
@@ -158,17 +160,21 @@
 ![KOTOR Guide-30](../resources/images/screenshots/KOTOR%20Guide-30.png)
 
 - Transit back to the Ebon Hawk
-- Jolee (5/8)
-    - What do you know about the Sith?
-    - You must know more than that.
-    - You're being elusive on purpose.
-    - You did. You said you fought them.
-    - **Are these the same Sith that we're fighting now?**
-    - Who is this Exar Kun?
-    - And he was killed?
-    - **So tell me what you know about the Sith.**
-    - **What happened during the war with Exar Kun, then?**
-    - But you exterminated all the traitors, right?
+- Jolee (6/8)
+  - Do you want to talk about the war now?
+  - **[Persuade] No time like the present? -> easy**
+  - Um... no, I don't remember.
+  - What does your wife have to do with the war?
+  - The war...?
+  - And what did she think of all this?
+  - So what happened?
+  - **So she had fallen to the dark side?**
+  - You killed her?
+  - But... she was a Sith then, right?
+  - They put you on trial?
+  - So that's the source of all this bitterness? They found you guilty?
+  - I don't understand...
+  - And you still believe love is worth the risk?
 - IF PATCHED
     - Bastila
         - I want to talk to you about what happened between us.

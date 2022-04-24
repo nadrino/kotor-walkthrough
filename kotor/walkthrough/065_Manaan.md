@@ -32,18 +32,29 @@
 ## Show proof to Shaelas
 
 - Replace T3 with Jolee (level up to 15)
+- Talk with Jolee (4/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
+  - Why did you leave the Jedi?
+  - You did. You said you weren't a Jedi any longer.
+  - So are you a Jedi or not?
+  - So you're just some rogue Jedi. Big deal.
+  - I certainly don't think that.
+  - So the Jedi wronged you in some way, I take it?
+  - **Is this going to have a point?**
+  - **And? I don't get it.**
+  - So... you knew this Master Hortath? Or the Padawan?
+  - I don't understand...
 - Shaelas (Jolee + Bastila intervine)
-	- I have information for you, Shaelas.
-	- The Sith are training the Selkath youth in the ways of the Dark Jedi.
-	- I've convinced your daughter to turn her back on the Sith ways.
-	- I hope so.
-	- **Keep your credits, Shaelas. A Jedi has no need of such rewards.** +2PCL sinon 500c -> PCL vont être important…
+    - I have information for you, Shaelas.
+    - The Sith are training the Selkath youth in the ways of the Dark Jedi.
+    - I've convinced your daughter to turn her back on the Sith ways.
+    - I hope so.
+    - **Keep your credits, Shaelas. A Jedi has no need of such rewards.** +2PCL sinon 500c -> PCL vont être important…
 - 2 LSP + 600 PX
 - Elora (SAVE)
-	- [Persuade] Was Sunry having an affair? 
-	    -> NEED SUCCEED -> otherwise fail -> Jolee saves -> but NO XP -> in fact ok (patch on XBox ?)
-	- He has killed many Sith before.
-	- Don't worry... I’ll save him (other already)
+    - [Persuade] Was Sunry having an affair? 
+        -> NEED SUCCEED -> otherwise fail -> Jolee saves -> but NO XP -> in fact ok (patch on XBox ?)
+    - He has killed many Sith before.
+    - Don't worry... I’ll save him (other already)
 - 500 PX
 
 
@@ -52,7 +63,7 @@
 - Sunry (Jolee interviene)
 	- There's a few things we have to clear up.
 	- The judges said you left after the shot was fired.
-	- … (clear up)
+	- There's a few things we have to clear up.
 	- There was a Rodian who planted evidence at the murder scene.
 	- I know you're guilty, Sunry. I've got the Republic's data recording.
 	- But the Sith found out the truth, didn't they?
@@ -97,15 +108,6 @@
 - Jolee
 	- So what do you think of Sunry's verdict?
 	- No, not really.
-- Jolee (3/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
-	- You mentioned something about your wife before?
-	- I don't want to pry, but...
-	- Is that why you went to Kashyyyk?
-	- Well...
-	- **What's this? Love advice from an old Jedi?**
-	- **Not even a Jedi? You mean not anymore, right?**
-	- You seem to have all the abilities of a Jedi...
-	- So what happened between you and your wife, then?
 
 
 - Go to the Republic Embassy -> East Atho
@@ -115,7 +117,7 @@
 	- **This is dangerous...**
 	- **What happened down there?**
 	- How will I get down there?
-- Go back near the fountains (trigger the Banther if not already ?)
+- Go back near the fountains -> prepare for next step (could trigger the Banther if not already ?)
 - Transit back to Ebon
 
 [< Previous Page](064_Manaan.md)
