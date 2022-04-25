@@ -6,11 +6,33 @@
 | [Next Page >](./068_Manaan.md)
 
 
-- Last door of the Corridor (behind Deadeye)
-- Kill -> easy -> monter dans navette
+
+- Leave the Ebon with Juhani
+- Go to the meeting with Ithorak
+
+- Ithorak
+    - You don't need to do that. I won't cause any trouble.
+    - Personal feelings? Do you mean you don't like Ithorak?
+    - Okay, let's go in and see Ithorak.
+    - ...
+    - My buyer wishes to remain anonymous.
+    - Nothing specific. I'm just browsing on behalf of my patron.
+- Kill them all -> take geonosian sword for the droid
+- Loot le datapad
+- Leave and go end this quest
+    - Ithorak Guldar is dead.
+        - +1000XP
+        - gands -> strength +4
+    - Zular Sentar is dead. (Dantooine) + Blaster + 500XP
+    - Vorn (Tatooine) + 1000XP + Stealth
+      ![KOTOR Guide-30](../resources/images/screenshots/KOTOR%20Guide-30.png)
+- Transit back to the Ebon Hawk
 
 
 ## Sith Base
+
+- Last door of the Corridor (behind Deadeye)
+- Kill -> easy -> monter dans navette
 
 ![KOTOR Guide-14](../resources/images/screenshots/KOTOR%20Guide-14.targa)
 

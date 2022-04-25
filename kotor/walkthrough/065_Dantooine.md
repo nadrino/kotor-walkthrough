@@ -10,7 +10,7 @@
 
 - Go out and take HK and Zaalbar (level up 15)
 - Buy
-	- Calrissian's Utility Belt ? -> On Xbox not present -> need to have put a mod when first loaded this area!!
+    - Calrissian's Utility Belt ? -> On Xbox not present -> need to have put a mod when first loaded this area!!
     - Equip -> 17 Repair
 - HK -> last memory
     - I would like to try restoring some of your memory.
@@ -31,32 +31,28 @@
     - So can you remember anything else?
     - [Because of your repairs, HK-47 will now regenerate at a rate of 1 vitality point every 3 seconds and has gained an additional +2 bonus to his dexterity.]
 - Go to Matale's Mention -> Speeder
-	- [Slice into the speeder and activate its alarm system.] [1 spike]
-	- I don't know who set off the alarm. I was just passing by.
+    - [Slice into the speeder and activate its alarm system.] [1 spike]
+    - I don't know who set off the alarm. I was just passing by.
 - Kill -> Then auto stop
-	- You must pay for your crimes, Zuulan.
-	- That's a small price to spare your life.
-	- I can't just let you go. You are a slaver.
+    - You must pay for your crimes, Zuulan.
+    - That's a small price to spare your life.
+    - I can't just let you go. You are a slaver.
 - Transit back
 - Back to Ebon
-    - Jolee (6/8)
-		- Do you want to talk about the war now?
-		- **[Persuade] No time like the present? -> easy**
-		- Um... no, I don't remember.
-		- What does your wife have to do with the war?
-		- The war...?
-		- And what did she think of all this?
-		- So what happened?
-		- **So she had fallen to the dark side?**
-		- You killed her?
-		- But... she was a Sith then, right?
-		- They put you on trial?
-		- So that's the source of all this bitterness? They found you guilty?
-		- I don't understand...
-		- And you still believe love is worth the risk?
-    - SAVE
-    - Go to Tatooine
-    - (can't go to Kashyyyk : meet Bandon too soon)
+  - Jolee (5/8)
+    - What do you know about the Sith?
+    - You must know more than that.
+    - You're being elusive on purpose.
+    - You did. You said you fought them.
+    - **Are these the same Sith that we're fighting now?**
+    - Who is this Exar Kun?
+    - And he was killed?
+    - **So tell me what you know about the Sith.**
+    - **What happened during the war with Exar Kun, then?**
+    - But you exterminated all the traitors, right?
+- SAVE
+  - Go to Tatooine
+  - (can't go to Kashyyyk : meet Bandon too soon)
 
 ![KOTOR Guide-19](../resources/images/screenshots/KOTOR%20Guide-19.png)
 

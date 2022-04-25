@@ -60,8 +60,18 @@
 
 > Also it could be a better time to finish Bastilla personal quest
 
-- Go East with Juhani and HK (level up 13-15 and 15 respectively)
+- Go East with Juhani (level up 14) and HK 
+  - NO Juhani now since -> Xor spawns in corridor Break last Juhani discussion if not done (6/6) -> need to be level 17
 - Ithorak Quest
+- Xor spawns in the corridor  -> Break last Juhani discussion if not done (6/6)
+  - Just ignore him, Juhani.
+  - We should just leave, Juhani.
+  - She is her own person.
+  - Calm down, Juhani.
+  - You bought Juhani?
+  - She is not for sale!
+  - There is no emotion...
+- Talk to Juhani
 - Go to Cantina (Est)
 - Go in direction of the Sith woman recruiting -> auto -> don't trust you
 - Talk to Sith man (with a woman Sith)
@@ -102,11 +112,10 @@
 - ... race
     - Back later
 - 450c (500 - 50c) +200PX
-- Talk to Queedle -> if not LS maxed
-    - **You keep it. Use it for more upgrades.** (2LSP + 500c)
-    - or: Thank you. I knew you would do well. -> NO because with the DS quest we are not full anymore...
+- Talk to Queedle
+    - **You keep it. Use it for more upgrades.** (2LSP + 500c -> give back anyway!)
 - Go to console -> see times
-    - +200PX -> Queedle won!
+  - Queedle won!
 - Swoop -> best at 22:50 then 22:48 -> if Ithorian helped
     - 2000 - 100c
     - 5000 - 100c
@@ -115,44 +124,17 @@
 ![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
 
 - Transit back to the Ebon
-- Go to the meeting
-- Xor spawns in the corridor
-    - Just ignore him, Juhani.
-    - We should just leave, Juhani.
-    - She is her own person.
-    - Calm down, Juhani.
-    - You bought Juhani?
-    - She is not for sale!
-    - There is no emotion...
-- Ithorak
-    - You don't need to do that. I won't cause any trouble.
-    - Personal feelings? Do you mean you don't like Ithorak?
-    - Okay, let's go in and see Ithorak.
-    - ...
-    - My buyer wishes to remain anonymous.
-    - Nothing specific. I'm just browsing on behalf of my patron.
-- Kill them all -> take geonosian sword for the droid
-- Loot le datapad
-- Leave and go end this quest
-    - Ithorak Guldar is dead.
-    - Back later
-        - +1000XP
-        - gands -> strength +4
-
-![KOTOR Guide-30](../resources/images/screenshots/KOTOR%20Guide-30.png)
-
-- Transit back to the Ebon Hawk
-- Jolee (5/8)
-    - What do you know about the Sith?
-    - You must know more than that.
-    - You're being elusive on purpose.
-    - You did. You said you fought them.
-    - **Are these the same Sith that we're fighting now?**
-    - Who is this Exar Kun?
-    - And he was killed?
-    - **So tell me what you know about the Sith.**
-    - **What happened during the war with Exar Kun, then?**
-    - But you exterminated all the traitors, right?
+- Talk with Jolee (4/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
+  - Why did you leave the Jedi?
+  - You did. You said you weren't a Jedi any longer.
+  - So are you a Jedi or not?
+  - So you're just some rogue Jedi. Big deal.
+  - I certainly don't think that.
+  - So the Jedi wronged you in some way, I take it?
+  - **Is this going to have a point?**
+  - **And? I don't get it.**
+  - So... you knew this Master Hortath? Or the Padawan?
+  - I don't understand...
 - IF PATCHED
     - Bastila
         - I want to talk to you about what happened between us.

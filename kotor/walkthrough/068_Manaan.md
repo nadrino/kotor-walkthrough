@@ -5,7 +5,7 @@
 | [Back to the Index](./000_Index.md)
 | [Next Page >](./069_Manaan.md)
 
-# Court
+## Court
 
 - Interpellation
 	- What? Why?
@@ -32,17 +32,28 @@
 ## Show proof to Shaelas
 
 - Replace T3 with Jolee (level up to 15)
-- Talk with Jolee (4/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
-  - Why did you leave the Jedi?
-  - You did. You said you weren't a Jedi any longer.
-  - So are you a Jedi or not?
-  - So you're just some rogue Jedi. Big deal.
-  - I certainly don't think that.
-  - So the Jedi wronged you in some way, I take it?
-  - **Is this going to have a point?**
-  - **And? I don't get it.**
-  - So... you knew this Master Hortath? Or the Padawan?
-  - I don't understand...
+- Jolee (7/8)
+  - So when did you go to Kashyyyk?
+  - The Jedi just let you go?
+  - **With good reason, I imagine.**
+  - So that's when you went to Kashyyyk?
+  - You survived a crash-landing on Kashyyyk?
+  - Why didn't you just fix your ship and keep going?
+  - So you crashed... and stayed?
+  - How did you survive in the Shadowlands?
+  - It couldn't have been easy.
+  - You're completely insane, you know that?
+  - And the Wookiees didn't mind your presence?
+  - You seemed on fairly peaceful terms with them.
+  - You helped them?
+  - Why didn't you stop the slavery of the Wookiees, then?
+  - It sounds like you enjoyed being a god.
+  - A few bruises?
+  - Wasn't it all a bit primitive for you?
+  - You spent two decades living like that?
+  - The Wookiees?
+  - **You sound quite fond of them.**
+  - Gardeners?
 - Shaelas (Jolee + Bastila intervine)
     - I have information for you, Shaelas.
     - The Sith are training the Selkath youth in the ways of the Dark Jedi.

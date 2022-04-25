@@ -3,10 +3,8 @@
 
 [< Previous Page](062_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./067_Manaan.md)
+| [Next Page >](./064_Manaan.md)
 
-
-## Investigation
 
 - Rappeler Bastila et Jolee (levelup Bastila 14)
 - Go to the general store
@@ -110,4 +108,4 @@
 
 [< Previous Page](062_Manaan.md)
 | [Back to the Index](./000_Index.md)
-| [Next Page >](./067_Manaan.md)
+| [Next Page >](./064_Manaan.md)
