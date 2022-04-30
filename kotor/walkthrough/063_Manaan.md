@@ -30,6 +30,7 @@
     - **I have a lightsaber too, you know.**
 - Open next room -> take violet LS -> défoncer la porte
   - Loot + computer -> can't access anything
+  - DONT BREAK THE COMPUTER -> bug while launching the movie
 - Gluupor the Rodian
     - I have questions about the murder of Elassa.
     - Why were you at the hotel?
@@ -104,6 +105,18 @@
     - Maybe we should do something about Tela. +3
     - [Persuade/Lie] We have her already. She may be spared if you talk. +2
         - If it fails go back -> reinject -> reinterogate
+
+- Leave toward the entrance of the hotel / embassy
+- Travel back to Ebon
+- Jolee (3/8)
+  - You mentioned something about your wife before?
+  - I don't want to pry, but...
+  - Is that why you went to Kashyyyk?
+  - Well...
+  - **What's this? Love advice from an old Jedi?**
+  - **Not even a Jedi? You mean not anymore, right?**
+  - You seem to have all the abilities of a Jedi...
+  - So what happened between you and your wife, then?
 
 
 [< Previous Page](062_Manaan.md)

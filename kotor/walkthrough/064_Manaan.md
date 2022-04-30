@@ -6,25 +6,9 @@
 | [Next Page >](065_Dantooine.md)
 
 
-## Side Quests
+## Hulas trial
 
-- Go to Atho East (before going to the Sith Base) -> make sence since we have to take a shuttle. Wait for the shuttle ;)
-- Sith intercept -> we gonna go back latter -> threaten her
-    - This is a public street!
-- Go to droid shop
-    - I'm interested in buying something.
-        - Buy Droid Heavy Plating Type 1 (1250c) +9 defense bonus -> refurbish apparently so might be lower price
-        - ??? useful -> already got it...
-- Sith base talk to the guard
-    - I want to ask you some questions.
-    - Do you know about the Sunry case?
-    - Why is the Republic hiring so many mercenaries?
-    - Why have the Sith taken such an interest in the Selkath youth?
-    - I'll be going now.
-
-
-- Go back to East Central (where the Hotel is)
-- Keep only T3 in your group
+- Transit back toward the Embassy with T3
 - Out of the embassy -> Solo mode T3
 - Kill prisoner (2 slices)
 - End solo mode
@@ -44,18 +28,26 @@
     - Anything else ?
     - Back later
 - You get a Poison blade !
-- Transit back to the Ebon Hawk
-- Talk to Jolee (3/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
-    - You mentioned something about your wife before?
-    - I don't want to pry, but...
-    - Is that why you went to Kashyyyk?
-    - Well...
-    - **What's this? Love advice from an old Jedi?**
-    - **Not even a Jedi? You mean not anymore, right?**
-    - You seem to have all the abilities of a Jedi...
-    - So what happened between you and your wife, then?
+- Call Juhani (12->14) and HK in you crew
 
 
+- Go to Atho East (before going to the Sith Base)
+- Sith intercept -> we gonna go back latter -> threaten her
+  - This is a public street!
+- Go to droid shop
+  - I'm interested in buying something.
+    - Buy Droid Heavy Plating Type 1 (1250c) +9 defense bonus -> refurbish apparently so might be lower price
+    - ??? useful -> already got it...
+- Sith base talk to the guard
+  - I want to ask you some questions.
+  - Do you know about the Sunry case?
+  - Why is the Republic hiring so many mercenaries?
+  - Why have the Sith taken such an interest in the Selkath youth?
+  - I'll be going now.
+
+
+
+```
 > TODO: bug to fix -> deadeye not desappearing
 
 > Also it could be a better time to finish Bastilla personal quest
@@ -72,6 +64,9 @@
   - She is not for sale!
   - There is no emotion...
 - Talk to Juhani
+```
+
+
 - Go to Cantina (Est)
 - Go in direction of the Sith woman recruiting -> auto -> don't trust you
 - Talk to Sith man (with a woman Sith)
@@ -86,9 +81,6 @@
     - You're wearing a Sith uniform. Are you with the Sith?
     - Don't you think the Sith might take exception to that?
     - Yes, I can see how it would be very stressful.
-    - …
-    - I need to meet with Ithorak Guldar. Can you set it up?
-    - [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
 - Queedle
     - I just want to ask a few questions.
     - I want to ask about you and racing.
@@ -98,17 +90,43 @@
     - How much do you think you need?
     - There's no way you can earn the money?
     - **Here, I can give it to you.** +4PCL
+- Next room -> Cassandra... (mentionned by the Sith in the streets)
+  - I just want to ask a few questions.
+  - I want to ask about you and racing.
+  - How long have you been at this?
+  - What do you mean by that?
+  - Can you tell me about the other racers?
+  - What makes you say that?
+  - Is Manaan a good course for racing?
+  - There are no other tracks?
+  - What do you mean by that?
+  - Let's go back to my first questions.
+  - Do you know much about Manaan?
+  - I have to leave. Goodbye.
+- Hukta Jax
+  - Just answer my questions, and make it quick.
+  - I want to ask about you and racing.
+  - Is Manaan a good course for racing?
+  - What's wrong with Tatooine?
+  - When were you there?
+  - How long have you been at this?
+  - What do you mean by that?
+  - What can you tell me about the other racers?
+  - What do you mean?
+  - Let's go back to my first questions.
+  - Do you know much about Manaan?
+  - I'm leaving. Goodbye.
 - Swoop reception (Sslamoth)
-    - Tell me about what goes on here.
-    - I have raced on Tatooine.
-    - I want to talk about the rewards.
-    - Tatooine uses tiers instead of rounds. Why the difference?
-    - What does each round pay?
-    - Describe the current crop of racers.
-    - Let's go back...
-    - I'm ready to race.
-    - [Persuade] Lowering the fee would encourage new racers. (easy)
-        - 50c now
+  - Tell me about what goes on here.
+  - I have raced on Tatooine.
+  - I want to talk about the rewards.
+  - Tatooine uses tiers instead of rounds. Why the difference?
+  - What does each round pay?
+  - Describe the current crop of racers.
+  - Let's go back...
+  - I'm ready to race.
+  - [Persuade] Lowering the fee would encourage new racers. (easy)
+    - 50c now
 - ... race
     - Back later
 - 450c (500 - 50c) +200PX
@@ -120,11 +138,14 @@
     - 2000 - 100c
     - 5000 - 100c
 - 7250c in total!!
+- Talk again to Vek (Ithorak)
+  - I need to meet with Ithorak Guldar. Can you set it up?
+  - [Persuade] I represent an anonymous buyer from Coruscant. (MEDIUM)
 
 ![KOTOR Guide-29](../resources/images/screenshots/KOTOR%20Guide-29.png)
 
 - Transit back to the Ebon
-- Talk with Jolee (4/8) -> Talk the MAXIMUM !!! -> 8 before the leviathan !!!
+- Talk to Jolee (4/8)
   - Why did you leave the Jedi?
   - You did. You said you weren't a Jedi any longer.
   - So are you a Jedi or not?

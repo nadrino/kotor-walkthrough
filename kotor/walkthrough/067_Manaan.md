@@ -7,7 +7,7 @@
 
 
 
-- Leave the Ebon with Juhani
+- Leave the Ebon with Juhani -> XOR could appear now? (did we do 6/6)
 - Go to the meeting with Ithorak
 
 - Ithorak
