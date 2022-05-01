@@ -91,7 +91,7 @@
 - Follow him -> nothing to loot around
 - Kill the fishs
 - Enter ther room -> kill -> loot -> nerve amplifier
-- Take the more far door (right) -> better -> gas mask
+- Take the right door sas -> better -> gas mask
 - SAVE -> XBox crashing... -> mod among man26_*.dlg probably "exit"
 
 ![KOTOR Guide-25](../resources/images/screenshots/KOTOR%20Guide-25.png)
@@ -184,18 +184,11 @@
 
 ## Ebon Hawk - 4th SM
 
-- Improve -> Take now bigger red LS 
-- Jolee (8/8) -> REVEAL!
-	- So if you liked Kashyyyk so much, why did you want to leave?
-	- I find it hard to believe you left the Wookiees just for some adventure.
-	- Oh, no, not another story!
-	- This is a very long story.
-	- Am I supposed to be the snake?
-	- **Are you saying you're frightened of me?**
-	- **Thank you, Jolee. I'm glad you came.**
+- Improve?
 - Carth -> Talk
 - OPTIONNAL : Make everyone look great for the next cut scene !
-	- Carth -> Use armor of Bandon
+    - Carth -> Use armor of Bandon
+- SAVE
 - Go to Kashiik (to finish the quest)
 - You will be tracked by the Leviathan!
 

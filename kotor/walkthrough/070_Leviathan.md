@@ -88,8 +88,6 @@
     - We still have to get our equipment. Let's go.
 
 
-## To the Bridge
-
 - Take stuff
 - Reequip
     - Immunity Mind Affecting (belt)
@@ -97,7 +95,7 @@
     - Cardio Power System (+4 Constitution)
 - Level up Carth and Bastila (15 to 17)
 - Loot the infirmery
-- Go to the computer -> loot the cylinder
+- Go to the computer -> loot the cylinder -> EQUIP BELT AND ALL!
     - [Use the ICE breaker]
     - [Computer] CAM-S04 Cell Block (Starboard)
     - [Computer] Release cell force fields.
@@ -108,10 +106,50 @@
     - Choose the Bridge as suggested
 
 
-- 2 Sith are coming from left and right -> let them come
+## Command Deck (way to the bridge)
+
+- // 2 Sith are coming from left and right -> let them come
+- Right kill sith and wait for the agro of the other one in the corridor (since there is a door already opened...)
+- Door on right
+- Kill droids
+- Go to the first door -> console -> reactivate the droid + open all security doors
+  - Cameras -> droid -> DANGER
+- Let the droid do its job (chill while you still hear blaster sounds :))
+- When "350 PX" appears -> the droid is dead...
+- Back to the first corridor
+- Kill remaining sith in dormidory
+- Back to first corridor
+- Take the mine in the corner
+- Next corridor -> kill 2 Sith
+- Corridor -> go to the door at the end !! -> bridge but locked
+- Right -> kill sith -> door -> dormitory
+- Continue the corridor -> next door on right -> console -> open all security doors
+- Door left -> Armory
+- Mines -> loot -> take space suit
+- Back to the central corridor -> solo mode -> go to the sith master room kill all
+- level up 19
+- take mines
+- End solo mode
+- Loot
+- Repair droid
+  - Reactivate (1) -> CAREFUL -> first option is RAM through the door...
+  - Optimze weapon (1)
+  - Optimize target (1)
+  - Shield (1)
+  - Patrol (2)
+- 1235 PX
+- Take the door!
 
 
+## Accessing the bridge from the outside
 
+- Loot!
+- Arilock door
+- Go to the other side
+- reequip weapons
+- Kill every sith
+- Open the first door (on the left while you entered) -> road to the bridge
+- Saul discussion -> kill all
 - Saul
     - **No, Carth, don't give in to your hatred!** +2LSP
     - Forget it, Carth. Whatever he said he was only trying to hurt you.
