@@ -75,7 +75,7 @@
 		- 2nd -> Mine
 		- 3rd -> Locked
 		- 4th -> Mine + Selkath -> Solo mode !!!
-		- Go back to 2!
+		- Go back to 2nd!
     - Go outside
 
 
