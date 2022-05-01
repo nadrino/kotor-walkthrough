@@ -7,6 +7,10 @@
 
 ## Court
 
+> sound: I hope you'll find what you're looking for on Manaan (or so...)
+> text: other...
+> (video taken)
+
 - Interpellation
 	- What? Why?
 	- …
@@ -31,29 +35,7 @@
 
 ## Show proof to Shaelas
 
-- Replace T3 with Jolee (level up to 15)
-- Jolee (7/8)
-  - So when did you go to Kashyyyk?
-  - The Jedi just let you go?
-  - **With good reason, I imagine.**
-  - So that's when you went to Kashyyyk?
-  - You survived a crash-landing on Kashyyyk?
-  - Why didn't you just fix your ship and keep going?
-  - So you crashed... and stayed?
-  - How did you survive in the Shadowlands?
-  - It couldn't have been easy.
-  - You're completely insane, you know that?
-  - And the Wookiees didn't mind your presence?
-  - You seemed on fairly peaceful terms with them.
-  - You helped them?
-  - Why didn't you stop the slavery of the Wookiees, then?
-  - It sounds like you enjoyed being a god.
-  - A few bruises?
-  - Wasn't it all a bit primitive for you?
-  - You spent two decades living like that?
-  - The Wookiees?
-  - **You sound quite fond of them.**
-  - Gardeners?
+- Replace T3 with Jolee (level up to 14->16)
 - Shaelas (Jolee + Bastila intervine)
     - I have information for you, Shaelas.
     - The Sith are training the Selkath youth in the ways of the Dark Jedi.
@@ -69,56 +51,55 @@
 - 500 PX
 
 
-- Open prison door -> closed
-- Talk to selkath -> unlocked
+- Talk to selkath -> unlocked door
 - Sunry (Jolee interviene)
-	- There's a few things we have to clear up.
-	- The judges said you left after the shot was fired.
-	- There's a few things we have to clear up.
-	- There was a Rodian who planted evidence at the murder scene.
-	- I know you're guilty, Sunry. I've got the Republic's data recording.
-	- But the Sith found out the truth, didn't they?
-	- **I don't know.**
-	- Killing your lover while she sleeps is murder - even if she is a Sith!
-	- These are just excuses, Sunry. We both know you have to own up to your crimes.
-- 500 PX
+    - There's a few things we have to clear up.
+    - The judges said you left after the shot was fired.
+    - There's a few things we have to clear up.
+    - There was a Rodian who planted evidence at the murder scene.
+    - I know you're guilty, Sunry. I've got the Republic's data recording.
+    - But the Sith found out the truth, didn't they?
+    - **I don't know.**
+    - Killing your lover while she sleeps is murder - even if she is a Sith!
+    - These are just excuses, Sunry. We both know you have to own up to your crimes.
+- 500 PX -> lvl 18!!!
 - Talk to other prisoner
 - SAVE
 - Selkath Warden
-	- **I want to begin Sunry's trial now.**
-	- Yes, let's begin the trial.
+    - **I want to begin Sunry's trial now.**
+    - Yes, let's begin the trial.
 - **Court (**_https://strategywiki.org/wiki/Star_Wars:_Knights_of_the_Old_Republic/Sunry_Murder_Trial_**)**
-	- **I will find Sunry innocent.**
-	- (Firith Me)
-		- Objection, your Honors!
-		- **Did you actually see the murder happen?**
-		- **Elassa is a Dark Jedi, isn't she?**
-		- **Was the medal left at the crime scene not a little too obvious?**
-		- I have no additional questions.
-		- (Yes.) -> Judges poll -> does not make sense -> Cut
-	- (Gluupor)
-		- **Did you see Sunry kill Elassa?**
-		- **Isn't the medal at the crime scene too obvious a clue?**
-		- **Did you plant the medal on Elassa?**
-		- I have no additional questions.
-		- (Yes.) -> Judges poll -> does not make sense -> Cut
-	- (Elora)
-		- **Was it true your husband was having an affair with Elassa?** -> no bonus but needed
-		- I have no additional questions.
-		- (Yes.) -> Judges poll -> does not make sense -> Cut
-	- (Sunry)
-		- **How could Elassa have got a hold of your medal?**
-		- **You were going there to end the affair. Would the Sith object?**
-		- I have no additional questions.
-		- (Yes.) -> Judges poll -> does not make sense -> Cut
-	- (Closing)
-		- **No one actually witnessed the murder.**
-		- **Sunry was ending the affair, so the Sith killed her.**
-	    - My arguments are complete.
+    - **I will find Sunry innocent.**
+    - (Firith Me)
+        - Objection, your Honors!
+        - **Did you actually see the murder happen?**
+        - **Elassa is a Dark Jedi, isn't she?**
+        - **Was the medal left at the crime scene not a little too obvious?**
+        - I have no additional questions.
+        - (Yes.) -> Judges poll -> does not make sense -> Cut
+    - (Gluupor)
+        - **Did you see Sunry kill Elassa?**
+        - **Isn't the medal at the crime scene too obvious a clue?**
+        - **Did you plant the medal on Elassa?**
+        - I have no additional questions.
+        - (Yes.) -> Judges poll -> does not make sense -> Cut
+    - (Elora)
+        - **Was it true your husband was having an affair with Elassa?** -> no bonus but needed
+        - I have no additional questions.
+        - (Yes.) -> Judges poll -> does not make sense -> Cut
+    - (Sunry)
+        - **How could Elassa have got a hold of your medal?**
+        - **You were going there to end the affair. Would the Sith object?**
+        - I have no additional questions.
+        - (Yes.) -> Judges poll -> does not make sense -> Cut
+    - (Closing)
+        - **No one actually witnessed the murder.**
+        - **Sunry was ending the affair, so the Sith killed her.**
+        - My arguments are complete.
 - INNONCENT !! -> 500XP (the max) -> saved the republic -> + Sith guilty
 - Jolee
-	- So what do you think of Sunry's verdict?
-	- No, not really.
+    - So what do you think of Sunry's verdict?
+    - No, not really.
 
 
 - Go to the Republic Embassy -> East Atho
@@ -130,32 +111,15 @@
     - How will I get down there?
 - Transit back to Ebon
 - Workbench
-    - LS -> Blaster Deflection +5 (Jenruax)
-    - short LS -> Against droid (Jenruax + Luxum)
-    - Blaster for HK -> trigger -> which one??
-- **Talk with Juhani (6/6)** (level 17) (rare talk since grinding is necessary to reach it)
-	- I was wondering if we could talk.
-	- Tell me more about your past.
-	- **Why would I react badly?**
-	- Of course I remember.
-	- Well what?
-	- Revan?! You mean…
-	- Why did you tell me now?
-- Jolee (6/8)
-	- Do you want to talk about the war now?
-	- **[Persuade] No time like the present? -> easy**
-	- Um... no, I don't remember.
-	- What does your wife have to do with the war?
-	- The war...?
-	- And what did she think of all this?
-	- So what happened?
-	- **So she had fallen to the dark side?**
-	- You killed her?
-	- But... she was a Sith then, right?
-	- They put you on trial?
-	- So that's the source of all this bitterness? They found you guilty?
-	- I don't understand...
-	- And you still believe love is worth the risk?
+    - red LS -> Against droid + blaster deflexion (Jenruax + Luxum)
+- Jolee (8/8) -> REVEAL!
+    - So if you liked Kashyyyk so much, why did you want to leave?
+    - I find it hard to believe you left the Wookiees just for some adventure.
+    - Oh, no, not another story!
+    - This is a very long story.
+    - Am I supposed to be the snake?
+    - **Are you saying you're frightened of me?**
+    - **Thank you, Jolee. I'm glad you came.**
 
 
 [//]: # (- Sith Base Entrance)

@@ -34,7 +34,7 @@
     - Re-prog droid -> **6 parts needed** with the belt
     - I've reprogrammed your droid, Vorn.
 - 1105 PX
-- Rather hard to kill -> push++
+- Rather hard to kill -> push++ -> let the droid buffer (if the droid gets killed you can loot back few parts!!)
 - -> get data pad
 
 ![KOTOR Guide-21](../resources/images/screenshots/KOTOR%20Guide-21.png)
@@ -44,7 +44,7 @@
 
 ![KOTOR Guide-22](../resources/images/screenshots/KOTOR%20Guide-22.png)
 
-- Sell sticks
+- Sell sticks at Czerka office
 - Hunter lodge -> sell wraids 24c -> no, Yavin
 - Ebon
     - Canderous -> ask again

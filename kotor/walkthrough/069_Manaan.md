@@ -7,9 +7,8 @@
 
 
 
-- Take Bastila + T3 -> levelup 16
-    - Equip T3 with GenoHaradan Blaster
-- Go to the Republic Ambassy
+- Take Bastila + T3
+- Transit back to the Embassy
 - Take the back door -> submarine
 - SAVE
 
