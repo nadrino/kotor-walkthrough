@@ -40,7 +40,7 @@
 	- **Security Room** -> Deactivate Shield on Sentry Droid -> 180PX
 - 4
 	- Kill droids
-	- On the left -> EXIT door
+	- On the left -> not yet -> next step 
 	- Deadly mine -> equip -> get
 	- Footlocker
 	- Go door -> sealed from other side (18)
