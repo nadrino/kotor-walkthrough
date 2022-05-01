@@ -10,21 +10,22 @@
 - Take Canderous and HK
 - Go to the dune sea
     - Kill Wraids? before and after the talk? (still 350PX each)
+- Level up Canderous + HK (15)
+- Ambush sand people
 - Dunes (SAVE) -> 1800XP + XP du suicide lol !! sinon 50 +30 +30 en kill c’est tout
-	- You talk too much and do little.
-	- I think you both need to calm down.
-	- Why do you need to fight him, Canderous?
-	- You sent your own men to die, Canderous?
-	- **[Persuade] People die in war, Jagi.** HARD
-	- He may have saved other lives by doing what he did.
-	- No!
+    - You talk too much and do little.
+    - I think you both need to calm down.
+    - Why do you need to fight him, Canderous?
+    - You sent your own men to die, Canderous?
+    - **[Persuade] People die in war, Jagi.** HARD
+    - He may have saved other lives by doing what he did.
+    - No!
 
 ![KOTOR Guide-20](../resources/images/screenshots/KOTOR%20Guide-20.png)
 
-- Level up Canderous + HK (15)
 - Kill rodians
 - Talk Canderous -> need time
-- Go near the big truck -> assault of sand people -> still dangerous
+- (if not already) Go near the big truck -> assault of sand people -> still dangerous
 - Go toward San People Enclave
 - Behind dune 
 - Sand people -> kill -> easier with stasis
@@ -33,8 +34,8 @@
     - Re-prog droid -> **6 parts needed** with the belt
     - I've reprogrammed your droid, Vorn.
 - 1105 PX
-- Rather hard to kill -> stasis++
-- -> get data pad 
+- Rather hard to kill -> push++
+- -> get data pad
 
 ![KOTOR Guide-21](../resources/images/screenshots/KOTOR%20Guide-21.png)
 

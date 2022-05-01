@@ -8,7 +8,7 @@
 
 ## Go to Dantooine (LAST TIME)
 
-- Go out and take HK and Zaalbar (level up 15)
+- Go out and take HK and Zaalbar
 - Buy
     - Calrissian's Utility Belt ? -> On Xbox not present -> need to have put a mod when first loaded this area!!
     - Equip -> 17 Repair
