@@ -24,7 +24,7 @@ Postpone???
 - END OF MISSION'S STORY!
 - Replace Mission with Canderous (equip Darth Bandon Armor)
 - Go toward the gate
-    - Banther
+    - Banther -> not on switch
         - Carth isn't like you, Canderous.
 - Leave Anchorhead to the dune sea
 - 7 people are waiting for you!!!

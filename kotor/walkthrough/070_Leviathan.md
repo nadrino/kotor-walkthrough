@@ -167,6 +167,8 @@
 - New Sith have respawned
 - Left: 2 Sith at the end of the corridor
 - Then right -> Soldier -> 3 -> turn right at the first corridor you see -> 2 Siths
+- Kill all by taking all corridors
+- Elevator -> Hangar
 
 
 ## Hangar
@@ -195,7 +197,8 @@
     - Triumph, Malak? You seem to forget that I'm still alive!
 - Bastila and Carth are put under statis -> you confront him alone
 - At mid-HP -> stops -> contourner les portes
-- Again -> kill -> Bastila
+- Again -> kill
+- -> Bastila
 - Bastila does like..
 - Carth is upset!
     - What about Bastila? We have to help her!	
