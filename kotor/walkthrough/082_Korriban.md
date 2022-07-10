@@ -93,7 +93,7 @@
 - Next room: Dustil!!
     - Does it matter? We're here.
     - **Calm down, Dustil. Carth is only trying to protect you.**
-    - ...? -> will need to convice him
+    - How can we prove something like that?
 - // Talk with Carth
     - // Dustil?
 - Go see the Sith Master in the central room
@@ -106,17 +106,18 @@
         - Power.
         - Victory.
         - ...my chains are broken.
-        - _Tell me, then, true or false: it is our passion that fuels the Force._
-            - True.
-        - _Tell me then, true or false: there is nothing worse than love._
-            - False.
-        - _Tell me then, true or false: victory by any means is desirable._
-            - False.
+        - // ONE QUESTION APPEAR:
+          - _Tell me, then, true or false: it is our passion that fuels the Force._
+              - True.
+          - _Tell me then, true or false: there is nothing worse than love._
+              - False.
+          - _Tell me then, true or false: victory by any means is desirable._
+              - False.
     - I want to know some more about you.
     - I'll be on my way.
 - +735PX
 - Go near the Valley (north)
-- Andrenas (should be a twi'lek -> actually no)
+- Andrenas (should be a twi'lek?? -> actually no -> XBox ok?)
     - Who are you?
     - So you aren't a Sith?
     - **Master Uthar gave me this datapad for you.**
@@ -125,13 +126,13 @@
     - Final test?
     - Do you know how I can get some prestige?
     - No. Who's Jorak Uln?
-- The other guy
+- The other guy (Tariga) -> same twilek? -> ok with dialogs
     - Who are you?
     - **You're human, but you speak like a Twi'lek...**
     - How do I get to this valley?
     - What are these tuk'ata?
     - What can you tell me about the valley?
-    - What are these shyrack?
+    - What are these shyrack? -> not on Switch?
     - I'll be going.
 - Loot the lockd chest
 - Other side of the room
@@ -151,7 +152,7 @@
 - Right
     - Loot -> datapad -> Dustil (useful later when meeting here)
     - Loot locked chest
-    - Place the device under his bed -> level up Carth (18)
+    - Place the device under his bed -> level up Carth (18) -> not on Switch?
 - Dustil -> give him the datapad
     - +6LSP
 - Talk with Carth
@@ -164,15 +165,13 @@
 - Kill the bats -> go in the cave
 - First intersection right
 - Kill
-- Next -> left (we gonna make a loop to go right after)
-- Kill
+- Next -> left (we gonna make a loop to reach back and take this right path after)
+- Kill + loot the room
 - Left
-- Kill
-- Kill one beast at the corner (level up party (18))
-- Left again -> next intersection -> where you came
-- Loot a corpse
-- Left -> right (straight is outside of the cave)
-- Right -> recover mine
+- Kill the beasts
+- Left again -> loot corpse in the cave -> next intersection -> where you came
+- Left (the same intersection) -> now take right
+- recover mine
 - Sith (SAVE)
     - Go back? What are you talking about?
     - You're... the renegade students? The ones who ran away?
@@ -183,17 +182,16 @@
 - Recover the mine behind them
 - ANother mine
 - Left -> then bridge -> beast -> equip all agains slashing
-- +700PX
+- +700PX (level up party 18 on Switch)
 - Kill bats
 - Loot  north -> Quel Droma's robe (equip) + massassi armor
 - Take the bridge again
-- Go on the right -> the left
+- Go on the right -> then left
     - respawn trigger
-      -> kill monster (path you didn't take before)
-    - (left)
-    - left again -> to come back in direction of the bridge
+      -> kill monster 
+    - (left) -> path you didn't take before -> to come back in direction of the bridge
     - kill 4 respawned Shyrack Raptors
-    - LEVEL UP: 20!!! -> now the goal is to reach Master of the Light Side ! and level up party members!
+    - LEVEL UP: 20!!! -> not yet on switch -> now the goal is to reach Master of the Light Side ! and level up party members!
 - Right to go see the sith renegades
     - **It's clear. You're free to go.** +6LSP
 - Leave the Cave

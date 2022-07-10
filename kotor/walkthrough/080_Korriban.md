@@ -37,7 +37,7 @@
     - Why? What did they do?
     - Let them go. That's my decision. (+2LSP)
     - [Persuade] They aren't worth your time. (+2LSP +3LSP)
-- B-ree the merchant
+- B-ree the merchant -> recognise from the swoop race
     - What sort of merchandise do you offer?
     - Why so?
     - What connections do you have?
@@ -45,6 +45,7 @@
 - Good pistol
 - Talk to Lashowe (woman Sith)
     - I don't think there's any need for hostilities.
+    - Be careful?
 - Czerka office (right)
     - What does Czerka do here on Korriban?
     - Czerka works with the Sith?
@@ -76,7 +77,7 @@
     - I'm glad you've seen the light.
     - What kinds of things do you have for sale?
     - Let me see your premium items.
-        - Dominator Gauntlets (+5 Strength)
+        - Dominator Gauntlets (+5 Strength) -> very expansive
         - Good implants
 - Go outside
 
