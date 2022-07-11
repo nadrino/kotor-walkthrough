@@ -23,7 +23,7 @@
 - Kill the 3 wraids first -> then take the mines
 - Go west
 - Loot the corpse
-    - Suggest for stealth -> no, strong enough
+- Enter the room
 - Kill the 2 monsters
 - loot Shaela Nuur journal (skeleton)
 - Get the deadly mine
@@ -58,7 +58,7 @@
 - Open the Tomb door -> Star Map! -> NOW COMPLETE
 
 
-- Loot the Light Saber behind
+- Loot the "Sith" Light Saber behind -> better with no improvement?
 - Go back to the river (SAVE)
     - The Sith are not the only ones who fight and take risks.
     - Are you saying a Jedi couldn't have gotten the lightsaber?
@@ -67,7 +67,7 @@
     - And if I'm not?
     - I think I understand.
 - Don't ally :)
-    - **You're both mistaken. I choose me.** (+4DSP?) -> nope
+    - **You're both mistaken. I choose me.** (+4DSP? -> nope)
     - I would never become an evil Sith. I came for the Star Map. (+4LSP)
 - Kill both
 - SAVE
@@ -76,18 +76,19 @@
 
 ## The Academy Slaughter
 
-- Go back to the academy alone
+- Go back to the academy alone -> can't gather a party now
+- Nobody is attacking you for now...
 - 3 Sith will be waiting for you near the entrance
     - [Persuade] I am Revan. I have killed the master. You must bow down before me. -> impossible
     - I am not lying, fool. Do you wish me to show you?
 - Enter!
-- Kill everybody (quickly -> need to gather your team -> Carth will be hit hard alone...)
+- Kill everybody in the entrance (quickly -> need to gather your team -> Carth will be hit hard alone...)
 - DONT Go back to Deashdae yet!!! -> the door will autolock!
 - Go to the Valley kill the rest !
 - Go back to Deashdae now
 - Kill Sith guard
 - Enter the station
-- Bar -> Dak Vesser
+- Bar -> Dak Vesser -> DS Path -> kill?
     - How do you know Juhani?
     - Why are you leaving, exactly?
     - But where will you go?

@@ -7,6 +7,7 @@
 
 ## The Mysterious Box
 
+- Go to Tatooine to deliver the box
 - Go to the box...
 - Open it
 - Am I dead..?
@@ -46,8 +47,7 @@
     - Don't worry. I'm sure someone else will be along before you know it.
     - Right. Get me out of here, and don't do anything funny.
 - You come back!!!
-- Go to Tatooine to deliver the box
-- Take Carth with Jolee (level up 18) (a last Banther is wiched..)
+- Take Carth with Jolee (level up 18) (a last banther..?)
 - Go to Swoop registration (SAVE)
     - I have a box for you. Sent by Lurze.
     - I did. It was... very interesting.

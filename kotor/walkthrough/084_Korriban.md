@@ -12,10 +12,10 @@
     - This droid went insane, you say? -> SOUND SUPPRESSOR!!!
     - Are you going inside?
     - Thanks. I'll be going.
-- Equip Juhani with Sealth belt (GenoHaradan +8)
+- Equip Juhani with Sealth belt (GenoHaradan +8) (Mission might have it equiped -> change group in menu to get back the belt)
 - Enter (SAVE)
-- Don't step on any mine!!
-- Kill the 2-3 firsts droid with Juhani (solo mode)
+- Don't step on any mine!! -> demolition sensor for Juhani
+- Kill the 2-3 firsts droid with Juhani + verpine blaster (solo mode) -> other remains in the back!!
 - Juhani solo -> kill all droids with powers -> avoid mines
 - Sealth to open the door
 - Droid welcome you
@@ -56,14 +56,14 @@
 
 
 
-- Go toward the 2nd Tomb on the left
+// - Go toward the 2nd Tomb on the left -> Naga Sadow -> can be opened. Don't enter
 - Talk to Lashowe -> DS?
     - And how can I be sure of that?
     - I want some kind of guarantee.
     - Wait. We'll go to Master Uthar together.
     - The plan's changed. Give me the holocron.
     - The 'plan' was we both get the credit.
-    - No more arguing. We take it back together. (NO DS POINTS!!!)
+    - No more arguing. We take it back together. (-> NO DS POINTS!)
 - +500PX (quest) +450PX kill here +1000PX
 - Loot + Enter Tulak HOrd Tomb
 

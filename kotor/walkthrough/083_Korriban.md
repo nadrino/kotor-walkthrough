@@ -23,15 +23,15 @@
 - Beasts kill
 - Loot Sith corpse -> datapad
 - Next room -> loot on the right
-- Droid platform -> can open
+- Droid platform -> can't open
 - Arm with datapad on the floor -> suggests to explode the structures
-- Put grenade in structure
+- Put grenade in obelisk
 - Droids wakeup
     - Kill will force powers
-- _Leveler ?_
+- _Leveler_ is useless (kill the droids but no xp is given)
 - Open the locked door next
 - Mine! (SAVE)
-- Open the tomb -> loot -> Ajunta Pall appears -> Juhani talks
+- Open the tomb -> loot -> 3 swords? -> Ajunta Pall appears -> Juhani talks
     - **[Persuade] I was here once before, I think. Do you remember me?** (after Leviathan)
     - Are you... Ajunta Pall?
     - You were a Sith Lord? From the ancient times?
@@ -44,7 +44,7 @@
     - The Sith fled, yes. And they returned.
     - This secret... is it the Star Map?
     - I need this sword you speak of.
-    - What do you want me to do with it?
+    - What do you want me to do with it? // CHALLENGE!
     - And if the sword isn't yours?
     - How will I know which sword it is?
 - You need to choose the right sword -> look at the description
@@ -66,6 +66,10 @@
     - You'll take it over my dead body.
 - Kill him + loot
 - Leave
+- Galon Lor
+  - I got it from Ajunta himself, if you must know.
+  - No, not exactly.
+- He leaves the place
 - Next tomb: Marko Ragnos (on the other side)
 - Loot on the way
 

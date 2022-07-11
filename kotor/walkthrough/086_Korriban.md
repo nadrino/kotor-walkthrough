@@ -16,13 +16,13 @@
     - Do not give in Juhani. You are stronger than this.
     - Do not do it, Juhani.
     - Just step away.
+- Juhani
+  - What you did was best.
 - Go in the Ebon Hawk
 - Improve you LS
     - Violet -> Opila + Krayt Dragon
     - Red -> Jenruax + Firkrann
 - Go see the Misterous box in the trunk... Very tempting -> Not now !
-- Juhani
-    - What you did was best.
 - Juhani (reask about Dak)
     - I was wondering if we could talk.
     - Tell me about this Dak Vesser.
@@ -34,11 +34,15 @@
     - Why can't you?
     - And if I make the wrong choice?
 - END Carth (male PC)
-- Go out with Carth + T3 -> coherent to go back in the Academy incognito
-
+- Go out with Carth + T3 -> ~~coherent to go back in the Academy incognito~~ -> whatever they are my "slaves"
+- T3 needed for opening crates
 
 # Korriban - Naga Sadow Tomb
 
+- Stop at the bar -> Dak Vesser -> DS Path -> later
+  - How do you know Juhani?
+  - Why are you leaving, exactly?
+  - But where will you go?
 - Go to the academy training room (corridor on the right)
 - Right -> dueling room
     - What kind of dueling are you talking about?
