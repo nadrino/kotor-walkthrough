@@ -1,7 +1,7 @@
 # New Game
  
-[Back to the Index](./000_Index.md) | 
-[Next Page >](./011_Prologue.md)
+[Back to the Index](../index.md) | 
+[Next Page >](../01_Prologue/011_Prologue.md)
 
 ## Assumptions
 
@@ -16,7 +16,7 @@ this guide in parallel of the original configuration.
 
 - Let's start a new game!
 
-![](../resources/images/screenshots/2021-01-02_20-43-35.png)
+![](../../resources/images/screenshots/2021-01-02_20-43-35.png)
 
 > Contrary to K1, you start the game by directly selecting a "Jedi" class.
 > Indeed, the character you are about to play is former Jedi who got retired
@@ -29,15 +29,15 @@ this guide in parallel of the original configuration.
 
 - Create a **Female Jedi Sentinel**
 
-![](../resources/images/screenshots/2021-01-02_21-12-02.png)
+![](../../resources/images/screenshots/2021-01-02_21-12-02.png)
 
 - Choose **Custom Character**
 
-![](../resources/images/screenshots/2021-01-02_21-12-05.png)
+![](../../resources/images/screenshots/2021-01-02_21-12-05.png)
 
 - The common consensus on the appearance of the Exile is this one.
 
-![](../resources/images/screenshots/2021-01-02_21-12-19.png)
+![](../../resources/images/screenshots/2021-01-02_21-12-19.png)
 
 > Originally, this character appearance has blond hair but as she is described
 > in the Revan Novel, we've applied a mod to match the official version :).
@@ -45,29 +45,29 @@ this guide in parallel of the original configuration.
 - Here are the **Attributes**:
 
 > All the stats are precisely followed in the Excel files 
-> [here](../leveling/Kotor2_Leveling_v2.xlsx). As it is the first level,
+> [here](../../leveling/Kotor2_Leveling_v2.xlsx). As it is the first level,
 > you can also refer to those screenshot. (careful, they could be outdated!!)
 
 
-![](../resources/images/screenshots/2021-01-02_21-12-45.png)
+![](../../resources/images/screenshots/2021-01-02_21-12-45.png)
 
 - Here are the **Skills**:
 
-![](../resources/images/screenshots/2021-01-02_21-13-17.png)
+![](../../resources/images/screenshots/2021-01-02_21-13-17.png)
 
 - Here is the selected **Feat**:
 
-![](../resources/images/screenshots/2021-01-02_21-13-37.png)
+![](../../resources/images/screenshots/2021-01-02_21-13-37.png)
 
 - The Canon name of the Exile is **Meetra Surik**.
 
 > However you can put any name you want :) The name does not affect the game.
 
-![](../resources/images/screenshots/2021-01-02_21-14-21.png)
+![](../../resources/images/screenshots/2021-01-02_21-14-21.png)
 
 - You're now ready to start the game :D
 
-![](../resources/images/screenshots/2021-01-02_21-14-24.png)
+![](../../resources/images/screenshots/2021-01-02_21-14-24.png)
 
-[Back to the Index](./000_Index.md) |
-[Next Page >](./011_Prologue.md)
+[Back to the Index](../index.md) |
+[Next Page >](../01_Prologue/011_Prologue.md)

@@ -1,6 +1,8 @@
 # New Game
 
-[< Previous Page](../index.md) | [Back to the Index](../index.md) | [Next Page >](011_EndarSpire.md)
+[< Previous Page](../index.md) | 
+[Back to the Index](../index.md) | 
+[Next Page >](011_EndarSpire.md)
 
 ## Assumptions
 

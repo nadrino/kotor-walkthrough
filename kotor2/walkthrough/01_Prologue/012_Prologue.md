@@ -1,14 +1,14 @@
 # Prologue
 
-[< Previous Page](./011_Prologue.md) |
-[Back to the Index](./000_Index.md) |
-[Next Page >](./013_Prologue.md)
+[< Previous Page](011_Prologue.md) |
+[Back to the Index](../index.md) |
+[Next Page >](013_Prologue.md)
 
 ## Saving the Exile
 
 ### Map of the Area
 
-![](../resources/maps/012_Prologue/012_Prologue_map.png)
+![](../../resources/maps/012_Prologue/012_Prologue_map.png)
 
 ### Walkthrough
 
@@ -59,6 +59,6 @@
         - [Treat Injury] Use Medpac on Meetra.
 - **(8) Take the elevator to go outside of the Ebon Hawk**
 
-[< Previous Page](./011_Prologue.md) |
-[Back to the Index](./000_Index.md) |
-[Next Page >](./013_Prologue.md)
+[< Previous Page](011_Prologue.md) |
+[Back to the Index](../index.md) |
+[Next Page >](013_Prologue.md)

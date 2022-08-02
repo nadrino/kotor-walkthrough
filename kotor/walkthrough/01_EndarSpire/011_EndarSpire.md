@@ -3,7 +3,7 @@ Attack on the Endar Spire
 
 [< Previous Page](010_CharacterCreation.md) 
 | [Back to the Index](../index.md) 
-| [Next Page >](../020_Taris.md)
+| [Next Page >](../02_Taris/020_Taris.md)
 
 ## Map of the Area
 
@@ -108,5 +108,5 @@ Spoiler text. Note that it's important to have a space after the summary tag. Yo
 
 [< Previous Page](010_CharacterCreation.md) 
 | [Back to the Index](../index.md) 
-| [Next Page >](../020_Taris.md)
+| [Next Page >](../02_Taris/020_Taris.md)
 

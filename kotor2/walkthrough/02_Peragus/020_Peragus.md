@@ -1,7 +1,7 @@
 # Peragus
 
-[< Previous Page](./011_Prologue.md) |
-[Back to the Index](./000_Index.md) |
+[< Previous Page](../01_Prologue/011_Prologue.md) |
+[Back to the Index](../index.md) |
 [Next Page >](./)
 
 - Kreia
@@ -25,8 +25,8 @@
     - Kreia? Wh-?
     - 
 
-[< Previous Page](./011_Prologue.md) |
-[Back to the Index](./000_Index.md) |
+[< Previous Page](../01_Prologue/011_Prologue.md) |
+[Back to the Index](../index.md) |
 [Next Page >](./)
 
  
