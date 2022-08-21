@@ -167,8 +167,7 @@ In Peragus mines
     - For a droid, you don't take orders too well. Now tell me what happened.
     - And where was I when this was taking place?
     - There - you said "locked" again.
-    - Maybe you better explain the "stupor" part.
-    - ... took another route... 
+    - But how did I get from the Harb...
     - Any idea what had attacked the small freighter?
     - What was this freighter that the Harbinger brought on board?
     - And the Ebon Hawk came here?
@@ -183,10 +182,6 @@ In Peragus mines
       - Do you know who administered sedatives to the kolto tanks in the medical bay, killing the incapacitated miners?
       - Is that pride I hear in your voice?
       - I had some more questions for you.
-  - Make him repeat the last words of the officer
-
-
-- Open the door with the console -> level up to 5?
 
 
 - Outside
@@ -195,7 +190,133 @@ In Peragus mines
   - I need to reach the miners in the dormitory section, and this is the only way to get there.
   - I'm trying to pick up the pace, believe me.
   - Why are the vents placed so close to the exterior scaffolding?
-  - 
+
+
+- Dormitories
+
+- Back to admin
+  - Kreia joins
+    - Enemy?
+    - Wait - who is this enemy?
+    - "We?" There is no "we" here.
+    - Then let's go.
+  - HK-50
+    - Atton, there's no time to explain - grab a weapon, and follow me.
+    - No, you were clear, I just don't listen to assassin droids.
+    - Whatever you say, "murder" still means "murder" to me.
+    - So you mimicked the maintenance officer's voice to control the droids and kill all the miners in the medical bay?
+    - And so you ordered the mining droids to kill me?
+    - Why did you want to capture me?
+    - You found me. Obviously I didn't do a good job.
+    - Who is this client of yours?
+    - So what now? Are you going to kill me?
+    - I don't want to fight you, but I will if you leave me no other choice.
+
+- Enter Harbinger
+  - There's nowhere else to go - the facility is sealed off.
+  - Atton's right - we need to get off this ship.
+  - We can bypass the force field to the hangar by getting to the engine room on this ship, then exiting through the fuel pipe.
+  - Then how did this ship dock here?
+
+- Exile room
+  - I just need a second - this was my room.
+  - Before I lost consciousness and woke up on Peragus.
+
+- Before Sion
+  - What's wrong?
+  - How do you know that?
+  - We'll have to be careful, then. But we have to keep moving.
+
+- Fuel line
+  - **Atton, you need to trust me. Come on.** (LSP)
+  - ... cutscene with Kreia
+  - Kreia... I think she was wounded... badly.
+  - I... think it was through the Force.
+  - I'm fine. Keep going. [End Dialog]
+
+- Find back T3
+  - I know - we ran into the "protocol droid" earlier, he attacked us, too.
+  - How did you survive?
+  - He just dumped you into this fuel pipe?
+  - Sounds like he just wanted to keep you out of the way until he could find a way off the station... with us.
+  - Don't blame yourself. If you hadn't gotten us out of the administration level, we'd have never made it this far.
+  - Come on, then - we have to hurry.
+
+- Hangar door
+  - What? The console?
+  - He said he can open the door to the hangar, he just needs to access the hangar terminal up on the platform.
+  - I served with a lot of utility droids in the... well, many years ago.
+
+- Ebon Hawk fuite
+  - Keep as much distance between them and us as you can.
+  - Can we jump to hyperspace?
+  - Just do your best to keep your distance - we'll get out of this yet.
+  - **No - someone might still be alive in the facility.** (LSP)
+
+- Ebon hyperspace
+  - Atton & Kreia
+    - The Harbinger was on its way to Telos?
+    - How did you know I was on board the Harbinger?
+    - How come I don't remember any of this?
+    - That's an unusual set of coincidences.
+    - How did we get to Peragus?
+    - He says he repaired the ship and got us to Peragus.
+    - So why are these Sith looking for me?
+    - But I was exiled from the Jedi Order.
+    - But... last of the Jedi? That can't be true.
+    - What about the Jedi on Dantooine? And Coruscant?
+    - **If any survivors still live, we need to warn them.** (LSP)
+    - Then how do we stop the Sith?
+    - So what do you think we should do?
+    - What do you mean?
+    - **This is self-defense, not war.** (LSP)
+    - **If evil is not fought, then we sacrifice the galaxy.** (LSP)
+    - **You're right, she may need help - can you handle things up here?** (LSP)
+    - What makes you say that?
+    - She didn't seem in pain to me.
+    - That's a poor assumption to be making.
+    - When did you get sensitive?
+    - I'll go check on her, then.
+  - Kreia
+    - **Your hand - is there anything I can do?** (LSP)
+      - // **I'm sorry for your loss.** (LSP) -> NO -> inf-- on Kreia
+        - If we travel together, then we need to work together.
+        - The pain I felt when you lost your hand - what if it had been more intense?
+      - **If I felt the loss of your hand, what would have happened if you had died?**
+      - More extreme? I felt like my hand was dipped in molten carbonite.
+      - Quicker? Would it have killed me?
+      - **What can we do? I don't want my actions to place you at risk.** (LSP)
+      - I have never heard of a link like this before, in holocrons, or in the Jedi histories.
+      - [You and Kreia possess the Force Chain special ability. When either of you uses a Force power on yourself, the other gains the benefit as well.]
+      - I think I've heard enough.
+      - **The fool has a name. I'd like you to start using it.** (LSP)
+    - Atton
+      - Cryptic as always.
+      - But to know the future, one must know yourself.
+      - But to teach, one must be willing to learn.
+      - I don't think Kreia is a Jedi.
+      - "Good-looking?" Are you that desperate?
+      - **Look, ease off the insults. She was wounded helping us escape, remember?** (LSP)
+      - Getting empathy from you is like squeezing water from a stone.
+      - Forget it. Just keep your mind on piloting this crate.
+        - UNREACHABLE:
+        - What do you mean, "not much use?"
+        - Who voice-printed the astrogation system?
+        - Why would someone lock the astrogation system?
+        - Do you know anything about that assassin droid?
+        - What did you mean about the galaxy map not being much use?
+      - All right, I'll do that.
+      - To what?
+      - My lightsaber was... taken from me, by the Council.
+        - **It was a single hilt.**
+        - **It was a viridian blade, one the Jedi Order had never seen before.**
+        - I think having it would just drive them to hunt me harder.
+    - T3-M4
+
+
+
+
+
 
 [< Previous Page](../01_Prologue/011_Prologue.md) |
 [Back to the Index](../index.md) |
