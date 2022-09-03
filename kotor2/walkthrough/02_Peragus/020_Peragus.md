@@ -11,9 +11,17 @@
   - Cellule à décharge sonique -> Sonic Discharge Cell		u_m_cell_04
   - Interface optimisée pour droïde -> Droid Optimized Interface		d_interface_01
   - Poignée en agrinium -> Agrinium Grip			u_m_grip_01
+- Peragus -> T3
+  - Revêtement modulaire T1
+  - Interface optimisée pour droïde
+- T3 -> Fuel (2 droids)
+  - d_interface_03
 - Peragus mining galeries
   - Cellule d'énergie de base au rylith 
-  - **Ceinture d'atténuation Aratech** (NovObj 6/30)
+  - **Ceinture d'atténuation Aratech** (NovObj 6/30) a_belt_06
+- Peragus Fuel
+  - Armure anti-impact T2
+  - Pack de réflexes
 - Peragus dormitories
   - Sous-couche bio-restaurative T1 
   - **Visière de perception Bothan** (NivObj 5/30)
@@ -131,8 +139,26 @@
     - And maybe when I return you'll actually answer my question.
     - **I'll return soon to make sure you're all right. (PCL)**
 
-- Kreia
-    - Kreia? Wh-?
+- Test the emergency exit -> Kreia talk
+  - Kreia?
+- Kreia -> droids
+  - Kreia? Wh-?
+
+
+- Kill all droids
+- Equip belt
+- Kill all droids in admin level execpt the one near the elevator of the fuel depot
+- Deactivate droids
+- See the one you didnt kill
+  - [Computer] Examine the unit's behavior core.
+  - [Computer] Check last received commands.
+  - [Computer] Switch mining protocol to defend organics.
+  - [Repair] Scavenge the mining droid for spare components.
+- +50 PX + comp
+
+
+
+
 
 - Atton
   - I'd keep those eyes up, and tell me who you are.
@@ -155,6 +181,7 @@
   - [Persuade] One thing first... the patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?
   - Wanted to know if you knew anything - and you don't.
   - I trust you. And if we work together, we may be able to get out of this mess.
+  - Alright let's go.
   - ...
   - Sounds like you're about to tell me something I don't want to hear.
   - [Repair] That wouldn't be standard procedure in an emergency lockdown.
@@ -162,14 +189,88 @@
   - Can we contact the miners?
   - Let's see if we can try and reach someone on the comm.
 
+- T3
+  - Loot room
+  - Go to the down ramp -> kill droids
+  - Load Fuel depot map
+  - Kill + loot
+  - Back -> kill
+  - Loot 3C-FD
+  - Computer
+    - [Repair] Replace the missing parts. [1 Part(s)]
+    - Access hangar logs.
+    - Access docking and takeoff procedures.
+    - Transmit asteroid orbital drift charts to Ebon Hawk navicomputer.
+    - Download asteroid orbital drift charts.
+    - Return to main functions.
+    - Access remote camera controls.
+      - Check all cameras
+    - Access comm system.
+    - [Repair] Run diagnostic on damaged systems.
+    - Return to main functions.
+    - Access emergency control commands.
+    - [Repair] Run diagnostic on damaged systems.
+    - [Computer] Check status of emergency sub-systems.
+    - [Computer] Open blast door to the fuel depot. [1 Spike(s)]
+      - DONT OPEN HANGAR 25 -> waist of Spike
+  - Leave -> kill 5 droids + loot
+  - Fuel depot -> console (SAVE)
+    - Access remote cameras.
+      - See all
+    - Call up system log.
+    - Call up emergency system schematics.
+    - Open emergency hatch on Peragus Administration Level.
+    - Logout
 
-In Peragus mines
-- Sneak by every droid
-- Raise temperature of tunels
-- Kill every droid from the trigger to the begining
-- Get all mines -> 6 parts at the begining
-- Repair droid
-- Trigger -> kill all -> leave
+- Atton
+  - staring at my...
+  - It looks like it....
+  - The turbo...
+  - If it's dangerous in those...
+  - You're right...
+  - Got it. See you soon.
+
+- Mining zone
+  - Atton
+    - **Yes... for a minute, I thought you and Kreia were telepathic.**
+    - I'll be careful, then. If you detect anything, signal me.
+  - Loot emergency supply
+    - Looks like some mining gear - and a uniform.
+    - There's some kind of mining energy shield in this crate, too.
+    - Sounds useful. How do I use it?
+    - Understood. Anything else?
+    - Can I sneak by them?
+    - And if they spot me?
+    - Shielded?
+    - I'll do that. Anything else?
+  - Spot mines
+    - Why are there so many charges down here?
+    - Understood. <FullName> out. [End Dialog]
+  - Loot mines + droids
+  - Sneak by every droid
+  - Heat tunnel
+    - I'll do that. [End Dialog]
+  - Near end tunnel
+    - There aren't just mining droids down here - there are sensor balls, too.
+  - Raise temperature of tunels
+    - Call up droid command functions.
+    - Check droid schematics.
+    - [Computer] Raise the temperature in the tunnels to blind droid thermal sensors. (0 spike(s))
+    - Continue.
+    - Return to main functions.
+    - Access camera functions.
+      - Unidentified Holorecord Camera: Work Claim 12-34.
+    - Return to main functions.
+    - Access fuel containment functions.
+    - Shut down containment fields.
+    - Log out. [End Dialog]
+  - Kill every droid from the trigger to the begining
+  - + Get all mines
+  - Repair droid
+  - Trigger
+    - What kind of readings?
+    - How much time do I have?
+  - kill all -> leave
 
 
 - HK50
