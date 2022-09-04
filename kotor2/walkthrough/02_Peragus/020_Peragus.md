@@ -20,38 +20,39 @@
   - Cellule d'énergie de base au rylith 
   - **Ceinture d'atténuation Aratech** (NovObj 6/30) a_belt_06
 - Peragus Fuel
-  - Armure anti-impact T2
-  - Pack de réflexes
+  - Armure anti-impact T2 (d_armor_03)
+  - Pack de réflexes (e_imp1_01)
 - Peragus dormitories
-  - Sous-couche bio-restaurative T1 
-  - **Visière de perception Bothan** (NivObj 5/30)
-  - Pack de réflexes 
-  - Cellule à ions T2
-  - Chambre mandalorienne T2 
-  - Sous-couche anti-environnement T1 
-  - Négociateur de l'Echange 
-  - **Ceinture multifonction de la Czerka** (NivObj 4/30)
+  - Sous-couche bio-restaurative T1 (u_a_unde_02)
+  - **Visière de perception Bothan** (NivObj 5/30) (a_helmet_05)
+  - Pack de réflexes (e_imp1_01)
+  - Cellule à ions T2 (u_m_cell_05)
+  - Chambre mandalorienne T2 (u_r_firi_10)
+  - Sous-couche anti-environnement T1 (u_a_unde_01)
+  - Négociateur de l'Echange (w_melee_08)
+  - **Ceinture multifonction de la Czerka** (NivObj 4/30) (a_belt_04)
 - Harbinger bridge
-  - Vibro-épée
-  - **Serre-tête d'interface**
-  - Armure de combat
+  - Vibro-épée (w_melee_06)
+  - **Serre-tête d'interface** (a_helmet_07)
+  - Armure de combat (a_heavy_01)
 - Harbinger med bay
-  - **Ceinture multifonction de l'Echange**
-  - **Gants détonateurs**
-  - **Vibro-lame Zabrak**
+  - **Ceinture multifonction de l'Echange** (a_belt_16)
+  - **Gants détonateurs** (a_gloves_09)
+  - **Vibro-lame Zabrak** (w_melee_10)
 - Harbinger exit
-  - Armure de combat Echani
-  - Gants de perception de Jal Shey
-  - **Gants d'infiltrateur**
+  - Armure de combat Echani (a_medium_03) 
+  - Gants de perception de Jal Shey (a_gloves_12)
+  - **Gants d'infiltrateur** (a_gloves_11)
 - Peragus Fuel depot
-  - **Générateur de camouflage Eriadu**
+  - **Générateur de camouflage Eriadu** (a_belt_14)
 - Peragus Ebon
   - Part1
-    - **Contournement de verrouillage**
+    - **Contournement de verrouillage** (d_interface_04)
   - Part2
-    - **Guides paraboliques pour droïde** (5/15)
+    - **Guides paraboliques pour droïde** (5/15) (d_interface_05) -> high level -> can't equip yet
 - Ebon Hawk Sith Onboard
-  - **Visière royale**
+  - **Visière royale** (a_helmet_11)
+  - **Matukai Apprentice Robe** (a_robe_05) -> LOL? with level 8
 - Ebon Hawk Secret cache
   - **Visière sensorielle Bothan**
 - Telos - Residentiak
@@ -340,7 +341,10 @@
 
 
 
-- Kill all and back to admin level
+- Kill all droids
+- Kill floating mines with gun
+- Console -> voice print -> LATER after Atton Suggest -> but loot
+- Back to admin level
 - Talk to Atton
   - I found a... talkative... protocol droid down in the fuel depot.
   - No, I thought about it, though.
@@ -363,12 +367,14 @@
   - All right, then - I'll be back.
 
 - See console med bay -> ID
+  - treatments -> check -> attempt -> 34-103
+- Security console -> record
 - Back to the fuel area
-- Admin console 
-  - Check ID
-  - Logs -> sensor
-  - other things
-  - cameras -> T3!!
+- Console
+  - Check ID +100PX 
+  - Logs -> record +150PX
+  - Cameras -> T3!!! +100PX
+  - Try repair the com
 - Back to HK
   - I found a T3 unit in one of the fuel pipes. It looks damaged.
     - I had some more questions for you.
@@ -393,6 +399,10 @@
       - Do you know who administered sedatives to the kolto tanks in the medical bay, killing the incapacitated miners?
       - Is that pride I hear in your voice?
       - I had some more questions for you.
+  - Enter voiceprint
+  - Open inner door
+  - loot space suit
+  - Open outer door (notice it closed the inner door!)
 
 
 - Outside
@@ -404,6 +414,38 @@
 
 
 - Dormitories
+- Kill / loot till the exit
+- Comeback to the console (Work Assignment Console) -> if don't have repair / spkie, go create with the workbench
+  - [Repair] Reroute the main console system. [1 Part(s)]
+  - Check duty shift logs.
+  - Access dormitory comm system.
+  - Access remote camera controls.
+    - Mess Hall.
+    - Dormitory West. -> GAS!! -> no spike
+- go build one (1 is enough)
+- Computer
+  - Access remote camera controls.
+  - Dormitory West.
+  - [Computer] Shut down the dormitory ventilation system. [1 Spike(s)]
+  - Dormitory East.
+  - Turbolift to Administration Level.
+  - Return to main console functions.
+  - End dormitory emergency lockdown.
+- Start on the right first
+- Kill droid (level up?)
+- Loot everywhere
+- Left -> kill droid -> loot -> Computer
+  - Read the logs
+    - Administration Officer -> gives code (begininig + need to decrypt the end)
+    - Sien -> Jedi bounty
+    - Dock Officer -> Panic
+    - Miner -> Decode (0 spike) -> Coorta
+    - Check the transmission
+    - [Intelligence]...
+- Back to the turbolift
+- Code: 7 - 5 - 13 - 17 - 3
+
+
 
 - Back to admin
   - Kreia joins
@@ -423,21 +465,41 @@
     - So what now? Are you going to kill me?
     - I don't want to fight you, but I will if you leave me no other choice.
 
+- Prepare for the Harbinger
+- Go to workbench -> equip skill enhanced on characters
+  - Create Vibrosword (with Exile) -> For Exile
+  - Enhanced Energy Cell (Exile, Computer 8, 4 Components) -> For Exile
+  - Scout Enforcer (Exile, Repair 11, 25 Components) -> For Kreia
+  - Blaster Riffle (Exile, Repair 7, 5 Components) -> For Atton
+  - Moderate Devaronian Edge (Kreia, Stealth 12, 20 Components) -> For Exile
+  - Nagai Grip (Kreia, Stealth 12, 20 Components)
+  - Biorestorative Underlay Mark II (Kreia, Treat Injury 9, 12 Components)
+
+
 - Enter Harbinger
   - There's nowhere else to go - the facility is sealed off.
-  - Atton's right - we need to get off this ship.
+    - Atton's right - we need to get off this ship.
   - We can bypass the force field to the hangar by getting to the engine room on this ship, then exiting through the fuel pipe.
   - Then how did this ship dock here?
+  - So let's get their codes, then. Then we can worry about reaching the Ebon Hawk.
+  - **Forgive me, Kreia, I was distracted for a moment. I'll be more mindful of the present.** LSP + Inf Kreia
+- Download plans 1 repair + logs
+- Kill sith toward the savety modules
 
+
+- Next Harbinger
 - Exile room
   - I just need a second - this was my room.
   - Before I lost consciousness and woke up on Peragus.
-
+- Check the corners to spawn sith -> before med bay
+- Medical bay
+- Repair droid (3 Parts needed)
 - Before Sion
   - What's wrong?
   - How do you know that?
   - We'll have to be careful, then. But we have to keep moving.
-
+- UNEQUIP KREIA
+- Workbench -> prepare for killing droids now
 - Fuel line
   - **Atton, you need to trust me. Come on.** (LSP)
   - ... cutscene with Kreia
@@ -452,19 +514,50 @@
   - Sounds like he just wanted to keep you out of the way until he could find a way off the station... with us.
   - Don't blame yourself. If you hadn't gotten us out of the administration level, we'd have never made it this far.
   - Come on, then - we have to hurry.
+- Get back T3 inventory (with mod)
+- Level up -> SHOULD BE LEVEL 6 -> BUG?? -> Switch first map load -> level 5 -> reload save -> 6
+- Kill droids and take the mines in the Fuel pipes
+- To the console on the Ramp -> need to take all the mine -> one tunel left after the ramp
+- Remove the field -> kill droids
+- Now look at the logs at the console with PC
+- Go to the Hangar Bay
 
+
+- Kill droids -> level 8 PC
 - Hangar door
   - What? The console?
   - He said he can open the door to the hangar, he just needs to access the hangar terminal up on the platform.
   - I served with a lot of utility droids in the... well, many years ago.
-
-- Ebon Hawk fuite
+- Console with T3
+  - Access emergency control commands.
+  - [Repair] Run diagnostic on damaged systems.
+  - [Computer] Check status of emergency sub-systems.
+  - [Computer] Open blast door to Hangar 25. [1 Spike(s)] -> fail
+  - **Replace hangar control power conduit.**
+- Read the logs with PC
+- Kill droids
+- Careful with the mines
+- Decontamination console (improve Computer use with T3)
+  - [Repair] Reroute the main console system. (<CUSTOM42> part(s)) -> 1 Part
+  - Access remote camera controls.
+  - Decontamination Chamber.
+  - Attempt to shut down the decontamination system. (<CUSTOM33> spike(s)) -> 4 SPIKES
+  - Open decontamination chamber.
+- +350 PX
+- Loot every place around Ebon
+- Kill last droid
+- Save before entering
+- Let Sith enter
+- Kill all Sith (meeting room, right dormitory, trunk, hyperdrive, )
+- Save before the last batch -> try to loot before the auto load
+- Kreia joins you (107_PER)
+  - Kreia? Your hand - what happened?
+- Ebon Hawk leave
   - Keep as much distance between them and us as you can.
   - Can we jump to hyperspace?
   - Just do your best to keep your distance - we'll get out of this yet.
   - **No - someone might still be alive in the facility.** (LSP)
-
-- Ebon hyperspace
+- Ebon jumps hyperspace
   - Atton & Kreia
     - The Harbinger was on its way to Telos?
     - How did you know I was on board the Harbinger?
