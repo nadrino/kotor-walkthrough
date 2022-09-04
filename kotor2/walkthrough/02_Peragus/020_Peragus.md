@@ -611,14 +611,181 @@
         - Do you know anything about that assassin droid?
         - Since when do protocol droids collect bounties?
         - Are we still on course for Telos?
-      - OTHERWISE
-        - All right, I'll do that.
+      - All right, I'll do that.
       - To what?
       - My lightsaber was... taken from me, by the Council.
         - **It was a single hilt.**
+        - **Both the blade and crystal were unique.**
         - **It was a viridian blade, one the Jedi Order had never seen before.**
         - I think having it would just drive them to hunt me harder.
-    - T3-M4
+    - T3-M4 -> IF UNREACHABLE DISCUSSION WAS PATCHED (Dialogs.bif\t3m4.dlg)
+      - T3, what's wrong with the astrogation system? -> Failed
+      - I know it's damaged.
+      - Can you try to work on it when you get the chance?
+      - I know you can do the calculations, but we may get separated.
+      - **No, I'm not planning to leave you behind, but it happens.** (Infl+T3, LSP)
+      - Forget it. I had some other questions.
+    - Kreia (starts by claiming you should keep an eye on Atton)
+      - I had other questions for you.
+      - Can you tell me what has happened since the Mandalorian Wars?
+        - Tell me about the Mandalorian Wars.
+        - **But only some Jedi Knights answered the call... like I did.**
+        - And Revan and Malak refused to wait.
+        - Until we destroyed them... at Malachor V. (Kreia's empthy for once!!)
+        - Many Jedi died at Malachor V... and the conflict split the Jedi Order.
+        - But some battles must be fought. It was not Revan's failing. (any answer is interesting, let's take this one)
+        - Didn't the Jedi Order try to stop them?
+        - How were Malak and the Sith defeated?
+        - But what happened to Revan?
+        - So Revan saved the Republic?
+        - **Then we must do what we can until it has a chance to recover from the war.** (LSP)
+        - **Can anything be done to help the Republic?** (LSP)
+        - This threat is directed against me?
+        - This is a lot to take in at once. I need time to reflect on this.
+        - Will do. I'll go see him now. [End Dialog]
+  - Reask Kreia
+    - I had other questions for you.
+    - When we were on Peragus, I could feel the Force again.
+      - It was like a whisper, at the edge of hearing. -> other lie of Kreia -> Cut from the force
+      - I don't believe the Jedi would do such a thing.
+      - It's not possible to cut one off from the Force. It's like deafening someone... or blinding them.
+      - I don't believe the Jedi would inflict such a punishment on someone. It seems... too cruel.
+      - I thought I had lost it by my actions, by forgetting my training and the teaching of the Jedi.
+      - Can my connection to the Force be healed?
+      - But the Force... I can feel it again, if only slightly. -> lie -> "Link" -> propose to be her padawan
+      - But there are no more Jedi.
+      - **I would welcome whatever aid you offer.** (LSP +infl)
+  - Reask Kreia
+    - I had other questions for you.
+    - I need to know more about the Sith hunting us.
+      - There was another Jedi Civil War?
+      - Are they following Malak's path?
+      - The Sith on Peragus knew some Force techniques, but they were extremely weak.
+      - There were other questions I wished to ask you.
+    - So what do we do now?
+      - Is there any place where we can retreat to?
+      - **Enough for what?** or alt **Where are we bound again?**
+        - And if we find no trace of Jedi teachings on Telos to help us?
+- Discover HK-47
+  - Repair + install the vocabulator
+- See T3
+  - Do you know where that HK droid in the cargo bay came from? (!c_influence_bet(8,25,75)) -> FAILED
+    - That didn't sound very convincing. Are you sure you don't know?
+    - I had other questions for you.
+  - You look like you've suffered a lot of damage over the years.
+    - How much damage?
+    - So you lost a lot of programs in your behavior core - in addition to the damage to your frame?
+    - Well, I'm sure you'll gain that skill back. I'm glad to have you along.
+    - [Computer] I might be able to upgrade your memory core. 
+      - -> INFL ok with astronav fix 
+      - (!c_influence_bet(8,40,60) -> function args need check)
+      - Ok -> 8 = T3-M4, 40 < infl < 60
+    - [Computer] All right. Let me take a look. 
+      - (success if Computer >= 9)
+    - All done. How do you feel?
+    - **[Due to your computer skills, T3 has gained +1 Intelligence.]**
+    - What do you mean, I faded out there for a second? You were shut down.
+  - QUIT
+  - [Repair] You look like you're in need of some routine maintenance. (!c_influence_bet(8,40,60))
+    - [Repair] Just sit still. This won't take long.
+      - (success if Repair >= 9)
+    - That should do it. You doing all right?
+    - **[Due to your repair skills, T3 has gained +1 Constitution.]**
+    - Glazed look? What are you talking about?
+  - QUIT
+  - [Computer] Mind if I try to upgrade your memory core again? (!c_influence_bet(8,30,70))
+    - [Computer] All right. Let me take a look. (!c_sc_com_lt(15)) -> ok with Exchange belt + helmet + gloves -> 23
+    - That should up your processor speed.
+    - **[Due to your computer skills, T3 has gained an additional +1 Intelligence.]**
+    - Blank look? What, me? I was working on you this whole time.
+  - [Repair] Ready for some more routine maintenance? (!c_influence_bet(8,30,70))
+    - [Repair] I'll try and make this quick. (!c_sc_com_lt(15))
+    - All done with the response package. Give it a spin.
+    - [Due to your repair skills, T3's response systems have improved, giving him +1 Dexterity.]
+    - No, I'm fine. I guess I just caught up in my work.
+  - [Computer] I'd like to upgrade your core again. (!c_influence_bet(8,20,80)) -> NOPE not yet
+  - [Repair] (!c_influence_bet(8,30,70)) -> ok -> 21 REPAIR -> too much even with upgrade equipment
+- We'll need to wait more
+- Unequip T3 blaster
+- Head to Telos
+
+
+- Arrest
+  - Are we under arrest?
+  - **This is outrageous. You don't have any evidence.**
+  - Will I be able to get my gear back?
+  - No. Why are you holding us?
+  - The TSF can't hold me for anything. We're leaving right now. Do you understand?
+  - I'll go... but one way or another, you'll pay me for the trouble.
+- You are in prison
+  - A force cage? This is ridiculous.
+  - Wait - I had some questions.
+- Batu Rem 
+  - You're wrong. I'm no Jedi.
+  - We're in a TSF station. How do you expect to get away with this?
+  - I don't wish to fight you.
+- Grenn comes
+  - Impressive. You allowed an assassin to infiltrate your ranks.
+  - How did he manage to sneak in here?
+  - Great. That's reassuring.
+  - The best of your ability? That's not very inspiring.
+  - Just take me to my quarters.
+
+
+- Tp to your appartment
+  - How long will I be here?
+  - Why do we need to leave?
+  - What do you think, Kreia?
+  - (Rest.)
+- Call
+  - Accept call.
+  - What does he want?
+  - Fine, send him in.
+  - Why didn't he come himself?
+  - What does Chodo want with me?
+  - No, could you explain it to me?
+  - No, what troubles have you had?
+  - How is Czerka harming the restoration project?
+  - Why would Czerka do this?
+  - How did they take the Restoration Zones?
+  - Could you get to the point?
+  - What do you mean?
+  - I'll speak with your leader when I'm freed.
+- Call
+  - Accept call.
+  - What does she want?
+  - Why are you calling?
+  - "Imposed guilt?"
+  - What sort of rumors?
+  - I don't recall him threatening me.
+  - No, he didn't mention anything like that.
+  - Go on.
+  - How are the Ithorians in the way of things?
+  - What sort of work are we talking about?
+  - I'll come by when I can.
+  - (Rest.)
+- Kreia & Atton talks...
+- Green comes back (203tel/203atton.dlg)
+  - Why is the Republic sending a ship?
+  - How long will I have to stay?
+  - Is the Ebon Hawk still impounded?
+  - What about my T3 droid?
+  - You know that from experience?
+  - Why would Telos be doomed?
+  - What do you think, Kreia?
+  - Why don't we ask the Republic for help against the Sith?
+- You're free!
+
+
+- Talk to Atton
+  - What do you mean?
+  - I'm fine. In fact, I haven't felt this good in a long time.
+  - Nothing, never mind. [End Dialog]
+- Leave your appartment
+- Loot all appartments in the complex
+- 
+
+
 
 
 
