@@ -581,6 +581,7 @@
     - That's a poor assumption to be making.
     - When did you get sensitive?
     - I'll go check on her, then.
+  - Level 9 
   - Kreia
     - **Your hand - is there anything I can do?** (LSP)
       - // **I'm sorry for your loss.** (LSP) -> NO -> inf-- on Kreia
@@ -594,7 +595,7 @@
       - [You and Kreia possess the Force Chain special ability. When either of you uses a Force power on yourself, the other gains the benefit as well.]
       - I think I've heard enough.
       - **The fool has a name. I'd like you to start using it.** (LSP)
-    - Atton
+    - Atton (003EBO.mod\003atton.dlg)
       - Cryptic as always.
       - But to know the future, one must know yourself.
       - But to teach, one must be willing to learn.
@@ -603,13 +604,15 @@
       - **Look, ease off the insults. She was wounded helping us escape, remember?** (LSP)
       - Getting empathy from you is like squeezing water from a stone.
       - Forget it. Just keep your mind on piloting this crate.
-        - UNREACHABLE:
+      - UNREACHABLE: -> change script arg condition from 5 to 6 -> FINE!!
         - What do you mean, "not much use?"
         - Who voice-printed the astrogation system?
         - Why would someone lock the astrogation system?
         - Do you know anything about that assassin droid?
-        - What did you mean about the galaxy map not being much use?
-      - All right, I'll do that.
+        - Since when do protocol droids collect bounties?
+        - Are we still on course for Telos?
+      - OTHERWISE
+        - All right, I'll do that.
       - To what?
       - My lightsaber was... taken from me, by the Council.
         - **It was a single hilt.**
