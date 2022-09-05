@@ -11,7 +11,7 @@
 ## Introduction
 
 1. [Character Creation](00_Misc/010_CharacterCreation.md)
-1. [Prologue](01_Prologue/011_Prologue.md)
+1. [Prologue](01_Prologue/01_Prologue.md)
 
 ## Peragus
 

@@ -2,7 +2,7 @@
 
 [< Previous Page](../00_Misc/010_CharacterCreation.md) |
 [Back to the Index](../index.md) |
-[Next Page >](012_Prologue.md)
+[Next Page >](02_Prologue.md)
 
 ## Traditional Opening
 
@@ -67,9 +67,6 @@ are all droids.
 One of the objectives of T3-M4 will be to treat the injuries of the Exile which seems to be
 on the verge of death...
 
-> The original underwear of the Exile is more like a bag of potato... So I applied this mod
-> which change it to an outfit that could match in the context of a medical surgery. :)
-
 ![](../../resources/images/screenshots/2021-01-02_21-17-16.png)
 
 Here you can understand that your main mission will be to **make just the necessary repairs
@@ -88,4 +85,4 @@ Let's start the prologue!
 
 [< Previous Page](../00_Misc/010_CharacterCreation.md) |
 [Back to the Index](../index.md) |
-[Next Page >](012_Prologue.md)
+[Next Page >](02_Prologue.md)

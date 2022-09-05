@@ -1,6 +1,6 @@
 # Peragus
 
-[< Previous Page](../01_Prologue/011_Prologue.md) |
+[< Previous Page](../01_Prologue/01_Prologue.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./)
 
@@ -783,6 +783,11 @@
   - Nothing, never mind. [End Dialog]
 - Leave your appartment
 - Loot all appartments in the complex
+- Civilian appear (203tel.mod/civilian.dlg)
+  - Just looking around.
+  - Sorry, I just figured...
+  - When you put it that way...
+  - I'll be going now. [End Dialog]
 - 
 
 
@@ -792,7 +797,7 @@
 
 
 
-[< Previous Page](../01_Prologue/011_Prologue.md) |
+[< Previous Page](../01_Prologue/01_Prologue.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./)
 

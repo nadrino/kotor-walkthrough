@@ -1,7 +1,7 @@
 # New Game
  
 [Back to the Index](../index.md) | 
-[Next Page >](../01_Prologue/011_Prologue.md)
+[Next Page >](../01_Prologue/01_Prologue.md)
 
 ## Assumptions
 
@@ -70,4 +70,4 @@ this guide in parallel of the original configuration.
 ![](../../resources/images/screenshots/2021-01-02_21-14-24.png)
 
 [Back to the Index](../index.md) |
-[Next Page >](../01_Prologue/011_Prologue.md)
+[Next Page >](../01_Prologue/01_Prologue.md)
