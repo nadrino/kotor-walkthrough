@@ -4,6 +4,8 @@
 [Back to the Index](../index.md) |
 [Next Page >](./03_Peragus.md)
 
+![](img/02_Peragus/02_Peragus_map.png)
+
 - Loot room
 - Go to the down ramp -> kill droids
 - Load Fuel depot map

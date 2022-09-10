@@ -4,7 +4,17 @@
 [Back to the Index](../index.md) |
 [Next Page >](./02_Peragus.md)
 
-## "Link... Open your eyes..."
+
+
+## Waking up from your coma
+
+> "Link... Open your eyes..." (cf. botw)
+
+## The route
+
+![](img/01_Peragus/01_Peragus_map.png)
+
+## Walkthrough
 
 - Kreia (to REVIEW)
   - I thought you were dead.

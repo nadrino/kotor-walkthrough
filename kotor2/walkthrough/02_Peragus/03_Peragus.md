@@ -1,8 +1,6 @@
 # Peragus - Mining galeries
 
-[< Previous Page](../02_Peragus.md) |
-[Back to the Index](../index.md) |
-[Next Page >](./04_Peragus.md)
+![](img/03_Peragus/03_Peragus_map.png)
 
 - Atton
     - staring at my...
