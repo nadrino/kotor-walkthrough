@@ -32,7 +32,8 @@
     - Twenty-five credits it is, then.
     - Batu Rem.
     - I'll be going now. [End Dialog]
-- Transit back to residential
+- Go back to see Green -> Batu
+- Back to residential
 
 [< Previous Page](./03_Telos.md) |
 [Back to the Index](../index.md) |
