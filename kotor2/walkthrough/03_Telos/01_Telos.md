@@ -1,4 +1,4 @@
-# Telos - Arrested
+# Telos - Intercepted by the TSF
 
 [< Previous Page](../02_Peragus/10_Peragus.md) |
 [Back to the Index](../index.md) |

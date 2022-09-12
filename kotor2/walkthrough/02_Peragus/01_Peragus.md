@@ -14,6 +14,16 @@
 
 ![](img/01_Peragus/01_Peragus_map.png)
 
+<details>
+<summary><b>Best dropped items summary</b></summary>
+
+```txt
+  - Sonic Discharge Cell (u_m_cell_04)
+  - Droid Optimized Interface (d_interface_01)
+  - Agrinium Grip (u_m_grip_01)
+```
+</details>
+
 ## Walkthrough
 
 - Kreia (to REVIEW)
@@ -82,6 +92,8 @@
   - There must be some way to end the lockdown from here.
   - Can we contact the miners?
   - Let's see if we can try and reach someone on the comm.
+
+
 
 [< Previous Page](../01_Prologue/04_Prologue.md) |
 [Back to the Index](../index.md) |
