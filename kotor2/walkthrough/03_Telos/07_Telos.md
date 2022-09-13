@@ -46,9 +46,36 @@
 - Pazaak x3 times (or x4?) -> card x2
 - Near Onderon people
 - Corrun Falt (207TEL.mod\207falt.dlg)
-- Doton Het (207TEL.mod\dotonhet.dlg)
+  - What do you do at Czerka?
+  - What can you tell me about Czerka?
+  - "Telos thing?" You mean the planet restoration?
+  - How does Czerka profit from the restoration project?
+  - Tell me about Lorso.
+  - Sounds like you're a little jealous.
+  - I'll be going now. [End Dialog] -> other options? -> don't kill yet
+- SAVE
+- Doton Het (207TEL.mod\dotonhet.dlg) -> should have 1000c in hand
+  - Wonderful sight, isn't it? The best of my dancers, and the best I've seen in many years.
+  - Who are you?
+  - Odds and ends?
+  - Could I look at your inventory?
+  - I've come on behalf of Harra.
+  - Give me the girl, or I kill you. -> or better? -> possible (203TEL_Harra == 4): "I guess I'll leave it to them to change your mind." ?
+  - You'll be dealing with my blaster.
+  - How much do you want for her?
+  - How about you wager her on a game of pazaak?
+  - 1000 credits it is.
+- Win
 - Back to residential (203TEL.mod\ramana.dlg)
+  - You're free now, Ramana, you can go with Harra. (+1LSP)
+  - Then you can do whatever you wish.
 - Exchange
+  - I'm here representing Chodo Habat.
+  - Then how do I set up an appointment?
+  - She wants to have him killed.
+  - Luxa sent me.
+- SAVE before entering
+
 
 [< Previous Page](./06_Telos.md) |
 [Back to the Index](../index.md) |
