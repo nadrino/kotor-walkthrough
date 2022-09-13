@@ -25,11 +25,16 @@
   - I told you, I'm not a Jedi.
   - I'll go speak with him.
 - Exchange guard
-- Go to your appartment
+- Czerka office
 - Kreia intercept you (203kreia.dlg)
   - I don't need your approval, Kreia.
   - I don't sense he intends to do us harm.
   - Perhaps you are right, Kreia. But we need his help, at least for the time being.
+- Go to your appartment
+- B-4D4
+  - Is this blaster of Czerka make?
+  - Why would a Czerka weapon be in the hands of an assassin?
+  - I'll be going now. [End Dialog]
 - Remove Atton from the group (DSP propagate to party members)
 - Go to Sleep
 - Talk to Kreia (light side)
