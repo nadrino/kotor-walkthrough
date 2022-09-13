@@ -66,21 +66,23 @@
   - [Lie] I do not understand.
   - I was merely testing my ability to lie.
   - I will return when I have obtained the files. [End Dialog]
-- 
 
+```txt
+List of interaction on this map:
 
-> List of B-4D4 custom dialogs
-> 
-> ./201TEL_dlg.erf/201ithd.dlg:        <resref label="Active">c_b4d4pc</resref>
-./201TEL_dlg.erf/202drdp.dlg:        <resref label="Active">c_b4d4pc</resref>
-./201TEL_dlg.erf/202drdp.dlg:        <resref label="Active">c_b4d4pc</resref>
-./201TEL_dlg.erf/202drdp.dlg:        <resref label="Active">c_b4d4pc</resref>
-./201TEL_dlg.erf/czerdock.dlg:        <resref label="Active">c_b4d4pc</resref>
-./201TEL_dlg.erf/durosdock.dlg:        <resref label="Active">c_b4d4pc</resref>
-./202TEL_dlg.erf/202drdt.dlg:        <resref label="Active">c_b4d4pc</resref>
-./202TEL_dlg.erf/202grenn.dlg:        <resref label="Active">c_b4d4pc</resref>
-./202TEL_dlg.erf/dendis.dlg:        <resref label="Active">c_b4d4pc</resref>
-./202TEL_dlg.erf/samhan.dlg:        <resref label="Active">c_b4d4pc</resref>
+./204TEL_dlg.erf/204habat.dlg:        <resref label="Active">c_b4d4pc</resref>
+./204TEL_dlg.erf/204habat.dlg:        <resref label="Active">c_b4d4pc</resref>
+./204TEL_dlg.erf/204ithr.dlg:        <resref label="Active">c_b4d4pc</resref>
+./204TEL_dlg.erf/204moza.dlg:        <resref label="Active">c_b4d4pc</resref>
+./204TEL_dlg.erf/ithplant.dlg:            <resref label="Active2">c_b4d4pc</resref>
+./204TEL_dlg.erf/ithplant.dlg:            <resref label="Active2">c_b4d4pc</resref>
+```
+
+- Go to residential module east
+
+```txt
+List of interaction on this map:
+
 ./203TEL_dlg.erf/203bed.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./203TEL_dlg.erf/203chano.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./203TEL_dlg.erf/203thgd1.dlg:        <resref label="Active">c_b4d4pc</resref>
@@ -89,25 +91,65 @@
 ./203TEL_dlg.erf/203thgd4.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./203TEL_dlg.erf/batono.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./203TEL_dlg.erf/harra.dlg:        <resref label="Active">c_b4d4pc</resref>
-./204TEL_dlg.erf/204habat.dlg:        <resref label="Active">c_b4d4pc</resref>
-./204TEL_dlg.erf/204habat.dlg:        <resref label="Active">c_b4d4pc</resref>
-./204TEL_dlg.erf/204ithr.dlg:        <resref label="Active">c_b4d4pc</resref>
-./204TEL_dlg.erf/204moza.dlg:        <resref label="Active">c_b4d4pc</resref>
-./204TEL_dlg.erf/ithplant.dlg:            <resref label="Active2">c_b4d4pc</resref>
-./204TEL_dlg.erf/ithplant.dlg:            <resref label="Active2">c_b4d4pc</resref>
+```
+
+- Entertainment
+
+```txt
+List of interaction on this map:
+
+./202TEL_dlg.erf/202drdt.dlg:        <resref label="Active">c_b4d4pc</resref>
+./202TEL_dlg.erf/202grenn.dlg:        <resref label="Active">c_b4d4pc</resref>
+./202TEL_dlg.erf/dendis.dlg:        <resref label="Active">c_b4d4pc</resref>
+./202TEL_dlg.erf/samhan.dlg:        <resref label="Active">c_b4d4pc</resref>
+```
+
+- Cantina
+
+```txt
+List of interaction on this map:
+
 ./207TEL_dlg.erf/207falt.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./207TEL_dlg.erf/207luxa.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./207TEL_dlg.erf/207swpmc.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./207TEL_dlg.erf/dotonhet.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./207TEL_dlg.erf/mebla.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./207TEL_dlg.erf/ramana.dlg:        <resref label="Active">c_b4d4pc</resref>
+```
+
+- Docks
+
+```txt
+List of interaction on this map:
+
+./201TEL_dlg.erf/201ithd.dlg:        <resref label="Active">c_b4d4pc</resref>
+./201TEL_dlg.erf/202drdp.dlg:        <resref label="Active">c_b4d4pc</resref>
+./201TEL_dlg.erf/202drdp.dlg:        <resref label="Active">c_b4d4pc</resref>
+./201TEL_dlg.erf/202drdp.dlg:        <resref label="Active">c_b4d4pc</resref>
+./201TEL_dlg.erf/czerdock.dlg:        <resref label="Active">c_b4d4pc</resref>
+./201TEL_dlg.erf/durosdock.dlg:        <resref label="Active">c_b4d4pc</resref>
+```
+
+- Exchange
+
+```txt
+List of interaction on this map:
+
 ./208TEL_dlg.erf/203slusk.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./208TEL_dlg.erf/203vula.dlg:        <resref label="Active">c_b4d4pc</resref>
+```
+
+- Czerka
+
+```txt
+List of interaction on this map:
+
 ./209TEL_dlg.erf/203lorso.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./209TEL_dlg.erf/203lorso.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./209TEL_dlg.erf/czerkag.dlg:        <resref label="Active">c_b4d4pc</resref>
 ./209TEL_dlg.erf/czerkag2.dlg:        <resref label="Active">c_b4d4pc</resref>
-> 
+```
+
 
 [< Previous Page](./08_Telos.md) |
 [Back to the Index](../index.md) |
