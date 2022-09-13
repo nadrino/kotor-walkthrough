@@ -24,9 +24,6 @@
   - What is the price for her?
   - I'll see what I can do.
 - Terminal -> TP
-- Go to the Czerka office
-
-
 - Enter Czerka office (Czerka Offices 209tel.mod)
 - B-4D4
   - I'm here to see Jana Lorso.

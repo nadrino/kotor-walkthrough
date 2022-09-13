@@ -13,10 +13,11 @@
     - I think you should leave now.
     - Can't we talk about this?
     - I don't want to fight you.
-- Fight -> LSP -> Movie -> Visa felt your alignment (sometimes after the fight)
+- Fight
     - Why are they allowed to do this?
     - You should leave in case their friends come looking for them.
     - Keep your credits, a reward is not necessary. (+3 LSP)
+- LSP -> Movie -> Visa felt your alignment (sometimes after the fight)
 - Transit console
 - See TSF droid
     - Lt. Grenn said to come here to get the Ebon Hawk and the rest of my possessions out of impound.
@@ -28,12 +29,20 @@
     - Isn't there anything more the TSF can do?
     - I'll be going now. [End Dialog]
 - Grenn
-    - How will you recover from the destruction of the Peragus mining facility?
-    - How bad?
-    - Can't the Republic increase funding for the Station?
-    - Is there anything that can be done?
-    - If I can help, I'd like to.
-    - Still think I'm to blame?
+  - How will you recover from the destruction of the Peragus mining facility?
+  - How bad?
+  - Can't the Republic increase funding for the Station?
+  - Is there anything that can be done?
+  - If I can help, I'd like to.
+  - Still think I'm to blame?
+- Console (202trmt)
+  - [Computer] Attempt to slice a user name and password.
+  - Check the status of nearby vessels.
+  - Access pending investigations.
+  - Peragus Mining Facility inquiry.
+  - Access Ebon Hawk records.
+  - [Computer] Attempt to recover the lost data.
+  - Log out. [End Dialog]
 - Re-ask Grenb
     - Do you have any work I could do?
     - Tell me about the bounties.
@@ -54,15 +63,6 @@
         - Is there any way to find out about the killer's movements on the station?
         - I'll see what I can dig up.
     - I'll be going now. [End Dialog]
-- Console (202trmt)
-    - [Computer] Attempt to slice a user name and password.
-    - Check the status of nearby vessels.
-    - Access pending investigations.
-    - Peragus Mining Facility inquiry.
-    - Access Ebon Hawk records.
-    - [Computer] Attempt to recover the lost data.
-    - Log out. [End Dialog]
-- Samhan Dobo -> later
 
 
 [< Previous Page](./02_Telos.md) |

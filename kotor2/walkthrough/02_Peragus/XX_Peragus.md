@@ -57,9 +57,9 @@
   - **Visière sensorielle Bothan**
 - Telos - Residentiak
   - **Analyseur de visée multispectral**
-- Telos - Czerka
+- Telos - Czerka (guys kill in residential?)
   - Gants de précision Bothans (+6 en démolition !)
-- Telos - Ithorians
+- Telos - Ithorians (docks)
   - Pack de force
   - Armure de néophyte Jal Shey?
 - Duros Assassin

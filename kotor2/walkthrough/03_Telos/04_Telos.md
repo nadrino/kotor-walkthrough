@@ -7,6 +7,10 @@
 ![](img/04_Telos/04_Telos_map.png)
 
 - Go to dock module
+- Czerka men try to convince you to work for them (czerkaofficer.dlg)
+  - No, and if there's nothing else, step aside.
+  - What is it?
+  - I'll think about it.
 - Transit system
 - Ithorian
     - What's in this bay?
@@ -33,6 +37,14 @@
     - Batu Rem.
     - I'll be going now. [End Dialog]
 - Go back to see Green -> Batu
+  - I'd like to talk to you about the bounties.
+  - I found some information about Batu Rem.
+  - The real Batu Rem. (joke)
+  - Batu Rem is an officer of the TSF stationed in the TSF office in Entertainment 081.
+  - That was more or less the idea.
+  - Actually, I have information about the assassin Batu Rem.
+  - He arrived from Nar Shaddaa aboard an unmarked transport in Docking Bay 3.
+  - I'll be going now. [End Dialog]
 - Back to residential
 
 [< Previous Page](./03_Telos.md) |

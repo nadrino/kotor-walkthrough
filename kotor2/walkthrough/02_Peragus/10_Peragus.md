@@ -159,6 +159,8 @@
     - [Repair] (!c_influence_bet(8,30,70)) -> ok -> 21 REPAIR -> too much even with upgrade equipment
 - We'll need to wait more
 - Unequip T3 blaster
+- SECRET CACHE?? 
+  - **Visière sensorielle Bothan**
 - Head to Telos
 
 
