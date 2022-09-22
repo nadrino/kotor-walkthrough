@@ -55,7 +55,6 @@
   - I'll be going now. [End Dialog] -> other options? -> don't kill yet
 - SAVE
 - Doton Het (207TEL.mod\dotonhet.dlg) -> should have 1000c in hand
-  - Wonderful sight, isn't it? The best of my dancers, and the best I've seen in many years.
   - Who are you?
   - Odds and ends?
   - Could I look at your inventory?
@@ -69,6 +68,12 @@
 - Back to residential (203TEL.mod\ramana.dlg)
   - You're free now, Ramana, you can go with Harra. (+1LSP)
   - Then you can do whatever you wish.
+- Prepare for the exchange assault
+  - Go to workbench at Opo Chano shop
+    - Kreia (+belt for Treat Inj)
+      - Strenghthening Underlay Mark III (+1 constitution, +2 strength) -> too much components...
+    - Meetra
+      - Against blugde...
 - Exchange
   - I'm here representing Chodo Habat.
   - Then how do I set up an appointment?
