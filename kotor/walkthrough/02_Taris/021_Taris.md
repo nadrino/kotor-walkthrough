@@ -123,21 +123,16 @@ Taris - Embracing the Local Culture
 - Conversation with the Sith (TODO: check this dialog)
   - You're from the military base? You don't look like one of the Sith.
   - Nice to meet you, Sarna/Yun. I'm Name.
-  - //So why do you do it?
-  - You can't really blame people... you did conquer the planet.
-  - You seem pretty touchy about this. Maybe you feel a little guilty about what you do.
+  - **LS conversation**
+    - You can't really blame people... you did conquer the planet.
+    - You seem pretty touchy about this. Maybe you feel a little guilty about what you do.
+  - **DS conversation**
+    - Ttttt
+
 
 
 #### (4) Talk to people around
 
-> It is interesting to note that people attending this cantina are mostly from the
-> Tarisian high _bourgeoisie_ (meaning people who are behaving like rich people, in
-> other words they consider themselves as the _elite_ of the society).
->
-> This is getting obvious as they are making comments on the way you are dressed, the
-> way they express their contempt for people living in the slums, or how they tend to
-> accept the new authority in charge (in which they hope will serve their interest).
->
 > Note that some voice actors have a british accent ;). Not being a native american,
 > it's interesting to see how they describe an elite social class!
 
