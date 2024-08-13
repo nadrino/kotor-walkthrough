@@ -1,7 +1,7 @@
 Taris - The Hideout Building
 =========================================================
 
-[< Previous Page](./011_EndarSpire.md) 
+[< Previous Page](../01_EndarSpire/011_EndarSpire.md) 
 | [Back to the Index](../index.md) 
 | [Next Page >](021_Taris.md)
 
