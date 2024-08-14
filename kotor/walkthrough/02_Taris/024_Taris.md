@@ -4,13 +4,13 @@
 | [Back to the Index](../index.md)
 | [Next Page >](025_Taris.md)
 
-![](../../resources/images/maps/02_Taris/mapTarisLowerStreets2.png)
+![](images/maps/mapTarisLowerStreets2.png)
 
 - Take the elevator with the Sith papers towards the Undercity
 
 ## Undercity
 
-![](../../resources/images/maps/02_Taris/mapTarisUnderCity.png)
+![](images/maps/mapTarisUnderCity.png)
 
 - Challengend by two Outcast Beggars
   - Who are you? What are you doing here in the Undercity?

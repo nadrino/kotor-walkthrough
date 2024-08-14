@@ -7,7 +7,7 @@ Taris - Embracing the Local Culture
 
 ## Taris - First Steps in the Upper City
 
-![](../../resources/images/maps/02_Taris/map_taris_upper_streets1.png)
+![](images/maps/map_taris_upper_streets1.png)
 
 #### (1) Leaving your building
 
@@ -89,7 +89,7 @@ Taris - Embracing the Local Culture
 
 ## The Upper City Cantina
 
-![](../../resources/images/maps/02_Taris/mapTarisUpperCantina1.png)
+![](images/maps/mapTarisUpperCantina1.png)
 
 ### Have a look around
 

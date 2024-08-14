@@ -33,7 +33,7 @@ Taris - The Hideout Building
 
 ## Upper Taris - South Apartments
 
-![](../../resources/images/maps/02_Taris/map_taris_upperApt1.png)
+![](images/maps/map_taris_upperApt1.png)
 
 
 #### (1) Sith Ambush

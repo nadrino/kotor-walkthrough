@@ -1,11 +1,13 @@
 Taris - The Upper City Area
 ====================================================
 
-[< Previous Page](021_Taris.md) | [Back to the Index](../index.md) | [Next Page >](023_Taris.md)
+[< Previous Page](021_Taris.md) 
+| [Back to the Index](../index.md) 
+| [Next Page >](023_Taris.md)
 
 ## Exploring Upper Taris
 
-![](../../resources/images/maps/02_Taris/map_taris_upper_streets2.png)
+![](images/maps/map_taris_upper_streets2.png)
 
 - Go towards your apartment -> you will meet Gana Lavin (the angry rich woman in the cantina) with two body guards. Kill the body guards and loot the swords.
 - Follow the street
@@ -56,7 +58,7 @@ Taris - The Upper City Area
 
 - Cross the street and go to the North Apartments
 
-![](../../resources/images/maps/02_Taris/mapTarisUpperApt2.png)
+![](images/maps/mapTarisUpperApt2.png)
 
 - Begin on the left (it's a circle)
 - Loot everywhere
@@ -82,7 +84,7 @@ Taris - The Upper City Area
     - I'm just looking around.
     - -> come back later for the bounty -> 200c again -> need the money at the moment
 
-![](../../resources/images/maps/02_Taris/mapTarisUpperCityNorth.png)
+![](images/maps/mapTarisUpperCityNorth.png)
 
 - Continue the north street **TEMPSAVE**
 - 3 guys -> agress them ? NO -> PCO but 150 XP instead of 60 (+90XP, is it necessary ?) and loot

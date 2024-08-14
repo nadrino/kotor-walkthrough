@@ -4,7 +4,7 @@
 
 ## Lower Taris
 
-![](../../resources/images/maps/02_Taris/mapTarisLowerStreets.png)
+![](images/maps/mapTarisLowerStreets.png)
 
 - Gangs are fighting in the streets
 
@@ -27,7 +27,7 @@
   
 ## Lower City Cantina
 
-![](../../resources/images/maps/02_Taris/mapTarisLowerCantina.png)
+![](images/maps/mapTarisLowerCantina.png)
 
 - _don't buy pazaak ? 200 c +/-1 ? +/-6 cheaper ->50 ? -> save 6 to check_ -> NO, expansive
 - Gelrood -> Infinite pazaak -> not a lot of money each time
@@ -96,7 +96,7 @@
 
 ## Hidden Bek Base
 
-![](../../resources/images/maps/02_Taris/mapTarisLowerBekBase.png)
+![](images/maps/mapTarisLowerBekBase.png)
 
   - I need Gadon's help...
   - May be I could be an ally...
