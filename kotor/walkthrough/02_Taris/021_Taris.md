@@ -123,11 +123,16 @@ Taris - Embracing the Local Culture
 - Conversation with the Sith (TODO: check this dialog)
   - You're from the military base? You don't look like one of the Sith.
   - Nice to meet you, Sarna/Yun. I'm Name.
-  - **LS conversation**
+  - **[Light Side]**
     - You can't really blame people... you did conquer the planet.
     - You seem pretty touchy about this. Maybe you feel a little guilty about what you do.
-  - **DS conversation**
-    - Ttttt
+  - **[Dark Side]**
+    - I'm not actually from Taris. I'm just stuck here until the quarantine ends.
+    - Being stuck on Taris isn't so bad... but the locals aren't much fun.
+    - Everybody has their ups and downs... it's how you deal with them that counts.
+    - You need to blow off steam once in a while.
+    - **I don't think I can make it.**
+
 
 
 
@@ -139,7 +144,7 @@ Taris - Embracing the Local Culture
 ![](../../resources/images/screenshots/tarisUpperCantina.png)
 
 
-#### (5) Enter the bar room
+#### (5) Enter the barroom
 
 - Bump into a young _bourgeoise_: Gana Lavin
   - Sorry, I'm not your waiter.
@@ -197,8 +202,9 @@ Taris - Embracing the Local Culture
   - Who are you?
   - Let's play.
 - Talk to the woman near the entrance (Christya)
-  - 20 credits? That seems expensive for a couple of drinks.
-  - Sorry, not interested.
+  - **[Male Player]**
+    - 20 credits? That seems expensive for a couple of drinks.
+    - Sorry, not interested.
 
 
 #### (1) Meet Bendak Starkiller

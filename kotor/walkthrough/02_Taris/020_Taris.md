@@ -98,7 +98,7 @@ Taris - The Hideout Building
 - Go to the elevator in (5)
 
 
-[< Previous Page](./011_EndarSpire.md) 
+[< Previous Page](../01_EndarSpire/011_EndarSpire.md) 
 | [Back to the Index](../index.md) 
 | [Next Page >](021_Taris.md)
 
