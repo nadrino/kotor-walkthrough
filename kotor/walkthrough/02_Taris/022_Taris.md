@@ -52,10 +52,16 @@ Taris - The Upper City Area
     - I'll keep your offer in mind.
 - Go near the entrance of the North street
 - Bounty Hunters racketeering a Merchant
+  - **[LS]** 
     - **Leave this man alone or you'll have to deal with me!** (LSP +2)
-- Kill
+  - **[DS]**
+    - I don't like your attitude. I better teach you a lesson.
+- Kill the bounty hunters
+  - **[LS]** 
     - Maybe I can help you.
-    - **Here's 100 credits. Take them.** (LSP +2)
+    - **Here's 100 credits. Take them.** (LSP +4)
+  - **[DS]**
+    - I'm just glad I could help.
 - Loop (50c on each corpse)
 
 ![](../../resources/images/screenshots/exploringUpperTaris.png)
