@@ -12,29 +12,35 @@ Taris - The Upper City Area
 - Go towards your apartment -> you will meet Gana Lavin (the angry rich woman in the cantina) with two body guards. Kill the body guards and loot the swords.
 - Follow the street
 - Go to the clinic on the right
+- Talk to Gurney -> He does not want to talk now
 
 **_TEMPSAVE_** : Easy Persuade (Level 3 -> 50%)
 
 - Talk to the doctor (Zelka Forn)
     - Medical facility? Is this some kind of hospital?
-    - I want to ask you some questions.
-    - How do you feel about the Sith?
-    - ...Ask something else
     - I just want some general information about Taris.
-    - Tell me about Upper Taris.
-    - Tell me about the Lower City.
-    - What do you know about Davik?
-    - Tell me about the Undercity.
-    - Outcasts?
-    - Ratgoules disease?
-    - Is there no cure?
-    - Maybe I could find a way to get my hands on that serum for you.
-    - Don't worry, Zelka – I'll get that serum for you!
-    - ...
-    - **Do you know anything about the Republic escape pods that crashed in the Undercity?**
-    - You seem awfully defensive about this.
-    - **[Persuade] Don't worry, I'm not with the Sith. I won't betray your secret if you tell me.** (EASY - 50%)
-    - **Is there anything I can do to help?** (LSP +2)
+      - Tell me about Upper Taris.
+      - Tell me about the Lower City.
+        - What do you know about Davik?
+      - Tell me about the Undercity.
+        - Outcasts?
+        - Ratgoules disease?
+        - Is there no cure?
+        - **[LS]**
+          - Maybe I could find a way to get my hands on that serum for you.
+          - Don't worry, Zelka – I'll get that serum for you!
+        - **[DS]**
+          - I might be able to help you out... for a price.
+    - I want to ask you some questions.
+      - How do you feel about the Sith?
+    - I want to ask you something else.
+      - **Do you know anything about the Republic escape pods that crashed in the Undercity?**
+      - You seem awfully defensive about this.
+      - **[Persuade] Don't worry, I'm not with the Sith. I won't betray your secret if you tell me.** (EASY - 50%)
+      - **[LS]**
+        - **Is there anything I can do to help?** (LSP +2)
+      - **[DS]** no need to be mean at this point
+        - Don't worry. Your secret is safe with me.
 - Leave the medical facility: Gurney intervenes
     - An offer? What are you talking about?
     - Davik Kang? Who's that?

@@ -217,4 +217,6 @@ Taris - Embracing the Local Culture
 - It's time to leave the Cantina
 
 
-[< Previous Page](020_Taris.md) | [Back to the Index](../index.md) | [Next Page >](022_Taris.md)
+[< Previous Page](020_Taris.md) 
+| [Back to the Index](../index.md) 
+| [Next Page >](022_Taris.md)
