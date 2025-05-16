@@ -5,7 +5,8 @@
 [Next Page >](./10_Peragus.md)
 
 - Let Sith enter
-- Kill all Sith (meeting room, right dormitory, trunk, hyperdrive, )
+- SAVE before fighting
+- Kill all Sith 25 (meeting room, right dormitory, trunk, hyperdrive, )
 - Save before the last batch -> try to loot before the auto load
 - Kreia joins you (107_PER)
     - Kreia? Your hand - what happened?

@@ -31,7 +31,8 @@
     - Moderate Devaronian Edge (Kreia, Stealth 12, 20 Components) -> For Exile
     - Nagai Grip (Kreia, Stealth 12, 20 Components)
     - Biorestorative Underlay Mark II (Kreia, Treat Injury 9, 12 Components)
-
+- Lab
+  - Implants? next section is hard
 
 
 [< Previous Page](../05_Peragus.md) |

@@ -17,7 +17,7 @@
         - That's an unusual set of coincidences.
         - How did we get to Peragus?
         - He says he repaired the ship and got us to Peragus.
-        - So why are these Sith looking for me?
+        - So why are these Sith looking for me? -> KREIA LIES!
         - But I was exiled from the Jedi Order.
         - But... last of the Jedi? That can't be true.
         - What about the Jedi on Dantooine? And Coruscant?
@@ -33,7 +33,7 @@
         - That's a poor assumption to be making.
         - When did you get sensitive?
         - I'll go check on her, then.
-    - Level 9
+    - 1500 XP Level 9 -> push the awareness now
     - Kreia
         - **Your hand - is there anything I can do?** (LSP)
             - // **I'm sorry for your loss.** (LSP) -> NO -> inf-- on Kreia
@@ -43,10 +43,14 @@
             - More extreme? I felt like my hand was dipped in molten carbonite.
             - Quicker? Would it have killed me?
             - **What can we do? I don't want my actions to place you at risk.** (LSP)
-            - I have never heard of a link like this before, in holocrons, or in the Jedi histories.
+            - I have never heard of a link like this before, in holocrons, or in the Jedi histories. -> doubt!
             - [You and Kreia possess the Force Chain special ability. When either of you uses a Force power on yourself, the other gains the benefit as well.]
-            - I think I've heard enough.
-            - **The fool has a name. I'd like you to start using it.** (LSP)
+            - So what do we do now?
+              - Is there any place where we can retreat to?
+              - **Enough for what?**
+              - And if we find no trace of Jedi teachings on Telos to help us?
+              - This is a lot to take in at once. I need time to reflect on this.
+              - **The fool has a name. I'd like you to start using it.** (LSP)
         - Atton (003EBO.mod\003atton.dlg)
             - Cryptic as always.
             - But to know the future, one must know yourself.
@@ -114,10 +118,6 @@
             - Are they following Malak's path?
             - The Sith on Peragus knew some Force techniques, but they were extremely weak.
             - There were other questions I wished to ask you.
-        - So what do we do now?
-            - Is there any place where we can retreat to?
-            - **Enough for what?** or alt **Where are we bound again?**
-                - And if we find no trace of Jedi teachings on Telos to help us?
 - Discover HK-47
     - Repair + install the vocabulator
 - See T3
