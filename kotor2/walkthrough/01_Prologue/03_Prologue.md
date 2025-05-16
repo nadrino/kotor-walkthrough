@@ -12,6 +12,9 @@
 
 ### Walkthrough
 
+ - 4
+   - Pull the wires (1 Parts)
+
 
 [< Previous Page](02_Prologue.md) |
 [Back to the Index](../index.md) |

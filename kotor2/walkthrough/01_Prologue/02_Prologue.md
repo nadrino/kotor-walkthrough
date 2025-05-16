@@ -30,7 +30,7 @@
     - Next intersection, you have a small corridor which would lead to the
       exit of the ship. But it's closed since behind the ship's hull is ripped
     - Notice the body of an old woman who's actually not dead ;) Loot her corpse 
-      to find a pass
+      to find a locker key
     - Loot every broken droid in the room
     - Before taking the corridor leading to (5), on the right there is a locked chest
       you can only bash (your security skill is too low)

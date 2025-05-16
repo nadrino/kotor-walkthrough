@@ -12,7 +12,11 @@
     - Then how did this ship dock here?
     - So let's get their codes, then. Then we can worry about reaching the Ebon Hawk.
     - **Forgive me, Kreia, I was distracted for a moment. I'll be more mindful of the present.** LSP + Inf Kreia
-- Download plans 1 repair + logs
+- Start on the right -> bridge
+- Navicomputer
+  - [Repair] Reroute the navicomputer. [1 Part]
+  - Download the orbital drift charts for the Peragus asteroid field.
+  - 
 - Kill sith toward the savety modules
 
 

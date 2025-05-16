@@ -10,12 +10,23 @@
     - I'm right outside the observation window.
     - I need to reach the miners in the dormitory section, and this is the only way to get there.
     - I'm trying to pick up the pace, believe me.
-    - Why are the vents placed so close to the exterior scaffolding?
+    - **Why are the vents placed so close to the exterior scaffolding?**
+- Harbinger arrives
 
+SAVE BEFORE ENTERING THE DORMS -> edit
 
-- Dormitories
-- Kill / loot till the exit
-- Comeback to the console (Work Assignment Console) -> if don't have repair / spkie, go create with the workbench
+- Kill 3 droids
+- [sometimes bug with cadavers standing up-> reload OK]
+- Workbench
+- Next room: fir extinguishers kill with blasters
+- Continue your path toward the exit until your reach the elevator -> loot datapads
+- Turbolift console -> a code is needed
+  - Open turbolift door.
+    - [Computer] Slice the door. [1 Spike(s)] (works even if you don't have a spike)
+    - Return to main functions.
+  - Access camera logs.
+- You discover HK use the voice of the miners to kill them -> mention reverse the turbolift code
+- Comeback to the console (Shift Assignment Console) -> if don't have repair / spkie, go create with the workbench
     - [Repair] Reroute the main console system. [1 Part(s)]
     - Check duty shift logs.
     - Access dormitory comm system.
@@ -34,6 +45,7 @@
 - Start on the right first
 - Kill droid (level up?)
 - Loot everywhere
+  - Get components from the terminal
 - Left -> kill droid -> loot -> Computer
     - Read the logs
         - Administration Officer -> gives code (begininig + need to decrypt the end)

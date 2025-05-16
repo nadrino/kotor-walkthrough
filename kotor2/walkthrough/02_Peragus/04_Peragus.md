@@ -4,24 +4,24 @@
 [Back to the Index](../index.md) |
 [Next Page >](./05_Peragus.md)
 
-- HK50
-    - How do you know me? I'm not your Master.
-    - Who was your previous Master?
+- Meet HK50 (all in one go)
+    - **How do you know me? I'm not your Master.**
+    - **Who was your previous Master?**
     - What happened?
-    - Why don't you tell me anyway?
+    - For a droid, you don't take orders too well. Now tell me what happened.
     - How come I don't remember any of this?
-    - Incapacitated?
+    - **Incapacitated?**
     - Drugged?! What do you mean drugged?
     - So I wasn't sealed in the cargo hold - someone locked me in.
-    - Fine - what happened next?
-    - Any idea what had attacked the small freighter?
+    - But how did I get from the Harbinger to here?
+    - **Any idea what had attacked the small freighter?**
     - What was this freighter that the Harbinger brought on board?
-    - Bounty?
+    - **Bounty?**
     - But why would that ship have taken me off the Harbinger?
     - How so?
     - **Why would someone want me captured?**
     - How did they find out I was a Jedi?
-    - That information wouldn't have been in coreward databases... only in Jedi archives.
+    - **That information wouldn't have been in coreward databases... only in Jedi archives.**
     - Potential hostiles?
     - I see... go on.
     - Then what happened?
@@ -30,50 +30,77 @@
         - Are there any left alive?
         - **Then I need to get in there to rescue them. (LSP)**
         - Can we try to contact them using a comlink?
-        - Satisfaction?
+        - **Satisfaction?**
         - We don't know what happened to them, so we need to find out.
         - **Those miners could be hurt or in danger - we need to make sure they're all right. (LSP)**
         - I'm your Master, and I'm giving you an order to assist me.
         - This just keeps getting better and better. Who's got the damn code?
         - If you have the code, then give it to me.
-        - Voiceprinted?
+        - **Voiceprinted?**
         - But you do know the code.
-        - Leave "condescending" out of your speech conditionals from now on, or else.
-        - Fine. Now tell me how to get off this rock.
+        - **Leave "condescending" out of your speech conditionals from now on, or else.**
+        - So how can I bypass this voiceprint?
         - I had some other questions for you.
-
-
-- HIM
     - What are you?
-    - Veiled threats?
-    - What's a translation droid doing on Peragus?
-    - What have you determined?
-    - I never said you were coming with me.
-
-
-
-- T3?
+      - **Veiled threats?**
+      - What's a translation droid doing on Peragus?
+      - What have you determined?
+      - I never said you were coming with me.
+      - I had some more questions for you.
     - Have you seen a T3 unit?
-    - The unit was last seen near the hangar.
-    - Then maybe you can answer something else for me.
+      - The unit was last seen near the hangar.
+      - Then maybe you can answer something else for me.
+    - How can I get into the hangar bay again?
+      - What's that body there?
+      - Screams?
+      - Wait - if you can play back his voice, can't you speak the voice code?
+      - Believed to possess?
+      - [Persuade] The fact you can mimic voices is pretty impressive. What would it sound like if you did speak the code to the console?
+      - Can you follow me and say that again?
+        - {Doesn't make sense} Looks like I'll need to find some way to carry your voice there - or record it.
+      - No, I had some other questions I wanted to ask you.
 
-
-- Cadaver
-    - What's that body there?
-    - Screams?
-    - Wait - if you can play back his voice, can't you speak the voice code?
-    - Believed to possess?
-    - [Persuade] The fact you can mimic voices is pretty impressive. What would it sound like if you did speak the code to the console?
-    - Can you follow me and say that again?
-    - Looks like I'll need to find some way to carry your voice there - or record it.
-    - No, I had some other questions I wanted to ask you.
-
-
-
-
+- Loot the room full of broken droids
 - Kill all droids
 - Kill floating mines with gun
-- Console -> voice print -> LATER after Atton Suggest -> but loot
+- Unlock the door on the right -> droid
+- Next door in front carful
+  - Floating droids -> kill with blasters + force speed -> if they explode -> no XP
+- Just after killing all the droids Level up to 5
+- Open the room before the elevator
+- Loot the content of the cylinder
+- Maintenance console
+  - Access maintenance logs.
+    - Access Log 253-10: Sonic Imprint Sensor
+    - Access Log 253-11: Ebon Hawk Droids
+    - Access Log 253-12: Jedi
+    - Access Log 253-13: Exchange Bounty
+    - Access Log 253-14: Sonic Imprint Sensor Update
+    - [Sonic Sensor] Access Log 253-15: Voiceprint ID (don't actually use the sensor! Need to talk to Atton)
+    - Access Log 253-16: Security Problems
+    - Return to main console functions.
+  - Access emergency subroutines.
+    - Check for exits from fuel depot.
+      - Check Containment Field.
+      - Trace source of the breach.
+      - Check fuel lines.
+      - Check the other exits from fuel depot.
+    - Check Turbolift to Administration Level.
+      - Check the other exits from fuel depot.
+    - Check Turbolift to Mining Tunnels.
+      - Check the other exits from fuel depot.
+    - Check Airlock.
+      - Open door to airlock.
+    - Return to main console functions.
+  - Access comm system.
+    - [Repair] Run diagnostic on damaged systems.
+    - Return to main console functions.
+  - Access cameras.
+    - Containment field camera.
+    - Maintenance level camera.
+    - Fuel line sensors.
+    - Airlock camera.
+  - Log out.
 - Back to admin level
 - Talk to Atton
     - I found a... talkative... protocol droid down in the fuel depot.
@@ -86,53 +113,41 @@
     - None that I know of.
     - **I'm not leaving them trapped and helpless on this facility. (LSP)**
     - I'll return if I find anything.
-
-- Kreia
+- Go back to see Kreia
     - Just checking to make sure you're all right.
-    - As "helpful" as your cryptic warnings are, why don't you find some way to make yourself useful?
+    - **As "helpful" as your cryptic warnings are, why don't you find some way to make yourself useful?**
     - I keep hearing your voice as I explore this place.
-    - Unforeseen consequences?
+    - **Unforeseen consequences?**
     - What if it doesn't pass?
     - I don't care... just stay out of my head, got it?
     - All right, then - I'll be back.
-
-- See console med bay -> ID
-    - treatments -> check -> attempt -> 34-103
+- See console med bay -> find the console ID of who ordered the sedative
+  - Access patient treatment.
+  - [Treat Injury] Check the last treatment request.
+  - [Computer] Attempt to track the treatment request. [1 Spike(s)]
 - Security console -> record
+  - [Sonic Sensor] Mining droid maintenance logs.  (1/3)
 - Back to the fuel area
-- Console
-    - Check ID +100PX
-    - Logs -> record +150PX
-    - Cameras -> T3!!! +100PX
-    - Try repair the com
+- Maintenance Station
+    - Check system ID signature. (+100XP)
+      - Return to main console functions.
+    - Access maintenance logs.
+      - [Sonic Sensor] Access Log 253-15: Voiceprint ID (2/3)
+  - Try repair the com
 - Back to HK
-    - I found a T3 unit in one of the fuel pipes. It looks damaged.
-        - I had some more questions for you.
-    - REVIEW THIS PART - HK 50
-        - How do I know you again?
-        - Tell me everything that happened between the Harbinger and now.
-        - For a droid, you don't take orders too well. Now tell me what happened.
-        - And where was I when this was taking place?
-        - There - you said "locked" again.
-        - But how did I get from the Harb...
-        - Any idea what had attacked the small freighter?
-        - What was this freighter that the Harbinger brought on board?
-        - And the Ebon Hawk came here?
-        - What happened once the ship arrived?
-        - How did they find out I was a Jedi?
-        - "Unpleasantness?" What are you talking about?
-        - Then what happened?
-        - So what happened to the rest of the miners?
-        - Sadly enough? What do you mean?
-            - Are you responsible for all this? (interesting for the plot...)
-            - I think you are responsible.
-            - Do you know who administered sedatives to the kolto tanks in the medical bay, killing the incapacitated miners?
-            - Is that pride I hear in your voice?
-            - I had some more questions for you.
-    - Enter voiceprint
-    - Open inner door
-    - loot space suit
-    - Open outer door (notice it closed the inner door!)
+  - **[Sonic Sensor] Can you play back the maintenance officer's last words?** (3/3)
+    - I had some more questions for you.
+  - **I found a T3 unit in one of the fuel pipes. It looks damaged.**
+    - I've heard enough. I'll be going now.
+- Maintenance Station
+  - [Sonic Sensor] Enter voiceprint code.
+  - Open door to airlock with maintenance officer override.
+  - +750XP
+- Open inner door
+- loot space suit
+- Open outer door (notice it closed the inner door!)
+
+SAVE
 
 
 [< Previous Page](../03_Peragus.md) |
