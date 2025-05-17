@@ -39,20 +39,20 @@
             - // **I'm sorry for your loss.** (LSP) -> NO -> inf-- on Kreia
                 - If we travel together, then we need to work together.
                 - The pain I felt when you lost your hand - what if it had been more intense?
-            - **If I felt the loss of your hand, what would have happened if you had died?**
-            - More extreme? I felt like my hand was dipped in molten carbonite.
-            - Quicker? Would it have killed me?
-            - **What can we do? I don't want my actions to place you at risk.** (LSP)
-            - I have never heard of a link like this before, in holocrons, or in the Jedi histories. -> doubt!
-            - [You and Kreia possess the Force Chain special ability. When either of you uses a Force power on yourself, the other gains the benefit as well.]
-            - So what do we do now?
-              - Is there any place where we can retreat to?
-              - **Enough for what?**
-              - And if we find no trace of Jedi teachings on Telos to help us?
-              - This is a lot to take in at once. I need time to reflect on this.
-              - **The fool has a name. I'd like you to start using it.** (LSP)
+        - **If I felt the loss of your hand, what would have happened if you had died?**
+        - More extreme? I felt like my hand was dipped in molten carbonite.
+        - Quicker? Would it have killed me?
+        - **What can we do? I don't want my actions to place you at risk.** (LSP)
+        - I have never heard of a link like this before, in holocrons, or in the Jedi histories. -> doubt!
+        - [You and Kreia possess the Force Chain special ability. When either of you uses a Force power on yourself, the other gains the benefit as well.]
+        - So what do we do now?
+          - Is there any place where we can retreat to?
+          - **Enough for what?**
+          - And if we find no trace of Jedi teachings on Telos to help us?
+          - This is a lot to take in at once. I need time to reflect on this.
+          - **The fool has a name. I'd like you to start using it.** (LSP)
         - Atton (003EBO.mod\003atton.dlg)
-            - Cryptic as always.
+            - **Cryptic as always.**
             - But to know the future, one must know yourself.
             - But to teach, one must be willing to learn.
             - I don't think Kreia is a Jedi.
