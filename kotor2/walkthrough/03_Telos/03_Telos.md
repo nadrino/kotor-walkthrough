@@ -30,6 +30,7 @@
   - Isn't there anything more the TSF can do?
   - **Can I get my possessions back at least?**
   - I'll be going now. [End Dialog]
+- Loot but don't equip yet
 - Grenn
   - How will you recover from the destruction of the Peragus mining facility?
     - How bad?

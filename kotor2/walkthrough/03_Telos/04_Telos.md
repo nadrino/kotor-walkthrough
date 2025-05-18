@@ -51,6 +51,8 @@
     - **Actually, I have information about the assassin Batu Rem.**
     - He arrived from Nar Shaddaa aboard an unmarked transport in Docking Bay 3.
     - I'll be going now.
+- He gives you a random item
+  - Sound Dampening Overlay Mark II
 - Back to residential
 
 [< Previous Page](./03_Telos.md) |

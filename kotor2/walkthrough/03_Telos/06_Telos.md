@@ -8,10 +8,11 @@
 
 - Speek to the Ithorian (201ithd.dlg)
   - Chodo Habat sent me to help deliver the replacement restoration droid.
+- (nothing to loot before)
 - Meet
 - Kill (201ithd2.dlg)
-  - [Awareness] It looks as though the blaster has been heavily modified.
-  - Yes, I'll get the droid back to the Ithorians right away. [End Dialog]
+  - **[Awareness] It looks as though the blaster has been heavily modified.**
+  - Yes, I'll get the droid back to the Ithorians right away.
 - Loot
   - Pack de force (e_imp1_04)
   - Armure de néophyte Jal Shey? (a_robe_07)
@@ -20,10 +21,11 @@
   - Yes, follow me to the Ithorian Compound.
 - Chodo TP
   - I found this blaster on one of the assailants.
-  - Is there anything else I can do to help you?
+  - **Is there anything else I can do to help you?**
   - Czerka and the Exchange must be stopped.
-  - I told you, I'm not a Jedi.
+  - **I told you, I'm not a Jedi.**
   - I'll go speak with him.
+- Gives Jal Shey gloves!
 - Exchange guard
 - Czerka office
 - Kreia intercept you (203kreia.dlg)
