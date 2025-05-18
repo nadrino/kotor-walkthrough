@@ -5,21 +5,24 @@
 [Next Page >](./02_Telos.md)
 
 - Arrest
-    - Are we under arrest?
+    - We didn't have anything to do with that.
     - **This is outrageous. You don't have any evidence.**
     - Will I be able to get my gear back?
-    - No. Why are you holding us?
+    - **No. Why are you holding us?**
     - The TSF can't hold me for anything. We're leaving right now. Do you understand?
-    - I'll go... but one way or another, you'll pay me for the trouble.
+    - **I'll go... but one way or another, you'll pay me for the trouble.**
+
+Brian takes the Ebon Hawk
+
 - You are in prison
-    - A force cage? This is ridiculous.
-    - Wait - I had some questions.
-- Batu Rem
+    - **A force cage? This is ridiculous.**
+    - **Wait - I had some questions.**
+- "Batu Rem"
     - You're wrong. I'm no Jedi.
     - We're in a TSF station. How do you expect to get away with this?
-    - I don't wish to fight you.
+    - Let's get this over with.
 - Grenn comes
-    - Impressive. You allowed an assassin to infiltrate your ranks.
+    - **Impressive. You allowed an assassin to infiltrate your ranks.**
     - How did he manage to sneak in here?
     - Great. That's reassuring.
     - The best of your ability? That's not very inspiring.
@@ -45,9 +48,13 @@
     - Could you get to the point?
     - What do you mean?
     - I'll speak with your leader when I'm freed.
+
+
+
 - Call
     - Accept call.
     - What does she want?
+    - Yes, go ahead.
     - Why are you calling?
     - "Imposed guilt?"
     - What sort of rumors?
@@ -58,13 +65,17 @@
     - What sort of work are we talking about?
     - I'll come by when I can.
     - (Rest.)
+
+
+
 - Kreia & Atton talks...
-- Green comes back (203tel/203atton.dlg)
+- Green comes back
     - Why is the Republic sending a ship?
     - How long will I have to stay?
     - Is the Ebon Hawk still impounded?
     - What about my T3 droid?
     - You know that from experience?
+    - **Why do we need to leave?**
     - Why would Telos be doomed?
     - What do you think, Kreia?
     - Why don't we ask the Republic for help against the Sith?

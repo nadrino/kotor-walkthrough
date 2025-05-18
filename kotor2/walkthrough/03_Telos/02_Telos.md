@@ -8,7 +8,9 @@
 
 - Leave your appartment
 - Loot all appartments in the complex
-- Dobo -> inventory
+- Opo Chano -> don't asl
+  - What does the Exchange want with you?
+  - Never mind.
 - Civilian appear (203tel.mod/civilian.dlg)
     - Just looking around.
     - Sorry, I just figured...
@@ -17,12 +19,15 @@
 - Harra
   - Who are you?
   - What do you do here?
-  - Let me guess - you have a gambling debt you must pay off.
+  - **Let me guess - you have a gambling debt you must pay off.**
   - Then what's the problem?
   - But you did.
   - Of course, you did make her a slave.
   - What is the price for her?
   - I'll see what I can do.
+- 4 - civilian
+  - Just looking around.
+  - And? You're going to stop me?
 - Terminal -> TP
 - Enter Czerka office (Czerka Offices 209tel.mod)
 - B-4D4
@@ -30,10 +35,11 @@
   - What can you tell me about Czerka?
 - Talk to the mercenaries and Czerka employees
 - Jana Lorso
-  - What do you have to say about the Ithorians' complaints?
+  - **What do you have to say about the Ithorians' complaints?**
   - The planet's own resources?
   - Very well, what can I do?
-  - Wait, you want me to steal the Ithorians' droid?
+  - **Wait, you want me to steal the Ithorians' droid?**
+  - You're asking me to commit a crime. I won't do that.
   - If you want me to do this, it'll cost you.
   - [Persuade] You'll have to do better than that.
   - I'll have to think about it.
@@ -64,13 +70,13 @@
   - What will you do when your project is completed?
   - I'll be going now. [End Dialog]
 - Chodo
-  - But you did not see fit to visit me in person.
+  - **But you did not see fit to visit me in person.**
   - You said you "sensed" my arrival?
   - Moza said you could "heal" me. What did he mean?
     - NO -> I once felt the Force, yes... and it is slowly returning. -> repetition with Kreia
   - I don't want to talk about this. What do you want from me?
   - I'd like to hear your perspective on the matter.
-  - Why would the Telosian government allow this to happen?
+  - **Why would the Telosian government allow this to happen?**
   - What do you intend to do?
   - Vanished? How?
   - What would I get out of this?
@@ -78,6 +84,13 @@
   - I was thinking of something more... substantial.
   - I'll help you.
   - I'll return with the droid intelligence. [End Dialog]
+- We'll get later to the medical facility -> need high skill for unlocking
+  - Get to the room in the back -> medical facility
+  - Onderon diplomat
+    - Who are you?
+    - Why are you here?
+    - I'll be going now.
+
 - Entertainment module
 
 
