@@ -55,9 +55,12 @@
 - Go toward the Bumani Exchange Corp.
   - I'll be going now
 - To residential west -> Ithorians
-- Transit system
+- 10 - Transit system
 - Enter Ithorian building
-- Ithorian (204TEL_dlg.erf/204ithr.dlg)
+
+![2025051800373700-09283F1FC0B01C5416AE2622190758FC.jpg](img/02_Telos/2025051800373700-09283F1FC0B01C5416AE2622190758FC.jpg)
+
+- Ithorian
   - What is this place?
   - What can you tell me about the restoration process?
   - Moza sent me to speak with Chodo Habat.

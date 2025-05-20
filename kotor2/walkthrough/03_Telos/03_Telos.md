@@ -13,6 +13,9 @@
     - I think you should leave now.
     - Can't we talk about this?
     - I don't want to fight you. `a_givelight(3)`
+
+![2025051814040300-09283F1FC0B01C5416AE2622190758FC.jpg](img/03_Telos/2025051814040300-09283F1FC0B01C5416AE2622190758FC.jpg)
+
 - Fight
     - Why are they allowed to do this?
     - You should leave in case their friends come looking for them.

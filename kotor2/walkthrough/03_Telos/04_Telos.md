@@ -26,6 +26,9 @@
     - Why is surface access restricted?
   - I'll be going now.
 - Civilian -> wait for flight to Taris for 5 years lol
+
+![2025051815141100-09283F1FC0B01C5416AE2622190758FC.jpg](img/04_Telos/2025051815141100-09283F1FC0B01C5416AE2622190758FC.jpg)
+
 - Right (3rd docking bay)
 - Twilek
     - I'm looking for a man named Batono.

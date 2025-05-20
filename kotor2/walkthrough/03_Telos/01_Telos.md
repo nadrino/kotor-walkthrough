@@ -12,6 +12,10 @@
     - The TSF can't hold me for anything. We're leaving right now. Do you understand?
     - **I'll go... but one way or another, you'll pay me for the trouble.**
 
+You leave your ship alone...
+
+![2025051813190200-09283F1FC0B01C5416AE2622190758FC.jpg](img/01_Telos/2025051813190200-09283F1FC0B01C5416AE2622190758FC.jpg)
+
 Brian takes the Ebon Hawk
 
 - You are in prison

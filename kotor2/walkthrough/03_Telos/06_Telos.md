@@ -26,6 +26,9 @@
   - **I told you, I'm not a Jedi.**
   - I'll go speak with him.
 - Gives Jal Shey gloves!
+
+![2025051816140000-09283F1FC0B01C5416AE2622190758FC.jpg](img/06_Telos/2025051816140000-09283F1FC0B01C5416AE2622190758FC.jpg)
+
 - Exchange guard
 - Czerka office
 - Kreia intercept you (203kreia.dlg)
