@@ -7,18 +7,18 @@
 ![](img/08_Telos/08_Telos_map.png)
 
 - Meet Vula (208tel.mod/203vula.dlg)
-  - I didn't have an appointment. -> triggers Gamorean fight
+  - **I didn't have an appointment.** -> triggers Gamorean fight
 - 3 gamoreans + boss
 - Ithorian prisoner (208tel.mod/ith_pris.dlg)
-  - No, why are you here?
+  - **No, why are you here?**
   - How do I set you free?
-  - I'll see what I can do. [End Dialog]
+  - I'll see what I can do.
 - Lopak call
   - I'm not a Jedi.
   - Wait - aren't I worth more alive?
   - I just want my ship back.
   - The Ebon Hawk? Luxa said you stole it.
-- Kill Gamo (1st group)
+- Gamoreans don't attack you
 - [Loot lvl 10 -> 5 to 12 + 17](http://assiste.free.fr/kotor_2/040_telos_citadelle_diplomatie_ithorienne_bumani_echange_luxa_loppak_slusk.html#mort_de_bennok_et_sa_bande)
   - Gantelets de puissance Sith (a_gloves_17)
 - Gamorean guard -> opens Loppak's office
@@ -29,13 +29,13 @@
   - I'm going to turn down your offer, Slusk. Goodbye.
 - Kill him with 2 turrets
 - Luxa
-  - The Exchange off Citadel Station, or you'll be joining Slusk soon.
+  - **The Exchange off Citadel Station, or you'll be joining Slusk soon.**
   - Where's my ship, Luxa?
   - I think you might be overestimating your chances.
 - Kill her and guards
 - Atton
-  - Changed your mind, Atton?
-  - You're as much a part of this as I am.
+  - **Changed your mind, Atton?**
+  - **You're as much a part of this as I am.**
 - [Slusk loot lvl 10 -> 5 to 12 + 17](http://assiste.free.fr/kotor_2/040_telos_citadelle_diplomatie_ithorienne_bumani_echange_luxa_loppak_slusk.html#mort_de_luxa_et_sa_bande)
   - CNS Strength Enhancer (a_belt_15)
   - Fusil lourd à répétition (w_brifle_17)

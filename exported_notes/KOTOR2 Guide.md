@@ -16,7 +16,7 @@ Wiki : _https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_
 	- gloves / jal shey
 	- belt / exchange shadow
 	- helm / Bothan Perception Visor
-- TODO : T3 Improvement after first time in Ebon Hawk in non-linear (Info > 20 + Repair > 20)
+- TODO: T3 Improvement after first time in Ebon Hawk in non-linear (Info > 20 + Repair > 20)
 
 ## Talking Skills :
 

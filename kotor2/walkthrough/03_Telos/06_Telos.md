@@ -31,22 +31,22 @@
 
 - Exchange guard
 - Czerka office
-- Kreia intercept you (203kreia.dlg)
-  - I don't need your approval, Kreia.
-  - I don't sense he intends to do us harm.
-  - Perhaps you are right, Kreia. But we need his help, at least for the time being.
-- Go to your appartment
 - B-4D4
   - Is this blaster of Czerka make?
   - Why would a Czerka weapon be in the hands of an assassin?
-  - I'll be going now. [End Dialog]
+  - I'll be going now.
+- Kreia intercept you (203kreia.dlg)
+  - **I don't need your approval, Kreia.**
+  - **I don't sense he intends to do us harm.**
+  - Perhaps you are right, Kreia. But we need his help, at least for the time being.
+- Go to your apartment
 - Remove Atton from the group (DSP propagate to party members)
 - Go to Sleep
 - Talk to Kreia (light side)
     - There is enough suffering in the galaxy - if I can alleviate for one person, then I have made a difference.
     - I fail to see how small acts of mercy can be harmful. (-> don't be to hard on Kreia?)
-    - Then I shall view you as disposable, then. (+1DSP!! but +1 infl on Kreia -> more important)
-    - Never mind. I'll be going now. [End Dialog]
+    - **Then I shall view you as disposable, then.** `a_influence_inc(6, 1)&&a_givedark(1)` -> influence is very important!
+    - Never mind. I'll be going now.
 - Transit back to the Entertainment module
 
 [< Previous Page](./05_Telos.md) |
