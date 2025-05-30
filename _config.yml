@@ -1,3 +1,5 @@
 
 title: kotor-walkthrough
-theme: minima  # ou un autre thème supporté par GitHub Pages
+#theme: minima  # ou un autre thème supporté par GitHub Pages
+theme: jekyll-theme-minimal
+description: "My Definitive Guides for Star Wars: KotOR I & II"
