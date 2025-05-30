@@ -244,6 +244,7 @@ Meaning +10 LSP? probably
 - SAVE
 - Go to Ebon
 
+![DDEA8F50-6D07-416E-8FEF-2EA1E5C50554.jpeg](img/DDEA8F50-6D07-416E-8FEF-2EA1E5C50554.jpeg)
 
 [< Previous Page](./12_Telos.md) |
 [Back to the Index](../index.md) |

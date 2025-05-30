@@ -4,6 +4,8 @@
 [Back to the Index](../index.md) |
 [Next Page >](./02_Dantooine.md)
 
+![823DFBB6-FE1B-48CC-94DA-DE76B71AED83.jpeg](img/823DFBB6-FE1B-48CC-94DA-DE76B71AED83.jpeg)
+
 - Go out with Bao and T3! -> Kreia will intervine -> not much sense given the answer of Dillan
 - Dillan
   - What are you talking about?
@@ -35,6 +37,9 @@
     - What do you know of me specifically?
     - Is that all?
     - Tell me more.
+
+![vlcsnap-2025-05-30-12h16m08s159.png](img/vlcsnap-2025-05-30-12h16m08s159.png)
+
   - What can you tell me about Dantooine?
     - **Salvage?**
     - So, you can just walk into the ruins and take anything you wish?
@@ -170,12 +175,16 @@ Khoonda - SAVE
   - **Do you suspect foul play?**
   - Why do you really want those sensors?
   - I'll see what I can do.
+
+![CCFA6D6E-5ABB-4CAC-8FC7-1770A2C205F1.jpeg](img/CCFA6D6E-5ABB-4CAC-8FC7-1770A2C205F1.jpeg)
+
 - To the ship. Don't enter
 - Remove party -> to play pazaak!
 - Pato Ado
   - Ask for 750c play until he's broke (tested 4x!)
   - the armor
 - Back to the ship SAVE
+
 
 [< Previous Page](../03_Telos/14_Telos.md) |
 [Back to the Index](../index.md) |

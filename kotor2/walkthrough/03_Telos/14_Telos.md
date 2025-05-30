@@ -105,8 +105,10 @@ Lightsaber!
     - Never mind.
 
 
+![B2186D54-1012-4689-A7E9-783AF7FA531B.jpeg](img/B2186D54-1012-4689-A7E9-783AF7FA531B.jpeg)
 
-- LATER
+
+- TODO: LATER
   - I wish to learn about lightsaber combat.
     - Not yet -> need LS + proper sparring partner
   - Did you know Revan? `!c_influence_bet(6, 10, 90)`
@@ -121,14 +123,6 @@ Lightsaber!
     - [Awareness] I heard her thoughts. `c_sc_awa_gt(10)`
     - Was I always able to do that?
     - [You have gained +1 Awareness and recovered some of your connection to the Force.] `a_addforcepoints(6)&&a_adjust_skill(3, 1)`
-
-Bao becomes Jedi -> not yet!! Free level
-- Reask -> `{Light Side}Having you here has an effect on me, General. I never noticed it years ago. I think my mind was too occupied then.`
-  - Maybe it's because I stopped wearing that boring Republic uniform.
-  - What about me, for giving the order?
-  - **If Ulic Qel-Droma could be forgiven for waging war against the Republic, you can be forgiven for saving it.**
-  - You did it to save us, to protect us from death.
-  - You have dwelled in the past for too long. You cannot undo history, but you can change the future.
 
 [< Previous Page](./13_Telos.md) |
 [Back to the Index](../index.md) |

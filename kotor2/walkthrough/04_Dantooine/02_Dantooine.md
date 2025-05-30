@@ -4,9 +4,16 @@
 [Back to the Index](../index.md) |
 [Next Page >](./03_Dantooine.md)
 
+![DDE734B3-D682-4667-9FFE-63D6CCF64E09.jpeg](img/DDE734B3-D682-4667-9FFE-63D6CCF64E09.jpeg)
+
 - Visas
   - What have you done to the crew?
 - .. FIGHT ... use shields and stimulants with the pause menu
+
+![FDB28660-580C-4ACA-A6F3-07A3CFBE91D4.jpeg](img/FDB28660-580C-4ACA-A6F3-07A3CFBE91D4.jpeg)
+![vlcsnap-2025-05-29-23h47m30s021.png](img/vlcsnap-2025-05-29-23h47m30s021.png)
+
+- Visas
   - **I will not kill you.** `a_givelight(1)`
     - Look, you're wounded. Stand, let me get you to the medbay. `a_givelight(1)`
   - What's a Miraluka?
@@ -17,6 +24,9 @@
   - Is she going to be all right? `a_givelight(1)`
   - Let me know when she awakens. I have questions for her.
     - NOT NECESSARY: If her condition changes, let me know - I didn't want to hurt her. `a_givelight(1)`
+
+![B7837E0E-45B0-4D45-AC63-6B461EB8553C.jpeg](img/B7837E0E-45B0-4D45-AC63-6B461EB8553C.jpeg)
+
 - Grabbed emitter
 - **Bao becomes a Jedi**
   - Maybe it's because I stopped wearing that boring Republic uniform.
