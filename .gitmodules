@@ -1,6 +1,3 @@
-[submodule "submodules/kotor-leveling"]
-	path = submodules/kotor-leveling
-	url = https://github.com/nadrino/kotor-leveling.git
 [submodule "submodules/--force"]
 	path = submodules/--force
 	url = https://github.com/nadrino/kotor-leveling.git
