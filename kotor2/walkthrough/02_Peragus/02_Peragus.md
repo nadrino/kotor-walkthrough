@@ -24,6 +24,9 @@
 - Loot room
 - South door
 - The Ebon Hawk!
+
+![018FC31C-9F18-4EF9-9A33-47DFFF72526F_1_105_c.jpeg](img/018FC31C-9F18-4EF9-9A33-47DFFF72526F_1_105_c.jpeg)
+
 - Computer
   - [Repair] Replace the missing parts. [1 Part(s)]
   - Access hangar logs.

@@ -45,20 +45,30 @@
 1. [Compromising Czerka corp.](03_Telos/09_Telos.md)
 1. [Before leaving the station](03_Telos/10_Telos.md)
 
+![4DFCC4BE-B34D-4D2D-BB09-9FB55AB23192_1_105_c.jpeg](img/4DFCC4BE-B34D-4D2D-BB09-9FB55AB23192_1_105_c.jpeg)
+
 
 ### Telos surface
 
-1. [Landing on the restored surface](03_Telos/11_Telos.md)
-1. [A strange facility](03_Telos/12_Telos.md)
+1. [Restoration zone C1](03_Telos/11_Telos.md)
+1. [Footsteps in a droid factory](03_Telos/12_Telos.md)
+
+![6913B41E-1519-49AA-B8A1-6C51DA741632_1_105_c.jpeg](img/6913B41E-1519-49AA-B8A1-6C51DA741632_1_105_c.jpeg)
 
 
 ### Telos Academy
 
-1. [Meeting an old friend](03_Telos/13_Telos.md)
+1. [Beneath the frost](03_Telos/13_Telos.md)
 1. [Conversations in the Ebon Hawk](03_Telos/14_Telos.md)
 
 
+
 ## Dantooine
+
+1. [Back to where the exile grew up](04_Dantooine/01_Dantooine.md)
+1. [A silent invasion](04_Dantooine/02_Dantooine.md)
+
+
 
 ## MISC
 

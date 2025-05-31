@@ -159,6 +159,7 @@ You explored all the possibilities with Kreia!
 - SECRET CACHE?? -> should only be available after 
 - Head to Telos
 
+![7583F011-7AFB-4BCE-B977-3BE7A5457DD6_1_105_c.jpeg](img/7583F011-7AFB-4BCE-B977-3BE7A5457DD6_1_105_c.jpeg)
 
 [< Previous Page](../09_Peragus.md) |
 [Back to the Index](../index.md) |
