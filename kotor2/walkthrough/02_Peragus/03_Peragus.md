@@ -1,4 +1,4 @@
-# Peragus - Mining galeries
+# Peragus - Mining galleries
 
 ![](img/03_Peragus/03_Peragus_map.png)
 

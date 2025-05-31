@@ -1,4 +1,4 @@
-# Telos - Smuggling mission
+# Telos - Surface
 
 [< Previous Page](./10_Telos.md) |
 [Back to the Index](../index.md) |

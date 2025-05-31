@@ -4,7 +4,6 @@
 [Back to the Index](../index.md) |
 [Next Page >](./06_Peragus.md)
 
-
 - Outside
 - Atton
     - I'm right outside the observation window.
@@ -56,6 +55,21 @@ SAVE BEFORE ENTERING THE DORMS -> edit
         - [Intelligence]...
 - Back to the turbolift
 - Code: 7 - 5 - 13 - 17 - 3
+
+
+> Comment: this section of the game is interesting since this visit
+> of the dormitories had no real point in itself! 
+> However, it can be interpreted as such.
+> 
+> After the discussion with HK-50, the exile realizes how suspicious
+> this droid actually is.
+> Instead of waiting patiently as HK-50 suggests, the exile is
+> trying to find a way out of this rock by any means.
+> Although it's pretty obvious that everybody's dead on the facility,
+> finding survivors in the dormitories could have been useful.
+> 
+> After the exploration of the dormitory, it reveals that HK-50
+> is responsible for the murder of everybody on the mining station.
 
 
 [< Previous Page](../04_Peragus.md) |
