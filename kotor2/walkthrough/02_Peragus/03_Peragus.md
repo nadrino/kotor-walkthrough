@@ -1,5 +1,9 @@
 # Peragus - Mining galleries
 
+[< Previous Page](./02_Peragus.md) |
+[Back to the Index](../index.md) |
+[Next Page >](./04_Peragus.md)
+
 ![](img/03_Peragus/03_Peragus_map.png)
 
 - Atton
@@ -61,6 +65,6 @@ Level 3 -> leave 3 skill points so next level we level up "Repair"
     - kill all -> leave
 
 
-[< Previous Page](../02_Peragus.md) |
+[< Previous Page](./02_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./04_Peragus.md)

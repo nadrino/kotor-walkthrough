@@ -1,6 +1,6 @@
 # Peragus - Harbinger
 
-[< Previous Page](../06_Peragus.md) |
+[< Previous Page](./06_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./08_Peragus.md)
 
@@ -74,6 +74,6 @@
     - I'm fine. Keep going. [End Dialog]
 
 
-[< Previous Page](../06_Peragus.md) |
+[< Previous Page](./06_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./08_Peragus.md)

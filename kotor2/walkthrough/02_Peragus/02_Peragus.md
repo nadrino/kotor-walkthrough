@@ -1,6 +1,6 @@
 # Peragus - T3-M4 comes to the rescue
 
-[< Previous Page](../01_Peragus.md) |
+[< Previous Page](./01_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./03_Peragus.md)
 

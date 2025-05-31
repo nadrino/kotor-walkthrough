@@ -1,6 +1,6 @@
 # Peragus - Sith assault
 
-[< Previous Page](../09_Peragus.md) |
+[< Previous Page](./09_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](../03_Telos/01_Telos.md)
 
@@ -161,6 +161,6 @@ You explored all the possibilities with Kreia!
 
 ![7583F011-7AFB-4BCE-B977-3BE7A5457DD6_1_105_c.jpeg](img/7583F011-7AFB-4BCE-B977-3BE7A5457DD6_1_105_c.jpeg)
 
-[< Previous Page](../09_Peragus.md) |
+[< Previous Page](./09_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](../03_Telos/01_Telos.md)

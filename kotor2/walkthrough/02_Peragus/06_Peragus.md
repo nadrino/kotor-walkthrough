@@ -1,6 +1,6 @@
 # Peragus - Preparation for the next step
 
-[< Previous Page](../05_Peragus.md) |
+[< Previous Page](./05_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./07_Peragus.md)
 
@@ -35,6 +35,6 @@
   - Implants? next section is hard
 
 
-[< Previous Page](../05_Peragus.md) |
+[< Previous Page](./05_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./07_Peragus.md)
