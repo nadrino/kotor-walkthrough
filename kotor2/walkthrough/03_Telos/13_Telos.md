@@ -67,6 +67,8 @@ CHECKS
   - {Good}Fine - I'll be on my way.
   - `c_global_gt("262TEL_Atris_Response", 5)` -> `a_lighthigh()&&a_glob_bool_set("262TEL_Hand_Send", 1)`
 
+![D41F7419-A48E-4CB7-B899-97BBDA603407_1_105_c.jpeg](img/D41F7419-A48E-4CB7-B899-97BBDA603407_1_105_c.jpeg)
+
 ```nss
 #include "k_inc_debug"
 #include "k_inc_utility"

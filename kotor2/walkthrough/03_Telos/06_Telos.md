@@ -10,6 +10,9 @@
   - Chodo Habat sent me to help deliver the replacement restoration droid.
 - (nothing to loot before)
 - Meet
+
+![496B29F6-B6DA-4735-8C2F-CFF2BCDDEBB8_1_105_c.jpeg](img/06_Telos/496B29F6-B6DA-4735-8C2F-CFF2BCDDEBB8_1_105_c.jpeg)
+
 - Kill (201ithd2.dlg)
   - **[Awareness] It looks as though the blaster has been heavily modified.**
   - Yes, I'll get the droid back to the Ithorians right away.
