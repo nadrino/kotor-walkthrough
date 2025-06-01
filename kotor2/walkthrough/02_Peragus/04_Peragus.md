@@ -1,6 +1,6 @@
 # Peragus - A talkative droid
 
-[< Previous Page](../03_Peragus.md) |
+[< Previous Page](./03_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./05_Peragus.md)
 
@@ -150,6 +150,6 @@
 SAVE
 
 
-[< Previous Page](../03_Peragus.md) |
+[< Previous Page](./03_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./05_Peragus.md)

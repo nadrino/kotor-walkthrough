@@ -14,6 +14,7 @@
 
 - Repair the engine -> 500PX -5 Parts
 
+![56CF75EB-1A6D-4544-9FA1-FD84E5C54DD7_1_105_c.jpeg](img/56CF75EB-1A6D-4544-9FA1-FD84E5C54DD7_1_105_c.jpeg)
 
 [< Previous Page](03_Prologue.md) |
 [Back to the Index](../index.md) |

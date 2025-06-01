@@ -1,6 +1,6 @@
 # Peragus - Preparation for the next step
 
-[< Previous Page](../05_Peragus.md) |
+[< Previous Page](./05_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./07_Peragus.md)
 
@@ -22,6 +22,9 @@
   - **Who is this client of yours?**
   - So what now? Are you going to kill me?
   - Enough of this - you won't take me without a fight.
+
+![601DAC05-EB41-4371-9B05-DC9791DECB0C_1_105_c.jpeg](img/601DAC05-EB41-4371-9B05-DC9791DECB0C_1_105_c.jpeg)
+
 - Prepare for the Harbinger
 - Go to workbench -> equip skill enhanced on characters -> found Czerka utiliy belt
     - Create Vibrosword (with Exile) -> For Exile
@@ -35,6 +38,6 @@
   - Implants? next section is hard
 
 
-[< Previous Page](../05_Peragus.md) |
+[< Previous Page](./05_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./07_Peragus.md)

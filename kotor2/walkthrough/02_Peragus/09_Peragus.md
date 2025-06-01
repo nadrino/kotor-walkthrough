@@ -1,6 +1,6 @@
 # Peragus - Sith assault
 
-[< Previous Page](../08_Peragus.md) |
+[< Previous Page](./08_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./10_Peragus.md)
 
@@ -11,6 +11,6 @@
 - Kreia joins you (107_PER)
     - Kreia? Your hand - what happened?
 
-[< Previous Page](../08_Peragus.md) |
+[< Previous Page](./08_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./10_Peragus.md)

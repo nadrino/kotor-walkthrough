@@ -1,6 +1,6 @@
 # Peragus - The dormitories
 
-[< Previous Page](../04_Peragus.md) |
+[< Previous Page](./04_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./06_Peragus.md)
 
@@ -72,6 +72,6 @@ SAVE BEFORE ENTERING THE DORMS -> edit
 > is responsible for the murder of everybody on the mining station.
 
 
-[< Previous Page](../04_Peragus.md) |
+[< Previous Page](./04_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./06_Peragus.md)

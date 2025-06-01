@@ -1,6 +1,6 @@
 # Peragus - T3-M4 comes to the rescue
 
-[< Previous Page](../01_Peragus.md) |
+[< Previous Page](./01_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./03_Peragus.md)
 
@@ -82,6 +82,8 @@
     - Call up emergency system schematics.
     - Open emergency hatch on Peragus Administration Level.
     - Logout
+
+![34DB9F43-E414-4586-9F02-1973D71B7007_1_105_c.jpeg](img/34DB9F43-E414-4586-9F02-1973D71B7007_1_105_c.jpeg)
 
 
 [< Previous Page](./01_Peragus.md) |

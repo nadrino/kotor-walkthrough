@@ -29,6 +29,8 @@
 1. [Escape the station](02_Peragus/09_Peragus.md)
 1. [Getting to know your companions](02_Peragus/10_Peragus.md)
 
+![300B1272-AB04-45FF-808C-66C49F931BD5_1_105_c.jpeg](img/300B1272-AB04-45FF-808C-66C49F931BD5_1_105_c.jpeg)
+
 ## Telos
 
 

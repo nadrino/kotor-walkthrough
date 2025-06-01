@@ -1,6 +1,6 @@
 # Peragus - Escaping the station
 
-[< Previous Page](../07_Peragus.md) |
+[< Previous Page](./07_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./09_Peragus.md)
 
@@ -46,6 +46,6 @@
 - Save before entering
 
 
-[< Previous Page](../07_Peragus.md) |
+[< Previous Page](./07_Peragus.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./09_Peragus.md)
