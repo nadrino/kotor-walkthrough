@@ -76,7 +76,7 @@ Leave with the Ithorian ship!
 
 - Carth
 
-
+![78B827D8-E6E9-4918-A3DD-F1B7CEEDC128_1_105_c.jpeg](img/78B827D8-E6E9-4918-A3DD-F1B7CEEDC128_1_105_c.jpeg)
 
 
 [< Previous Page](./09_Telos.md) |

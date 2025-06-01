@@ -83,6 +83,8 @@
     - Open emergency hatch on Peragus Administration Level.
     - Logout
 
+![34DB9F43-E414-4586-9F02-1973D71B7007_1_105_c.jpeg](img/34DB9F43-E414-4586-9F02-1973D71B7007_1_105_c.jpeg)
+
 
 [< Previous Page](./01_Peragus.md) |
 [Back to the Index](../index.md) |
