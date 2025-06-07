@@ -31,7 +31,7 @@
   - I need 1,000 credits to bribe a corrupt Czerka executive. (or 500c if already asked?)
   - Thanks. I'll return later.
 - Corun Falt (500+1000-300 = +1200c benefits: "Smooth" as Atton says)
-  - [Awareness] You're reaching. 300 would be enough. (need awareness > 10 (EQUIP) and persuade > 6)
+  - [Awareness] You're reaching. 300 would be enough. `c_sc_awagtcredlt(10, 300)` `c_sc_per_gt(6)`
   - You mean, B-4D4 could walk right in.
   - **Is that all? What a great help you are.**
   - All right. I'll be going now.

@@ -37,6 +37,15 @@
 - Lab
   - Implants? next section is hard
 
+| Item                            | Skill        | Level | Character | Cost |
+|---------------------------------|--------------|-------|-----------|------|
+| Vibrosword                      | Repair       | 10    | Meetra    |      |
+| Enhanced Energy Cell            | Computer     | 8     | Meetra    |      |
+| Scout Enforcer                  | Repair       | 11    |           |      |
+| Blaster Riffle                  | Repair       | 7     |           |      |
+| Moderate Devaronian Edge        | Stealth      | 12    | Kreia     |      |
+| Nagai Grip                      | Stealth      | 12    | Kreia     |      |
+| Biorestorative Underlay Mark II | Treat Injury | 9     | Kreia     |      |
 
 [< Previous Page](./05_Peragus.md) |
 [Back to the Index](../index.md) |

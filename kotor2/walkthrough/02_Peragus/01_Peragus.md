@@ -37,7 +37,7 @@
   - Care to explain why you're in such a hurry?
   - [Awareness] You seem nervous, worried. Is something wrong?
   - We'll see. There's got to be someone left alive around here.
-  - **[Persuade] The patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?**
+  - **[Persuade] The patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?** `!c_sc_per_lt(5)`
   - They didn't. I got the same dose, but survived.
   - You seem to know a lot about Jedi techniques.
   - And maybe when I return you'll actually answer my question.
@@ -98,7 +98,7 @@
   - I had some more questions for you.
   - Stop playing dumb - you must have seen what took place.
   - **[Persuade] Tell me your plan, and we can go from there.**
-  - **[Persuade] One thing first... the patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?** (c_sc_per_lt)
+  - **[Persuade] One thing first... the patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?** (`!c_sc_per_lt(5)`)
   - Wanted to know if you knew anything - and you don't.
   - **I trust you. And if we work together, we may be able to get out of this mess.** (a_givelight)
   - Alright let's go.

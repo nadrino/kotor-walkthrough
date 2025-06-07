@@ -14,7 +14,7 @@
 ![496B29F6-B6DA-4735-8C2F-CFF2BCDDEBB8_1_105_c.jpeg](img/06_Telos/496B29F6-B6DA-4735-8C2F-CFF2BCDDEBB8_1_105_c.jpeg)
 
 - Kill (201ithd2.dlg)
-  - **[Awareness] It looks as though the blaster has been heavily modified.**
+  - **[Awareness] It looks as though the blaster has been heavily modified.** `c_sc_awa_gt(5)`
   - Yes, I'll get the droid back to the Ithorians right away.
 - Loot
   - Pack de force (e_imp1_04)

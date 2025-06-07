@@ -102,6 +102,293 @@
 - Level 13 Bao 66000 -> 78000 XP for free!
 
 
+MERC
+- Dopak
+  - You don't think I'd make a capable mercenary?
+  - Can you tell me about the mercenaries?
+    - Who's your leader?
+    - Why haven't you been able to line up a job?
+    - So what do you do when you're between jobs?
+    - Can we talk about something else?
+  - What do you think about Dantooine?
+    - Why choose Dantooine as your base?
+    - What are you planning to do?
+    - What about the settlers?
+    - What do you think about the Administrator?
+    - Can we talk about something else?
+  - I heard you've been making trouble for the settlers.
+    - Their skills may not lie solely in warfare. This isn't a failing.
+    - They're also pathetic. I think you have the right idea.
+    - I'll be going now.
+- Esok
+  - What are a bunch of Mandalorians doing on Dantooine?
+  - ... // if Dxun -> Mandalore
+- Nallek
+  - I have no problem with you.
+  - I heard the Administrator runs this planet.
+  - [Persuade] I'm not here to cause trouble. I'm a warrior like yourself. `c_sc_per_gt(10)`
+  - Which side were you in the war?
+  - Why did you want to fight me?
+  - What are you mercenaries up to?
+  - [Force Persuade] You want to answer my question. `c_mind_trick()` <- needed
+  - **Any idea who you are working for?**
+
+
+- Daraala
+  - I'm not a salvager.
+  - Why don't you think I will find anything?
+  - Surely there's something left.
+  - Why won't anyone help me?
+  - I don't need your permission to go to the ruins.
+  - I already have that.
+  - I'm going to the ruins. I've come a long way.
+  - [Awareness] That seems unusually generous of you. `c_sc_awa_gt(10)`
+  - What do you do around here?
+  - Who do you sell it to?
+  - Can I see what Jedi artifacts you have for sale?
+- MUTAKI ROBE!
+- guy
+  - Credits and curiosity? Are you selling something?
+  - **Fabled and powerful? Isn't that an exaggeration?**
+  - Can I inspect the holocron? Maybe it's broken.
+  - That *is* a remarkable fake, but it's not even worth the time you've wasted describing it.
+  - That's all you can say?
+  - I thought this was a "delightful camp".
+  - So you didn't make this?
+  - Wife and children?
+  - Do I look that gullible?
+  - Do you know anything about a thief?
+  - Can you tell me about the planet?
+    - What are the settlers like?
+    - What are mercenaries doing on Dantooine?
+    - What can you tell me about the salvagers?
+- Kreia
+  - So the Jedi still live?
+  - Where is he? I might be able to save him.
+  - What can you tell me about laigreks?
+
+
+- Kaevee
+  - What are you doing down here?
+  - Who are you?
+  - [Awareness] I sense you have a connection to the Force.
+  - Why be a Jedi? They're a lost cause.
+  - You can forge your own path. Free of rules.
+- All the parts for a light saber! Wait for workbench
+- Jorran
+  - Could you open the door?
+  - Are you Jorran?
+  - There are still some laigreks around.
+- Kill the closest laigrek
+- Jorran
+  - TO BE ADDED: Do you know anything about a thief?
+  - The laigreks in this area are dead.
+    - Before you go - what were you doing down here?
+    - Why were you down here if it's so dangerous?
+      - Almost nobody...? Who's the almost?
+      - How did they die?
+      - How can dead people cause problems?
+      - Daraala had me looking for their bodies. To lay them to rest.
+      - Her deceit won't gain her anything.
+      - I want to talk about something else.
+    - Did you find anything down here?
+      - I know you found something. Taepalae told me.
+      - Any chance you could give me what you found as a reward?
+      - Could I buy them off of you?
+      - Can I see what it is first?
+      - I'm afraid I don't have that kind of money. -> 1000c later instead of 1300c
+- Droid room -> repair all with Bao -> kill the laigrek!
+  - Leave some space between droids -> will explode
+
+- Historian
+  - I wasn't expecting to find anyone else here... alive.
+  - What are you doing here?
+    - [Awareness] That's not the only reason. `c_sc_awa_gt(11)`
+    - Left?
+    - What others?
+    - You mentioned holocrons? `Atris took them...`
+    - Why is that?
+  - Do you know what happened to the Jedi?
+    - Why do you think people hate the Jedi?
+    - But Jedi have protected the galaxy for centuries - they seek peace, often through sacrifice.
+    - Do you hate the Jedi?
+    - What do you mean?
+    - I was one of those Jedi. I must accept part of that responsibility.
+    - Revan and Malak would have received the same training as I did.
+    - Go on.
+    - **Do you know who trained Revan?** `Kae -> Kreia!`
+    - I want to talk about something else.
+  - Why do you work for the Republic?
+    - Why Telos and Onderon?
+    - And Onderon?
+    - **Why is Dantooine important?**
+      - alt: Why are the Jedi Order important?
+  - Tell me about the Republic.
+    - What happened?
+    - What do you mean?
+  - You look familiar to me. `they met before..!`
+  - I'll be going now.
+  - The Sith are awake in the galaxy, and I'm going to need their help to stop them.
+  - Trust me, the Sith are out there. They've been hounding me since Peragus.
+  - We would welcome your company.
+- Loot mercenaries -> ordered to find Vrook
+- Will->
+  - Don't change the will
+- Before leaving
+  - I don't suppose you'd like to negotiate a peaceful resolution to this situation?
+
+Back to the camp
+- Jorran
+  - How much do you want for the Jedi artifacts? -> now it's only 1000c!
+  - Can I see them?
+  - I'm afraid I don't have that kind of money. -> not buying. Just a crystal that is interesting
+
+
+
+LATER
+- Ahrnell
+  - My apologies.
+  - I'm just exploring. What are you doing?
+  - [Awareness] You are different from most of the mercenaries I've met. `c_sc_awa_gt(11)`
+  - You mentioned crystals?
+  - [Awareness] The energy you speak of is the Force. I sense some small Force potential within you.
+  - I am a Jedi.
+  - What do you know about the other mercenaries
+  - Why do they keep you out of the loop?
+  - Why do you get special privileges?
+  - [Persuade] I am an explorer, like you. You can share your secret with me. `c_sc_per_gt(11)`
+  - Do you have an extra scent gland I could use?
+  - [Persuade] I want to hold your gland.
+  - Okay, you can have it back.
+- Right to crystals
+- Kreia
+  - You said the crystals absorb the Force? I feel strange, but not weaker.
+  - Tell me more about these crystals.
+  - I don't like the idea of leaving behind evidence.
+  - Okay.
+- Crystal
+  - I don't need this. Do you want it?
+  - Bah, I've gained a pet crystal. I hope I don't have to feed it.
+  - What makes this crystal so special?
+  - Is the bond... dangerous?
+  - Does the crystal feed off of the Light Side of the Force?
+  - Okay.
+- Mercenaries
+  - So the mercenaries are branching out into kidnapping now?
+  - Can I ask you a question?
+  - Can we work out some sort of deal?
+  - Defend yourselves
+- Vrook
+  - Always a pleasure, Vrook. I see you still have your cheery disposition.
+  - Is this the same "careful timing" you were counting on in the Mandalorian Wars?
+  - Revan and Malak were misguided, but without them we'd all be speaking Mandalorian.
+- Back
+- Sensors
+  - What's the problem? We found the sensors. Now we can take them to Saedhe and get paid.
+  - [Awareness] Can you examine one of the sensors? `c_sc_awa_gt(4)`
+  - Good work Bao-Dur. `a_influence_inc(1)`
+- Akul ambush (DS -> possibility for infl+ on Kreia or HK but not yet)
+  - What do you want with me?
+  - What's in it for me?
+  - What do you have in mind?
+  - So, you want me to destroy the gun turrets?
+  - What about the traps?
+  - [Lie] Okay, I'll help you.
+  - I'm not interested.
+- Saedhe
+  - Actually, I've found three of them.
+  - Not so fast - we found a little surprise inside them.
+  - Why is there surveillance equipment in the sensors?
+  - 5000 credits sounds good to me.
+
+
+- Ebon?
+  - Disciple
+    - _{Gameplay Programmer: This cut scene takes place on the Ebon Hawk, the Disciple is studying a series of holographic worlds in the center of the ship.}_
+    - _{Gameplay Programmer: The player walks up to the Disciple, studies the worlds with him.}_
+    - What are you studying?
+    - It is difficult to turn away from the suffering of others - that is why one must help when they can.
+    - [Awareness] There's something about the worlds themselves, isn't there? `c_sc_awa_gt(12)`
+    - Are you sure you have no idea?
+    - I would let it rest - thinking too hard about it will not make the answers come any easier.
+  - Bao
+    - I wanted to teach you some of the techniques I've learned in my travels. `a_bao_teach(176)`
+  - Kreia -> master class
+    - It was Visas' Master - he can feel my presence in the Force.
+    - Jedi Watchmen should return to the galaxy, and I will be the first to restore them.
+      - _From here on, you guide your destiny. But in order to take the next steps, **you must face your past and put it to rest**._
+      - `she suggests you to go to Korriban`
+  - Disciple
+    - Well, I hope our enemies think so.
+    - I thank you for your kind words, but they are not necessary. `a_givelight(1)`
+    - I had other questions.
+    - What do you do again?
+    - What are you doing for the Republic?
+    - Why did they choose you?
+    - Do you know what happened to the Jedi?
+    - The Jedi never knew the common people - especially when the common people were dying at the hands of Mandalorians.
+    - **But Jedi have protected the galaxy for centuries - they seek peace, often through sacrifice.** `a_givelight(1);a_global_set("000_Disc_Jedi_React", 1)`
+    - Do you hate the Jedi?
+    - Nothing, never mind.
+      - And why do you want to discuss it?
+      - I left to protect the innocents on the Outer Rim. `a_givelight(1)`
+      - That was my belief, but recent discoveries seem to indicate there may have been other causes.
+      - T3-M4 has a copy of it.
+      - I trust you - go ahead. `a_influence_inc(11, 1)`
+    - INTERESTING: if T3 in the group, he should ask directly
+  - HK
+  - Kreia - complaining about the number of people gathered
+    - As many as want to come with us and help us.
+    - What makes you think they obey me?
+    - Does the fact they obey me upset you?
+    - **I've noticed their behavior is changing - Atton, especially.** `!c_influence_bet(6, 40, 60)`
+    - **And what about you?**
+    - They are my friends, not tools.
+    - What do you mean? `!c_influence_bet(6, 35, 65)`
+    - He was a powerful presence - there was little one did not believe when he spoke it with conviction.
+    - I thought teachings of the Sith came from Korriban.
+    - Never mind. I'll be going now.
+  - Kreia questions
+    - Can you tell me about the <FullName> Crystal?
+    - `CANCELED -> same above` I had questions about how Revan amassed such a huge force against the Republic. `!c_influence_bet(6, 35, 65)` 
+    - Did you know Revan?
+      - Where did Revan come from?
+      - What else do you know of Revan?
+      - What caused Revan to fall, to turn on the Republic?
+      - Then what made him turn to the Dark Side, become a Sith Lord?
+      - **You trained him?** `!c_influence_bet(6, 10, 90)` `a_global_set("000_Kreia_Revan_XP", 1);a_influence_inc(6, 3)`
+      - What was Revan like as a student?
+      - What do you see when you look at me?
+      - Never mind. I'll be going now.
+  - Kreia -> ask force -> talk about Atton
+  - Atton -> playing paazak etc
+    - [Repair] There are no ticks in the power coupling - it's fixed. `c_sc_rep_gt(3)`
+    - I don't want to play pazaak.
+    - This better not be using Nar Shaddaa rules.
+    - If it's a friendly game, sure.
+  - Play pazaak
+    - I was trying to compute the totals to twenty.
+    - **Atton, before, I felt your mind. With Kreia's help. I'm sorry.** `a_influence_inc(1);a_global_set("000_Atton_Pazaak", 90)`
+    - What do you have to hide?
+    - Is that something you can train me to do?
+    - No - I want to learn to shield my mind.
+    - Then I want to learn to play pazaak.
+    - [Atton has taught you to play pazaak in your head as a way of resisting mental domination. You have gained a permanent +1 to your Willpower saves.]
+  - Kreia
+    - Skill
+    - Very well. I shall take this lesson to heart.
+- Adare
+  - Who knows about the attack?
+  - What can I do to help?
+  - Can you give me anything to help?
+  - I'll check out Khoonda's defenses then.
+- Speak to Vrook
+- Speak to Zehron
+  - How much time do I have?
+  - What kind of things need fixing?
+  - What's involved with finalizing the defenses?
+  - I'm going to see what I can do.
+
 
 
 - Old man -> Later with Kreia and Atton?

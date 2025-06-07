@@ -62,7 +62,7 @@ CHECKS
   - They're stronger than you think. At least one Sith Lord stands with them... and they fight differently than the Sith from the Jedi Civil War.
   - Are there other Jedi we can ask for help?
   - **If so, then I offer you my help. You'll need it.** `a_global_inc("262TEL_Atris_Response", 1)`
-  - [Persuade] The Sith have numbers on their side. You'll need all the allies you can get, Jedi or not.
+  - [Persuade] The Sith have numbers on their side. You'll need all the allies you can get, Jedi or not. `c_sc_per_gt(3)`
   - **Where can I find my companions?**
   - {Good}Fine - I'll be on my way.
   - `c_global_gt("262TEL_Atris_Response", 5)` -> `a_lighthigh()&&a_glob_bool_set("262TEL_Hand_Send", 1)`
@@ -206,9 +206,9 @@ Meaning +10 LSP? probably
     - Enough of this. I had other questions.
   - I heard you know something of the relics Atris has stored here.
     - Can you help me obtain some of these teachings?
-    - [Persuade] But surely they are not forbidden to Jedi such as myself.
+    - [Persuade] But surely they are not forbidden to Jedi such as myself. `always fails`
     - Where did these relics come from?
-    - **[Intelligence] You said "most" came from Dantooine. What about the others?**
+    - **[Intelligence] You said "most" came from Dantooine. What about the others?** `c_ac_int_gt(12)`
     - Have you ever seen these relics?
     - **Can you tell me about the ones you saw?**
     - Questions?

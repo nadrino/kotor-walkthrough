@@ -41,7 +41,7 @@
   - **Wait, you want me to steal the Ithorians' droid?**
   - You're asking me to commit a crime. I won't do that.
   - If you want me to do this, it'll cost you.
-  - [Persuade] You'll have to do better than that.
+  - [Persuade] You'll have to do better than that. `c_sc_per_gt(5)`
   - I'll have to think about it.
 
 > DS alternative: if possible?
