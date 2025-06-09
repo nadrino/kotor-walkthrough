@@ -58,7 +58,12 @@
   - Czerka?
   - You have given enough, Chodo. But I must leave now. `a_givelight(5)`
 
-Upgrades! 
+Upgrades!
+- Shield against biological creatures + energy
+- Buy
+  - Mutaki? -> 3600c -> equip Kreia in the meantime
+  - Sith Armor -> Atton / Bao
+  - Implants? -> too expansive + craft
 
 - Transit to dock module
 - T1-M1

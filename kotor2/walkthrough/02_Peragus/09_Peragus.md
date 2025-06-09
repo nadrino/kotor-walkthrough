@@ -7,6 +7,7 @@
 - Let Sith enter
 - SAVE before fighting
 - Kill all Sith 25 (meeting room, right dormitory, trunk, hyperdrive, )
+- Use T3 flamme thrower
 - Save before the last batch -> try to loot before the auto load
 - Kreia joins you (107_PER)
     - Kreia? Your hand - what happened?

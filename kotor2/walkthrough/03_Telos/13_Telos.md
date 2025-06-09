@@ -1,9 +1,11 @@
-# Telos - Crash landing on the surface of the planet
+# Telos - Polar Region
 
 [< Previous Page](./12_Telos.md) |
 [Back to the Index](../index.md) |
 [Next Page >](./14_Telos.md)
 
+
+Remanent polar irrigation system of Telos
 
 - HK-50 the welcome comitee
   - Any reason why you shot down my vessel?
@@ -15,7 +17,7 @@
 
 CHECKS
 - **Awareness >= 15 && Persuade >= 4**
-- Equip if necessary
+- Equip if necessary (should be fine)
 
 - Enter the base
 - Echani sisters take Bao
@@ -118,10 +120,11 @@ Meaning +10 LSP? probably
   - Those who cannot feel the Force?
   - **How do you know that? Were you reading their minds?** `just did it with Atton!!`
   - **Atris plans to heal the galaxy, then rebuild the Order.**
+  - Aren't the Handmaidens students?
   - Let's talk about it on the way out of here.
   - **Is Atton okay? He looks out cold.**
   - He can sleep on the ship. Let's go.
-- Bao-Dur
+- Bao-Dur +3 infl
   - **There is nothing to apologize for. Are you sure you're okay?** `a_givelight(1)&&a_influence_inc(1, 1)`
   - A Jedi academy - concealed on the northern pole of Telos.
   - **Are you well enough to travel?** `a_givelight(1)&&a_influence_inc(1, 1)`
@@ -147,19 +150,28 @@ Meaning +10 LSP? probably
       - Fine. If you're ready to fight, so am I.
   - FIGHT -> equip unarmed gautlets
   - Let me heal up, and I'll be ready to fight again.
+
+There are actually 4 rounds
+1. no armor, no force power, no weapon
+2. no armor, no force power
+3. no restrictions -> still remove your armor
+4. 2 opponents
+5. 5 opponents
+
 - Loot around
 - Reask
   - I wish to challenge you again
   - ...
   - Let me heal up, and I'll be ready to fight again.
-- Ask another servant
+- Ask another servant -> Atton & Kreia batner
   - I had some questions for you.
-    - I want to know about this place.
+    - I want to know about this place. -> ancient irrigation channel
       - But why is Atris here?
       - **How did Atris know Dantooine would be destroyed?**
       - Why were the relics brought here?
       - Artifacts?
-      - Any lightsabers in the collection?
+      - **What's Ossus?**
+      - Any lightsabers in the collection? `once`
       - **[Persuade] Atris has allowed me to walk freely here. Surely that implies trust.** `!c_sc_per_lt(7)`
       - **Last of the Handmaidens?**
       - Why is she ranked last?

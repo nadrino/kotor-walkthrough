@@ -8,14 +8,14 @@
 
 - Leave your appartment
 - Loot all appartments in the complex
-- Opo Chano -> don't asl
+- 2 Opo Chano -> don't asl
   - What does the Exchange want with you?
   - Never mind.
-- Civilian appear (203tel.mod/civilian.dlg)
+- 4 Civilian appear (203tel.mod/civilian.dlg)
     - Just looking around.
     - Sorry, I just figured...
     - When you put it that way...
-    - I'll be going now. [End Dialog]
+    - I'll be going now.
 - Harra
   - Who are you?
   - What do you do here?
@@ -25,9 +25,6 @@
   - Of course, you did make her a slave.
   - What is the price for her?
   - I'll see what I can do.
-- 4 - civilian
-  - Just looking around.
-  - And? You're going to stop me?
 - Terminal -> TP
 - Enter Czerka office (Czerka Offices 209tel.mod)
 - B-4D4

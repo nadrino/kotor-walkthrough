@@ -70,14 +70,15 @@
   - You're free now, Ramana, you can go with Harra. `a_lightsml()`
   - Then you can do whatever you wish.
 
-Level up Kreia & Atton lvl 9
+Level up Kreia & Atton lvl 9 -> later since we didn't do the full T3 repair 
 
 - Back to the 082
   - Dobo store SAVE BEFORE ANY CONVERSATION -> maybe start with Shamham -> for cheaper things to buy first
     - Determine Dendis inventory. (LS - will give you a price) Aim for:
-      - (Robe) Jal Shey Neophyte Armor (very good and pretty cheap) or Jal Shey Advisor Armor but 1300
+      - (Robe) Mutaki
       - (Medium) Sith Battle Suit for Atton
     - Determine Shamham (more important for DS)
+      - (Robe) Jal Shey Neophyte Armor (very good and pretty cheap) or Jal Shey Advisor Armor but 1300
       - Unarmed Accuracy Gloves -> for later on telos 1100c
       - Exchange Work Gloves -> 650c
       - Matukai Apprentice Robe for Kreia VERYYYY EXPENSIVE! 4000c

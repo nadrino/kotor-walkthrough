@@ -21,6 +21,8 @@
   - Why do I need permission to enter the Enclave?
   - Who is Administrator Adare?
   - I'll be going now.
+- Level up Bao and T3??
+- Bao as a melee knight
 - Droid "Greetings and good day, traveler. On behalf of the Khoonda settlement I am programmed to welcome you to Dantooine."  + `BaoDur` baneter
   - That's very observant of you, T3! `a_influence_inc(8, 1)`
   - Droid, what happened to damage you?
@@ -60,15 +62,30 @@
   - Why are you anxious to leave Dantooine?
   - I'm not interested right now. Maybe later.
 - Loot around
+
+```
+Jal Shey Perception Gloves
+```
+
+- Old man -> don't ask why so busy yet -> useful later when recruting + infl
+  - I am not a salvager.
+  - I've come to see the Enclave.
+    - What do you know about the Enclave?
+    - I want to talk about something else.
+  - Tell me about the salvagers.
+    - I want to talk about something else.
+  - What are the mercenaries doing here?
+    - There's a Jedi here?
+    - Who are "they"?
 - Akkere
   - **Every trader says they're honest. Especially the dishonest ones.**
   - What do you sell?
   - Yes, T3. I'm sure he has upgrades you can use.
   - Why are you here?
-  - Who is Zherron?
+    - Who is Zherron?
   - What can you tell me about Dantooine?
-  - Have the mercenaries hurt anyone?
-  - Why are the salvagers trouble?
+    - Have the mercenaries hurt anyone?
+    - Why are the salvagers trouble?
   - I'll be going now. -> see inventory later
 - Guard
   - try to open the door
@@ -103,7 +120,7 @@ Khoonda - SAVE
   - **If you want my help, you'll have to cough up more than a couple of dusty old war trophies.**
   - I'll see what I can do.
 - Turn right
-- Mordrul
+- Berum Modrul
   - Gerevick?
     - Who is Gerevick?
     - I've had no problems the militia needs to worry about.
@@ -117,7 +134,7 @@ Khoonda - SAVE
     - Do you know if the rumor is true?
     - If no one says anything on their behalf, the rumor can feed on itself.
     - [Persuade] If good men say nothing then the Dark Side triumphs. -> nothing more to say
-    - I'd like to talk about something else.
+    - I've got a few questions about the other people here in the settlement.
   - I wondered if you knew anything about Suulru's problem.
 - Got back to the Admin room
 - Adum
@@ -127,7 +144,7 @@ Khoonda - SAVE
   - What do you know about the mercenaries?
   - Why are there so many kinrath and kath hounds around?
   - Nice banter - you try the same line on everyone?
-- Zherron
+- Zherron + ASK ABOUT MORDRUL!
   - I've had a spot of trouble, yes.
   - Just exploring and getting to know people.
     - What sort of work do you have? **CHECK THIS -> INFINITE XP BUG IF NOT ASKING**
@@ -143,6 +160,10 @@ Khoonda - SAVE
     - What do you know about the Administrator?
     - Could you tell me about Khoonda?
     - How do you feel about the mercenaries?
+    - I'd like to ask somehting else
+  - Berun asked me to investigate you.
+    - He's concerned that you might provoke the mercenaries.
+    - [Persuade] I think he's wrong, and I think I can help you. `c_sc_per_gt(10)`
 - Admin
   - It's a pleasure to meet you. I'm <FirstName>.
     - **Why do you want to know?**
@@ -169,19 +190,108 @@ Khoonda - SAVE
 - Will not talk to you
 - Leave
 - Loot behind building
-- Kill just enough kinrath to level up Bao (2 in my case)
+- Go east -> kill kinrath
 - Old man
-  - What are you doing out here?
-  - **Do you suspect foul play?**
-  - Why do you really want those sensors?
-  - I'll see what I can do.
+  - Kinrath?
+    - Why have things gotten so bad?
+    - What do you need from the Republic?
+  - What do you need from the Republic?
+    - **Do you suspect foul play?**
+    - Why do you really want those sensors?
+    - Any idea where they could be?
+    - I'll see what I can do.
+- North - SAVE
 
 ![CCFA6D6E-5ABB-4CAC-8FC7-1770A2C205F1.jpeg](img/CCFA6D6E-5ABB-4CAC-8FC7-1770A2C205F1.jpeg)
 
+MERC
+- Dopak
+  - You don't think I'd make a capable mercenary?
+  - Do you know anything about a thief? `<tbt`
+  - Can you tell me about the mercenaries?
+    - Who's your leader?
+    - Why haven't you been able to line up a job?
+    - So what do you do when you're between jobs?
+    - Can we talk about something else?
+  - What do you think about Dantooine?
+    - Why choose Dantooine as your base?
+    - What are you planning to do?
+    - What about the settlers?
+    - What do you think about the Administrator?
+    - Can we talk about something else?
+  - I heard you've been making trouble for the settlers.
+    - They're also pathetic. I think you have the right idea.
+    - I'll be going now.
+- Esok
+  - What are a bunch of Mandalorians doing on Dantooine?
+  - ... // if Dxun -> Mandalore
+- Nallek
+  - I have no problem with you.
+  - I heard the Administrator runs this planet.
+  - [Persuade] I'm not here to cause trouble. I'm a warrior like yourself. `c_sc_per_gt(10)`
+  - Which side were you in the war?
+  - Why did you want to fight me?
+  - What are you mercenaries up to?
+  - [Force Persuade] You want to answer my question. `c_mind_trick()` <- needed
+  - **Any idea who you are working for?**
+- he leaves
+- Dopak
+  - I have a message for you. From Zherron.
+  - The message is just for you.
+  - Do you know what this about? Zherron wouldn't tell me.
+  - He says, "Go ahead."
+- Kill the wild animals -> tough!
+
+- Daraala `140% too expensive...` https://strategywiki.org/wiki/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords/Items
+  - .. technically i am
+  - Why don't you think I will find anything?
+  - Surely there's something left.
+  - Why won't anyone help me?
+  - I don't need your permission to go to the ruins.
+  - I already have that.
+  - I'm going to the ruins. I've come a long way.
+  - [Awareness] That seems unusually generous of you. `c_sc_awa_gt(10)`
+  - What do you do around here?
+  - Who do you sell it to?
+- Ask later for her inventory
+- Ralon `Kreia banter but not very useful`
+  - Credits and curiosity? Are you selling something?
+  - **Fabled and powerful? Isn't that an exaggeration?**
+  - Can I inspect the holocron? Maybe it's broken.
+  - That *is* a remarkable fake, but it's not even worth the time you've wasted describing it.
+  - That's all you can say?
+  - I thought this was a "delightful camp".
+  - So you didn't make this?
+  - Wife and children?
+  - Do I look that gullible?
+  - Do you know anything about a thief? `-> ask Darala -> after turning back`
+  - Can you tell me about the planet?
+    - What are the settlers like?
+    - What are mercenaries doing on Dantooine?
+    - What can you tell me about the salvagers?
+- Kreia
+  - So the Jedi still live? `does make sense..?`
+- Kill HK-50
+- Kill animals
+- Taepalae
+  - What's the problem?
+  - Where is he? I might be able to save him.
+  - What can you tell me about laigreks?
+- Come back to prepare for the enclave
+- Talk again with Taepalae -> no sound on voice
+- Darala from behind `> this conversation should be held before. So reask (TSLRCM). She mention Ralon and tel her opinion`
+  - Have you heard anything about a thief around here? `missing lips?`
+  - Who do you think the thief is?
+  - Why haven't you tried to tell Suulru?
+  - The thief comes from the ruins?
+  - I'm going to the ruins. I've come a long way.
+- Back
+- Kill animal
+- SHould be close to lvl 14
 - To the ship. Don't enter
 - Remove party -> to play pazaak!
-- Pato Ado
-  - Ask for 750c play until he's broke (tested 4x!)
+- Pato Ado - Pazaak addict!
+  - Ask for 750c play until he's broke (tested 4x! 3000c) -> if doesn't ask start a free game and cancel
   - the armor
 - Back to the ship SAVE
 

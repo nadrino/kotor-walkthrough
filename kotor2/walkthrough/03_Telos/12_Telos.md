@@ -11,15 +11,18 @@ Excavation site
   - Mercenaries? How about I pay you 500 credits and you stay out of my way?
   - Who are you?
   - But why? What's down here?
-- Kreia lvl 11
+- Kreia lvl 11 & Bao
 - Kill near the entrance first
 - Remove mines
+- Try to enter -> Bao wants to check the console first
 - Bao access the console
+  - The TSF said the Ebon Hawk wasn't at any sanctioned landing site. What makes you think you can find it?
   - What is it?
   - How are we going to get to the polar region?
   - So we don't know that the shuttle will still be there, or working?
   - What are we waiting for, then?
   - Let's go.
+- Replace Kreia by Atton in the group (Kreia will interfere later)
 
 SAVE
 
@@ -44,15 +47,17 @@ Facility
   - **Follow me out.** -> CAREFUL -3 infl on Kreia
     - Go toward the entrance with him following
     - He leaves `a_givelight(2)`
-    - ALT -> REMOVE KREIA FROM THE GROUP
-    - Kreia is angry! `a_global_set("000_R_Good_Kreia", 1)`
-      - What do you mean?
-      - **You're overreacting - it was a small kindness only.**
-      - Is it wrong to help others in need?
-      - If it meant your life, there is nothing I would not do... for you, or any of my allies. `a_influence_inc(1, 1)` BAO
-      - Perhaps you are right. I will consider this. `a_influence_dec(6, 3)`
-    - Otherwise Bao +4 infl!
-      - It was a minor thing, nothing more. `a_influence_inc(1, 1)` + `a_influence_inc(1, 3)
+    - Atton
+      - Anyone in need deserves our help, if we are capable of it. `a_influence_inc(0, 1) && a_influence_inc(0, 3)`
+    - ALT: **Remove Atton -> not very smooth**
+      - Bao +4 infl! -> **check if we can still have infl enough for him to become jedi**
+        - It was a minor thing, nothing more. `a_influence_inc(1, 1)` + `a_influence_inc(1, 3)`
+      - Kreia is angry! `a_global_set("000_R_Good_Kreia", 1)`
+        - What do you mean?
+        - **You're overreacting - it was a small kindness only.**
+        - Is it wrong to help others in need?
+        - If it meant your life, there is nothing I would not do... for you, or any of my allies. `a_influence_inc(1, 1)` BAO
+        - Perhaps you are right. I will consider this. `a_influence_dec(6, 3)`
     - Back
 - 1 droid in the coridor
 - 2 droid next room
@@ -72,8 +77,11 @@ Facility
 - Kill big droid near the ship
 - Loot
 - Unlock the hangar door
-- Now go improve things
-- Unequip Bao-Dur for later
+
+
+
+- **Now go improve things**
+- Unequip Bao-Dur for later?
 - Let's have a chat
   - What are you talking about?
     - I was inspired by your arm.
@@ -83,6 +91,10 @@ Facility
   - How'd you lose your arm, anyway?
     - **I was being serious.**
   - Never mind.
+- Talk with him -> DS/Male later -> `c_ismale()&&c_global_gt("000_Women_Trouble")`
+  - **What do you mean?**
+  - I feel as if I'm more in touch with the Force than I ever have been. -> `the other have noticed it too!` -> Bao previously
+  - Nevermind
 - Kreia
   - I want you to teach me more about the Force.
     - This bond we share. I would know more about it.
@@ -107,10 +119,6 @@ Facility
   - Never mind. I'll be going now.
 - Replace Kreia with Atton
 - Level him up
-- Talk with him -> DS/Male later -> `c_ismale()&&c_global_gt("000_Women_Trouble")`
-  - **What do you mean?**
-  - I feel as if I'm more in touch with the Force than I ever have been. -> `the other have noticed it too!` -> Bao previously
-  - Nevermind
 - Bao
   - **Really, you don't have to call me "General."**
   - I was just wondering what you've been doing since the war ended. `a_local_set(34)`
@@ -118,15 +126,6 @@ Facility
   - Only too well.
   - **I think taking on Czerka single-handedly might be a little out of your league.**
   - Never mind.
-- Reask
-  - **Oh, now you want to talk about it?**
-  - **Obviously it is.**
-  - What is it?
-  - **The Jedi served no one with inaction.**
-  - **So you wanted revenge?**
-  - **I detached myself from the frenzy of battle. It was impersonal.**
-  - Never mind.
-- Get ready for the shuttle
 
 - **Awareness >= 15 && Persuade >= 4**
 
@@ -134,6 +133,13 @@ Facility
 
 - HK-50 looking for you
 - Turning on the reactor will make them come everywhere
+
+
+Interesting loots
+```
+Interface Band - +2 comp, sec, demo
+CNS strengh enhancer
+```
 
 
 

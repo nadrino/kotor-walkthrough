@@ -45,7 +45,7 @@
       - Twenty-five credits it is, then.
       - Batu Rem.
       - I'll be going now.
-- Go back to see Green -> Batu
+- Go back to see Green -> Batu -> random loot? -> may be not -> Sound Dampering Layer Mk2 -> yes always
   - I'd like to talk to you about the bounties.
     - I found some information about Batu Rem.
     - **The real Batu Rem.** (joke)

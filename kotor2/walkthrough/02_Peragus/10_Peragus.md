@@ -73,6 +73,9 @@
         - **Both the blade and crystal were unique.**
         - **It was a viridian blade, one the Jedi Order had never seen before.**
         - I think having it would just drive them to hunt me harder.
+- Open HK door
+  - [Repair] Diagnose the droid.
+  - [Repair] Take the vocabulator and insert it in the core. `execScript=a_destroy("hkpart04")`
 - T3-M4 -> IF UNREACHABLE DISCUSSION WAS PATCHED (c_chkastrogation(1))
   - **T3, what's wrong with the astrogation system?** -> Failed -> `inf > 75 or inf < 25`
     - I know it's damaged.
@@ -94,6 +97,13 @@
     - That should do it. You doing all right? `Constitution++`
     - Glazed look? What are you talking about?
     - I had other questions for you.
+  - Do you know where that HK droid in the cargo bay came from? (!c_influence_bet(8,25,75)) -> FAILED
+    - That didn't sound very convincing. Are you sure you don't know?
+    - I had other questions for you.
+  - I need a programming spike. `a_item_gen()`
+    - Can you make any more? `x4`
+    - I'll put this to good use. For now, there was something else I needed.
+- DO NEXT LATER:
   - **[Computer] Mind if I try to upgrade your memory core again?** `!c_influence_bet(8, 30, 70)`
     - [Computer] All right. Let me take a look. `!c_sc_com_lt(15)`
     - That should up your processor speed. `Intelligence++`
@@ -107,9 +117,6 @@
 
 Next upgrade need `computer >= 21` or `repair >= 21`
 
-- Open HK door
-  - [Repair] Diagnose the droid.
-  - [Repair] Take the vocabulator and insert it in the core. `execScript=a_destroy("hkpart04")`
 
 - Kreia (starts by claiming you should keep an eye on Atton -> don't reply)
   - I had other questions for you.
@@ -138,7 +145,7 @@ Next upgrade need `computer >= 21` or `repair >= 21`
     - But the Force... I can feel it again, if only slightly. -> lie -> "Link" -> propose to be her padawan
     - But there are no more Jedi.
     - **I would welcome whatever aid you offer.** (`a_givelight(1)` + `a_influence_inc(6, 1)`)
-    - I had other questions for you.
+    - There were other questions I wished to ask you.
   - I need to know more about the Sith hunting us.
     - There was another Jedi Civil War?
     - Are they following Malak's path?
@@ -147,14 +154,6 @@ Next upgrade need `computer >= 21` or `repair >= 21`
   - Will do...
 
 You explored all the possibilities with Kreia!
-
-- See T3
-  - Do you know where that HK droid in the cargo bay came from? (!c_influence_bet(8,25,75)) -> FAILED
-    - That didn't sound very convincing. Are you sure you don't know?
-    - I had other questions for you.
-  - I need a programming spike. `a_item_gen()`
-    - Can you make any more? `x4`
-    - I'll put this to good use. For now, there was something else I needed.
 
 - SECRET CACHE?? -> should only be available after 
 - Head to Telos

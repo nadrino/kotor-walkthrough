@@ -25,6 +25,7 @@ Brian takes the Ebon Hawk
     - You're wrong. I'm no Jedi.
     - We're in a TSF station. How do you expect to get away with this?
     - Let's get this over with.
+- Energy shield! -> can't!! No stuff :D (SAVE for items spwans)
 - Grenn comes
     - **Impressive. You allowed an assassin to infiltrate your ranks.**
     - How did he manage to sneak in here?
@@ -86,7 +87,7 @@ Brian takes the Ebon Hawk
 - Talk to Atton
     - What do you mean?
     - I'm fine. In fact, I haven't felt this good in a long time.
-    - Nothing, never mind. [End Dialog]
+    - Nothing, never mind.
 - You're free!
 
 [< Previous Page](../02_Peragus/10_Peragus.md) |
