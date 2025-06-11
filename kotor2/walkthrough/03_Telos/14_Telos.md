@@ -132,18 +132,6 @@ Lightsaber!
 ![B2186D54-1012-4689-A7E9-783AF7FA531B.jpeg](img/B2186D54-1012-4689-A7E9-783AF7FA531B.jpeg)
 
 
-- TODO: LATER
-  - What's wrong with your eyes? -> LATER -> Need Visas `c_npc_avail(9)`
-    - There might be a way to heal your sight.
-    - But how do you get around?
-    - What?
-    - All right. `a_influence_inc(6, 2)`
-    - [Computer Use] Hey, T3 has a stuck motivator. `c_sc_com_gt(0)`
-    - [Repair] Hey, I can hear a catch in it. It's not fully fixed. `c_sc_rep_gt(0)`
-    - [Awareness] I heard her thoughts. `c_sc_awa_gt(10)`
-    - Was I always able to do that?
-    - [You have gained +1 Awareness and recovered some of your connection to the Force.] `a_addforcepoints(6)&&a_adjust_skill(3, 1)`
-
 [< Previous Page](./13_Telos.md) |
 [Back to the Index](../index.md) |
 [Next Page >](../04_Dantooine/01_Dantooine.md)
