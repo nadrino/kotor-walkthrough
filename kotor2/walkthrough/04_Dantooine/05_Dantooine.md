@@ -1,4 +1,4 @@
-# Dantooine - Lightsaber
+# Dantooine - Building your lightsaber
 
 [< Previous Page](./04_Dantooine.md) |
 [Back to the Index](../index.md) |
@@ -30,7 +30,10 @@
     - Do I have all the lightsaber parts I'll need?
       - One-handed lightsaber.
       - Violet (or whatever found in the cave)
-  - Improve LS with what you have -> Don't equip yet, we need to talk to the old man without a ls
+  - Improve LS with what you have
+  - Visas
+     - I wanted to teach you some of the techniques I have learned in my travels.
+       - Affect Minds
   - Kreia - complaining about the number of people gathered
     - As many as want to come with us and help us.
       - What makes you think they obey me?
@@ -43,7 +46,6 @@
       - I thought teachings of the Sith came from Korriban.
       - Do you have any ideas?
       - I had other questions.
-    - Can you tell me about the <FullName> Crystal?
     - `CANCELED -> same above` I had questions about how Revan amassed such a huge force against the Republic. `!c_influence_bet(6, 35, 65)` 
     - Did you know Revan? `> +3 infl !`
       - Where did Revan come from?
@@ -53,11 +55,10 @@
       - **You trained him?** `!c_influence_bet(6, 10, 90)` `a_global_set("000_Kreia_Revan_XP", 1);a_influence_inc(6, 3)`
       - What was Revan like as a student?
       - What do you see when you look at me?
-      - What do you know more of Revan?
+      - I had other questions.
+    - Can you tell me about the <FullName> Crystal?
     - Never mind. I'll be going now.
- - Visas
-    - I wanted to teach you some of the techniques I have learned in my travels.
-      - Affect Minds
+  - +1500XP
 ```
  INFO:       >> strref=None, isActive=c_pc_spell(270)&&c_visas_spell(270), nextList=[[0]: 241 if c_pc_spell(270)+c_visas_spell(270), [1]: 254 if c_pc_spell(182)+c_visas_spell(182), [2]: 255 if c_pc_spell(6)+c_visas_spell(6), [3]: 256 if c_pc_spell(14)+c_visas_spell(14), [4]: 253]
 ----------------------------
@@ -66,8 +67,7 @@
  WARN:       >> strref=None, execScript=a_visas_teach(6), nextList=[[0]: 245]
  WARN:       >> strref=None, execScript=a_visas_teach(14), nextList=[[0]: 246]
 ```
-- Leave the Ebon
-- Kreia and Atton for `infl+`
+- Leave the Ebon with T3 and Bao
 
 
 [< Previous Page](./04_Dantooine.md) |

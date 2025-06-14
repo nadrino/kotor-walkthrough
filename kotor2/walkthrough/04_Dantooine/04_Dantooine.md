@@ -101,7 +101,7 @@
   - What's wrong with the doors?
   - Tell me about the turrets.
   - I'll be going now.
-- Level up Disciple
+- **Take the Disciple and level him up**
 - Get in the ebon hawk
 
 
