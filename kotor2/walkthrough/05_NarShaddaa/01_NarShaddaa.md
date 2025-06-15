@@ -16,24 +16,24 @@
 
 `TO FIX: texture of Hanhar`
 
-- Introduction of people who will try to kill you!
+- Introduction of people who will try to get you!
 - Arrival on Nar Shaddaa
   - Is this the Refugee Sector?
   - Any problems with the docking authorities?
   - Are we going to be okay on this landing pad?
-  - // The Ebon Hawk looks a little exposed. `DONT, prevent some banters`
+  - // The Ebon Hawk looks a little exposed. `DONT, prevent some banters < yes`
   - **Then let's move on.**
+    - I'm just looking for a place to lay low.
     - I wouldn't mind getting some new equipment.
     - I want to find out more about this bounty on Jedi. `Visas + Disciple want to help for the Bounty`
     - If Zez-Kai Ell is here, I want to find him.
-    - I'm just looking for a place to lay low.
     - Let's see where our path takes us.
   - It's a landing pad - ships land on it.
   - What other ship?
   - Junk? You're lucky my ship's gracing your trash heap.
 
-TEST
-- Take Atton & Bao? Bao will have some banters
+- Take Atton & HK? T3/Bao will have some banters later
+- 2 thugs are mugging a refugee
   - What's going on here?
   - Exchange business? That's why I'm here.
   - I've come here to meet with the Exchange. The two of us have business.
@@ -41,7 +41,7 @@ TEST
   - Why does the Exchange care what happens to this man?
   - I won't let you hurt that man. Stand away from him. `a_lightsml()`
 - Kill the thugs
-- Talk to the man `Wrong head with voice...`
+- Talk to the Refugee `Wrong head with voice...`
   - I couldn't stand by and let them hurt you. Why were they hunting you?
   - What do you mean?
   - Where can I find Visquis?
@@ -64,6 +64,494 @@ TEST
   - It may help him - if nothing else but to survive.
   - Does your pessimism run that deep?
   - I... will consider what you have said. `a_influence_inc(6, 1)`
+- left where the door is already openned
+- Mira appears
+- Lupo
+  - Is he okay?
+  - You the owner of this... establishment?
+  - I am <FullName>.
+  - Rare, how so?
+  - **I'd like to place a bet.**
+  - Myself to win. [odds 100/1]
+  - 1000 credits.
+  - What did you do?
+- Talk again
+  - Finances?
+  - What droid?
+  - **That's not fair!**
+  - You're right, I'm sorry. {LS} `a_givelight(1);a_local_set(47)`
+- Borna Lys
+  - Greetings, I'm <FullName>.
+  - I was thinking of racing my swoop bike.
+  - And why is that?
+  - Droids do not frighten me.
+  - What does this have to do with a droid?
+  - **Droids aren't all that tough.** `HK-47 banter`
+  - **So by not fixing the races anymore, the Exchange couldn't claim a cut of the winnings?**
+  - So then why is this place empty?
+  - **That's disgusting.**
+  - So he got too greedy.
+  - So how do I beat him?
+  - Just tell me what to do.
+  - So how does that help us?
+  - What's in this for you?
+  - How should we proceed?
+  - What good will that do?
+  - Great, what are the codes?
+  - [Computer] I can reprogram the computer behavior core with a process delay without him realizing it. `c_sc_com_gt(14)`
+- Conversation with HK-47 `TODO: MOVE HERE -> talk about "observing you"`
+- Open door
+- Modo So
+  - Mark?
+  - Can I race?
+  - Anything else I need to know?
+  - Other swoop bikes?
+  - Fan blasts?
+  - Never mind.
+- Nobodo
+  - It is.
+  - What do you see?
+  - Why do you say that?
+  - Is this your way of asking me for a handout?
+  - **But if the city is so beautiful, why would you want to leave?**
+  - Why is it you can't win the races then?
+  - Perhaps you are not approaching this situation from the right direction.
+  - A droid?
+  - Fan blasts?
+  - Thanks for the tip, maybe someone can even the odds.
+- Guron
+  - What are you looking for?
+  - You're looking for such a device here?
+  - Which means?
+  - Why would other swoop bikes be a problem?
+  - Backwards?!
+  - Unless?
+  - Does such a device exist?
+- Check the droid in the cage
+  - [Awareness] Check the droid for oddities.
+  - [Computer] Hook the module up to your datapad. `c_sc_com_gt(15)`
+- Retry
+  - [Computer] Slice into the droid's central behavioral core `c_sc_com_gt(5)`
+  - :: Open file "Swoop0001" ::
+  - [Computer] Reprogram the droid.
+  - [Persuade] Your droid seems to have... expired.
+  - I believe your droid had a minor malfunction.
+  - Perhaps someone can buy the gallery from you.
+  - That Twi'lek female in there seems to be interested for some reason.
+- Race any time should be fine
+  - _Congratulations! You are the new swoop champion! Your time was <CUSTOM55>. The second place finisher was Nodobo with a time of <CUSTOM51>._
+  - Thank you. Is there a prize?
+  - I appreciate it. Perhaps I will see you again.
+  - +500c
+- Borna
+  - +2000c
+- HK `Atton will comment`
+  - Vulnerabilities?
+  - **Mercy and charity are not weaknesses.** `a_influence_dec(5, 1);a_givelight(1)`
+  - Why are you studying me for vulnerabilities?
+  - What, to protect me?
+  - You don't have to call me master.
+  - There is no "illusion" of control. You answer to me.
+  - What do you mean, "the end?"
+  - Nothing nevermind.
+- Thugs
+  - How much does he owe?
+  - You two better back off before you're kissing duracrete.
+- Kill the two guys
+- Rutum
+  - I can handle them. For now, I need some information.
+  - I'm looking for a Jedi Master by the name of Zez-Kai Ell. Heard of him?
+  - I'm looking for bounty hunters.
+  - That's better than nothing
+- HK comments `a_influence_dec(5, 3)`
+- Geeda
+  - What do you mean, "veteran of a war yet to come?"
+  - You're pretty articulate for a Rodian.
+  - So you spend a lot of time around humans?
+  - // Let's see what you have.
+- Kreia
+  - I... I feel this background noise, like a vibration.
+  - It feels so alive, but with a desperation about it.
+  - But the anger and desperation... is there some way to heal it?
+  - I'm not interested in manipulation, but healing.
+- Ondar `Atton Banter`
+  - Schutta?
+  - If she's hurting your business, maybe I could talk to her, reach a compromise.
+  - I'll do it. Now let's see what you have.
+- Door behind, kill the thugs
+- Ratrin Vhek `Atton bantten`
+  - What makes you think the ship's yours?
+  - If you can prove the ship is yours, I'll give it back to you.
+  - That's right, but I didn't know about the cargo hatch.
+  - You're not taking the ship.
+- Vossk `Banter with Mira?`
+  - Is that a threat?
+  - And why is that?
+  - Forget it. I had other questions for you.
+  - You sound as if you hate the guild.
+    - Forget it. I had other questions for you.
+  - You mentioned the guild had laws.
+    - What laws do they uphold?
+    - So if they were all hunting one person, they couldn't attack each other?
+    - Who are some of the prime bounty hunters?
+    - Gand?
+    - Who else?
+    - I can handle them both. Anyone else?
+    - Hanharr?
+    - What about Mira?
+    - Why?
+    - Forget it. I had other questions for you.
+  - So you are no longer a bounty hunter?
+    - Can you tell me where I can find the guild?
+    - What can I do to make them show themselves?
+    - That doesn't sound very comforting.
+    - So who should I make mad?
+    - Wookiee?
+    - Forget it. I had other questions for you.
+  - I am being hunted. I need to know by who.
+    - I was hoping to find out without it coming to that.
+    - Never mind. I'll be going now.
+- Next room, entrance of workshop
+- Unlock container
+- Change group: Bao + T3
+- TT-32
+  - 32nd model?
+  - Explosive ends?
+  - I'm looking to buy some equipment.
+  - I'll be going now.
+- Tienn Tub
+  - Are you all right?
+  - I... came here to do business.
+  - Depends. What is this place? `Bao comments`
+  - Can you change a ship's ID transponder codes?
+  - I can pay you for your time.
+  - Can I use your workbench?
+  - Never mind. I'll be going now.
+- TT-32 ask when you leave
+  - What happened to him?
+  - What would you like me to do?
+  - Plans? What plans?
+  - They aren't dangerous, are they?
+  - If I can get a free version of that part once it's built, then I'll do it.
+  - What does the droid look like?
+  - Where can I find Kodin?
+- Droid
+  - You don't look too good.
+  - **What were you doing on a scrap heap?** `T3 banter`
+  - What is your function?
+  - Are you Tienn Tubb's droid?
+  - I need your memory core.
+  - It won't hurt, I just need to pry it out. You can be fitted with a new memory core.
+  - I'll speak to Kodin.
+- Kodin
+  - This little droid's a good slicer. You'd need a lot of credits to buy him.
+  - I was just kidding. The droid's not for sale.
+  - **Leave the droid alone, or else.**
+  - Who are you?
+  - Why would I be interested in junk?
+  - I'm looking for an astromech droid - IT-31, once belonged to Tienn Tubb?
+  - That droid there seems to know what I'm talking about.
+  - Save yourself some pain and give the droid to me.
+  - How about I buy that droid from you?
+  - [Awareness] I have a feeling you'll be satisfied with 150.
+  - Fine. I'll return the droid to Tubb.
+- Droid
+  - I negotiated your release.
+  - You're free to go - see you back at Tienn's garage.
+  - What was that all about?
+  - Don't play innocent with me.
+- Back to workshop
+  - Good to see you made it back all right.
+- TT-32
+  - Just so you know, I have a copy of the schematics of that part.
+  - If I hadn't retrieved the droid, you wouldn't have anything.
+  - If you don't have any credits, then give me some of your parts.
+  - Very well. I'll be going now.
+  - +1250XP
+  - + doird Renewable Shield
+  + Level up 19
+
+  
+
+- Back to the Ebon
+  - Atton, T3, HK, PC cutscene
+    - What are you playing?
+    - Can I play?
+    - Republic Senate rules?
+    - Deal me in.
+  - Play the game
+  - Cutscene T3/HK
+- Loot in the hidden compartment
+- HK
+  - And how is that?
+  - I am not proud of what I did during the Wars - and I do not wish to discuss it. `a_influence_dec(5, 1);a_givelight(1)`
+  - Are you trying to provoke me?
+  - Why did you ask me about the Mandalorian Wars?
+  - What do you mean?
+  - **That's a very human perspective.**
+  - How is that?
+  - Don't attempt to justify my actions - or yours. `a_lightsml(1);a_global_set("000_HK47_Good_Retort", 1)`
+  - Interrogation?
+    - It's not an interrogation, I just want to ask you some questions.
+    - Enough with the interrogation already. When I ask you questions, I mean I will ask questions without torturing you.
+  - You look a lot like a series of droids that have attacked me.
+    - Well, there's at least four other now defunct versions of you in the galaxy.
+    - Actually, there's a series of HK-50 units sharing your model and function that we have encountered on multiple occasions.
+    - Are you all right?
+    - I wanted to talk about the other HK units.
+        - Do you know where these clones are being created?
+          - But how did this happen?
+          - What was that? It sounded like a malfunction.
+          - Are you sure you don't know where they are striking from?
+          - And how would this information come out if it was locked in your memory core?
+          - I need to know more about these clones of yours.
+        - Why do you need me?
+          - What are you talking about?
+          - That doesn't explain why you need me.
+          - I need to know more about these clones of yours.
+        - Do you know why they are hunting me? `Atris leaked the info of you being a Jedi`
+          - What do you mean?
+          - Why would someone do that?
+          - Who?
+          - I need to know more about these clones of yours.
+        - Why are they masquerading as protocol droids?
+          - [Computer] So a good portion of your programming was adapted from protocol subroutines? `c_sc_com_gt(9)`
+          - What do you mean? `Atton will comment`
+          - [Awareness] Do any of these "incidents" have any wider repercussions? `c_sc_awa_gt(18)+c_ac_int_lt(17)` -> same line as intelligence
+          - **Why did you say that just now?**
+          - The echo - why did you say that? `Revan has discussed of "echo" before`
+          - What repercussions did Praven Prime have?
+          - And that's a good thing?
+          - But why are the HKs masquerading as protocol droids?
+          - **Those are typical droid duties, but it doesn't mean they should be treated as furniture.** `a_influence_inc(8, 1) if t3 is around. otherwise, dec on T3 even if no there` 
+          - Actually, I'd like to know.
+          - Why did the Sith go to war with the Republic?
+          - **I need to know more about these clones of yours.**
+        - Why did they start revealing themselves now?
+          - I need to know more about these clones of yours.
+        - You sound pretty disgusted by these duplicates.
+          - I get it, already.
+          - They really don't seem that different from you, actually.
+          - From the voice? But you all sound exactly the same.
+          - Okay, so that explains your anger.
+          - I had other questions.
+      - Do you know anything about the Sith hunting us?
+        - Any idea where they might be striking from?
+        - You can say that again.
+        - **I picked up a sonic imprint sensor on Peragus - it doubles as a translator.** `HERE IS WHY!`
+        - Why?
+        - Here you go.
+        - I'm not sure I'm going to like what you're about to tell me.
+        - Can you use it to track them?
+        - What should we do with it?
+        - Then we should destroy it.
+        - I'm not for standing around here, waiting for them to hit us again.
+        - So we just wait?
+        - I had some other questions.
+      - For a sophisticated assassin droid, you don't seem as advanced as you should be.
+        - I had some other questions.
+      - I found the navicomputer tampered with. Any idea why it's locked?
+        - Yes, it's voice-printed.
+        - You can mimic languages, right? Can you unlock it?
+        - I had some other questions.
+      - How did you get scattered all over the galaxy?
+        - It was something of a pain, yes.
+        - I had some other questions.
+      - Who was your previous master? `!c_influence_bet(5, 30, 70)`
+        - I'm not sure I understand.
+        - Memory problems?
+        - What's the last thing you remember?
+        - Why?
+        - Are you all right?
+        - Whiny?
+        - Uh... right.
+        - I had some other questions.
+      - Nothing, never mind. `!c_influence_bet(5, 30, 70)`
+        - Well, you may not like the answer, but go ahead.
+        - Yes. I thought everyone in the galaxy knew that.
+        - I don't understand.
+        - Like I'm your mother?
+        - Were you created on Malachor V?
+        - What targets were you assigned?
+        - Why did Revan consider the Republic not a threat? `FAIL !c_influence_bet(5, 20, 80)`
+        - Which side did you fight on?
+        - That doesn't answer my question.
+        - We are not having this discussion right now.
+      - +1000 XP
+- T3
+  - [Repair] Maybe some advanced maintenance is in order. `!c_influence_bet(8, 30, 70)`
+    - [Repair] Lock your motivators and unlock the side panel. `!c_sc_rep_lt(21)`
+    - [Due to your repair skills, T3 has become tougher and faster, gaining +1 Dexterity and +1 Constitution.]
+    - No, I'm fine. I guess I just caught up in my work.
+    - I had other questions for you.
+  - [Computer/Repair] Do you mind if I try working on you one last time? I keep feeling like there's something I'm missing. `!c_influence_bet(8, 10, 90)`
+    - All right, then. Be still, calm yourself.
+    - [You have gained +1 Wisdom and recovered part of your connection to the Force, learning a moving meditation to calm the mind.]
+    - Yes, I'm fine - I feel calm, collected.
+    - No, I'm fine... really. Let me ask you some questions.
+  - I want to practice my moving meditation I learned on you.
+    - I'll wait until you're damaged then, then try and fix you.
+  - +2500 XP
+- Kreia
+  - Yes, and I need some answers.
+    - If the Council cast you out, how come Atris and none of the Jedi Masters mentioned you? `!c_global_eq("000_Kreia_Revan")+!c_global_gt("000_Jedi_Found")`
+      - [Awareness] You're lying. `c_sc_awa_gt(10)`
+      - Do you use that technique on me?
+      - I still think you're lying to me - and you haven't told me everything.
+      - Never mind. I'll be foing now.
+  - // I want you to teach me more about the Force.
+    - Before, when I heard the thoughts of my companions, I heard something, like an echo. `NEED LVL 20`
+    - What do you mean?
+
+
+- Geeda
+  - Oondar across the way has a problem with you.
+  - That is acceptable.
+  - I'll be going now.
+- Oondar
+  - Geeda offered me a discount, too. If you want her gone, you'll need to raise your offer.
+  - You haven't given me anything yet, except words.
+  - Your threats don't mean much.
+  - I'll go take care of business, then.
+- Geeda
+  - Oondar countered your offer with a threat from the Exchange.
+  - [Awareness] You're trying to tell me something else. You're testing me. `c_sc_awa_gt(9)`
+  - I'll choose the longer road. Oondar was irritating me, anyway.
+  - And what do I get out of it?
+  - I already settled the problems on Dantooine. If you want to travel there to trade, you can.
+  - I will do my best and let you know.
+  - +1000 XP
+- Oondar
+  - I'm standing with Geeda...
+  - +250 XP
+- Go to the docks
+
+
+
+- Cutscene - here texture is fine with Hanar
+- First door on the left
+- First door -> aliens -> stealth -> conversation
+- Mand
+  - I'm pretty comfortable right here.
+  - Anything you have of value.
+  - Give me anything you have of value.
+- Next
+  - Captain?
+  - Jekk'Jekk Tarr?
+  - What species is your captain?
+  - I'll keep an eye... or a nose... out for him if I can get inside the Jekk'Jekk Tarr.
+- Next loot unlock
+- Next Bith Scientist
+  - I am <FullName>, just checking out the area.
+  - Can I ask what you're doing?
+  - [Repair] You've got an impressive array of equipment and monitors here. `c_sc_rep_gt(5)`
+  - [Repair] This equipment looks like it's designed to track signals - correct? `c_sc_rep_gt(5)`
+  - Antennas for what?
+  - Tracking a signal among the dock frequencies seems impossible.
+  - I don't understand.
+  - Why is it a problem?
+  - [Wisdom] Why would anyone need such a strong signal? `c_ac_wis_gt(15)`
+  - How did you find it then?
+  - Who is behind it?
+  - Is there anything I can do to help you out?
+  - What's the job?
+  - I'm interested.
+  - Where were you supposed to meet this Twi'lek?
+- Lasavvou
+  - I'm not from the dock authority. What do you mean?
+  - Let me see if I can help. I'll go see the dock master.
+  - [Awareness] Out of curiosity, what is your cargo, Lasavvou? `c_sc_awa_gt("7")`
+  - Could I have one of your power cells?
+  - I'll let you know what happens.
+- Lootra
+  - Sorry, I didn't know anyone was in here.
+  - What do you mean?
+  - Why can't you get into the Refugee Sector?
+  - How do you know she's still alive?
+  - I may be able to get into the Refugee Sector for you.
+  - Nothing - I'd just like to help, if I can.
+  - Let me go see what I can find out in the Refugee Sector.
+
+- Fassa
+  - I wanted to talk to you about the Exchange.
+    - Can you help me infiltrate the Exchange?
+    - Where can I find Vogga?
+    - I want to talk to you about Lasavvou.
+    - How much does he owe?
+    - Is there any way I can convince you to forget about his debt?
+    - What do you need help with?
+    - I'll try to help.
+    - I'll do my best.
+- Computer
+  - [Computer] Optimize power distribution. [1 Spike(s)]
+  - Go to pylon 1, 2 then 3
+    - Examine freighter ID Signatures.
+      - Read ID Signature of freighter Silver Zephyr.
+        - Silver Zephyr: I-9*-***-*2*
+        - Silver Zephyr: I-**-967-**1
+      - Read ID Signature of freigher Toorna's Profits.
+        - Toorna's Profits: E-**-4*1-1*8
+        - Toorna's Profits: E-45-451-118
+      - Read ID Signature of freighter Alakandor.
+        - Alakandor: S-49-491-937
+        - Alakandor: S-*9-4**-***
+  - Order
+    - Silver Zephyr
+    - Alakandor
+    - Toorna's Profits
+  - Loot corpse -> kill droid
+- Jekk
+  - What if I was?
+  - Is that a threat?
+  - I see. How can I get in then?
+- Hutt
+  - Bith
+    - What can you tell me about Goto?
+    - What's Vogga's problem?
+    - Why doesn't Vogga do something about it?
+    - What's your interest in this?
+    - I was also trying to find a fuel source for Citadel Station.
+    - Not after I convince Vogga it's safe for his freighters to operate again.
+  - Guard
+    - Who are you?
+    - I want to speak with Vogga.
+    - The freighter hijackings that have been plaguing his shipping.
+  - Vogga
+    - I wanted to know about the Exchange.
+    - What has Goto done to you?
+    - Perhaps I can help you get to the bottom of this.
+    - Citadel Station is looking for a new fuel source.
+    - If I can take care of Goto, will you agree to ship fuel to Citadel Station?
+    - I just want to make sure Telos has fuel.
+    - I don't take orders from pompous slugs.
+    - I'd like to talk to you about the fuel on Sleheyron.
+  - B5-D8
+    - Can you tell me anything about Vogga?
+    - What is this place?
+    - You buy droids?
+    - I'll be going now.
+
+
+
+
+
+
+> LATER
+
+
+- Fassa
+  - I want to talk to you about Lasavvou.
+  - I'll let him know.
+  - Who do you work for?
+  - How is business these days?
+  - Who is hijacking the freighters?
+  - Why is Goto hijacking the freighters?
+  - Never mind. I'll be going now.
+- Echani vibrosword
+- Computer room
+- Lasavvou -> After Refugee
+  - Fassa says that you can depart now.
+  - 
 
 
 [< Previous Page](../04_Dantooine/07_Dantooine.md) |
