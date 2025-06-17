@@ -2,8 +2,7 @@
 
 [< Previous Page](./07_Dantooine.md) |
 [Back to the Index](../index.md) |
-[Next Page >](./09_Dantooine.md)
-
+[Next Page >](../05_NarShaddaa/01_NarShaddaa.md)
 
 - Ebon
   - Disciple with Kreia cutscene
@@ -59,4 +58,4 @@ LATERRR
 
 [< Previous Page](./07_Dantooine.md) |
 [Back to the Index](../index.md) |
-[Next Page >](./09_Dantooine.md)
+[Next Page >](../05_NarShaddaa/01_NarShaddaa.md)
