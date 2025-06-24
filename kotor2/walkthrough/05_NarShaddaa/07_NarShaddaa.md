@@ -6,7 +6,7 @@
 
 - Leave
 - Few seconds after loading -> Atton contact you
-  - Gather them, then. I will join you shortly.
+  - I agree...
 - TP
   - Where is the Jekk'Jekk Tarr?
   - [Treat Injury] Well, if it's cyanogen gas, I'll need to wear a space suit. It attacks the skin and the lungs. `c_sc_tre_gt(7)`
@@ -21,6 +21,7 @@
   - **Let them come after me. I've survived this long.**
 - Atton
   - Use mand shield + stimulants
+  - Don't go too close to the door -> triggers a TSLRCM cutscene with alien...
 - Atton comes back the Ebon
 - Mira
   - I'm guessing the stench is what keeps intruders away.
@@ -42,10 +43,12 @@
   - [You have learned a new Force Power: Breath Control. It protects you from all poison damage for a limited period of time at the cost of Force Points.]
   - [You can fight toxins that are inhaled (or absorbed through the skin) with Breath Control. Select this Force power and use it to keep you alive in the Jekk'Jekk Tarr.]
 
-- Airspeeder broker
-  - `!c_glob_bool_set("300NAR_Visquis_Call")`
 
-Duros BUG alien voice replacement: `Has there been any news from the scout?`, should be: `I do not understand why they would do that. I had th`....
+- BUG/IMPROVEMENT: Airspeeder broker
+  - `!c_glob_bool_set("300NAR_Visquis_Call")`
+- BUG: Duros alien voice replacement: `Has there been any news from the scout?`, should be: `I do not understand why they would do that. I had th`....
+
+
 
 [< Previous Page](../06_NarShaddaa.md) |
 [Back to the Index](../index.md) |

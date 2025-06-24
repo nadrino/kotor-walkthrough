@@ -17,8 +17,7 @@
     - Is there anything I can do to help prevent the hijackings?
     - What's wrong with the pylons?
     - I'll help if you can transport a family to Telos.
-    - I'll try to help.
-    - I'll do my best.
+    - Never mind. I'll be going now.
   - // I wanted to talk to you about the Exchange.
     - **Can you help me infiltrate the Exchange?**
     - How can I speak with them?
