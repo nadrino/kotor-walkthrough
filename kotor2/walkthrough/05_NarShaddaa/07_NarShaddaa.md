@@ -342,7 +342,7 @@
   - + 500 c + 1050 XP
 - Leave
 - 3 HK
-  - Take **Mira & T3** for the AirSpeeder with mod + conv with MIRA! + no HK50 anynmore `HK USELESS in MIRA TALK`
+  - Take **Mira & Kreia** for the AirSpeeder with mod + conv with MIRA! + no HK50 anynmore `Kreia for Aaida` `HK USELESS in MIRA TALK`
 - Refugee
 - A quest message will appear
 - Aaida
@@ -385,8 +385,16 @@
 - ...
   - Poor Juma
 - Open containers -> Dooble bladed LS
+- Aaida & Lootra `KREIA BANTER`
+  - I hope so, too - may the Force be with you both. `a_give_quest_ls()`
+  - I think you already knew the answer, which was why you didn't give in to the Exchange.
+  - That's a little harsh.
+  - **If you were lost to me, Kreia, I would not turn away a stranger's help to rescue you.**
+  - If it meant your life, there is nothing I would not do... for you, or any of my allies. `free infl on Atton, Bao, Handmaiden or Disciple if needed`
+- Lightsaber!! green viridian -> exchange -> Kreia will color gree green
 
 - Back to Ebon with speeder
+- Borna Lys -> profit
 - Mira
   - I wanted to apologize.
     - Still, I'm sorry you lost your family at Malachor. `a_givelight(1);a_influence_inc(7, 1)`
@@ -533,7 +541,10 @@
   - Crystal -> disassemble crystal
   - LS styles
 - reassemble LS
-- GOTO Telos
+
+
+
+- Telos
 - GOTO + HK
 - HK50!
   - Can't shoot HK47
@@ -548,16 +559,23 @@
   - I've found a solution to Citadel Station's fuel problem.
     - First, let's talk about my fee.
     - Vogga has a lot of fuel from Sleheyron, and he needs to sell it.
+- Workbench
+  - Ultimate Diatium Energy Cell (T3)
+  - Osus lens x3 (Kreia)
 - Ebon
   - HK-47-HK-50
+  - MIRA
+    - Teach
   - G0-T0 -> CONV IN THE EBON
     - I wanted to talk to you about your operations on Nar Shaddaa.
+      - I wanted to ask about Vogga.
+    - A lot of your operations on Nar Shaddaa were carried out by droids.
       - Vogga's freighters were being hijacked by droids. `a_global_set("000_Goto_Ware", 1);a_global_inc("000_Goto_Confront", 1)`
       - The droid in the pazaak den - was built to play, to lose - and to watch the other players. `a_global_set("000_Goto_Ware", 1);a_global_inc("000_Goto_Confront", 1)`
       - The swoop racing on Nar Shaddaa was being dominated by a droid. `a_global_set("000_Goto_Pazaak", 1);a_global_inc("000_Goto_Confront", 1)`
       - That Bith off the docks who was murdered by his droid after he had found that frequency was being used all over the moon to relay information. `a_global_set("000_Goto_Bith", 1);a_global_inc("000_Goto_Confront", 1)`
       - The reason you couldn't tell what Visquis was up to was because droids don't function properly in the Jekk'Jekk Tarr. `a_global_set("000_Goto_Jekk", 1);a_global_inc("000_Goto_Confront", 1)`
-      - I think you used droids in your operations because you are a droid.
+      - **I think you used droids in your operations because you are a droid.**
       - Something about Visquis and the Jekk'Jekk Tarr is what made me think of it. When you said "organic."
       - Is it? The identifier wasn't necessary, but yet you felt the need to use it.
       - Normally, I would attribute such a slip to... human... memory, but one of your annoying traits is that you seem to remember everything.
@@ -567,19 +585,72 @@
       - Well, I've got some of the pieces - but not all of them. And when I do, I'm going to figure you out.
       - [Awareness] The first Republic droid intelligence intended for Citadel station was lost. Or was it?
       - And what did this "droid," do?
-      - **So you are the droid that was intended for Citadel station.**
+      - **So you are the droid that was intended for Citadel station.** 
       - So all the crime... everything you've done for the Exchange is actually because you want to help the Republic.
       - That is my goal as well - to help the Republic, help its people. `a_lightmed()`
-      - But why the hologram?
+      - But why the hologram? `NEED TO BE ON THIS EBON`
       - What happens now that I know you're a droid?
       - Aren't you going to try and have me killed because of what I know?
+      - Forget it...
+- +3250 XP + LSP
+- Atton teach
 
 - BUG/IMPROVEMENT: Airspeeder broker
   - `!c_glob_bool_set("300NAR_Visquis_Call")`
 - BUG: Duros alien voice replacement: `Has there been any news from the scout?`, should be: `I do not understand why they would do that. I had th`....
 
 `Modules/351nar/console02.dlg ['!c_have_item("k_computer_spike", 1)', 'c_sc_com_lt(6)', 'c_sc_com_bet(6, 25)', 'c_sc_com_gt(24)'] 96203 activeList[3]`
-c_sc_com_gt(24) ????
+c_sc_com_gt(24) ???? -> T3 SOLVED
+
+
+
+- LATER cause I enter/leave Ebon:
+  - HK + Bao > finally improve it! +1 const
+
+
+
+- Onderon
+  - I'll man the turret. Just keep her steady.
+- ...
+  - **Where did we land?**
+  - How badly is the ship damaged?
+  - What now?
+  - We need to get to Onderon.
+  - Running around the jungle isn't a good idea.
+  - Let's head to the outpost, then.
+- SAVE
+- Leave with Kreia & Mira ???
+
+
+SWITCH: GPU 768 CPU 1326
+
+- Start left
+- 3 canoks -> SAVE
+- cutscene canok with Maalraas
+- Ebon cutscene Atton
+- Right kill Maalraas crashed ship
+- Pile of junk
+- Skeletal Corpse
+- Republic Soldier -> civil war
+- Computer
+  - [Repair] Fix the computer port. (<CUSTOM42> repair part(s)) `0 with upgrade`
+    - **[Computer] Access system commands.**
+    - [Computer] Repair computer core. (<CUSTOM31> spike(s)) `0 with up`
+- 2 x 375 XP
+- will be able to repair the droids!
+  - Reactivate the droid. (1 repair part)
+    - Optimize droid's weaponry. (<CUSTOM42> repair part(s)) `0`
+    - Optimize droid's targeting systems. (<CUSTOM43> repair part(s)) `0`
+    - Activate droid's shields. (<CUSTOM44> repair part(s)) `0`
+    - Engage droid in patrol mode. (<CUSTOM45> repair part(s)) `1`
+- 1495 XP
+- Follow the droid
+- MIRA banter
+- Other droid same +1495 XP
+- Level up 24
+- 
+
+
 
 [< Previous Page](../06_NarShaddaa.md) |
 [Back to the Index](../index.md) |
