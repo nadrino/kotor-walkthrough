@@ -23,7 +23,7 @@
   - Use mand shield + stimulants
   - Don't go too close to the door -> triggers a TSLRCM cutscene with alien...
 - Atton comes back the Ebon
-- Mira
+- Mira's casemate
   - I'm guessing the stench is what keeps intruders away.
   - **The smell doesn't seem to bother you much.**
   - Enough talk. Get to the point.
@@ -31,24 +31,555 @@
   - I don't think so.
 - Mira in the Jekk'Jekk Tarr
 - Level up
-- Bartender
-  - You need to sharpen your horns - they look a little weak.
+- Bartender -> Mira will pretend to be the exile
+  - I wanted to know about this place.
+    - How many of these chambers are there?
+    - Tell me about the Gand.
+    - I heard they were bounty hunters, come in search of a Jedi.
+  - Can I get something to drink?
   - I'm looking for Visquis.
-  - Never mind. I'll be going.
+  - You need to sharpen your horns - they look a little weak.
+  - I'm looking for the captain of the Lunar Shadow.
+- Left
+- Weequay
+  - Uh, hello?
+  - Hey, I'm talking to you.
+  - All right, stay silent then.
+- Twilek Domo
+  - How do you know I'm human?
+  - I'm looking for Visquis.
+  - I'm looking for the captain of the Lunar Shadow.
+  - He's a Weequay?
 - Right
+- Sullustan
+  - It will cost you.
+  - Why don't you ask yourself?
+  - I'll let you know if I find out his name.
+- Gand
+  - What is your name?
+  - Tell me about the Gand.
+  - That's very confusing.
+  - I'm looking for the captain of the Lunar Shadow.
+  - Are you a great Gand warrior?
+  - Never mind. I'll be going now.
+- Gand Findsman
+  - What is your name?
+  - SAME...
+- Lunar Shadow Captain
+  - Are you the captain of the Lunar Shadow?
+  - [Persuade] Your crew will abandon you if you don't return. `no skill required
+- 1500 XP
+- GAND - corner near the exit
+  - Tell me about the Gand.
+  - Are you a great Gand warrior?
+  - [Awareness] You just referred to yourself in the first person.
+  - [Persuade] Will you tell me your name?
+  - Thank you, Ossluk.
+- Sullustan
+  - I have, but I promised I wouldn't tell anyone. `LS + 500 XP, otherwise DS + 250 XP + crystal
+- Another room with Gands
+  - Not much
 - To Visquis
 - Zez kai el
+- FINISH QUEST WITH ALIEN PILOTS?? -> NOT ODDIS -> FOR FASSA
 - Jekk
   - Tr... trying... to stay.. conscious.
   - [You have learned a new Force Power: Breath Control. It protects you from all poison damage for a limited period of time at the cost of Force Points.]
   - [You can fight toxins that are inhaled (or absorbed through the skin) with Breath Control. Select this Force power and use it to keep you alive in the Jekk'Jekk Tarr.]
+- Kill + levelup
+- Twilek
+  - Calm down, I mean you no harm. Where is Visquis? `a_givelight(1)`
+  - [Persuade] Anything else I should know about Visquis' private chambers? Traps? Defenses? `c_sc_per_lt(10)`
+  - Ubese... great. They hate Jedi - even ex-Jedi - more than anything.
+  - Have you seen a red-haired girl, leather, lots of attitude?
+  - Get to safety. I'll handle your master. `a_givelight(1)`
+- Enter the base
 
+
+
+
+- Always Left
+- Avg mines
+- 1 corpse
+- At some point you'll find the door -> exit
+- next door instead -> do a circle first
+- 1 corpse
+- Until you do a loop
+- Now center mines (3 mines)
+- High security door
+- Mira -> she doesn't trigger mines
+- Kill Hanarr
+- Kill Dogs
+- Loot and get mines
+- Key card
+- Open door -> 2 guards -> mand shield
+- /// Kill every guard with Mira - 325 XP against 175 with exile... -> NO! NO XP ON EXILE + security skill better with Mira + makes more sense when meeting visquis
+    - Open in front -> let the exile do the rest
+      - Right -> kill
+      - Workbench improve armor and weapon
+      - To computer -> Useless?
+        - [Computer] Slice the computer. (<CUSTOM35> spike(s)) `0`
+        - [Computer] Access security cameras.
+        - later
+- Left -> emergency tunel
+
+`Stuff against swords -> for MIRA`
+
+
+- Exile
+- Start in front
+- Computer
+  - [Computer] Slice the computer. (<CUSTOM35> spike(s)) `0`
+    - [Computer] Access security cameras.
+    - [Computer] CAM-305 Training Chamber
+      - [Computer] Gas room. (<CUSTOM32> spike(s)) `1`
+      - [Computer] Return to camera root menu.
+    - [Computer] CAM-305 Chamber West
+      - overload
+      - [Computer] Return to root menu.
+    - [Computer] Access system commands.
+      - [Computer] Open all security doors. (<CUSTOM31> spike(s)) `1` `+325 XP`
+- Go on sides first
+  - Unlock lockers with improvements, very hard
+- 420 XP + 175 XP each
+
+
+
+- Atton + Bao
+- Use shields etc
+
+
+
+- Exile
+  - I'm not looking for trouble - I was hoping for a civilized discussion. `a_givelight(1)`
+  - I had to get your attention somehow.
+  - I'm looking for some information.
+    - Why don't you tell me why you're squeezing life out of the refugee sector?
+    - I only just arrived on Nar Shaddaa - I couldn't have helped these people any faster. `a_givelight(1)`
+  - Enough - why did you put a bounty on me?
+  - There's been enough killing - stop!
+- Atton joins Mira
+  - Maybe you better tell me who you are and how you got here.
+  - And how did he capture you?
+  - We need to find...
+- Kreia -- Hannarr
+- Back to the dock
+- Atton
+  - So that's it? There's nothing else we can do?
+  - Why don't we just try fly into low orbit, and look for his ship?
+    - IMPOSSIBLE AT THIS STAGE -> // [Intelligence] But wait - Vogga the Hutt's freighters keep getting intercepted by Goto. `c_ac_int_gt(14)+c_global_gt("303NAR_Know_Hijack")`
+  - There must be a way - I say we hit orbit and start hunting.
+  - What does Goto want with Vogga's freighters?
+  - Tracking freighters leaving Nar Shaddaa seems like it would be difficult.
+  - So if we got one of Vogga's transponder codes, then Goto's ship might come to us?
+
+
+
+- T3
+- C6-E3
+  - ...
+- Other droid
+  - ...
+  - [Persuade/Lie] Bee-deet. Dee... deet, dee-reeet, deet. Deet... deet.
+  - ...
+- C6
+  - ...
+- Kill other
+- Comunication droid
+  - ...
+- From Telos!
+  - ...
+- Puzzle
+  - Center - counter
+  - Left - counter
+  - Right clockwise
+- 500 XP
+- Talk
+  - ...
+- Back
+- HK
+
+
+- Mira and Atton
+  - What do you mean?
+  - Let's do this.
+- +1300XP
+- Atton, Mira T3
+- +2 level with T3????
+- Improve mira's weapons against droids 
+- SAVE
+- Tienn
+  - **T3 + Visas in THIS ORDER-> XP ALIGN WITH FIRST** `+1 DEXT with computers`
+  - Don't take HK -> HK50 will not spawn because of their programing 
+    - //Mira + Visas
+
+
+
+- GOTO
+  - I am a Jedi.
+  - You have a strange way of asking for my help.
+  - ...
+  - You chased me all over the galaxy to ask me to save it?
+  - I still don't understand why you brought me here.
+    - // Katarr, a Miraluka world in the Mid-Rim, was one such place. I have reason to suspect there was a gathering of Jedi on that world when it was rendered lifeless.
+  - I'll do what I can - I don't want to see the Jedi wiped out.
+  - But you're a member of the Exchange. What does it matter?
+  - **Then maybe you should try pazaak.**
+  - I'll do what I can to help - that was my intention in the first place.
+  - Then I have no problem helping - if you set me free.
+  - Maybe you should pay attention to troubles on your own ship.
+- HK50
+- Droid
+  - [Computer] Access droid's memory core.
+    - [Success] You are able to download a program file called "Shutdown."
+- Computer
+  - [Computer] Attempt to bypass security. [1 spike(s)] `c_sc_com_gt(24) -> FULL ACCESS!`
+  - Download program "Overload."
+  - Upgrade droid combat algorithms. `T3 + 1DEXT`
+- Next room -> droid mines
+- Next -> 3 droids + loot
+- Console
+  - Systems Control.
+    - ...
+    - Return to main menu.
+  - Program Library.
+    - Check the program called Basic Diagnostic.
+    - Upload programs.
+    - Check the program called Overload.
+    - Check the program called Shut Down.
+  - Unlock Restricted System.
+    - Unlock Containment Cell System.
+  - Systems Control.
+    - Access Containment Cells.
+      - Run program: Shut Down +250 XP
+- Next room 3 droids
+- Next cells -> fields are down
+  - Droid -> get turret prog
+- Next room 3 droids
+- again -> don't free Exile yet
+- Computer -> unlock turrets + overload 
+- Go to the next cells -> reset program
+- loot every where come back to computer
+  - reset + turrents + 500XP level up 21
+- free exile +2250XP level up 22
+- Centry droids
+  - Get components 15 each
+- Computer "GOTO PRIMARY POWER SYSTEM CONSOLE"
+  - All secondary
+- Mines -> stealth
+- Kill 3 droids -> loot program for mine fields
+- continue unmining without stealth
+- Kill 2 droids -> computer +500 XP overload mines
+- central room
+- T3
+  - So if we shut it down, then we shut down all the droids it controls.
+  - Wait... it controls thousands of droids?
+- Carful DEADLY MINES
+- Kill droids
+- Get the rest of the mines
+- Loot in cylinder -> droid commands
+- Console left -> droid -> overload +500 XP
+  - power -> shutdown +1000 XP
+- Zhug family `missing VO first line -> The Zhug family will scour the galaxy for this Jedi... and then we will bring him here, to Goto.`
+  - You're welcome to try, big-eyes.
+- Kill them
+- SAVE
+- Kill the next ones in the tunnel
+- Kill the two twilek
+- SAVE
+- Left Computer -> overload conduit
+- Kill Gand on left
+
+
+- Ebon
+- GOTO joins
+  - How did you get on my ship?
+  - Why would I want this droid?
+  - How do I know it won't try to kill me?
+  - Maybe I should shut it down.
+  - Maybe you're bluffing.
+  - Zez-Kai Ell is waiting for us. Enough talk.
+- Zez-Kai Ell
+  - **Why did Kavar think I would return from exile?**
+    - Why me?
+    - I have questions I want answered.
+  - Where are all the Jedi?
+    - Plan?
+    - **Atris is on Telos.**
+    - You sound surprised.
+    - [Intelligence] Why didn't you go to Katarr? `c_ac_int_gt(15)`
+    - I had other questions.
+  - What happened to them?
+    - Is that why you hid?
+    - **Tell me about this threat.**
+    - I had other questions.
+  - I need to know why you cast me out of the Order.
+    - I had other questions.
+  - Why are you on Nar Shaddaa?
+    - **[Awareness] That is not the only reason... you came here to hide.** `c_sc_awa_gt(20)`
+    - And you were afraid.
+    - I had other questions.
+  - Why did you cut me off from the Force?
+    - I had other questions.
+  - At the end of my trial, you and the other Masters said something had happened to me. What was it?
+    - I had other questions.
+  - Do you know anything of Force Bonds... and how to end them?
+    - **I have developed a bond with another - one that is lethal to us both.**
+    - How would I end it?
+    - How would I end such a bond?
+    - That is all I wished to know. What happens now?
+  - Your students... your disciples were taught to protect innocents, even when you would not.
+  - But Revan redeemed himself. Certainly that must give you some hope.
+  - Is there anything you can teach me?
+- TODO: END THE QUEST WITH PILOT -> THEY DISAPPEARED... -> END AFTER MIRA ENTER JEKK JEKK
+- 3 HK
+- Fassa
+  - Do you need pilot
+  - The refugee Odis, will work for you for sponsorship.
+  - +1500 XP
+- Vogga
+  - I do not have Goto here, but rest assured, he will trouble you no longer.
+  - + 500 c + 1050 XP
+- Leave
+- 3 HK
+  - Take **Mira & T3** for the AirSpeeder with mod + conv with MIRA! + no HK50 anynmore `HK USELESS in MIRA TALK`
+- Refugee
+- A quest message will appear
+- Aaida
+  - Lootra lives - he's actually came to Nar Shaddaa looking for you.
+  - The path is clear, the Exchange thugs have been dealt with.
+  - This galaxy could go a long way to healing itself if everyone was able to help each other in such a way.
+  - You'd better go - he's waiting for you.
+  - +1000 XP
+- Airspeeder
+  - [Repair] Install maneuvering flaps. `c_sc_rep_gt(15)`
+  - [Demolitions] Install cryogenic power cells. `MIRA!`
+  - I'd love your help, Mira. `a_influence_inc(7, 1)`
+- +600XP
+- Airspeeder
+  - Attempt to use the airspeeder.
+  - Go to Refugee Landing pad
+- Mira -> NOT WITH ATTON, doesn't make sense -> equip her with standard clothes
+  - Why are you looking at me like that?
+    - **When one is in touch with the Force, others can feel it.**
+    - Me and Atton what?
+    - What are you talking about?
+    - I care about him, but I can't allow myself to form attachments now.
+    - I was hoping we could talk.
+      - Do you understand men?
+      - That could work. I guess.
+      - That sounds more like hunting.
+      - There were some questions I wanted to ask.
+    - Where did you get that rocket launcher?
+      - [With Mira in your party, you can make rockets at workbenches, provided your Demolitions skill is high enough.]
+    - Why don't you kill your targets?
+      - [Awareness] Because all life is connected, and Malachor proved it - you know what the loss of family means, even to your targets. `c_sc_awa_gt(10) + a_givelight(1)`
+      - We did what had to be done, and I carry that decision still.
+- Entertainment 
+- Juma -> force persuade -> atton comments
+- Twilek
+  - If you think I will be to Vogga's liking, I will dance for him.
+  - I'll do it.
+  - Wait - did you say put something on?
+  - All right, if I have to.
+- ...
+  - Poor Juma
+- Open containers -> Dooble bladed LS
+
+- Back to Ebon with speeder
+- Mira
+  - I wanted to apologize.
+    - Still, I'm sorry you lost your family at Malachor. `a_givelight(1);a_influence_inc(7, 1)`
+    - What do you mean?
+    - All things are connected through the Force. From such acts of kindness, great things may come. `a_givelight(1);a_influence_inc(7, 2)`
+    - Fair enough. I had some questions for you.
+  - Tell me a little about Hanharr. 
+    - What happened between you and Hanharr? 
+    - What do you mean? `c_influence_bet(7, 30, 70)`
+      - Yes, I'd like to know what happened.
+      - Do you know the name of his homeworld?
+      - Do you know what species he is?
+      - So he was a slave?
+      - [Awareness] Why was he wearing those cuffs? `c_sc_awa_gt(10)`
+      - It's good he broke free. Nothing deserves to be caged. `a_givelight(1)`
+      - [Intelligence] Weren't they destroyed? `c_ac_int_gt(12)`
+      - Who did he work with?
+      - So how do you factor in?
+      - That seems strange.
+      - A foolish code. His species would die from such debts.
+      - What do you mean?
+      - That life debt makes no sense.
+      - He didn't seem much of a problem to me.
+      - Any regrets that he's gone?
+    - So how did you save his life? `c_influence_bet(7, 20, 80)`
+      - And you proved him wrong?
+      - So he was trying to hem you in with a minefield?
+      - [Demolitions] Sending out a jamming signal for proximity mines isn't a simple trick. `c_sc_dem_gt(6)`
+      - What happened with Hanharr and the mines?
+      - Barely?
+      - Sometimes it is stronger to spare a life than take it. `a_lightsml();a_influence_inc(7, 2)`
+      - There were some questions I wanted to ask.
+    - Were you raised on Nar Shaddaa? `c_influence_bet(7, 40, 60)`
+      - What happened to your family?
+      - They died in the final battle?
+      - How could you have lost family at Malachor V? There were no colonies - it was a taboo world to the Mandalorians.
+      - You're a Mandalorian?
+      - You were a slave?
+      - I regret the loss of life at Malachor. But there was no choice left. `a_global_set("000_Mira_Malachor_XP", 1);a_givelight(1)` 500 XP
+      - You don't sound too happy about it.
+      - They had to be stopped.
+      - Forget it. I had some questions for you.
+    - Why did you become a bounty hunter? `c_global_gt("000_Mira_Family", 1)&&c_global_eq("000_Mira_Angry") -> NO already`
+      - Finding people on Nar Shaddaa seems difficult.
+      - Walking?
+      - No, I understand.
+      - Forget it. I had some questions for you.
+    - I was hoping we could talk.
+      - Just wanted to get to know you a little better, is all.
+- Ebon
+  - GOTO HK
+  - GOTO + sphere
+  - Mira + Atton
+  - Kreia + T3
+  - Bao + GOTO
+    - Don't worry, Goto's just jealous that you've got all that circuitry packed in such a small shell.
+  - Bao + sphere x2
+  - Bao + HK
+  - Bao + GOTO
+- Visas
+  - Forms
+- Bao
+  - Same
+- HK
+  - I wanted to do some target practice.
+  - Hold your fire - I don't need anyone killed. Yet.
+  - You seem to have seen better days. I could repair you. `RESTORED++??`
+  - Did you just call me 'unskilled meatbag'?
+- T3
+  - When I was captured by Goto, how were you able to find Goto's yacht? `c_global_eq("303NAR_Goto_Ware")+c_global_gt("303NAR_T3_Mission")`
+  - You snuck into Vogga's droid warehouse to steal the codes?
+  - So who was transmitting the codes to Goto's yacht?
+  - The droids? Interesting.
+- MIRA
+  - Can I get some grenades from you?
+    - Then you're fighting for your life, you use what's at hand. `Sonic on Bith!!`
+    - Why not? `also Sullustan`
+    - I was hoping for something more lethal. `HK banter`
+    - [Persuade] Mira, we're being stalked by assassins. We need all the weapons you can make. `c_sc_per_gt(10)`
+    - Just make me some grenades.
+    - There were some questions I wanted to ask.
+  - {On Ebon Hawk}You seem restless.
+    - Too quiet?
+    - Like Nar Shaddaa?
+    - Used to Nar Shaddaa? Is that possible? `a_influence_inc(7, 1)`
+    - Kreia showed me how to "listen" to Nar Shaddaa once... how all life there is connected, is bound to each other.
+    - Maybe one day I'll be able to show you. `c_influence_bet(7, 10, 90)`
+    - Come with me - and let me show you what Kreia showed me.
+  - Leave the Ebon with MIRA
+- Go near the entertainmnt
+  - I wanted you to stand here - and listen.
+  - No, there is - you can feel the Force here.
+  - No, it's what you do. And I can prove it.
+  - No, but it may help you put life, and all its hopes, in perspective. `a_givelight(1)`
+  - I can train you, Mira. To become something greater - and to protect others. `a_givelight(1)`
+  - I cannot promise that, Mira, I can only teach you what I know.
+
+
+- Ebon
+- GOTO / Bao +1 DEXT
+  - What happens now that I know you're a droid?
+    - Aren't you going to try and have me killed because of what I know?
+    - Forget it. I had other questions.
+  - You wanted me to save the Republic. How is that possible?
+    - Is there anything you can do to help those systems and their people, either with information or resources?
+    - I don't want a reward - helping the people of those systems is enough. `a_lightmed();a_influence_dec(3, 1)`
+    - Just tell me what needs to be done to help these systems.
+      - Just tell me what needs to be done to help these systems.
+      - What about the restoration efforts on Telos?
+      - Yeah, yeah - it wasn't my fault.
+      - That wasn't an option, either.
+      - I'm getting tired of being blamed for Peragus.
+      - What's the situation on Onderon?
+      - I had other questions.
+    - Where is your base of operations? `000_Know_Goto`
+      - I had other questions.
+    - What capabilities does your droid possess?
+      - Not if I shut it down first.
+      - What skills does it have?
+      - So you're sneaky and confusing?
+      - I had other questions.
+    - Do you know anything about the HK droids sent after me?
+      - Why are they hunting me?
+      - Do you know where they are coming from?
+      - You mean they're going to come after me?
+      - What are they doing in the Republic fleet?
+      - Why doesn't the Republic know?
+      - Why haven't you acted on this information?
+      - I had other questions.
+    - On the yacht, you mentioned Revan. But Revan sought to destroy the Republic.
+      - But why? Revan had limitless forces.
+      - But why? Revan wouldn't need to conquer anything else once the Republic was beaten.
+      - Do you know where Revan got his forces?
+      - What about Malak?
+      - Nothing, never mind.
+- Atton
+  - Did you know Mira, Atton?
+  - Nothing, never mind.
+- MIRA
+  - It was not my doing, Mira. I merely showed you what you could do.
+  - Grenades?
+  - I was hoping we could talk.
+- KREIA
+  - Crystal -> disassemble crystal
+  - LS styles
+- reassemble LS
+- GOTO Telos
+- GOTO + HK
+- HK50!
+  - Can't shoot HK47
+- Grenn
+  - That's it? Aren't you going to put me under arrest?
+  - Why would the Republic change their minds like that?
+  - You should really improve your security arrangements.
+  - I'd like to talk to you about the bounties.
+    - I killed the escaped criminals.
+    - I followed them to the restoration zones, where they were on duty as Czerka security, and killed them.
+- Grenn
+  - I've found a solution to Citadel Station's fuel problem.
+    - First, let's talk about my fee.
+    - Vogga has a lot of fuel from Sleheyron, and he needs to sell it.
+- Ebon
+  - HK-47-HK-50
+  - G0-T0 -> CONV IN THE EBON
+    - I wanted to talk to you about your operations on Nar Shaddaa.
+      - Vogga's freighters were being hijacked by droids. `a_global_set("000_Goto_Ware", 1);a_global_inc("000_Goto_Confront", 1)`
+      - The droid in the pazaak den - was built to play, to lose - and to watch the other players. `a_global_set("000_Goto_Ware", 1);a_global_inc("000_Goto_Confront", 1)`
+      - The swoop racing on Nar Shaddaa was being dominated by a droid. `a_global_set("000_Goto_Pazaak", 1);a_global_inc("000_Goto_Confront", 1)`
+      - That Bith off the docks who was murdered by his droid after he had found that frequency was being used all over the moon to relay information. `a_global_set("000_Goto_Bith", 1);a_global_inc("000_Goto_Confront", 1)`
+      - The reason you couldn't tell what Visquis was up to was because droids don't function properly in the Jekk'Jekk Tarr. `a_global_set("000_Goto_Jekk", 1);a_global_inc("000_Goto_Confront", 1)`
+      - I think you used droids in your operations because you are a droid.
+      - Something about Visquis and the Jekk'Jekk Tarr is what made me think of it. When you said "organic."
+      - Is it? The identifier wasn't necessary, but yet you felt the need to use it.
+      - Normally, I would attribute such a slip to... human... memory, but one of your annoying traits is that you seem to remember everything.
+      - I suspect you are a droid, an extremely advanced model. What I don't get is how you are able to commit crimes.
+      - But what is curious is that you still want to help the Republic. That's where things don't fit.
+      - You sound - defensive.
+      - Well, I've got some of the pieces - but not all of them. And when I do, I'm going to figure you out.
+      - [Awareness] The first Republic droid intelligence intended for Citadel station was lost. Or was it?
+      - And what did this "droid," do?
+      - **So you are the droid that was intended for Citadel station.**
+      - So all the crime... everything you've done for the Exchange is actually because you want to help the Republic.
+      - That is my goal as well - to help the Republic, help its people. `a_lightmed()`
+      - But why the hologram?
+      - What happens now that I know you're a droid?
+      - Aren't you going to try and have me killed because of what I know?
 
 - BUG/IMPROVEMENT: Airspeeder broker
   - `!c_glob_bool_set("300NAR_Visquis_Call")`
 - BUG: Duros alien voice replacement: `Has there been any news from the scout?`, should be: `I do not understand why they would do that. I had th`....
 
-
+`Modules/351nar/console02.dlg ['!c_have_item("k_computer_spike", 1)', 'c_sc_com_lt(6)', 'c_sc_com_bet(6, 25)', 'c_sc_com_gt(24)'] 96203 activeList[3]`
+c_sc_com_gt(24) ????
 
 [< Previous Page](../06_NarShaddaa.md) |
 [Back to the Index](../index.md) |
