@@ -648,7 +648,462 @@ SWITCH: GPU 768 CPU 1326
 - MIRA banter
 - Other droid same +1495 XP
 - Level up 24
-- 
+- repair droid +1080 PX -> cant patrol
+- Take Mira, move forward -> dialog
+  - Who are you?
+  - You really think you can take on Mira? Good luck, she's a real bounty hunter. `a_influence_inc(7, 2)`
+  - Dezanti? I've never heard of you.
+  - Why are you hunting me?
+  - I didn't start the space battle.
+  - What do you mean?
+  - Can we make a deal?
+- Loot left
+- Right save before leaving
+- Jungle
+
+
+
+- 2 canoks
+- HK
+- right
+  - Kreia
+    - How long since he died?
+- Door
+  - Use thorium charges to open this door.
+- Continue
+- Mand base
+  - What is with Mandalorians and this damned moon?
+  - I was thinking of starting a Czerka office here. I sense a lot of untapped potential.
+  - And if I refuse?
+  - Take me to the camp, then.
+
+
+
+- Mand base
+  - I thought the Mandalorians were disbanded.
+  - The only Mandalorians I've seen are thugs.
+  - What is this place?
+  - Why did you use Dxun?
+  - Your camp looks like it's seen better days.
+  - I'm trying to get to Onderon, do you know how I can get there?
+  - Why do you go to Iziz?
+  - [Force Persuade] Tell me why you are going to Iziz. `or persuade -> but this one is better -> I've traveled with Jedi...`
+  - Why do I have to prove myself to you?
+  - How can I prove myself?
+  - If you're going to make me help you out, at least give me something.
+    - Why not just go back and do it yourself?
+    - That sounds too easy.
+    - What were you going to blow up?
+  - Caches? What are in them?
+    - Why didn't the Republic just dig them out?
+    - How big are the caches?
+    - How would cannoks be a problem?
+    - I'll see what I can do.
+- Stealth + HIGH security
+- SAVE
+- Kex `Jal Shey Mentor Armor`
+  - You greet everyone that way?
+  - What do you have to sell?
+  - Do you have some sort of problem with me?
+    - I am. And you'd better not forget it.
+  - How did you end up as quartermaster?
+    - How did you wind up with the job?
+  - Can you tell me about the area?
+  - Let's see what you have.
+- Guard capitain (red) `Kreia banter`
+  - Why did you call off your patrols?
+    - Three ships? There was my ship and the Duros ship. Who was the third?
+    - Why are you hiding from the Onderon military?
+    - Is there anyone else on the moon? `Kreia banter`
+    - Why would they search the planet?
+    - Can I help with the relay dish?
+  - What did you mean by larger beasts?
+    - What's a zakkeg?
+    - Yeah? I think you're wrong.
+    - We'll see. I'll be back after I've defeated one.
+- Guide? -> yes to change the group!
+  - Let's go.
+- Ebon cutscene
+  - Disciple + Exile
+    - **Malak didn't seem too concerned with keeping the Republic intact.**
+    - **I am not sure anyone could find any reason in Revan's need for war.**
+    - Against what?
+- Kreia -> Cristal lvl 24
+- Atton
+  - How are the repairs coming?
+- Leave with T3 and Bao
+- Guide
+  - Why would I need an escort?
+  - Back
+
+
+- Zuka `T3 a_influence_inc(8, 2) but useless now or Bao banter -> infl not distributed if Bao interfere`
+  - **I've never heard of a Mandalorian fixing something.**
+  - So what's the problem, then?
+  - [Computer] I've had some practice restoring computer systems, if you need a hand.
+  - So what should I start working on?
+  - Where can I find a phase-pulse converter?
+  - Cannoks ate it?
+  - Why don't you hunt them down?
+  - There must be another way I can find a phase-pulse converter.
+  - So how do you propose I find it?
+  - This better be worth it. I'll start looking.
+- Broken wires
+  - repair with T3 -> 0 parts
+- +360 XP
+- Xarga `no banters`
+  - What is this your concern?
+  - Are you sure he's dead?
+  - Why do you want the body?
+  - If I find Kumus' body, I will bring back his gear.
+- Davrel `no banters`
+  - Who are you?
+  - Why do you fight in the battle circle?
+  - Are there rules?
+  - I'll be going.
+- Bralor `no banter`
+  - Can I choose who I fight?
+  - How does the battle circle work?
+  - You don't seem as aggressive as the other Mandalorians.
+  - I'll be going now
+- Tagren
+- Sergent `no banter`
+  - Who are you?
+  - What is the battle circle?
+  - What are the rules of the battle circle?
+  - Do I get anything if I win?
+  - **I see, none of you are merchants. Except for Kex. Oh, and you do have a repairman. Do you have janitors, too?**
+  - I want to fight in the battle circle.
+- Should be easy
+- Next
+  - Why does he want to fight me?
+  - What would be appropriate?
+  - Let's fight with swords, as you suggested.
+- Harder
+- Next
+  - Now weapon neither force
+- Hard but ok
+- Next will be champion -> 2 Bralor and Kelborn
+- Telemetry computer with T3 with upgrades
+  - [Computer] Reprogram the core. (<CUSTOM33> spike(s))" `0`
+- +600 XP
+- Back to Zuka
+  - Both the cables and the telemetry computer are working now.
+- +250 XP
+- Save near the guide
+
+
+
+- Will go back to Ebon to get Bao (banter) + Kreia for a lesson?
+- Walk to the Jungle (loot any missed drops)
+- Kill 2 canok left on the right
+- At the camp
+- Davrel
+  - Why do you want to fight me again?
+  - Many Mandalorians have fallen to Jedi. There is no dishonor in that.
+  - There must be other ways to prove yourself.
+  - What about the zakkeg? I've heard they're a challenge even for a Mandalorian patrol.
+  - I'm looking for the zakkeg. We could fight it together.
+- Guard
+  - What beasts are there?
+  - What can you tell me about the cannoks?
+  - Tell me about the maalraas.
+  - Why don't you clear out the cannoks and maalraas?
+  - What's a boma beast?
+  - Aren't there zakkegs, too?
+  - I can handle myself.
+- Right then head north
+- In Canok -> loot Phase Pulse Converter: Core + 100 XP
+- Boma -> Kreia
+  - What's the point of this?
+  - I feel its thoughts.
+  - [Beast Control] I'll try.
+  - Thank you, I never knew about that.
+- Continue path then left
+- kill beats
+- Kumus
+  - Are you Kumus? Xarga thought you were dead.
+  - What are you doing up there?
+  - So how did you get up there?
+  - You ran out of ammo? Isn't that against the Mandalorian Code?
+  - I can't believe you were outwitted by cannoks. They're the gizka of Dxun.
+  - **Very well. How can I help?**
+  - I could give you an extra ammo clip.
+  - I'll go drive off these bomas, then.
+- Charge
+  - I'll leave it alone, then.
+- Kill 3 bomas
+- Save him
+- Bao
+  - He's just a veteran, like us. He deserves a better death than that. `a_influence_inc(1, 2)`
+- +250 XP
+- Back downhill -> left to head south
+- Join Davrel
+  - Why didn't you tell me where it was?
+  - Do you have a plan?
+  - What do you know about zakkegs?
+  - Let's attack it now.
+- Kill the Zakeg
+- back to the camp SAVE
+- To west
+- 3 canoks appear
+- to south path
+- Kelborn `could Mira banter`
+  - Why are you here? I thought all the patrols had been stopped.
+  - A ship?
+  - What have you found?
+  - Take them out? Why?
+  - What do you intend to do? Kill them?
+  - I may be able to help. What's the plan?
+  - I am. Let's find them.
+- Two peopl -> kill
+- Next group
+- Kill canok -> LS!
+- Right when you can
+- Kelborn `HK47 infl+, Mira Hanar bant`
+  - I came across two groups of scouts. They weren't in the mood to talk, either.
+  - **You first. What did you find out?**
+  - What makes you think it was a covert operation?
+  - How did you know they were Onderon military?
+  - They mentioned something about a Colonel. There also seems to be more of them.
+  - Tobin's the one who opened fire on our ship and forced us to land here.
+  - Who is General Vaklu?
+  - I'll see you back at the camp, then.
+- Back to the same path we just came (west)
+- SAVE
+- Detonator
+- Animals are angry!
+- LEVEL UP 25
+- deadly mine
+- SAVE
+- deadly and DEVASTATING MINES
+- Droid foreman
+  - Examine droid.
+- You get a data pad -> remote transponder key
+- you can play with the commands
+  - RAMPAGE
+- 2 cylinders FULLY IMPOSSIBLE TO OPEN WITH SECURITY -> even with 60...
+- average mines
+- Jal Shey mentor armor!
+- Back to the camp, kill the rest of the canoks -> phase-pulse converter last pieces
+
+
+- Guard capitain
+  - Zakeg
+- Zuka
+  - I have all three parts of the phase-pulse converter.
+  - Could you mention this to Mandalore?
+  - ery well. I'll be going now.
+- 450 XP + 1000c + components
+- xarga
+  - I'm glad I was able to return him safely. `a_lightmed()`
+- d
+  - You're lucky I was in the area.
+- SAVE
+- Sergent
+  - I want to fight
+  - Kelborn -> sword very hard -> probably better unarmed
+- Sergent
+  - no restriction -> force push -> end!
+- +1000XP
+- Talk with the others
+- END
+
+
+- Prepare for Isis
+- Workbench
+  - LS colors
+  - Use robe as for a diplomatic mission
+  - Jal Shey mentor armor
+- Mandalore
+  - I set off the permacrete detonator in the jungle.
+  - After I set off the explosive I had to fight through a pack of bomas.
+  - What? You knew that would happen?
+- Short LS
+- Mandalore
+  - Have you learned anything new about the scouts from the third ship?
+    - What do you know about Colonel Tobin?
+  - Can you tell me about Onderon?
+    - Who is in charge of Onderon?
+    - Is Onderon part of the Republic?
+    - Why do you travel to Iziz?
+    - That's all I wanted to know about Onderon.
+- Ebon
+- Get Mutaki robe
+- Isis
+  - Cutscene Kreia -> talk about Revan
+- Ambush!
+- Party screen -> Kreia + Visas?
+- Quite hard with LS mod
+- Unlimited XP if you don't get close to the door
+
+
+
+
+
+
+- Isis
+- Level up Mand
+- Passport
+  - There's a lockdown?
+  - Military checkpoints? Are they looking for something?
+  - What's a starport visa?
+  - How's the situation here in Onderon?
+  - Can I go now?
+- Watch the news
+- Merchant
+  - What do you have for sale?
+  - What do you know about Iziz?
+  - What do you know about the Queen and General Vaklu?
+  - An Aqualish merchant? Shouldn't you be roughing up some Bith for a few credits?
+  - I'd like to see what you've got in stock.
+- animal `bao and kreia`
+  - Why do you ask?
+  - Who are you?
+    - Tell me about the beast-riders.
+    - How are things unraveling?
+    - Why is it hard to enter the city?
+    - Why does Telos want your beasts?
+  - Your beasts seem restless.
+  - Why in cages?
+- kill boma
+  - **Do the beasts often do this?**
+  - Thank you for the credits, they aren't necessary.
+  - I'll be going now.
+- Policeman
+  - [Force Persuade] I don't think my business is any concern of yours.
+  - A valid point, Kreia. But the need for discretion outweighed the risks. `a_influence_inc(6, 2)`
+  - [Force Persuade] You'll let me go about my business, and forget you ever saw me.
+
+
+
+- Galessi
+  - Here's my visa.
+  - Why are these visas necessary anyway?
+  - But why can't anybody leave?
+  - I don't see an actual line. Just several people wandering around aimlessly.
+  - How would I get an extra starport visa?
+  - Can't you make an exception for one of these people?
+  - Why does Vaklu want to get rid of you?
+  - What are Vaklu and the Queen fighting about?
+  - I'll be going now.
+- In front journalist
+  - What's going on?
+  - Do you have some sort of warrant?
+  - A journalist would be a poor cover for a spy. They're not well-known for their discretion.
+  - Do you have proof of any sort?
+  - [Awareness] How many other journalists are being rounded up today? `c_sc_awa_gt(7)`
+  - [Persuade] You're violating this man's rights. I'll make sure that this story gets out. `c_sc_per_gt(9)`
+- Terlyn
+  - What do you mean?
+  - [Awareness] I sense you're not telling me something. `c_sc_awa_gt(7)`
+  - [Persuade] If you expect me to help you out, tell me the truth. `c_sc_per_gt(8)`
+  - I'll see what I can do.
+- Tolas
+  - What will you do with it?
+  - What can you tell me about the place?
+  - Sounds valuable. Certainly someone will pay more.
+  - Who is she?
+  - Can we talk about something else?
+- News Holo
+- Riiken
+  - There are a lot of soldiers around.
+    - Could you tell me about the troubles?
+    - How did you get in trouble?
+    - Who else can I talk to about what's going on Iziz?
+    - Can we talk about something else?
+  - Why are there so many beast cages around?
+  - What's that tower?
+    - What's a drexl?
+    - Could you tell me about the beast-riders?
+    - I have the time for it. I'm interested.
+    - But the beast-riders aren't your enemies any more. What happened?
+    - Are you still allies?
+    - I'll be going now.
+- Gegoran
+  - [Lie] No, I live in Iziz. Why did you think I was an off-worlder?
+  - What do you sell?
+  - What can you tell me about Iziz?
+  - Why can you only sell to people with starport visas?
+  - So you're happy about this then?
+- Ponlar `right-wing -> allows us to talk to Anda -> infl+ on Mand`
+  - The Queen should listen to the will of her people.
+- HK
+- Go behind the funtain -> don't trigger new conv with Ponlar yet
+- Anda `remove Kreia in the group -> need infl on Mand, she overrides his line`
+  - What's this about?
+  - How do I remove them from their posts?
+  - Tell me about these captains.
+    - Tell me about Gelesi.
+    - What about Riiken?
+    - Bostuco?
+    - I have some other questions.
+  - How much does this pay?
+  - I'll be going now.
+- // Kreia `a_influence_inc(6, 2)`
+  - I may see where this quest of hers leads us.
+- Mand
+  - I agree, Vaklu has a lot more to offer us. `a_influence_inc(2, 2)`
+- Two aliens talking politics
+  - What do you think of Queen Talia?
+  - I don't know much about General Vaklu.
+  - There would be deep consequences if Onderon secedes from the Republic.
+  - Who do you trust more?
+  - I'll lend support to whomever serves my interests better.
+- Bostuco
+  - What's the Sky Ramp?
+  - Who are you?
+  - What do you think of General Vaklu?
+  - Could you tell me about the Wall?
+  - Why aren't you on the Wall any more?
+  - You don't sound too pleased about your post.
+  - [Persuade] It seems such a distinguished officer would be of more use somewhere else. `c_sc_per_gt(7)`
+  - **If there's a civil war, the attack will come from inside the city. Guarding the Sky Ramps will be very important.** `a_lightsml()`
+- SAVE
+- western square
+- 1B-8D `infl GOTO(3)`
+  - What do you sell?
+  - Can you answer questions?
+    - Who do you work for?
+    - Can you tell me about Iziz?
+    - Do you know how I could get to the Palace?
+    - Can you tell me anything about the Palace?
+    - I get the idea. Can I ask about something else?
+    - [Repair] Let me just see if I can rewire you to be a little more "helpful. `c_sc_rep_gt(4)`
+    - Who do you work for?
+    - 1B-8D, I need to know if you have any parts from one of Bahima's serving droids.
+    - 1B-8D, request access market conditions. Change all, multiply by 0.
+    - Let me see what you have for sale.
+- SAVE -> spawn bounty hunters
+- Dagon Gent place
+  - Where is he?
+  - Do you think Dhagon did it
+  - Mandalore, could Dhagon have done this?
+  - What tower?
+  - Thanks for the information.
+- Loot the messy lab
+- Back to the turret
+- bounty hunters
+  - And what if I am?
+
+
+
+- cutscene vaclu
+  - You were telling me about the troubles in Iziz.
+    - What do you mean by that?
+    - Why don't you tell me what you really think?
+    - How did you get in trouble?
+    - Can we talk about something else?
+  - Do you have a man named Dhagon Ghent in custody?
+    - Who got murdered?
+    - How long is Dhagon going to be questioned?
+    - Can I see him?
+    - How can I eliminate him as a suspect?
+    - I'll be going now.
+- Ponlar `infl with Mand`
+  - [Persuade] Everyone join Ponlar. The Queen's reign must end!
+  - If we want to work with Vaklu we need to give him some sort of sign. This is as good as any. `a_influence_inc(2, 2)`
+
 
 
 
