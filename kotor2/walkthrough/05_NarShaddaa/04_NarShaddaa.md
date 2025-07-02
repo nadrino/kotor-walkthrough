@@ -4,155 +4,26 @@
 [Back to the Index](../index.md) |
 [Next Page >](./05_NarShaddaa.md)
 
-
-- Refugee sector
-- Thugs
-  - And who do you two think you are?
-  - Why can't refugees leave?
-  - And who's this Overseer?
-  - Those are big words coming from a pair of two-cred thugs like yourselves. `c_ac_cha_gt(13)`
-  - [Intimidate] If you're threatening me, draw your weapons and let's do this. `c_ac_str_gt(14)`
-  - Thank you, kind sirs.
-- Left, down the ramp
-- Refugee camp
-- Hussef `Kreia & Disciple (DS)`
-  - Why is that?
-  - How do the Serroco and Exchange get along?
-  - Do the Serroco ever bother you?
-  - What does the Exchange do to the refugees?
-  - Why would the Exchange even care about the refugees?
-  - [Awareness] That doesn't make sense. Aren't they strong enough to force you all into slavery? `c_sc_awa_gt(10)`
-  - Is there anything I could help you with?
-  - I'll see what I can do.
-- Aaida
-  - You lost your husband? What happened?
-  - Why did the Sith let the in-system shuttles survive?
-  - If there's anyway I can help, let me know.
-  - I'm sorry to hear it. I'll be going now.
-- Karana
-  - What if I am?
-  - I think you have the wrong person.
-  - **He could have been killed on the way here - this is a rough place.**
-  - I might be able to track him down for you.
-  - Um... and how much did Planore charge you for this information?
-  - I suspect Planore scammed you.
-  - I'll try to find someone for you.
-- Kev'vhen `with Bao`
-  - Yes, I did, but I don't want to talk about it.
-- Don't reask for a tip
-- Nadaa
-  - Slow down. Tell me what happened.
-  - Can I help you get her back?
-  - I will find where he is hiding Adana and release her.
-  - I'll make sure he doesn't do that.
-- Geriel
-  - How did you become ill?
-  - [Treat Injury] Your illness doesn't look very serious to me. Let me help. `c_sc_tre_gt(14)`
-- + 500 XP + LSP + Crystal orange
-- Atton `infl++`
-- Loop +2 twileks -> make sense talk again later
-- Serocco
-  - I wanted to speak to your leader.
-  - [Force Persuade] Let me talk to your leader.
-    - //Why don't you go ahead and try?
-- Right
-- Serocco leader
-  - I don't like how you have been bullying the refugees.
-  - [Persuade/Intimidate] Stop harassing the refugees. `c_ac_str_gt(16)+c_sc_per_gt(8)`
-  - I don't care. Just leave the refugees alone.
-  - Not good enough. Disarm yourselves.
-- Kill them -> do a loop
-- Odis
-  - What makes you think I do?
-  - You served in the war?
-  - Why aren't you still flying?
-  - If I hear of anyone looking for a pilot, I'll refer them to you.
-- Ramp -> left
-- Finish down all serocco thugs
-- Airspeeder `Atton and Bao`
-  - Ask Bao-Dur to examine the airspeeder.
-  - [Computer] Install navigation interface. `looted in Tienn Tub workshop`
-  - [Security] Unlock airspeeder's controls.
-  - All right, I'll let the expert handle this. `a_influence_inc(1)`
-  - Leave the airspeeder alone.
-- +400 XP
-- Next ramp -> 2 thugs
-- Next ramp -> back to the camp
-- Talk to Hussef
-- Opposite ramp
-- This time right
-- Unlock a container -> will make the exchange men angry
-- Adana
-  - What are you doing in here?
-  - You don't sound very concerned about it.
-  - What do you mean?
-  - I'm here to rescue you.
-  - Wait here while I settle matters with Saquesh.
-- Head quarter
-- Saquesh
-  - Then maybe you ought to start bathing.
-  - You the one running this place?
-  - [Intimidate] Stop pressuring the refugees or I'll be forced to kill you.
-- Continue path to entrance
-- Go back to camp
-- See Adana
-- Kill the rest of them
-- Adana
-  - Are you Adana?
-  - Five.
-  - Your mother sent me to rescue you.
-  - I've taken care of the squid head. You can go back to your mother now.
-- Nadaa
-- +500 XP + shielding
-- Twilek
-  - **Who? Atton?**
-- Have a discussion with Atton
-  - I had some questions for you.
-    - I met someone on Nar Shaddaa who says he knows you.
-    - **He says you're not "Atton" at all. That you showed up on Nar Shaddaa during the Jedi Civil War.**
-    - Is there anything you want to tell me?
-    - Calm down, I just wanted to know. No harm meant. `a_influence_inc(1)`
-    - Maybe I will if you won't tell me.
-    - [Intelligence] Actually, if I had been trapped on the administration level on Peragus, the Sith still would have arrived through the airlock and tried to capture me. `c_ac_int_gt(14)`
-    - I want to know where you were before you arrived on Nar Shaddaa.
-    - I did a lot I wasn't proud of - and I am sorry for the lives that were lost, on both sides.
-    - **It wasn't like that.**
-    - They did not deserve it. Why would you even say that? `a_givelight(1)`
-    - The Jedi are guardians of the peace. They are not as you describe. `a_givelight(1)`
-    - You are wrong, Atton. That is not the way of the Jedi.
-  - **I'd like to know about your past, especially if we're traveling together.** `!c_influence_bet(40, 60)`
-    - Are you all right?
-    - Did you turn away from the Jedi Civil War or the Mandalorian Wars?
-    - But why?
-    - Why did you desert?
-    - That was wrong - you answered war with war. `a_givelight(1)`
-    - That is no reason to start another war against the Republic and end more lives. `a_givelight(1)`
-    - So you followed Revan - like I had.
-    - You fought Jedi?
-    - How could you have killed Jedi?
-    - So you force emotions? To block someone reading your mind?
-    - So this all came down to the Jedi - and the Force.
-    - Capture Jedi? Not kill them?
-    - But you're here now. Why?
-    - Why are you telling me this? You're telling a Jedi you killed Jedi.
-  - **But why did you leave the Sith?** `!c_influence_bet(20, 80)`
-    - Who?
-    - Truth about what?
-    - Did you kill her?
-    - Perhaps she felt a greater good would be served with your salvation. `a_givelight(1)`
-    - That is a lot to bear - and it is a lot for me to forgive.
-    - Then I welcome your help.
-    - Then let us stand together against the Sith.
-    - Then I will train you, Atton.
-    - Just close your eyes. And open your mind.
-    - You must learn to feel it around you, feel its currents, its eddies.
-    - Listen to the echo of your thoughts, your heart - separated from war, separated from hate.
-    - Think of what you felt when you felt the need to help me, to protect me.
-    - And at last, Atton... awaken.
-    - [Atton has taken his first steps on the path of a Jedi Sentinel. He will grow in ability as he travels with you and learns what you know of the Force.]
-- Level up 19
-- Leave the refugee sector
-
+- Geeda
+  - Oondar across the way has a problem with you.
+  - That is acceptable.
+  - I'll be going now.
+- Oondar
+  - Geeda offered me a discount, too. If you want her gone, you'll need to raise your offer.
+  - You haven't given me anything yet, except words.
+  - Your threats don't mean much.
+  - I'll go take care of business, then.
+- Geeda
+  - Oondar countered your offer with a threat from the Exchange.
+  - [Awareness] You're trying to tell me something else. You're testing me. `c_sc_awa_gt(9)`
+  - I'll choose the longer road. Oondar was irritating me, anyway.
+  - And what do I get out of it?
+  - I already settled the problems on Dantooine. If you want to travel there to trade, you can.
+  - I will do my best and let you know.
+  - +1000 XP
+- Oondar
+  - I'm standing with Geeda...
+  - +250 XP
 
 
 [< Previous Page](../03_NarShaddaa.md) |

@@ -4,104 +4,158 @@
 [Back to the Index](../index.md) |
 [Next Page >](./06_NarShaddaa.md)
 
-- SAVE
-- Cutscenes
-- Ebon
-  - I do not ask for your blood, I ask for your obedience.
-  - I could kill you all in a heartbeat. Your lives are mine, whether you wish it or not.
-  - Give up the slave trade - or else.
-  - Then prepare to die.
-- Kill
-  - Get off my ship before I throw you out.
-- +500 XP
-- Atton and Kreia cutscene
-- T3 `level 20? Need cutscene with Kreia?`
-  - [Intelligence] How did you get here, T3? `c_t3_message_0(14)+c_area("003EBO")`
-  - Were you on the Ebon Hawk with Kreia?
-  - But where did the Ebon Hawk come from?
-  - Yes, but where did the Ebon Hawk come from?
-  - T3?
-  - If you don't know, then just say so.
-  - If you didn't know, then say so, but don't start seizing up on me.
-  - [Computer] You're deliberately avoiding answering - why? `c_sc_com_gt(10)`
-  - [Computer] Let me check your core. I'll be careful, I promise. `a_givelight(1);a_influence_inc(8, 1)` `c_sc_com_gt(10)`
-  - I want to make sure you're all right. Just let me check, all right? `a_givelight(1);a_influence_inc(8, 1)` `!c_sc_com_lt(15)`
-  - I'm finished. Are you all right?
-  - Then play the message. `BUG: can't play the message`
-  - ...
-  - Friend of yours?
-  - I don't understand why you were concealing that from me.
-  - I understand. I didn't think you kept messages like that.
-  - That person in the hologram a friend of yours?
-  - So this help you came in search of - you came in search of me.
-  - So you found me in my weakened state and placed me in danger. You could have gotten me killed.
-  - **You needed someone strong enough to fight the danger that was coming. Someone who knew war - and battle, and could make the hard choices that had to be made.**
-  - I'm honored, T3. I will do what I can to stop this threat. `a_influence_inc(8, 3);a_lightsml()`
-  - Never mind.
-- Kreia (level >= 20) end of Kreia back story!
-  - Before, when I heard the thoughts of my companions, I heard something, like an echo. `!c_pc_level(20)`
-  - **But that sound, that echo - it was more than beyond the ship, it was the people in it.**
-  - Never mind. I'll be going now.
-- Atton
-  - Learn everything he can
-- Leave the Ebon
+- Refugee sector
+- Thugs
+  - And who do you two think you are?
+  - Why can't refugees leave?
+  - And who's this Overseer?
+  - Those are big words coming from a pair of two-cred thugs like yourselves. `c_ac_cha_gt(13)`
+  - [Intimidate] If you're threatening me, draw your weapons and let's do this. `c_ac_str_gt(14)`
+  - Thank you, kind sirs.
+- Left, down the ramp
+- Refugee camp
+- Hussef `Kreia & Disciple (DS)`
+  - Why is that?
+  - How do the Serroco and Exchange get along?
+  - Do the Serroco ever bother you?
+  - What does the Exchange do to the refugees?
+  - Why would the Exchange even care about the refugees?
+  - [Awareness] That doesn't make sense. Aren't they strong enough to force you all into slavery? `c_sc_awa_gt(10)`
+  - Is there anything I could help you with?
+  - I'll see what I can do.
+- Aaida
+  - You lost your husband? What happened?
+  - Why did the Sith let the in-system shuttles survive?
+  - If there's anyway I can help, let me know.
+  - I'm sorry to hear it. I'll be going now.
+- Karana
+  - What if I am?
+  - I think you have the wrong person.
+  - **He could have been killed on the way here - this is a rough place.**
+  - I might be able to track him down for you.
+  - Um... and how much did Planore charge you for this information?
+  - I suspect Planore scammed you.
+  - I'll try to find someone for you.
+- Kev'vhen `with Bao`
+  - Yes, I did, but I don't want to talk about it.
+- Don't reask for a tip
+- Nadaa
+  - Slow down. Tell me what happened.
+  - Can I help you get her back?
+  - I will find where he is hiding Adana and release her.
+  - I'll make sure he doesn't do that.
+- Geriel
+  - How did you become ill?
+  - [Treat Injury] Your illness doesn't look very serious to me. Let me help. `c_sc_tre_gt(14)`
+- + 500 XP + LSP + Crystal orange
+- Atton `infl++`
+- Loop +2 twileks -> make sense talk again later
+- Serocco
+  - I wanted to speak to your leader.
+  - [Force Persuade] Let me talk to your leader.
+    - //Why don't you go ahead and try?
+- Right
+- Serocco leader
+  - I don't like how you have been bullying the refugees.
+  - [Persuade/Intimidate] Stop harassing the refugees. `c_ac_str_gt(16)+c_sc_per_gt(8)`
+  - I don't care. Just leave the refugees alone.
+  - Not good enough. Disarm yourselves.
+- Kill them -> do a loop
+- Odis
+  - What makes you think I do?
+  - You served in the war?
+  - Why aren't you still flying?
+  - If I hear of anyone looking for a pilot, I'll refer them to you.
+- Ramp -> left
+- Finish down all serocco thugs
+- Airspeeder `Atton and Bao`
+  - Ask Bao-Dur to examine the airspeeder.
+  - [Computer] Install navigation interface. `looted in Tienn Tub workshop`
+  - [Security] Unlock airspeeder's controls.
+  - All right, I'll let the expert handle this. `a_influence_inc(1)`
+  - Leave the airspeeder alone.
+- +400 XP
+- Next ramp -> 2 thugs
+- Next ramp -> back to the camp
+- Talk to Hussef
+- Opposite ramp
+- This time right
+- Unlock a container -> will make the exchange men angry
+- Adana
+  - What are you doing in here?
+  - You don't sound very concerned about it.
+  - What do you mean?
+  - I'm here to rescue you.
+  - Wait here while I settle matters with Saquesh.
+- Head quarter
+- Saquesh
+  - Then maybe you ought to start bathing.
+  - You the one running this place?
+  - [Intimidate] Stop pressuring the refugees or I'll be forced to kill you.
+- Continue path to entrance
+- Go back to camp
+- See Adana
+- Kill the rest of them
+- Adana
+  - Are you Adana?
+  - Five.
+  - Your mother sent me to rescue you.
+  - I've taken care of the squid head. You can go back to your mother now.
+- Nadaa
+- +500 XP + shielding
+- Twilek
+  - **Who? Atton?**
+- Have a discussion with Atton
+  - I had some questions for you.
+    - I met someone on Nar Shaddaa who says he knows you.
+    - **He says you're not "Atton" at all. That you showed up on Nar Shaddaa during the Jedi Civil War.**
+    - Is there anything you want to tell me?
+    - Calm down, I just wanted to know. No harm meant. `a_influence_inc(1)`
+    - Maybe I will if you won't tell me.
+    - [Intelligence] Actually, if I had been trapped on the administration level on Peragus, the Sith still would have arrived through the airlock and tried to capture me. `c_ac_int_gt(14)`
+    - I want to know where you were before you arrived on Nar Shaddaa.
+    - I did a lot I wasn't proud of - and I am sorry for the lives that were lost, on both sides.
+    - **It wasn't like that.**
+    - They did not deserve it. Why would you even say that? `a_givelight(1)`
+    - The Jedi are guardians of the peace. They are not as you describe. `a_givelight(1)`
+    - You are wrong, Atton. That is not the way of the Jedi.
+  - **I'd like to know about your past, especially if we're traveling together.** `!c_influence_bet(40, 60)`
+    - Are you all right?
+    - Did you turn away from the Jedi Civil War or the Mandalorian Wars?
+    - But why?
+    - Why did you desert?
+    - That was wrong - you answered war with war. `a_givelight(1)`
+    - That is no reason to start another war against the Republic and end more lives. `a_givelight(1)`
+    - So you followed Revan - like I had.
+    - You fought Jedi?
+    - How could you have killed Jedi?
+    - So you force emotions? To block someone reading your mind?
+    - So this all came down to the Jedi - and the Force.
+    - Capture Jedi? Not kill them?
+    - But you're here now. Why?
+    - Why are you telling me this? You're telling a Jedi you killed Jedi.
+  - **But why did you leave the Sith?** `!c_influence_bet(20, 80)`
+    - Who?
+    - Truth about what?
+    - Did you kill her?
+    - Perhaps she felt a greater good would be served with your salvation. `a_givelight(1)`
+    - That is a lot to bear - and it is a lot for me to forgive.
+    - Then I welcome your help.
+    - Then let us stand together against the Sith.
+    - Then I will train you, Atton.
+    - Just close your eyes. And open your mind.
+    - You must learn to feel it around you, feel its currents, its eddies.
+    - Listen to the echo of your thoughts, your heart - separated from war, separated from hate.
+    - Think of what you felt when you felt the need to help me, to protect me.
+    - And at last, Atton... awaken.
+    - [Atton has taken his first steps on the path of a Jedi Sentinel. He will grow in ability as he travels with you and learns what you know of the Force.]
+- Level up 19
+- Leave the refugee sector
 
 
-- Cantina `Atton -> will play pazaak for you and Visas` / `T3 could have a line as well`
-  - And if I am?
-  - Why don't you just go in and see him?
-  - Can I pass along a message for you?
-  - That sounds like it might be worth some compensation.
-- Pazaak den
-  - Are you speaking to me?
-- Kaalah-nah `306nar/kaalanah.dlg`
-  - What could you possibly have to sell me?
-  - How do I know it's worth it?
-  - I'm here to see the Exchange.
-  - What makes you say that?
-  - The Exchange and I have business, and I'm looking to sign on.
-  - We'll see about that.
-- Bar `306nar/hitman.dlg BUG, alien vioces not replaced`
-  - Why don't you leave the girl alone?
-  - If you think you're tough, prove it.
-- Bartender
-  - Know anything interesting about the area?
-  - **How do you mean?**
-  - Pazaak den?
-  - The Champ?
-  - Swoop races? `-> this could happen before we dp the quests there`
-  - Jekk'Jekk Tarr?
-- Dancers `Visa Banter`
-  - What's going on here?
-  - Tell me about Vogga.
-  - What's in it for me?
-  - What would you need of me?
-  - What about me?
-  - I have some preparations to make first.
-- Kaalah-nah -> LATER
-  - What can you tell me about this area?
-  - Then you must know the password to the pazaak den.
-  - You will give it to me.
-- Give password and enter
-- Droid `306nar/drdplay.dlg`
-  - What are you talking about?
-  - Why do you waste your time then?
-  - [Intelligence] Wait... you said come here and play pazaak. Why here?
-  - Uh, maybe in a moment. Why would you want to come here specifically?
-  - [Computer] ...
-  - no play!
-  - // NOO -> byg with quest? [Awareness] [Check the droid for oddities.] `c_sc_awa_gt(5)` `a_global_inc("300NAR_Exchange_Gap", 1);a_global_dec("300NAR_Exchange_Favor", 1)`
-  - [Computer] [Hook the module up to your datapad.]
-- Twilek -> Atton will play for you
-- Duros
-  - DSP if not playing
-  - play 2 times (or 3)
-- Champion spawns -> play with him! 500c
-  - I have won a few matches, yes.
-  - ...  -> play with him! 500c x3 + golden card
-  - Who are you again?
-  - So if you win every time. Why do you play?
-  - 
+
+
+
 
 
 [< Previous Page](../04_NarShaddaa.md) |

@@ -1,0 +1,148 @@
+# Nar Shaddaa - Ambush
+
+[< Previous Page](../07_NarShaddaa.md) |
+[Back to the Index](../index.md) |
+[Next Page >](./09_NarShaddaa.md)
+
+
+- Go to the docks
+- Cutscene `here texture is fine with Hanar`
+- Fassa
+  - Who do you work for?
+    - How is business these days?
+    - Who is hijacking the freighters?
+    - Why is Goto hijacking the freighters?
+    - I'd like to ask you about something else.
+  - Do you have any need for pilots?
+    - Is there anything I can do to help prevent the hijackings?
+    - What's wrong with the pylons?
+    - I'll help if you can transport a family to Telos.
+    - Never mind. I'll be going now.
+  - // I wanted to talk to you about the Exchange.
+    - **Can you help me infiltrate the Exchange?**
+    - How can I speak with them?
+- First door on the left
+- First door -> aliens -> stealth -> conversation
+- Mand
+  - I'm pretty comfortable right here.
+  - Anything you have of value.
+  - Give me anything you have of value.
+- Next
+  - Captain?
+  - Jekk'Jekk Tarr?
+  - What species is your captain?
+  - I'll keep an eye... or a nose... out for him if I can get inside the Jekk'Jekk Tarr.
+- Next loot unlock
+- Next Bith Scientist
+  - I am <FullName>, just checking out the area.
+  - Can I ask what you're doing?
+  - [Repair] You've got an impressive array of equipment and monitors here. `c_sc_rep_gt(5)`
+  - [Repair] This equipment looks like it's designed to track signals - correct? `c_sc_rep_gt(5)`
+  - Antennas for what?
+  - Tracking a signal among the dock frequencies seems impossible.
+  - I don't understand.
+  - Why is it a problem?
+  - [Wisdom] Why would anyone need such a strong signal? `c_ac_wis_gt(15)`
+  - How did you find it then?
+  - Who is behind it?
+  - Is there anything I can do to help you out?
+  - What's the job?
+  - I'm interested.
+  - Where were you supposed to meet this Twi'lek?
+- Lasavvou
+  - I'm not from the dock authority. What do you mean?
+  - **If you could help a family get off planet, then I could help you pay the fee.**
+  - [Awareness] Out of curiosity, what is your cargo, Lasavvou? `c_sc_awa_gt("7")`
+  - Could I have one of your power cells?
+  - I'll let you know what happens.
+- Lootra
+  - Sorry, I didn't know anyone was in here.
+  - What do you mean?
+  - Why can't you get into the Refugee Sector?
+  - How do you know she's still alive?
+  - I ran into a woman named Aaida in the Refugee Sector.
+  - I'm working on it. I'll return when I have more.
+- Fassa
+  - I want to talk to you about Lasavvou.
+    - How much does he owe?
+    - Is there any way I can convince you to forget about his debt?
+    - What do you need help with?
+    - I'll try to help.
+    - I'll do my best.
+- Computer
+  - [Computer] Optimize power distribution. [1 Spike(s)]
+- Door behind
+  - Loot all containers
+- Hutt
+  - Bith
+    - What can you tell me about Goto?
+    - What's Vogga's problem?
+    - **Why doesn't Vogga do something about it?**
+    - What's your interest in this?
+    - I was also trying to find a fuel source for Citadel Station.
+    - Not after I convince Vogga it's safe for his freighters to operate again.
+  - Guard
+    - Who are you?
+    - I want to speak with Vogga.
+    - The freighter hijackings that have been plaguing his shipping.
+  - Vogga
+    - I wanted to know about the Exchange.
+    - What has Goto done to you?
+    - Perhaps I can help you get to the bottom of this.
+    - Citadel Station is looking for a new fuel source.
+    - If I can take care of Goto, will you agree to ship fuel to Citadel Station?
+    - I just want to make sure Telos has fuel.
+    - I don't take orders from pompous slugs.
+    - I'd like to talk to you about the fuel on Sleheyron.
+  - B5-D8
+    - Can you tell me anything about Vogga?
+    - What is this place?
+    - You buy droids?
+    - I'll be going now.
+- Jekk
+  - What if I was?
+  - Is that a threat?
+  - I see. How can I get in then?
+- Third pylon
+  - Cylinder -> flaps
+  - Loot corpse -> kill droid
+- Second pylon
+  - Look
+- Bith -> dead
+- Back to the first pylon
+  - Go to pylon 1, 2 then 3
+    - Examine freighter ID Signatures.
+      - Read ID Signature of freighter Silver Zephyr.
+        - Silver Zephyr: I-9*-***-*2*
+        - Silver Zephyr: I-**-967-**1
+      - Read ID Signature of freigher Toorna's Profits.
+        - Toorna's Profits: E-**-4*1-1*8
+        - Toorna's Profits: E-45-451-118
+      - Read ID Signature of freighter Alakandor.
+        - Alakandor: S-49-491-937
+        - Alakandor: S-*9-4**-***
+    - Order
+    - 1 - Silver Zephyr
+    - 2 - Alakandor
+    - 3 - Toorna's Profits
+  - +500 XP
+- Fassa
+  - I want to talk to you about Lasavvou.
+  - I'll let him know.
+- Computer room -> scientist dead
+- Lasavvou -> After Refugee
+  - Fassa says that you can depart now.
+  - Wait... can you help Kahranna now?
+  - [Awareness] You're not really going to help her, are you? `c_sc_awa_gt(11)`
+  - What is the Ithorian Supremacy League?
+  - I'm certain you said something about an Ithorian Supremacy League.
+  - [Persuade] But we had a deal. You should honor it. `c_sc_per_gt(9)`
+  - I appreciate your help, Lasavvou. `{Gameplay Programmer -- Lasavvou leaves room. Kahranna is removed from 302NAR}`
+- +2000XP + Cryogenic power Cell
+- Leave
+
+
+
+[< Previous Page](../07_NarShaddaa.md) |
+[Back to the Index](../index.md) |
+[Next Page >](./09_NarShaddaa.md)
