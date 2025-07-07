@@ -52,7 +52,7 @@
 - Ambush!
 - Party screen -> Kreia + Visas?
 - Quite hard with LS mod
-- Unlimited XP if you don't get close to the door
+- Unlimited XP if you don't get close to the door -> dont far with the guide
 
 
 

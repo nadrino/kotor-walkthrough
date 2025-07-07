@@ -34,6 +34,11 @@
   - Who is she?
   - Can we talk about something else?
 - News Holo
+  - _In the Council of Lords today, Lord Dashel{DASH-elle} recommended a special commendation for Colonel Tobin due to his brilliant command of our armada in the skies above Onderon._
+  - _The Ithorian fleet has yet again pushed back estimates for when the beasts will be cleared from our streets. They claim that the blockade continues to hinder their progress._
+  - _The Council of Lords' session is running late today as General Vaklu rallies his supporters to pass his amendment giving the Council the power to manage diplomatic relations with the Republic instead of the Queen._
+  - _In the Council of Lords today, Lord Dashel{DASH-elle} recommended a special commendation for Colonel Tobin due to his brilliant command of our armada in the skies above Onderon._
+  - 3 others `c_quest_status("docalibi", 99)`
 - Riiken
   - There are a lot of soldiers around.
     - Could you tell me about the troubles?
@@ -58,7 +63,8 @@
   - The Queen should listen to the will of her people.
 - HK
 - Go behind the funtain -> don't trigger new conv with Ponlar yet
-- Anda `remove Kreia in the group -> need infl on Mand, she overrides his line`
+- DEV SAVE
+- Anda `remove Kreia in the group -> need infl on Mand, she overrides his line -- TRYING WITHOUT DOING THIS`
   - What's this about?
   - How do I remove them from their posts?
   - Tell me about these captains.
@@ -86,8 +92,11 @@
   - Why aren't you on the Wall any more?
   - You don't sound too pleased about your post.
   - [Persuade] It seems such a distinguished officer would be of more use somewhere else. `c_sc_per_gt(7)`
-  - **If there's a civil war, the attack will come from inside the city. Guarding the Sky Ramps will be very important.** `a_lightsml()`
+  - **If you're that unhappy, you should request to be reassigned to the Wall.** `->`
+    - //**If there's a civil war, the attack will come from inside the city. Guarding the Sky Ramps will be very important.** `a_lightsml()`
+  - **[Force Persuade] You should request reassignment. Immediately.**
 - SAVE
+- To west
 
 
 [< Previous Page](05_Onderon.md) |

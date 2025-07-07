@@ -6,6 +6,7 @@
 
 
 - western square
+- Kill bounty hunters
 - 1B-8D `infl GOTO(3)`
   - What do you sell?
   - Can you answer questions?
@@ -32,10 +33,15 @@
   - And what if I am?
 
 - cutscene vaclu
-- Back to the turrent guy
+- Anda +2500c
+- Back Riiken
 - You were telling me about the troubles in Iziz.
   - What do you mean by that?
   - Why don't you tell me what you really think?
+    - TEST
+      - [Persuade] How will it get better if people are afraid to speak out? It's just a form of cowardice. `always fails`
+      - **[Persuade] You hide behind your shaky rationales build of fear and weakness. You don't have the strength to live by your beliefs.** `c_sc_per_gt(12)`
+      - -> after `Do you have a man named Dhagon Ghent in custody?`
   - How did you get in trouble?
   - Can we talk about something else?
 - Do you have a man named Dhagon Ghent in custody?
@@ -48,6 +54,7 @@
   - [Persuade] Everyone join Ponlar. The Queen's reign must end!
   - If we want to work with Vaklu we need to give him some sort of sign. This is as good as any. `a_influence_inc(2, 2)`
 - kill everyone
+- TEST // ANDA +2500c
 - Go to the cantina
 
 
