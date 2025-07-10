@@ -17,8 +17,11 @@
 | G0-T0      | Negative              | LS                    |
 | Mandalore  | Positive              | Neutral               |
 
+## Bugs
 
-
+- Compartment in Ebon Hawk not showing up
+- Party can be changed on Onderon -> sjoudn;t be the case
+- Onderon: missing line: "...And so S-0D3's transmission clearly shows that the murderer was firing from the marketplace. But Dhagon came running from his office. It couldn't have been him."
 
 ## Before playing
 

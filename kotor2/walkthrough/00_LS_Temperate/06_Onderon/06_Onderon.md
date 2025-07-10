@@ -64,7 +64,7 @@
 - HK
 - Go behind the funtain -> don't trigger new conv with Ponlar yet
 - DEV SAVE
-- Anda `remove Kreia in the group -> need infl on Mand, she overrides his line -- TRYING WITHOUT DOING THIS`
+- Anda
   - What's this about?
   - How do I remove them from their posts?
   - Tell me about these captains.
@@ -74,10 +74,10 @@
     - I have some other questions.
   - How much does this pay?
   - I'll be going now.
-- // Kreia `a_influence_inc(6, 2)`
-  - I may see where this quest of hers leads us.
-- Mand
-  - I agree, Vaklu has a lot more to offer us. `a_influence_inc(2, 2)`
+  - Kreia `a_influence_inc(6, 2)`
+    - I may see where this quest of hers leads us.
+  - // Mand // not used here
+    - I agree, Vaklu has a lot more to offer us. `a_influence_inc(2, 2)`
 - Two aliens talking politics
   - What do you think of Queen Talia?
   - I don't know much about General Vaklu.
@@ -95,6 +95,7 @@
   - **If you're that unhappy, you should request to be reassigned to the Wall.** `->`
     - //**If there's a civil war, the attack will come from inside the city. Guarding the Sky Ramps will be very important.** `a_lightsml()`
   - **[Force Persuade] You should request reassignment. Immediately.**
+- Anda
 - SAVE
 - To west
 

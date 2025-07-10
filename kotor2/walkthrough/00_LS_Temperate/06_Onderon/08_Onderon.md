@@ -5,112 +5,22 @@
 [Next Page >](09_Onderon.md)
 
 
-- Cantina
-- Gormo
-  - Why do you ask?
-  - Have you tried to explain your situation to the soldiers?
-  - There seem to be a lot of people here that need one.
-  - I only have mine and I'm using it.
-  - Slicer?
-  - Do you know what is going on here?
-  - I'll be going now.
-- Gelesi
-  - You seem tired.
-  - What's so tough about it?
-  - Tell me about Sullio.
-  - What do you know about the murder?
-  - You sound nervous.
-  - [Persuade] That sounds like a good idea. You need to think of your family first. `fail`
-  - [Persuade] You're right to worry. I know people want to get rid of the captains. `c_sc_per_gt(16)`
-- // with minimum XP abuse before leaving DXUN -> level 26
-- Nikko
-  - Let's play some pazaak.
-- 250c x 4
-- Qimtiq
-  - Tell me about the cantina.
-    - You seem to be in a good mood.
-    - You want the war to come?
-    - But if a war happened then wouldn't you be shut down?
-    - I'll be going now.
-- Talk M-sadaar `What are you looking at, smooth-skin?`
-  - Are you a swoop racer?
-  - Look, I just want some information.
-  - Just a few questions.
-  - Why are racers paid so well?
-  - There. Was that so painful?
-- Bahima `will comment about your skin if DS`
-  - What do you know about Iziz?
-  - How has it changed recently?
-  - I'll be going now.
-- Talk to Vix
-  - Uh, hi.
-  - Yes, swoop.
-  - Yes, swoops fast. Is there something I can help you with?
-  - That's great, Vix. I'm going to go stand over here now. 
-- Qimtiq
-  - I want to race.
-    - Could you go over the basics of racing?
-    - What do I get if I win?
-    - **What are the rounds?** `Revan!`
-    - What's the competition like here?
-    - How is Jonra controversial?
-    - Let's go back to my other questions.
-    - I'm ready to race.
-    - Here's 100 credits.
-  - ...
-  - Can I talk with you about Captain Sullio's murder?
-  - I'll be going now.
-
-```
-ALERT: INFLUENCE WITH: EntryList, strref=91751, speaker=Disciple, execScript=a_influence_inc(11, 2), nextList=[[0]: 30]
-ALERT: INFLUENCE WITH: EntryList, strref=91752, speaker=Handmaiden, execScript=a_influence_inc(4, 2), nextList=[[0]: 30]
-ALERT: INFLUENCE WITH: EntryList, strref=91750, speaker=BaoDur, execScript=a_influence_inc(1, 2), nextList=[[0]: 30]
-
-CHEAT -> c_global_eq("000_Cheat", 1)
-```
-- Xaar `+ Banter with Mand`
-  - You look familiar, too.
-  - I remember Dagary Minor...
-  - Not directly any more, but I try and lend a hand when I'm able.
-  - **Why is it so important if one world secedes from the Republic?**
-  - Why not?
-  - What was your mission?
-  - You might want to travel to Telos, as well. There is a Republic representative there.
-  - Couldn't you get a visa?
-  - Actually, I'd like to talk to you about Captain Sullio's murder.
-  - An acquaintance of mine, Dhagon Ghent, is being held by the authorities. I'm trying to get him free.
-  - How can you be so sure?
-  - Why don't you tell the authorities?
-  - I don't suppose anybody else saw you?
-- Sakarie `Crystal only for DS` `Kreia banter`
-  - A lightsaber crystal? What does it do?
-  - Actually, I was wanting to talk to you about Captain Sullio's murder?
-  - What were they questioning you about?
-  - I want to talk about the starport visa, instead.
-  - What do you need the open starport visa for?
-  - [Force Persuade] I have an honest face. You will answer my question. What do you need the visa for? `c_domin_mind()`
-  - How do I know you'll live up to your end of the bargain?
-  - How do you know I'm a Jedi?
-  - I'll be going now.
-- Panar `could ask about Dagon, but same info provided by Kiph`
-  - You're a swoop racer, aren't you?
-  - // I'd like to talk to you about Captain Sullio's murder.
-    - Do you know Dhagon Ghent?
-    - Who is Bakkel?
-    - Do you know any reason why Dhagon Ghent would kill Sullio?
-    - I'll be going now.
 - Kiph `alibi -> 1`
-  - What do you know of the city?
-    - What do you think of the General and the Queen?
-  - What do you do?
-    - Could you be a little more vague?
   - I want to talk to you about Captain Sullio's murder.
     - Soldiers have a habit of doing that. `a_local_set(50)`
     - Do you know Dhagon Ghent?
     - Do you know any reason why Dhagon Ghent would kill Sullio? `a_alibi_motive()`
     - I'll be going now.
-- +250 XP
-- Waitress
+- Sakarie
+  - Actually, I was wanting to talk to you about Captain Sullio's murder?
+  - What were they questioning you about?
+  - I'll be going.
+- Xaar
+  - Actually, I'd like to talk to you about Captain Sullio's murder.
+  - An acquaintance of mine, Dhagon Ghent, is being held by the authorities. I'm trying to get him free.
+  - How can you be so sure?
+  - Why don't you tell the authorities?
+  - I don't suppose anybody else saw you?
 - Nikko `alibi -> 2`
   - Can I talk with you about Captain Sullio's murder?
   - Do you know Dhagon Ghent?
@@ -119,29 +29,23 @@ CHEAT -> c_global_eq("000_Cheat", 1)
   - Where did you find the body?
   - I'll be going.
 - + 500 XP
-- 2nd round -> if persuade > 18 -?> you won't pay AND he will give you 500c more -> 1000c 
-  - [Persuade] With the money I've made you, I'm not going to pay the fee. I want a cut of the profits. `c_sc_per_gt(18)`
-- Jonra Far `after 1st race at least`
-  - I'll take that drink. I'm <FullName>.
-  - Fun.
-  - Social activism via swoop racing, sounds far-fetched to me.
-  - Struggle?
-  - Free yourselves? I didn't know Onderon was a conquered planet.
-  - Sounds like the Republic has been bad for Onderon.
-  - What can I do?
-- Bahima
+- Qimtiq
   - Can I talk with you about Captain Sullio's murder?
-    - An acquaintance of mine, Dhagon Ghent is being questioned by the military about this. I'd like to get him free.
-    - Do you know Dhagon Ghent?
-    - //Do you know any reason why Dhagon Ghent would kill Sullio?
-    - //`Someone was saying that Sullio deeply humiliated Dhagon the night was murdered. That's a very good motive.` -> already done with Nikko
-    - I'd like to ask about something else.
+  - 3rd round -> vs M-sadaar -> 2000c + 500c
+- M-sadaar is now upset!
+- Bahima
   - I have an extra starport visa, but it isn't open. Know anybody who can do something about it? `Won't appear if we chose "Would you know where I could find an extra starport visa?" first"`
   - Would you know where I could find an extra starport visa?
   - You've got several rough characters in here.
     - They seem little more than thugs.
     - Anything I can do to help?
   - I'll be going now.
+- Jonra Far `after 1st race at least`
+  - Fun.
+  - Social activism via swoop racing, sounds far-fetched to me.
+  - Can you tell me about the swoop track?
+    - What do you mean?
+    - What do you think of the other racers?
 - Kiph
   - A friend of a friend told me that you're the guy I should talk to about... adjusting... starport visas.
   - How do I know that the visa will work?
@@ -152,38 +56,26 @@ CHEAT -> c_global_eq("000_Cheat", 1)
 - Outside
 
 
-- Have a chat with Mand `no influence directly on him`
-  - Go ahead.
+- Have a chat with Mand `no influence directly on him` 
+  - Go ahead. `!c_influence_bt(2, 29, 69)&&!c_local_set(44)`
     - They were the only Jedi who realized that the Republic would fall without the support of the Jedi.
     - **The Mandalorians were a menace that had to be stopped.**
     - Of course. The Mandalorians couldn't run the Republic.
-  - Can you do anything to help out? `first`
-  - What's your take on the Republic?
-    - You seem awfully complimentary of Revan, considering he almost destroyed your people.
-    - Perhaps the Jedi thought the Mandalorians a threat not worthy of their attention.
-  - Can you tell me about the Mandalorians?
-    - **Can you tell me of Mandalorian history?**
-    - There's more to life than war and battle.
-  - Are you certain the clans will follow you?
-    - **I don't see any army with you yet.**
-    - Why haven't the clans come together earlier?
-    - **I don't want the Mandalorians to become that powerful again.**
-  - How did you become Mandalore?
-    - **So all of this is over a helmet?**
-    - **How did you find the helmet?** `I was there with him when he defeated Darth Malak and traveled with him afterwards.`
-  - Do you know anything about this world?
-  - If you're leader of the Mandalorians, I would have thought you'd be tougher than you are.
   - I was wondering if you could give me some stimulants.
     - I'll take any advantage I can get.
+  - Do you know anything about this world?
+  - Never mind.
 - Murder scene
 - droid!
 - Back to the Cantina
   - Bahima
     - Can I talk with you about Captain Sullio's murder?
-    - I found a broken serving droid by the murder scene.
-    - What keeps happening to your serving droids?
-    - Why didn't you mention this before? `-> to Nikko`
-    - I'll be going.
+      - An acquaintance of mine, Dhagon Ghent is being questioned by the military about this. I'd like to get him free.
+      - Do you know Dhagon Ghent?
+      - I found a broken serving droid by the murder scene.
+      - What keeps happening to your serving droids?
+      - Why didn't you mention this before? `-> to Nikko`
+      - I'll be going.
   - Niko
     - Can I talk with you about Captain Sullio's murder?
     - I found a broken serving droid by the murder scene.
@@ -202,6 +94,7 @@ CHEAT -> c_global_eq("000_Cheat", 1)
     - Any idea which scavenger got to his droid?
     - You know that? Where?
     - I'll be going now. `-> 1B-8D`
+- Out
 - 1B-8D
   - B-8D, I need to know if you have any parts from one of Bahima's serving droids.
   - I want to buy those parts.
@@ -211,6 +104,7 @@ CHEAT -> c_global_eq("000_Cheat", 1)
   - Kiph -> head
   - Nikko
     - I want to show
+- ...
 - Captain
   - Dhagon Ghent couldn't have killed Captain Sullio.
   - Nikko can explain it.
@@ -240,30 +134,22 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
   - Who has them?
 - -> he needs disk
 - Cantina!
-- Bakel
-  - **Are you a beast-rider?**
-  - You have something that belongs to Dhagon Ghent. I want to get it back.
-  - I was hoping I might be able to buy any holodisks you get from his office.
-- Open visas!
-- Capitain -> move away -> 2500c by aida + 250 XP
-- Last races
-  - Jonra Far
-    - Can you tell me about the swoop track?
-    - What do you mean?
-    - What do you think of the other racers?
-  - 3rd round -> vs M-sadaar -> 2000c + 500c // LATER
-  - 4th round -> vs Jonra Far -> 5000c +500c
-    - M-sadaar -> don't want to talk anymore
-    - Jonra Far
-    - Vix
-- Leave the Cantina
+  - Last race
+    - 4th round -> vs Jonra Far -> 5000c +500c
+      - Jonra Far
+      - M'sadaar
+      - Vix
+  - Bakel
+    - **Are you a beast-rider?**
+    - You have something that belongs to Dhagon Ghent. I want to get it back.
+    - I was hoping I might be able to buy any holodisks you get from his office.
+  - Open visas!
+  - Leave the Cantina
 - Dhagon
   - I got the holodisks from Bakkel.
   - **I have something I have to do first.**
 - Last peaceful time on Onderon!
 - Talk to the people -> you are the swoop champion!
-- Back to Anda
-  - +2500c +550XP
 - Riiken will talk to you
 - News terminal
   - _Crime rates have been soaring in recent months. Even in the Merchant Quarter, the Western Square has seen a dramatic increase in violent crimes._
@@ -273,6 +159,10 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
   - I have found a visa for you. Here.
 
 
+
+- SAVE
+- Dhagon
+  - Contact the Jedi now...
 - Kavar `could gain infl with Mand if alone`
   - Master Kavar? I didn't know you were still alive.
   - I want to know why I was cast out of the Jedi Order.
@@ -297,7 +187,7 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
   - Vix as dumb as before
 - Outside
 - Head to Djagon room -> back Vaklu men running toward the cantina
-- Kill 5 Vaklu men
+- Kill 8 Vaklu men
 - Back to central square
   - Why aren't you shooting at me? All the other soldiers have been.
   - It's broad daylight. They were wearing uniforms.
@@ -332,29 +222,58 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
 - Kex -> MAND -> get inventory
   - Kex here doesn't know why you'd let me roam free. He doesn't trust me.
   - Let me see...
-- Guide
+- Before leaving the camp
 - MAND `I want to have a word with you` -> Unifications of the clans
   - What is it?
-  - How do you plan on doing that?
-  - Is that a threat?
-- Make sur Visas has a simple single blade LS
+    - How do you plan on doing that?
+    - Is that a threat?
+  - If you're leader of the Mandalorians, I would have thought you'd be tougher than you are.
+  - Can you do anything to help out?
+  - Do you know anything about this world?
 - HARD SAVE
+- You can you the guide (our Mandalore is your guide!)
+
+
 
 - EBON
-  - Disciple `I wish to show you something.`
+  - cutscene: Disciple `I wish to show you something.`
     - What?
-  - Bao
-    - Learn Beast trick + Dominate mind
-  - Same with Atton and Visas
   - MAND `Nice ship you have here. Where did you get it?`
     - We requisitioned it from the clutches of a Sith warship.
-    - Simulants
+    - What's your take on the Republic?
+      - You seem awfully complimentary of Revan, considering he almost destroyed your people.
+      - Perhaps the Jedi thought the Mandalorians a threat not worthy of their attention.
+    - Can you tell me about the Mandalorians?
+      - **Can you tell me of Mandalorian history?**
+      - There's more to life than war and battle.
+    - Are you certain the clans will follow you? `c_localn_eq(15, 1)&&!c_influence_bt(2, 41, 59)`
+      - **I don't see any army with you yet.**
+      - Why haven't the clans come together earlier?
+      - **I don't want the Mandalorians to become that powerful again.**
   - G0T0
     - What was it like breaking away from the Republic? `if c_global_gt("000_Know_Goto", 0)`
       - So you started to enjoy crime?
       - Doesn't sound like you enjoyed working for the Republic.
       - I had other questions.
     - What capabilities do you possess?
+  - Atton
+    - Learn
+  - T3
+    - T3, did you know Mandalore? `[4]: 371 if z_t3mand_dlg("Mand")||c_global_eq("000_T3_Cand")`
+    - Once?
+    - What happened?
+    - Of course I want to know.
+    - He was left behind? By who?
+    - His master?
+    - And your Master. But why?
+    - Why doesn't he recognize you?
+    - Yeah, but not every droid is the same... well, maybe they are to a Mandalorian.
+    - Can you tell me what happened to Canderous?
+    - Yes, I want to see the holorecord. `!c_influence_bet(8, 21, 79) -> BUG Black screen?` `BUG DP_Canderous`
+  - Bao
+    - Learn Beast trick + Dominate mind
+  - Same with Atton and Visas
+  
   - Kreia (need 3 lightsabers) `TSLRCM`
     - I wish to learn about lightsaber combat. `c_area("003EBO")||c_global_eq("000_Before_Visas_Trn")` + `c_visasfightav()`
     - **I don't want to fight her.**
@@ -371,19 +290,9 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
   - +1000 XP + Finesse
   - Workbench -> short LS for left hand
     - Improvements against DS
-  - T3
-    - T3, did you know Mandalore? `[4]: 371 if z_t3mand_dlg("Mand")||c_global_eq("000_T3_Cand")`
-    - Once?
-    - What happened?
-    - Of course I want to know.
-    - He was left behind? By who?
-    - His master?
-    - And your Master. But why?
-    - Why doesn't he recognize you?
-    - Yeah, but not every droid is the same... well, maybe they are to a Mandalorian.
-    - Can you tell me what happened to Canderous?
-    - Yes, I want to see the holorecord. `!c_influence_bet(8, 21, 79) -> BUG Black screen?` `BUG DP_Canderous`
-    - Kreia
+
+  - ...
+  - Kreia
     - Yes, and I need some answers.
       - [Awareness] I wanted to ask you about the duels with Visas. `c_sc_awa_gt(9)&&c_global_eq("000_Before_Visas_Trn", 1)`
       - You're aren't just training me. You're testing her.
@@ -436,6 +345,20 @@ KOR
 - 
 
 
+
+
+- Mandalore
+
+
+- Mandalore
+  - How did you become Mandalore? `c_localn_eq(15, 2)&&c_influence_bt(2, 21, 79)`
+    - **So all of this is over a helmet?**
+    - **How did you find the helmet?** `I was there with him when he defeated Darth Malak and traveled with him afterwards.`
+
+
+- Atton
+  - What do you know of the GenoHaradan?
+  - Did something happen on Dxun? You seem a little calmer than normal. `-> if Dxun`
 
 
 [< Previous Page](07_Onderon.md) |
