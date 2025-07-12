@@ -21,7 +21,7 @@
 
 - Compartment in Ebon Hawk not showing up
 - Party can be changed on Onderon -> sjoudn;t be the case
-- Onderon: missing line: "...And so S-0D3's transmission clearly shows that the murderer was firing from the marketplace. But Dhagon came running from his office. It couldn't have been him."
+- [SOLVED: no VO] Onderon: missing line: "...And so S-0D3's transmission clearly shows that the murderer was firing from the marketplace. But Dhagon came running from his office. It couldn't have been him."
 
 ## Before playing
 
@@ -98,4 +98,68 @@
 1. [LOOTS](00_Misc/XX_Peragus.md)
 1. [DEV](00_Misc/XX_DEV.md)
 
+
+with spell.2da
+
+
+
+
+override/atton.dlg a_att_teach(FORM_FORCE_II_POTENCY) 
+override/atton.dlg a_att_teach(FORM_SABER_IV_ATARU) 
+override/atton.dlg a_att_teach(FORM_SABER_V_SHIEN) 
+override/atton.dlg a_att_teach(FORM_SABER_VI_NIMAN) 
+override/atton.dlg a_att_teach(FORM_SABER_VII_JUYO) 
+override/atton.dlg a_att_teach(FORM_FORCE_III_AFFINITY) 
+override/atton.dlg a_att_teach(FORM_FORCE_IV_MASTERY) 
+override/atton.dlg a_att_teach(FORCE_POWER_FORCE_SIGHT) 
+override/atton.dlg a_att_teach(FORCE_POWER_BREATH_CONTROL) 
+override/atton.dlg a_att_teach(FORCE_POWER_BEAST_TRICK) 
+override/atton.dlg a_att_teach(FORCE_POWER_AFFECT_MIND) 
+override/atton.dlg a_att_teach(FORCE_POWER_DOMINATE) 
+
+override/baodur.dlg a_bao_teach(FORM_SABER_V_SHIEN) 
+override/baodur.dlg a_bao_teach(FORCE_POWER_FORCE_SIGHT) 
+override/baodur.dlg a_bao_teach(FORM_SABER_IV_ATARU) 
+override/baodur.dlg a_bao_teach(FORM_SABER_VI_NIMAN) 
+override/baodur.dlg a_bao_teach(FORM_SABER_VII_JUYO) 
+override/baodur.dlg a_bao_teach(FORM_FORCE_II_POTENCY) 
+override/baodur.dlg a_bao_teach(FORM_FORCE_III_AFFINITY) 
+override/baodur.dlg a_bao_teach(FORM_FORCE_IV_MASTERY) 
+override/baodur.dlg a_bao_teach(FORCE_POWER_BREATH_CONTROL) 
+override/baodur.dlg a_bao_teach(FORCE_POWER_BEAST_TRICK) 
+override/baodur.dlg a_bao_teach(FORCE_POWER_AFFECT_MIND) 
+override/baodur.dlg a_bao_teach(FORCE_POWER_DOMINATE)
+
+
+override/mira.dlg a_mira_teach(FORCE_POWER_FORCE_SIGHT) 
+override/mira.dlg a_mira_teach(FORCE_POWER_BREATH_CONTROL) 
+override/mira.dlg a_mira_teach(FORCE_POWER_BEAST_TRICK) 
+override/mira.dlg a_mira_teach(FORCE_POWER_CHOKE)
+override/mira.dlg a_mira_teach(FORCE_POWER_AFFECT_MIND) 
+override/mira.dlg a_mira_teach(FORCE_POWER_DOMINATE) 
+override/mira.dlg a_mira_teach(FORCE_POWER_WOUND) 
+override/mira.dlg a_mira_teach(FORCE_POWER_KILL) 
+override/mira.dlg a_mira_teach(FORCE_POWER_SLOW) 
+override/mira.dlg a_mira_teach(FORCE_POWER_AFFLICTION) 
+override/mira.dlg a_mira_teach(FORCE_POWER_PLAGUE) 
+
+override/mira.dlg a_mira_teach(FORM_SABER_IV_ATARU)
+override/mira.dlg a_mira_teach(FORM_SABER_V_SHIEN)
+override/mira.dlg a_mira_teach(FORM_SABER_VI_NIMAN) 
+override/mira.dlg a_mira_teach(FORM_SABER_VII_JUYO) 
+override/mira.dlg a_mira_teach(FORM_FORCE_II_POTENCY) 
+override/mira.dlg a_mira_teach(FORM_FORCE_III_AFFINITY) 
+override/mira.dlg a_mira_teach(FORM_FORCE_IV_MASTERY) 
+
+override/visasmarr.dlg a_visas_teach(FORCE_POWER_BREATH_CONTROL) 
+override/visasmarr.dlg a_visas_teach(FORM_SABER_IV_ATARU) 
+override/visasmarr.dlg a_visas_teach(FORM_SABER_V_SHIEN) 
+override/visasmarr.dlg a_visas_teach(FORM_SABER_VI_NIMAN) 
+override/visasmarr.dlg a_visas_teach(FORM_SABER_VII_JUYO) 
+override/visasmarr.dlg a_visas_teach(FORM_FORCE_II_POTENCY) 
+override/visasmarr.dlg a_visas_teach(FORM_FORCE_III_AFFINITY) 
+override/visasmarr.dlg a_visas_teach(FORM_FORCE_IV_MASTERY) 
+override/visasmarr.dlg a_visas_teach(FORCE_POWER_BEAST_TRICK) 
+override/visasmarr.dlg a_visas_teach(FORCE_POWER_AFFECT_MIND) 
+override/visasmarr.dlg a_visas_teach(FORCE_POWER_DOMINATE) 
 

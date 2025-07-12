@@ -108,11 +108,6 @@
 - Captain
   - Dhagon Ghent couldn't have killed Captain Sullio.
   - Nikko can explain it.
-
-```
-missing line: "...And so S-0D3's transmission clearly shows that the murderer was firing from the marketplace. But Dhagon came running from his office. It couldn't have been him."
-```
-- ...
   - **They weren't really fighting. The regulars of the cantina can vouch for that.** `a_alibi_gen()`
   - **They were friends. Sometimes friends tease each other. They just took it to an extreme.** `a_alibi_gen()`
   - **That's true. Nikko saw him come from his office.** `a_alibi_gen()`
@@ -273,7 +268,23 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
   - Bao
     - Learn Beast trick + Dominate mind
   - Same with Atton and Visas
-  
+
+
+
+
+
+
+KOR
+- Additional lines with mod
+- ...
+  - What happened here?
+  - Do you think there are any living Sith here?
+  - Can you sense any Sith here?
+  - Let's head out, then.
+  - Why won't you come with me?
+  - Korriban doesn't look that bad. I'm not afraid.
+  - Very well. Stay here and keep the engines primed in case we need to leave quickly.
+- Go see Kreia first -> LS training
   - Kreia (need 3 lightsabers) `TSLRCM`
     - I wish to learn about lightsaber combat. `c_area("003EBO")||c_global_eq("000_Before_Visas_Trn")` + `c_visasfightav()`
     - **I don't want to fight her.**
@@ -290,7 +301,6 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
   - +1000 XP + Finesse
   - Workbench -> short LS for left hand
     - Improvements against DS
-
   - ...
   - Kreia
     - Yes, and I need some answers.
@@ -303,16 +313,88 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
       - You want to use her? `a_global_set("000_Before_Visas_Trn", 2)`
       - Then we shall keep her on board, as you suggest. `a_influence_inc(6, 1)`
       - Never mind. I'll be going now.
+- Visas + Mandalore?
+  - Visas make sense
+  - Mandalore, since you know it was Canderous and he's (might) known the place with Revan
+- Ask Mand about this planet
+- right of the ship Naga Sadow (successor of Marka Ragnos)
+  - Tell me more.
+- left
+  - _This was the tomb of Tulak Hord, known as the greatest lightsaber duelist of the Sith Lords._
+    - Tell me more.
+    - Are you saying modern Jedi are poorly skilled with the lightsaber?
+    - What made him so good?
+- Corpse
+- Loot them anyway
+  - What are these guardians?
+- Right - Marka Ragnos
+  - It sounds like civil wars are common among the Sith.
+  - So what happened between Sadow and Kressh?
+- Left
+  - _This way leads to the Tomb of Ajunta Pall, a fierce Sith Lord. According to legend, the blade proved more fearsome than the Master, leading to his demise._
+    - [Awareness] You sound like you disapprove. ` c_sc_awa_gt(11)`
+    - No one is beneath redemption, Kreia. No one. `a_lightsml();a_influence_inc(6)`
+    - What became of the blade?
+- Sith findins
+  - Tell me more.
+- Cave -> kill
+- Kill all the mobs till the academy
+- Back to the cave
+- Kill all animals in the tunels
+- Bridge -> Sith Ambush
+- Tomb of Ludo Kressh
+  - I will go on alone.
 
 
-- head to nar shaddaa
-- Greeda -> not yet
-  - I wanted to talk to you about establishing trade routes.
-- Docks -> Mandalorians
-  - You prefer being an out of work mercenary to returning to the glory of the Mandalorians? `a_influence_inc(2, 2)`
-- MAND
-  - Do you know anything about this world?
-- Ebon `during the night (nice on Nar Shaddaa)`
+
+- Malak
+  - **This is a test. All of this is just a test.**
+  - **Do you know you're just a vision?**
+  - The war doesn't turn out how you expect.
+  - I had to do it. The Council was taking too long. The Mandalorians would've won.
+  - **I think they were making a mistake. We barely won the war, just in time.**
+  - I wouldn't do anything differently. My choices have made me the person I am today.
+  - **Wait... Bastila didn't join you. She warned us all to obey the Council.**
+  - **What's in it for me?**
+  - I didn't follow you then, and I certainly won't now.
+- Spth loot
+- north loot
+- Continue
+- Room with beats
+- Mandalorian war
+  - This is Dxun... the heart of the Mandalorian crusade.
+  - Taking the path was just one of a hundred feints. It was unnecessary for victory.
+  - [Demolitions] Let me go first this time. I'll try and disable the mines. `c_sc_dem_gt(5)`
+- Kill
+- South
+  - Dead jedi (mod)
+  - [Hook the recorder up to your datapad.] `NOT working may be issue with audio
+- Next, south
+- Dustil/ kill beasts
+- Kreia
+  - If you knew of a shortcut to get to here, why didn't you tell me?
+  - What do you mean?
+  - What others? We are alone here.
+  - Why do you say that?
+  - Despite our differences, we need to work together.
+  - Everybody, put away your weapons!
+  - My friends are right, Kreia. You have been manipulating me from the very beginning.
+  - Okay, I won't attack you. But I won't stop my companions from doing so.
+- Apathy is death!
+- Revan
+  - Many people were wondering where the great Revan disappeared to.
+- He sends you
+- Kill
+- Revan -> HARD -> inject
+- Kreia
+  - This was all a test?
+  - What do you know of the future?
+  - I knew such was my destiny - greatness is in my future.
+  - I do not need your preaching.
+  - I don't know, Kreia. I feel that this tomb has changed me... and not for the better.
+  - I'm ready to leave.
+- Back to the ship
+- Ebon
   - Bao `c_influence_gt(1, 85)`
     - _{Malachor V}{Somewhat haunted, sleepless/restless}{Bao-Dur is in one of the rooms, staring at a panel, not doing repairs as usual, the Remote is missing, no one else is nearby, the ship is asleep}_
     - Don't you ever sleep?
@@ -322,28 +404,86 @@ missing line: "...And so S-0D3's transmission clearly shows that the murderer wa
   - Bao and Cand
     - Settle down, you two. This isn't the time or place for this.
     - I don't think this needs to be discussed any further.
-
-- Dantooine
-- Essok Mand
-  - You control Canderous to fight against him
-  - {After Mandalore wins the fight}Any other takers? `a_influence_inc(2, 2)`
-- MAND
-  - Do you know anything about this world?
+  - Back to Bao
+    - Are you okay, Bao-Dur?
+    - I think you're overreacting.
+  - Kreia and Crystal!
+- Leave with Atton and Visas
 
 
-
-KOR
-- Additional lines with mod
-- ...
-  - What happened here?
-  - Do you think there are any living Sith here?
-  - Can you sense any Sith here?
-  - Let's head out, then.
-  - Why won't you come with me?
-  - Korriban doesn't look that bad. I'm not afraid.
-  - Very well. Stay here and keep the engines primed in case we need to leave quickly.
-- 
-
+- Academy
+- On the right always
+- Door!
+- -> Sith has been automatised
+- computer
+  - [Computer] Access system commands. `c_sc_com_gt(5)`
+  - Enter 'New Recruit.' `-> acount number to note!! or c_sc_com_gt(14)`
+  - Enter 3401726-B853S5O0X001. `it's the second one`
+  - Access Learning Material.
+  - Log out.
+- "Library" -> sith to kill
+- THorium charges
+- Computer -> Sith code `ERROR: PRIMARY BUFFER OVERFLOW. DATA CORRUPTED.`
+  - [Computer] Connect to secondary buffer. `c_sc_com_gt(5)`
+  - [Computer] Reset key buffer and then connect to secondary buffer. `c_sc_com_gt(10)`
+    - History of the Sith. `DELETED`
+    - Holocrons. `-> in the library?`
+    - Flora and Fauna. `DELETED`
+    - **The Sith Code.**
+      - _Peace is a lie. There is only passion._
+      - _Through passion, I gain strength._
+      - _Through strength, I gain power._
+      - _Through power, I gain victory._
+      - _Through victory my chains are broken._
+- Back to the computer in the dorms
+  - [Computer] Enter 3401726-B853S5O0X001.
+    - Access Training Room. `ERROR`
+    - Take the Level one written test.
+      - Freedon Nadd. `a_localn_inc(20) - it's on Dxun`
+      - Twenty. `a_localn_inc(20) 9 on each sides`
+      - Gizka. `a_localn_inc(20) c.f. KOTOR1...`
+      - I always lie. `a_localn_inc(20), not a paradox`
+      - passion - strength - power - victory. `a_localn_inc(20)`
+    - Access Training Room.
+- Sith spwan!
+- Use thorium charges to blow the door
+  - The holocron will work only if `!c_chkrevend(0) -> REVAN = SITH -> {Bastila hologram}`
+- Leave -> right -> to the old city
+- Sith ambush
+- Right gas -> before LEFT -> LOOT 
+- GAS -> breath control
+- Sith
+- Computer
+  - [Computer] Access system commands.
+  - Begin training sequence.
+- kill the Tuk'atas
+- Test will always fails but
+- toture room opens
+  - Vash was one of the members of the Jedi Council quickest to reject me.
+- Loot
+- Computer
+  - Schedule disciplinary action.
+  - Self.
+- lol
+  - [Computer] Access system commands.
+  - Enter "Lonna Vash."
+- You can now leave!
+- Sion
+  - What do you know of Kreia?
+  - What do you want with her?
+  - What does Kreia want with me?
+  - **I will not let you harm her.**
+- Kill the two siths behind him (600XP)
+- try to kill Sion
+- Kreia
+  - Now you tell me. Anything else you want to share?
+- Run towards the Ebon
+  - T3!
+    - A message from Kelborn? What is it?
+    - He got a message from Kavar?
+    - Yes, we should return to the Mandalorian Camp as soon as possible.
+  - G0-T0 + Bao
+  - 
 
 
 
@@ -357,8 +497,27 @@ KOR
 
 
 - Atton
-  - What do you know of the GenoHaradan?
+  - What do you know of the GenoHaradan? `CUT CONTENT`
   - Did something happen on Dxun? You seem a little calmer than normal. `-> if Dxun`
+
+
+
+
+- /// head to nar shaddaa
+- Greeda -> not yet
+  - I wanted to talk to you about establishing trade routes.
+- Docks -> Mandalorians
+  - You prefer being an out of work mercenary to returning to the glory of the Mandalorians? `a_influence_inc(2, 2)`
+- MAND
+  - Do you know anything about this world?
+
+- Dantooine
+- Essok Mand
+  - You control Canderous to fight against him
+  - {After Mandalore wins the fight}Any other takers? `a_influence_inc(2, 2)`
+- MAND
+  - Do you know anything about this world?
+
 
 
 [< Previous Page](07_Onderon.md) |
