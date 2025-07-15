@@ -38,10 +38,10 @@ Note on shields:
 
 ### Summary:
 - Me
-  - **Sith Regenerator** -> +2 regen -> Koriban (Czerka store -> cheaper one!)
+  - **Sith Regenerator** -> +2 regen -> Korriban (Czerka store -> cheaper one!)
   - **Circlet of Saresh** -> +5 Wisdom
   - **GenoHaradan Power Gloves** -> +4 strength
-  - **Verpine Prototype Shield** -> best shield for weapons -> can buy more on Koriban
+  - **Verpine Prototype Shield** -> best shield for weapons -> can buy more on Korriban
   - **Mandalorian Power Shield** -> agains blades?
   - **Qel-Droma Robes** -> +2 wisdom
   - **Electrical Capacitance Shield** -> immunity electrical -> Kashyyyk -> against sith force powers!!

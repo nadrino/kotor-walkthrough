@@ -3344,7 +3344,7 @@ Juhani Romance 2 ?
 - Carth -> Talk
 - OPTIONNAL : Make everyone look great for the next cut scene !
 	- Carth -> Use armor of Bandon
-- Go to Koriban
+- Go to Korriban
 
 # Leviathan
 
@@ -3385,7 +3385,7 @@ Juhani Romance 2 ?
 	- H : Advanced Agent Interface (Yavin-3) / Circlet of Saresh -> Kashyyk -> kill the beast quest for Freyr -> NOT ON XBOX
 	- G : Dominator Gauntlets (Kor - Mika Dorin)
 	- I : Advanced Alacrity Implant (+5 dex - Yavin-3) / **Retinal Combat Implat** -> Critical Hits (Taris/Dantoine/Tatooine…) 
-	- A : Star Forge Robes (LS) / Qel-Droma Robes (LS - Koriban)
+	- A : Star Forge Robes (LS) / Qel-Droma Robes (LS - Korriban)
 	- B : 
 - Canderous
 	- W : Baragwin Heavy Repeating Blaster (Yavin-3)
@@ -3397,7 +3397,7 @@ Juhani Romance 2 ?
 	- W : **Baragwin Assault Blade** (Yavin-2)
 	- W : **Bacca's Ceremonial Blade** -> Freyyr
 	- I : **Advanced Bio-Stabilizer Implant**
-	- B : Adrenaline Stimulator (Koriban - Mika Dorin)
+	- B : Adrenaline Stimulator (Korriban - Mika Dorin)
 - Mission
 	- B : GenoHaradan Stealth Unit (Hulas) (or Baragwin Stealth Unit (10k Yavin-3))
 	- G : **Advanced Stabilizer Gloves** (Yavin-1)
@@ -3481,10 +3481,10 @@ Ordre des planètes :
 - Tatooine
 - Kashyyyk -> Jolee has a quest on Manaan
 - Manaan
-- Koriban
+- Korriban
 
 3e star map -> Leviathan -> mean no Bastila anymore
-Bastila has NO LINES on Koriban
+Bastila has NO LINES on Korriban
 
 # Banters
 
