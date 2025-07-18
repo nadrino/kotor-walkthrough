@@ -18,7 +18,7 @@
 - +500 XP
 - Take Kreia and Mandalore
 - Head east -> to the mercenary camp
-- Mandalorians
+- Essok the Mandalorian 
   - Kill the madalorian with him
 - Talk to Mandalore
   - **Why did you leave Revan?**
