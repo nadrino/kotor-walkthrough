@@ -228,7 +228,98 @@ Locker has 18 + difficulty 2 -> DC 21
   - Kreia arrives to the core
   - 
 
+- Hanara
+  - There's no need for this - you don't owe me a life debt, I release you.
+  - So you serve Kreia now?
+  - And the heart of a slave?
+  - I will not kill you in cold blood.
+  - Then that is something I will face, Hanharr, but I can't waste any more time here.
+- remote
+- G0T0 comment
+- HK
 
+- Discussion with Mand -> to debug
+- Sion
+  - Are you showing me mercy?
+    - Why are you telling me this?
+    - What is Kreia's weakness, Sion?
+    - Kreia told me your will is what holds you together.
+  - What is this place?
+    - But where did it come from?
+    - What happened to Revan?
+  - Where is Kreia, Sion?
+    - Kreia is using you, Sion... using us.
+    - [Persuade] She has already abandoned you, Sion. You know it. `!c_sc_per_lt(17)`
+    - **Join me, Sion. Together, we can defeat her.**
+    - [You have eroded Sion's will, reducing his Will saves, Constitution, and Wisdom.] `a_erode_sion()`
+- ...
+  - As long as I stand, I shall drive you back until there is no place left for you to retreat.
+- ...
+  - [Persuade] She has already chosen, Sion. She's only using you to test me. `!c_sc_per_lt(21)`
+  - **Do not let her deceive you... and stop deceiving yourself.**
+  - [You have eroded Sion's will, reducing his Will saves, Constitution, and Wisdom.] `a_erode_sion();a_atkonend()`
+- ...
+  - [Persuade] Sion, even should you beat me, Kreia has marked you for death. You know this. `!c_sc_per_lt(27)`
+  - [You have eroded Sion's will, reducing his Will saves, Constitution, and Wisdom.] `a_erode_sion()`
+- ...
+  - Get up, Sith Lord, and I will prove to you that you can die.
+  - **In giving up the Force, one can gain strengths that would be impossible otherwise.**
+  - To face death and keep standing - it leaves scars, yes. But it leaves room to heal.
+  - And Kreia hates the Force, even as she wields it. If the Force is what you are, then that is what she despises.
+  - **What kind of life have you lived with the Force flowing through you? Was it worth living?**
+
+
+- Trayus core
+  - **Malachor has not changed... only you have.**
+    - This Academy here won't last, Kreia. I can activate the mass shadow generator again.
+    - If I had to, I would. You have to be stopped.
+  - There is much I must ask you.
+    - Why did you destroy Atris?
+    - She never mentioned such feelings.
+  - Why have you done this?
+    - If you hate the Force, why do you use it?
+  - You were manipulating me all along.
+    - So you used me to get revenge on Sion and the others.
+  - Why me?
+    - But there were other Jedi you could have chosen.
+  - What happens now?
+    - I will not fight you.
+  - It's not too late, Kreia. I can save you, if you'll let me.
+  - Then let us end this.
+- ...
+  - _{Gameplay Programmer: Kreia at half-health. Cut Scene of Traya falling, clutching her other hand.}{Cry of pain, hissing intake of breath, like she touched a hot stove.}_
+  - Yield, Kreia. You need not die.
+  - No, this is already over. Your life is yours, Kreia... and you cannot teach me anymore.
+- ...
+  - You left me no choice.
+  - What happens now?
+  - I will follow Revan, as I did a decade ago. `a_global_set("904_End_Revan", 1)`
+  - What of my friends?
+    - What will happen to my friends?
+      - Tell me of Mira.
+      - And Mandalore?
+        - What of the Mandalorians?
+      - And Visas? What of her?
+        - Did I save her?
+      - And the Disciple?
+      - But what about Atton?
+        - Did he love me?
+        - And you?
+      - And Bao-Dur - and the droids?
+      - And Revan? He came here, was here. What happened to him?
+        - But we've fought the Sith.
+        - Why?
+        - Why did you not follow him?
+    - What of the Republic?
+      - Tell me of Dantooine.
+      - And Nar Shaddaa?
+      - What about Onderon?
+      - Tell me about Korriban.
+  - Rest now, Kreia. Your time in this place is over.
+- ...
+- Bao's droid `EXTENDED ENDING`
+  - Barely, there's a lot of interference. What's your status?
+  - ...
 
 
 [< Previous Page](../08_JediConcil/06_Dantoine.md) |
