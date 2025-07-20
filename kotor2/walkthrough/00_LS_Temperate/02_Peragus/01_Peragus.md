@@ -35,13 +35,13 @@
   - That is no business of yours.
   - All right - what's going on? How did we get here?
   - Care to explain why you're in such a hurry?
-  - [Awareness] You seem nervous, worried. Is something wrong?
+  - [Awareness] You seem nervous, worried. Is something wrong? `c_sc_awa_gt(3)`
   - We'll see. There's got to be someone left alive around here.
-  - **[Persuade] The patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?** `!c_sc_per_lt(5)`
+  - **[Persuade] The patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?** `c_sc_per_gt(0)`
   - They didn't. I got the same dose, but survived.
   - You seem to know a lot about Jedi techniques.
   - And maybe when I return you'll actually answer my question.
-  - **I'll return soon to make sure you're all right. (PCL)**
+  - **I'll return soon to make sure you're all right. (PCL)** `a_kreia_med();a_givelight(1)` `a_global_set("101PER_Align_Check", 2)`
 
 
 - Kill droid 2 + 2 + 2
@@ -97,8 +97,8 @@
   - **How long have you been in that cage? Revan was a man, not a woman.**
   - I had some more questions for you.
   - Stop playing dumb - you must have seen what took place.
-  - **[Persuade] Tell me your plan, and we can go from there.**
-  - **[Persuade] One thing first... the patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?** (`!c_sc_per_lt(5)`)
+  - **[Persuade] Tell me your plan, and we can go from there.** `c_sc_per_gt(0)`
+  - **[Persuade] One thing first... the patients in the medical bay were killed with a lethal dose of sedatives. Know anything about that?** `!c_sc_per_lt(5)`
   - Wanted to know if you knew anything - and you don't.
   - **I trust you. And if we work together, we may be able to get out of this mess.** (a_givelight)
   - Alright let's go.

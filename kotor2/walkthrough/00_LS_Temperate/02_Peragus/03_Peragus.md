@@ -35,14 +35,16 @@ Level 3 -> leave 3 skill points so next level we level up "Repair"
     - Loot mines + droids
     - Sneak by every droid - don't loot the mines YET - XP optimization
     - Heat tunnel
-        - I'll do that. [End Dialog]
+        - I'll do that.
+    - Loot the energy shield on the corpse behind
+    - Careful while actuvating the shield
     - Near end tunnel
         - There aren't just mining droids down here - there are sensor balls, too.
         - Any chance of sneaking by the droids ahead?
-    - Raise temperature of tunels
+    - Raise temperature of tunels `no spikes yet!`
         - Call up droid command functions.
           - Check droid schematics.
-          - [Computer] Raise the temperature in the tunnels to blind droid thermal sensors. (0 spike(s))
+          - **[Computer] Raise the temperature in the tunnels to blind droid thermal sensors.** (0 spike(s))
           - Continue.
           - Return to main functions.
         - Access camera functions.
@@ -59,7 +61,9 @@ Level 3 -> leave 3 skill points so next level we level up "Repair"
       - Optimize droid's targeting systems. (2 repair part(s))
       - Engage droid in patrol mode. (4 repair part(s))
     - +200PX
-    - Trigger
+    - Back and loot the mines
+    - To the cavern in 9
+    - Trigger in 10
         - What kind of readings?
         - How much time do I have?
     - kill all -> leave
